@@ -27,6 +27,13 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
+  "asencio": {
+    "file": "Raul-Asencio-Real-Madrid-2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raul-Asencio-Real-Madrid-2025.jpg",
+    "artist": "Junta de Andalucía",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
   "asensio": {
     "file": "Marco Asensio 2018.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Marco_Asensio_2018.jpg",
@@ -108,6 +115,13 @@
     "file": "NIG-ARG (5).jpg",
     "page": "https://commons.wikimedia.org/wiki/File:NIG-ARG_(5).jpg",
     "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "diego-lopez": {
+    "file": "Diego López real madrid.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Diego_L%C3%B3pez_real_madrid.JPG",
+    "artist": "LauraHale",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
