@@ -1,0 +1,34 @@
+name: YouTube lookup
+
+# One-off research: finds official uploads for the stadium radio and checks
+# they can be embedded. Writes research/youtube.jsonl.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - tools/youtube_queries.txt
+      - tools/youtube_lookup.sh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install yt-dlp
+      - run: tools/youtube_lookup.sh
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/youtube.jsonl
+          if git diff --cached --quiet; then echo "Nothing new"; else
+            git commit -m "YouTube lookup results"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fi
