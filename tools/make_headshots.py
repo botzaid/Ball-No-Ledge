@@ -35,6 +35,8 @@ OVERRIDES = {
     'mariano.jpg': (80, 42, 66, 66),
     'helguera.jpg': (98, 12, 48, 48),
     'van-der-vaart.jpg': (330, 58, 52, 52),
+    'baptista.jpg': (145, 8, 66, 66),
+    'odriozola.jpg': (162, 60, 115, 115),
 }
 
 cascades = [cv2.CascadeClassifier(cv2.data.haarcascades + name) for name in (

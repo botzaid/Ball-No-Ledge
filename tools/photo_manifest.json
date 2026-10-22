@@ -1,6 +1,6 @@
 {
   "_files": {
-    "diego-lopez": "Diego López real madrid.JPG",
+    "diego-lopez": "Diego López.JPG",
     "asencio": "Raul-Asencio-Real-Madrid-2025.jpg"
   },
   "_comment": "player id -> English Wikipedia article. tools/fetch_photos.py downloads the article's Wikidata image (P18) from Wikimedia Commons for every id that has no images/players/<id>.jpg yet.",
