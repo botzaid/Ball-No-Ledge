@@ -1,14 +1,14 @@
-name: Stadium photo
+name: Site media
 
-# Lists candidate Bernabéu photos from Wikimedia Commons, or downloads the one
-# chosen in tools/stadium.json, and commits the result back to the branch.
+# Downloads the stadium and trophy images listed in tools/media.json from
+# Wikimedia Commons (or lists candidates to choose from) and commits them.
 on:
   workflow_dispatch:
   push:
     paths:
-      - tools/stadium.json
-      - tools/fetch_stadium.py
-      - .github/workflows/stadium-photo.yml
+      - tools/media.json
+      - tools/fetch_media.py
+      - .github/workflows/media.yml
 
 permissions:
   contents: write
@@ -18,15 +18,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  stadium:
+  media:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install requests pillow
-      - run: python3 tools/fetch_stadium.py
+      - run: pip install requests pillow "rembg[cpu]"
+      - run: python3 tools/fetch_media.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
@@ -35,6 +35,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing new"
           else
-            git commit -m "Stadium photo from Wikimedia Commons"
+            git commit -m "Site media from Wikimedia Commons"
             for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
           fi

@@ -1,0 +1,6 @@
+{
+  "_about": "Site imagery from Wikimedia Commons. An entry with \"file\" is downloaded at each width into images/media/<name>-<width>.<ext>; one with only \"search\" writes numbered candidates to research/media/<name>/ to pick from. \"cutout\": true removes the background (transparent WebP).",
+  "bernabeu-night": { "file": "File:Estadio Santiago Bernabéu - Real Madrid-Monaco.jpg", "widths": [3840, 1920] },
+  "bernabeu-day": { "file": "File:Estadio Santiago Bernabéu (2016).jpg", "widths": [3840, 1920] },
+  "ucl-trophy": { "search": ["UEFA Champions League trophy", "Champions League Pokal", "Coupe aux grandes oreilles", "European Champion Clubs' Cup trophy"], "cutout": true, "widths": [900] }
+}
