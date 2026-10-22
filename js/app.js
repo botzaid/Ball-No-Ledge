@@ -1,954 +1,580 @@
-// Real Madrid Lineage & Football Explorer - Main App Controller
+// Ball No Ledge: main UI controller.
 
-// Sound effects synthesizer using Web Audio API (no external sound files required)
-class AudioFX {
-  constructor() {
-    this.ctx = null;
-    this.muted = false;
-  }
+const VIEWS = ['squad', 'map', 'train', 'compare'];
 
-  init() {
-    if (!this.ctx && (window.AudioContext || window.webkitAudioContext)) {
-      this.ctx = new (window.AudioContext || window.webkitAudioContext)();
-    }
-  }
+const STATUS_GROUPS = [
+  { status: 'active', title: `First team ${RM_SQUAD_SEASON}` },
+  { status: 'departed', title: 'Former players' },
+  { status: 'legend', title: 'Legends' }
+];
 
-  playClick() {
-    if (this.muted) return;
-    this.init();
-    if (!this.ctx) return;
-    try {
-      const osc = this.ctx.createOscillator();
-      const gain = this.ctx.createGain();
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(600, this.ctx.currentTime);
-      osc.frequency.exponentialRampToValueAtTime(800, this.ctx.currentTime + 0.05);
-      gain.gain.setValueAtTime(0.08, this.ctx.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, this.ctx.currentTime + 0.05);
-      osc.connect(gain);
-      gain.connect(this.ctx.destination);
-      osc.start();
-      osc.stop(this.ctx.currentTime + 0.05);
-    } catch (e) {}
-  }
-
-  playSuccess() {
-    if (this.muted) return;
-    this.init();
-    if (!this.ctx) return;
-    try {
-      const now = this.ctx.currentTime;
-      const osc = this.ctx.createOscillator();
-      const gain = this.ctx.createGain();
-      osc.type = 'triangle';
-      osc.frequency.setValueAtTime(523.25, now);
-      osc.frequency.setValueAtTime(659.25, now + 0.08);
-      osc.frequency.setValueAtTime(783.99, now + 0.16);
-      gain.gain.setValueAtTime(0.12, now);
-      gain.gain.exponentialRampToValueAtTime(0.001, now + 0.35);
-      osc.connect(gain);
-      gain.connect(this.ctx.destination);
-      osc.start();
-      osc.stop(now + 0.35);
-    } catch (e) {}
-  }
-
-  playError() {
-    if (this.muted) return;
-    this.init();
-    if (!this.ctx) return;
-    try {
-      const now = this.ctx.currentTime;
-      const osc = this.ctx.createOscillator();
-      const gain = this.ctx.createGain();
-      osc.type = 'sawtooth';
-      osc.frequency.setValueAtTime(250, now);
-      osc.frequency.exponentialRampToValueAtTime(140, now + 0.2);
-      gain.gain.setValueAtTime(0.1, now);
-      gain.gain.exponentialRampToValueAtTime(0.001, now + 0.2);
-      osc.connect(gain);
-      gain.connect(this.ctx.destination);
-      osc.start();
-      osc.stop(now + 0.2);
-    } catch (e) {}
-  }
-}
-
-const sfx = new AudioFX();
-
-// SVG Icons Pack
-const ICONS = {
-  trophy: `<svg class="inline-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>`,
-  departure: `<svg class="inline-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/></svg>`,
-  star: `<svg class="inline-svg text-gold" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,
-  check: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`,
-  x: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`,
-  streak: `<svg class="inline-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>`,
-  arrowRight: `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>`
-};
-
-// Main Application State
 const state = {
-  currentView: 'grid',
+  view: 'squad',
   filterPosition: 'all',
   filterStatus: 'all',
   filterNation: 'all',
   searchQuery: '',
   sortBy: 'number',
   activePlayer: null,
-  activeModalTab: 'overview',
-  comparePlayerA: null,
-  comparePlayerB: null,
-  mindmapInstance: null,
-  trainerInstance: null
+  activeTab: 'overview',
+  lastFocus: null,
+  map: null,
+  trainer: null
 };
 
-// DOM References
-const elements = {};
+const $ = id => document.getElementById(id);
+
+function esc(value) {
+  return String(value ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+const byId = id => RM_PLAYERS.find(p => p.id === id);
+
+// ---------- small data helpers ----------
+
+function madridStint(player) {
+  const stage = player.lineage.find(l => l.club === 'Real Madrid');
+  return stage ? stage.years.replace('Present', 'now') : player.joinedRealMadrid;
+}
+
+function trophyCount(player) {
+  return player.stats?.trophiesMadrid?.length ?? null;
+}
+
+// Stats were written in late 2024. For anyone who was still at the club
+// after that, the Madrid numbers are behind.
+function statsAreStale(player) {
+  if (!player.stats) return false;
+  return player.status === 'active' || Number(player.departureYear) >= 2025;
+}
+
+function statValue(v) {
+  return v === undefined || v === null ? '—' : v;
+}
+
+function photoMarkup(player, { label = true } = {}) {
+  if (player.headshot) {
+    return `<img src="${esc(player.headshot)}" alt="" loading="lazy" decoding="async">`;
+  }
+  return `<span class="no-photo" aria-hidden="true"><b>${esc(player.number)}</b>${label ? '<small>Photo to come</small>' : ''}</span>`;
+}
+
+// ---------- boot ----------
 
 document.addEventListener('DOMContentLoaded', () => {
-  initDOMElements();
-  initFilters();
-  initState();
-  renderSquadGrid();
-  initEventListeners();
+  state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
+  initSquadControls();
+  initDrawer();
+  initMapControls();
+  initTrainer();
+  initCompare();
+  renderIntro();
+  renderSquad();
+
+  window.addEventListener('hashchange', routeFromHash);
+  routeFromHash();
 });
 
-function initDOMElements() {
-  elements.squadGrid = document.getElementById('squad-grid');
-  elements.searchInput = document.getElementById('search-input');
-  elements.positionFilters = document.querySelectorAll('.filter-pos-btn');
-  elements.statusFilters = document.querySelectorAll('.filter-status-btn');
-  elements.nationSelect = document.getElementById('nation-select');
-  elements.sortSelect = document.getElementById('sort-select');
-  elements.viewNavBtns = document.querySelectorAll('.nav-tab-btn');
-  elements.viewSections = {
-    grid: document.getElementById('view-grid'),
-    mindmap: document.getElementById('view-mindmap'),
-    trainer: document.getElementById('view-trainer'),
-    compare: document.getElementById('view-compare')
-  };
-  elements.playerModal = document.getElementById('player-modal');
-  elements.modalBackdrop = document.getElementById('modal-backdrop');
-  elements.modalCloseBtn = document.getElementById('modal-close-btn');
-  elements.modalTabs = document.querySelectorAll('.modal-tab-btn');
-  elements.soundToggleBtn = document.getElementById('sound-toggle-btn');
-  elements.playerCountBadge = document.getElementById('player-count-badge');
+function routeFromHash() {
+  const view = location.hash.replace('#', '');
+  showView(VIEWS.includes(view) ? view : 'squad');
 }
 
-function initFilters() {
-  // Populate Nation Dropdown
-  if (elements.nationSelect) {
-    elements.nationSelect.innerHTML = '<option value="all">All Nationalities</option>';
-    RM_NATIONS.forEach(nat => {
-      const sample = RM_PLAYERS.find(p => p.nationality === nat);
-      const opt = document.createElement('option');
-      opt.value = nat;
-      opt.textContent = `${nat}`;
-      elements.nationSelect.appendChild(opt);
-    });
+function showView(view) {
+  if (state.view !== view) window.scrollTo(0, 0);
+  state.view = view;
+  VIEWS.forEach(v => { $(`view-${v}`).hidden = v !== view; });
+  document.querySelectorAll('.nav-link').forEach(a => {
+    const on = a.dataset.view === view;
+    a.classList.toggle('is-active', on);
+    if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+  });
+
+  if (view === 'map') {
+    if (!state.map) state.map = new RM_LineageMindmap('lineage-canvas', 'map-container', RM_PLAYERS);
+    state.map.start();
+  } else if (state.map) {
+    state.map.stop();
   }
 
-  // Populate Compare Selects
-  const compA = document.getElementById('compare-select-a');
-  const compB = document.getElementById('compare-select-b');
-  if (compA && compB) {
-    compA.innerHTML = '<option value="">Select First Player...</option>';
-    compB.innerHTML = '<option value="">Select Second Player...</option>';
-    RM_PLAYERS.forEach(p => {
-      const optA = document.createElement('option');
-      optA.value = p.id;
-      optA.textContent = `#${p.number} ${p.name} (${p.position})`;
-      compA.appendChild(optA);
-
-      const optB = document.createElement('option');
-      optB.value = p.id;
-      optB.textContent = `#${p.number} ${p.name} (${p.position})`;
-      compB.appendChild(optB);
-    });
-
-    compA.value = 'vinicius';
-    compB.value = 'mbappe';
-    state.comparePlayerA = RM_PLAYERS.find(p => p.id === 'vinicius');
-    state.comparePlayerB = RM_PLAYERS.find(p => p.id === 'mbappe');
-  }
+  if (view === 'train') renderTrainer();
+  if (view === 'compare') renderCompare();
 }
 
-function initState() {
-  state.trainerInstance = new RM_MemoryTrainer();
+function renderIntro() {
+  const squad = RM_PLAYERS.filter(p => p.status === 'active');
+  const newcomers = squad.filter(p => p.isNew);
+  $('squad-season').textContent = `Season ${RM_SQUAD_SEASON} · Head coach ${RM_HEAD_COACH}`;
+  $('squad-intro').textContent =
+    `${squad.length} players in the first team, ${newcomers.length} of them signed or promoted since summer 2025. ` +
+    `Tap anyone to see where they came from, how their first game went and the stories worth knowing. Former players and legends are further down.`;
+  $('footer-note').textContent =
+    `Squad numbers, signings and departures updated ${RM_DATA_UPDATED}. ` +
+    `Madrid appearance, goal and trophy figures for players who were already here in 2024 date from ${RM_STATS_AS_OF} and are marked where they're out of date. ` +
+    `Not affiliated with Real Madrid C.F.`;
 }
 
-function initEventListeners() {
-  if (elements.searchInput) {
-    elements.searchInput.addEventListener('input', (e) => {
-      state.searchQuery = e.target.value.toLowerCase().trim();
-      renderSquadGrid();
-      if (state.mindmapInstance) {
-        state.mindmapInstance.setSearch(state.searchQuery);
-      }
-    });
-  }
+// ---------- squad ----------
 
-  elements.positionFilters.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      elements.positionFilters.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      state.filterPosition = btn.dataset.position;
-      renderSquadGrid();
-    });
+function initSquadControls() {
+  const nationSelect = $('nation-select');
+  nationSelect.innerHTML = '<option value="all">All</option>' +
+    RM_NATIONS.map(n => `<option value="${esc(n)}">${esc(n)}</option>`).join('');
+
+  $('search-input').addEventListener('input', e => {
+    state.searchQuery = e.target.value.toLowerCase().trim();
+    renderSquad();
   });
+  nationSelect.addEventListener('change', e => { state.filterNation = e.target.value; renderSquad(); });
+  $('sort-select').addEventListener('change', e => { state.sortBy = e.target.value; renderSquad(); });
 
-  elements.statusFilters.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      elements.statusFilters.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      state.filterStatus = btn.dataset.status;
-      renderSquadGrid();
-      if (state.mindmapInstance) {
-        state.mindmapInstance.setFilter(state.filterStatus);
-      }
-    });
+  bindSegmented('[data-position]', btn => { state.filterPosition = btn.dataset.position; renderSquad(); });
+  bindSegmented('[data-status]', btn => { state.filterStatus = btn.dataset.status; renderSquad(); });
+
+  $('squad-grid').addEventListener('click', e => {
+    const card = e.target.closest('[data-player]');
+    if (card) openPlayer(card.dataset.player);
+    if (e.target.closest('[data-reset]')) resetFilters();
   });
-
-  if (elements.nationSelect) {
-    elements.nationSelect.addEventListener('change', (e) => {
-      sfx.playClick();
-      state.filterNation = e.target.value;
-      renderSquadGrid();
-    });
-  }
-
-  if (elements.sortSelect) {
-    elements.sortSelect.addEventListener('change', (e) => {
-      sfx.playClick();
-      state.sortBy = e.target.value;
-      renderSquadGrid();
-    });
-  }
-
-  elements.viewNavBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      switchView(btn.dataset.view);
-    });
-  });
-
-  if (elements.modalCloseBtn) {
-    elements.modalCloseBtn.addEventListener('click', closeModal);
-  }
-  if (elements.modalBackdrop) {
-    elements.modalBackdrop.addEventListener('click', closeModal);
-  }
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && elements.playerModal?.classList.contains('active')) {
-      closeModal();
-    }
-  });
-
-  elements.modalTabs.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      elements.modalTabs.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      state.activeModalTab = btn.dataset.tab;
-      renderModalTabContent();
-    });
-  });
-
-  if (elements.soundToggleBtn) {
-    elements.soundToggleBtn.addEventListener('click', () => {
-      sfx.muted = !sfx.muted;
-      elements.soundToggleBtn.querySelector('span').textContent = sfx.muted ? 'Sound Muted' : 'Sound On';
-      elements.soundToggleBtn.classList.toggle('muted', sfx.muted);
-    });
-  }
-
-  const zoomInBtn = document.getElementById('mindmap-zoom-in');
-  const zoomOutBtn = document.getElementById('mindmap-zoom-out');
-  const resetBtn = document.getElementById('mindmap-reset');
-  if (zoomInBtn) zoomInBtn.addEventListener('click', () => state.mindmapInstance?.zoomIn());
-  if (zoomOutBtn) zoomOutBtn.addEventListener('click', () => state.mindmapInstance?.zoomOut());
-  if (resetBtn) resetBtn.addEventListener('click', () => state.mindmapInstance?.resetView());
-
-  const compA = document.getElementById('compare-select-a');
-  const compB = document.getElementById('compare-select-b');
-  if (compA && compB) {
-    compA.addEventListener('change', (e) => {
-      state.comparePlayerA = RM_PLAYERS.find(p => p.id === e.target.value);
-      renderCompareView();
-    });
-    compB.addEventListener('change', (e) => {
-      state.comparePlayerB = RM_PLAYERS.find(p => p.id === e.target.value);
-      renderCompareView();
-    });
-  }
-
-  setupTrainerListeners();
 }
 
-function switchView(viewName) {
-  state.currentView = viewName;
-  elements.viewNavBtns.forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.view === viewName);
-  });
+function bindSegmented(selector, onPick) {
+  const buttons = document.querySelectorAll(`.seg-btn${selector}`);
+  buttons.forEach(btn => btn.addEventListener('click', () => {
+    buttons.forEach(b => b.classList.toggle('is-active', b === btn));
+    onPick(btn);
+  }));
+}
 
-  Object.keys(elements.viewSections).forEach(v => {
-    elements.viewSections[v].classList.toggle('active', v === viewName);
-  });
+function setSegmented(selector, value, attr) {
+  document.querySelectorAll(`.seg-btn${selector}`).forEach(b => b.classList.toggle('is-active', b.dataset[attr] === value));
+}
 
-  if (viewName === 'mindmap') {
-    if (!state.mindmapInstance) {
-      setTimeout(() => {
-        state.mindmapInstance = new RM_LineageMindmap('lineage-canvas', 'mindmap-container');
-      }, 50);
-    } else {
-      state.mindmapInstance.initCanvasSize();
-    }
-  } else if (viewName === 'trainer') {
-    renderTrainer();
-  } else if (viewName === 'compare') {
-    renderCompareView();
-  }
+function matchesSearch(p, q) {
+  if (!q) return true;
+  if (/^\d+$/.test(q)) return String(p.number) === q;
+  const haystack = [p.name, p.fullName, p.nationality, p.position, p.currentClub, ...p.lineage.map(l => l.club)]
+    .join(' ').toLowerCase();
+  // Let "mbappe" find "Mbappé"
+  const plain = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return plain(haystack).includes(plain(q));
 }
 
 function getFilteredPlayers() {
-  return RM_PLAYERS.filter(p => {
-    if (state.filterPosition !== 'all' && p.category !== state.filterPosition) return false;
-    if (state.filterStatus === 'active' && p.status !== 'active') return false;
-    if (state.filterStatus === 'departed' && p.status !== 'departed') return false;
-    if (state.filterStatus === 'legends' && p.status !== 'legend') return false;
-    if (state.filterNation !== 'all' && p.nationality !== state.filterNation) return false;
-
-    if (state.searchQuery) {
-      const q = state.searchQuery;
-      const haystack = `${p.name} ${p.fullName} ${p.nationality} ${p.position} ${p.currentClub || ''} ${p.lineage.map(l => l.club).join(' ')}`.toLowerCase();
-      if (!haystack.includes(q)) return false;
-    }
-
-    return true;
-  }).sort((a, b) => {
-    if (state.sortBy === 'number') return a.number - b.number;
+  return RM_PLAYERS.filter(p =>
+    (state.filterPosition === 'all' || p.category === state.filterPosition) &&
+    (state.filterStatus === 'all' || p.status === state.filterStatus) &&
+    (state.filterNation === 'all' || p.nationality === state.filterNation) &&
+    matchesSearch(p, state.searchQuery)
+  ).sort((a, b) => {
     if (state.sortBy === 'name') return a.name.localeCompare(b.name);
-    if (state.sortBy === 'debut') return parseInt(a.joinedRealMadrid) - parseInt(b.joinedRealMadrid);
-    if (state.sortBy === 'trophies') return (b.stats.trophiesMadrid?.length || 0) - (a.stats.trophiesMadrid?.length || 0);
-    return 0;
+    if (state.sortBy === 'debut') return parseInt(a.joinedRealMadrid) - parseInt(b.joinedRealMadrid) || a.number - b.number;
+    if (state.sortBy === 'trophies') return (trophyCount(b) ?? -1) - (trophyCount(a) ?? -1);
+    return a.number - b.number;
   });
 }
 
-function renderSquadGrid() {
-  const filtered = getFilteredPlayers();
-  if (elements.playerCountBadge) {
-    elements.playerCountBadge.textContent = `${filtered.length} Madridistas`;
+function cardRoute(player) {
+  if (player.status === 'departed') {
+    return `Madrid ${esc(madridStint(player))} · Now <b class="away">${esc(player.currentClub)}</b>`;
   }
+  if (player.status === 'legend') {
+    return `Madrid ${esc(madridStint(player))}`;
+  }
+  const from = signedFrom(player);
+  return from
+    ? `Signed from <b>${esc(from.club)}</b>, ${esc(player.joinedRealMadrid)}`
+    : `Academy graduate, first team ${esc(player.joinedRealMadrid)}`;
+}
 
-  if (!elements.squadGrid) return;
+function cardMarkup(player) {
+  return `
+    <button type="button" class="card" data-player="${esc(player.id)}" aria-label="${esc(player.name)}, open profile">
+      <span class="card-photo">
+        ${photoMarkup(player)}
+        ${player.isNew ? '<span class="card-new">New</span>' : ''}
+      </span>
+      <span class="card-body">
+        <span class="card-number">${esc(player.number)}</span>
+        <span class="card-name">${esc(player.name)}</span>
+        <span class="card-meta">${esc(player.code)} · ${esc(player.position)}</span>
+        <span class="card-route">${cardRoute(player)}</span>
+      </span>
+    </button>`;
+}
 
-  if (filtered.length === 0) {
-    elements.squadGrid.innerHTML = `
-      <div class="empty-state">
-        <div class="empty-icon">
-          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-        </div>
-        <h3>No Players Found</h3>
-        <p>Try adjusting your search terms or filters to explore Real Madrid's rich lineage.</p>
-        <button class="btn btn-primary" onclick="resetAllFilters()">Reset Filters</button>
-      </div>
-    `;
+function renderSquad() {
+  const players = getFilteredPlayers();
+  const grid = $('squad-grid');
+  $('result-count').textContent = `${players.length} ${players.length === 1 ? 'player' : 'players'}`;
+
+  if (!players.length) {
+    grid.innerHTML = `
+      <div class="empty">
+        <p>Nobody matches that. Try a different name, club or country.</p>
+        <button type="button" class="btn" data-reset>Clear filters</button>
+      </div>`;
     return;
   }
 
-  elements.squadGrid.innerHTML = filtered.map(player => {
-    const prevClubs = player.lineage.filter(l => l.club !== 'Real Madrid' && !l.stage.includes('Departure'));
-    const originClub = prevClubs.length > 0 ? prevClubs[prevClubs.length - 1] : { club: 'La Fábrica (Academy)', country: 'Spain' };
+  const groups = state.filterStatus === 'all'
+    ? STATUS_GROUPS.map(g => ({ ...g, players: players.filter(p => p.status === g.status) })).filter(g => g.players.length)
+    : [{ title: STATUS_GROUPS.find(g => g.status === state.filterStatus).title, players }];
 
-    let departureTag = '';
-    if (player.status === 'departed') {
-      departureTag = `<div class="card-departure-badge">${ICONS.departure} <span>Now: ${player.currentClub || player.departureDestination}</span></div>`;
-    } else if (player.status === 'legend') {
-      departureTag = `<div class="card-departure-badge legend-badge">${ICONS.star} <span>Club Legend</span></div>`;
-    }
-
-    let posBadgeClass = `badge-${player.category}`;
-
-    return `
-      <div class="player-card" onclick="openPlayerModal('${player.id}')">
-        <div class="card-header">
-          <div class="shirt-number">#${player.number}</div>
-          <div class="nationality-badge" title="${player.nationality}">
-            <span class="flag-icon">${player.flag}</span>
-            <span class="nation-name">${player.nationality}</span>
-          </div>
-        </div>
-
-        <div class="card-photo-wrapper">
-          <img src="${player.photo}" alt="${player.name}" class="player-photo" loading="lazy">
-          <div class="photo-overlay"></div>
-          <span class="position-badge ${posBadgeClass}">${player.position}</span>
-        </div>
-
-        <div class="card-body">
-          <h3 class="player-name">${player.name}</h3>
-          <p class="player-status-subtitle">${player.statusLabel}</p>
-
-          <div class="lineage-preview">
-            <div class="lineage-step">
-              <span class="step-label">Came From:</span>
-              <span class="step-club">${originClub.club} (${originClub.country})</span>
-            </div>
-            <div class="lineage-step">
-              <span class="step-label">Joined RM:</span>
-              <span class="step-club">${player.joinedRealMadrid} • ${player.transferFee || 'Signed'}</span>
-            </div>
-          </div>
-
-          ${departureTag}
-
-          <div class="card-quick-stats">
-            <div class="stat-pill">
-              <span class="stat-val">${player.stats.madridApps || player.stats.appearances || 0}</span>
-              <span class="stat-lbl">Apps</span>
-            </div>
-            <div class="stat-pill">
-              <span class="stat-val">${player.category === 'goalkeeper' ? (player.stats.madridCleanSheets || 0) : (player.stats.madridGoals || player.stats.goals || 0)}</span>
-              <span class="stat-lbl">${player.category === 'goalkeeper' ? 'CS' : 'Goals'}</span>
-            </div>
-            <div class="stat-pill">
-              <span class="stat-val trophy-val">${ICONS.trophy} ${player.stats.trophiesMadrid?.length || 0}</span>
-              <span class="stat-lbl">Titles</span>
-            </div>
-          </div>
-
-          <div class="card-footer-cta">
-            <span>Explore Lineage &amp; Matches</span>
-            <span class="cta-arrow">${ICONS.arrowRight}</span>
-          </div>
-        </div>
-      </div>
-    `;
-  }).join('');
+  grid.innerHTML = groups.map(g => `
+    <section class="squad-group">
+      <div class="squad-group-head"><h2>${esc(g.title)}</h2><span>${g.players.length}</span></div>
+      <div class="grid">${g.players.map(cardMarkup).join('')}</div>
+    </section>`).join('');
 }
 
-function resetAllFilters() {
-  state.filterPosition = 'all';
-  state.filterStatus = 'all';
-  state.filterNation = 'all';
-  state.searchQuery = '';
-  if (elements.searchInput) elements.searchInput.value = '';
-  if (elements.nationSelect) elements.nationSelect.value = 'all';
-  elements.positionFilters.forEach(b => b.classList.toggle('active', b.dataset.position === 'all'));
-  elements.statusFilters.forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
-  renderSquadGrid();
+function resetFilters() {
+  Object.assign(state, { filterPosition: 'all', filterStatus: 'all', filterNation: 'all', searchQuery: '' });
+  $('search-input').value = '';
+  $('nation-select').value = 'all';
+  setSegmented('[data-position]', 'all', 'position');
+  setSegmented('[data-status]', 'all', 'status');
+  renderSquad();
 }
 
-// Player Deep Dive Modal
-function openPlayerModal(playerId) {
-  sfx.playClick();
-  const player = RM_PLAYERS.find(p => p.id === playerId);
+// ---------- player drawer ----------
+
+function initDrawer() {
+  $('drawer-close').addEventListener('click', closePlayer);
+  $('drawer-backdrop').addEventListener('click', closePlayer);
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !$('player-drawer').hidden) closePlayer();
+  });
+  document.querySelectorAll('.drawer-tabs .tab').forEach(tab => tab.addEventListener('click', () => {
+    state.activeTab = tab.dataset.tab;
+    renderDrawerTab();
+  }));
+}
+
+function openPlayer(id) {
+  const player = byId(id);
   if (!player) return;
-
   state.activePlayer = player;
-  state.activeModalTab = 'overview';
+  state.activeTab = 'overview';
+  state.lastFocus = document.activeElement;
 
-  document.getElementById('modal-player-name').textContent = player.name;
-  document.getElementById('modal-player-number').textContent = `#${player.number}`;
-  document.getElementById('modal-player-position').textContent = player.position;
-  document.getElementById('modal-player-flag').textContent = player.flag;
-  document.getElementById('modal-player-nation').textContent = player.nationality;
-  document.getElementById('modal-player-photo').src = player.photo;
+  $('drawer-photo').innerHTML = photoMarkup(player, { label: false });
+  $('drawer-status').textContent = player.statusLabel;
+  $('drawer-name').textContent = player.name;
+  $('drawer-meta').textContent = `No. ${player.number} · ${player.position} · ${player.nationality}`;
 
-  elements.modalTabs.forEach(b => b.classList.toggle('active', b.dataset.tab === 'overview'));
-
-  renderModalTabContent();
-
-  elements.playerModal.classList.add('active');
-  elements.modalBackdrop.classList.add('active');
+  renderDrawerTab();
+  $('drawer-backdrop').hidden = false;
+  $('player-drawer').hidden = false;
+  $('drawer-body').scrollTop = 0;
   document.body.style.overflow = 'hidden';
+  $('drawer-close').focus();
 }
 
-function closeModal() {
-  sfx.playClick();
-  elements.playerModal.classList.remove('active');
-  elements.modalBackdrop.classList.remove('active');
+function closePlayer() {
+  $('drawer-backdrop').hidden = true;
+  $('player-drawer').hidden = true;
   document.body.style.overflow = '';
+  state.lastFocus?.focus?.();
 }
 
-function renderModalTabContent() {
-  const player = state.activePlayer;
-  const container = document.getElementById('modal-tab-content');
-  if (!player || !container) return;
-
-  if (state.activeModalTab === 'overview') {
-    let departureNotice = '';
-    if (player.status === 'departed') {
-      departureNotice = `
-        <div class="info-alert alert-departure">
-          <div class="alert-icon">${ICONS.departure}</div>
-          <div class="alert-content">
-            <h4>Transfer Departure: ${player.currentClub} (${player.departureYear})</h4>
-            <p>${player.departureDetails}</p>
-          </div>
-        </div>
-      `;
-    }
-
-    container.innerHTML = `
-      <div class="tab-pane-fade">
-        ${departureNotice}
-
-        <div class="player-bio-banner">
-          <p class="player-quote">"${player.quote}"</p>
-          <p class="player-bio-text">${player.bio}</p>
-        </div>
-
-        <div class="modal-section-title">Vital Football Profile</div>
-        <div class="vitals-grid">
-          <div class="vital-item">
-            <span class="v-label">Full Name</span>
-            <span class="v-val">${player.fullName}</span>
-          </div>
-          <div class="vital-item">
-            <span class="v-label">Date of Birth</span>
-            <span class="v-val">${player.birthDate}</span>
-          </div>
-          <div class="vital-item">
-            <span class="v-label">Birthplace</span>
-            <span class="v-val">${player.birthPlace}</span>
-          </div>
-          <div class="vital-item">
-            <span class="v-label">Height &amp; Foot</span>
-            <span class="v-val">${player.height} • ${player.foot}-Footed</span>
-          </div>
-          <div class="vital-item">
-            <span class="v-label">Madrid Arrival</span>
-            <span class="v-val">${player.joinedRealMadrid} (${player.transferFee})</span>
-          </div>
-          <div class="vital-item">
-            <span class="v-label">Current Club</span>
-            <span class="v-val ${player.status === 'departed' ? 'highlight-departed' : ''}">${player.currentClub}</span>
-          </div>
-        </div>
-
-        <div class="modal-section-title">Real Madrid Trophy Cabinet</div>
-        <div class="trophies-cloud">
-          ${player.stats.trophiesMadrid.map(trophy => `
-            <div class="trophy-badge">
-              <span class="trophy-icon">${ICONS.trophy}</span>
-              <span class="trophy-name">${trophy}</span>
-            </div>
-          `).join('')}
-        </div>
-
-        <div class="modal-section-title">Career Statistics Breakdown</div>
-        <div class="stats-overview-grid">
-          <div class="stat-card-large">
-            <span class="sl-number">${player.stats.madridApps || player.stats.appearances}</span>
-            <span class="sl-label">Real Madrid Appearances</span>
-          </div>
-          <div class="stat-card-large">
-            <span class="sl-number">${player.category === 'goalkeeper' ? (player.stats.madridCleanSheets || 0) : (player.stats.madridGoals || player.stats.goals || 0)}</span>
-            <span class="sl-label">${player.category === 'goalkeeper' ? 'Clean Sheets' : 'Goals Scored'}</span>
-          </div>
-          <div class="stat-card-large">
-            <span class="sl-number">${player.stats.madridAssists || 0}</span>
-            <span class="sl-label">Madrid Assists</span>
-          </div>
-          <div class="stat-card-large">
-            <span class="sl-number">${player.stats.internationalCaps || 0} (${player.stats.internationalGoals || 0}G)</span>
-            <span class="sl-label">National Team Caps</span>
-          </div>
-        </div>
-      </div>
-    `;
-  } else if (state.activeModalTab === 'lineage') {
-    container.innerHTML = `
-      <div class="tab-pane-fade">
-        <div class="lineage-roadmap-header">
-          <h3>Career Pathway &amp; Transfer Lineage</h3>
-          <p>From his football roots in ${player.nationality} through his clubs to Real Madrid and beyond.</p>
-        </div>
-
-        <div class="timeline-visual-flow">
-          ${player.lineage.map((stage, idx) => {
-            const isMadrid = stage.club === 'Real Madrid';
-            const isDeparture = stage.stage.includes('Departure') || stage.club.includes('Al-') || stage.club === 'Manchester United' || stage.club === 'Fluminense' || stage.club.includes('Retired');
-            let stageClass = isMadrid ? 'stage-madrid' : (isDeparture ? 'stage-departure' : 'stage-past');
-
-            return `
-              <div class="timeline-node ${stageClass}">
-                <div class="timeline-marker">${idx + 1}</div>
-                <div class="timeline-card">
-                  <div class="t-stage-header">
-                    <span class="t-stage-tag">${stage.stage}</span>
-                    <span class="t-years">${stage.years}</span>
-                  </div>
-                  <h4 class="t-club-title">${stage.club}</h4>
-                  <p class="t-club-country">📍 ${stage.country} ${stage.fee ? `• Transfer: <strong class="t-fee">${stage.fee}</strong>` : ''}</p>
-                  ${stage.appearances !== undefined ? `
-                    <div class="t-mini-stats">
-                      <span><strong>${stage.appearances}</strong> Apps</span>
-                      ${stage.goals !== undefined ? `<span><strong>${stage.goals}</strong> Goals</span>` : ''}
-                    </div>
-                  ` : ''}
-                  <p class="t-desc">${stage.details}</p>
-                </div>
-              </div>
-            `;
-          }).join('')}
-        </div>
-      </div>
-    `;
-  } else if (state.activeModalTab === 'matches') {
-    const debut = player.madridDebut;
-    container.innerHTML = `
-      <div class="tab-pane-fade">
-        <div class="modal-section-title">Official Real Madrid Debut</div>
-        <div class="debut-card">
-          <div class="debut-header">
-            <div class="debut-badge">First Match in White</div>
-            <div class="debut-date">${debut.date}</div>
-          </div>
-          <div class="debut-matchup">
-            <span class="debut-team">Real Madrid</span>
-            <span class="debut-score">${debut.result}</span>
-            <span class="debut-team">${debut.opponent}</span>
-          </div>
-          <div class="debut-meta-tags">
-            <span>${ICONS.trophy} ${debut.competition}</span>
-            <span>🏟️ ${debut.venue}</span>
-            <span>⏱️ ${debut.minutesPlayed} Mins</span>
-            <span>👕 Shirt: ${debut.jerseyWorn}</span>
-          </div>
-          <div class="debut-story">
-            <strong>Debut Impact:</strong> ${debut.contribution}
-          </div>
-        </div>
-
-        <div class="modal-section-title">Iconic Matches &amp; Contributions for Madrid</div>
-        <div class="performances-list">
-          ${player.peakPerformances.map(perf => `
-            <div class="perf-card">
-              <div class="perf-header">
-                <h4>${perf.title}</h4>
-                <span class="perf-date">${perf.date}</span>
-              </div>
-              <div class="perf-match-banner">
-                <span class="perf-comp">${perf.competition}</span>
-                <span class="perf-match">${perf.match}</span>
-                <span class="perf-score-badge">${perf.score}</span>
-              </div>
-              <p class="perf-highlight">${ICONS.star} ${perf.highlight}</p>
-            </div>
-          `).join('')}
-        </div>
-      </div>
-    `;
-  } else if (state.activeModalTab === 'records') {
-    container.innerHTML = `
-      <div class="tab-pane-fade">
-        <div class="modal-section-title">Historical Records Held</div>
-        <div class="records-list">
-          ${player.records.map(rec => `
-            <div class="record-item">
-              <span class="rec-icon">${ICONS.star}</span>
-              <p class="rec-text">${rec}</p>
-            </div>
-          `).join('')}
-        </div>
-
-        <div class="modal-section-title">Madridista Lore &amp; Fascinating Facts</div>
-        <div class="facts-grid">
-          ${player.facts.map((fact, idx) => `
-            <div class="fact-card">
-              <div class="fact-number">Fact #${idx + 1}</div>
-              <p class="fact-text">${fact}</p>
-            </div>
-          `).join('')}
-        </div>
-      </div>
-    `;
-  } else if (state.activeModalTab === 'gallery') {
-    container.innerHTML = `
-      <div class="tab-pane-fade">
-        <div class="modal-section-title">Photo Gallery &amp; Iconic Moments</div>
-        <div class="gallery-grid">
-          <div class="gallery-item main-portrait">
-            <img src="${player.photo}" alt="${player.name}" class="gallery-img">
-            <div class="gallery-caption">Official Portrait • ${player.name}</div>
-          </div>
-          ${player.gallery.map(img => `
-            <div class="gallery-item">
-              <img src="${img.url}" alt="${img.caption}" class="gallery-img">
-              <div class="gallery-caption">${img.caption}</div>
-            </div>
-          `).join('')}
-        </div>
-      </div>
-    `;
-  }
+function renderDrawerTab() {
+  const p = state.activePlayer;
+  document.querySelectorAll('.drawer-tabs .tab').forEach(t => {
+    const on = t.dataset.tab === state.activeTab;
+    t.classList.toggle('is-active', on);
+    t.setAttribute('aria-selected', on);
+  });
+  const body = $('drawer-body');
+  body.scrollTop = 0;
+  body.innerHTML = {
+    overview: overviewTab,
+    career: careerTab,
+    matches: matchesTab,
+    records: recordsTab
+  }[state.activeTab](p);
 }
 
-// Memory Trainer UI & Logic
-function setupTrainerListeners() {
-  const flipBtn = document.getElementById('card-flip-btn');
-  const nextBtn = document.getElementById('card-next-btn');
-  const prevBtn = document.getElementById('card-prev-btn');
-  const shuffleBtn = document.getElementById('card-shuffle-btn');
-  const learnedBtn = document.getElementById('card-learned-btn');
-  const trainerModeBtns = document.querySelectorAll('.trainer-mode-btn');
+function overviewTab(p) {
+  const departure = p.status !== 'active' && p.departureDetails ? `
+    <div class="note">
+      <strong>${p.status === 'departed' ? `Left in ${esc(p.departureYear)}` : 'After Madrid'}</strong>
+      ${esc(p.departureDetails)}
+    </div>` : '';
 
-  trainerModeBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      trainerModeBtns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      state.trainerInstance.currentMode = btn.dataset.mode;
-      renderTrainer();
-    });
+  const rows = [
+    ['Full name', p.fullName],
+    ['Born', [p.birthDate, p.birthPlace].filter(Boolean).join(', ')],
+    ['Height, foot', [p.height, p.foot && `${p.foot} foot`].filter(Boolean).join(', ')],
+    ['Joined Madrid', [p.joinedRealMadrid, p.transferFee].filter(Boolean).join(', ')],
+    ['Signed from', signedFrom(p)?.club || (p.status === 'active' || p.lineage.length ? 'Academy' : '')],
+    ['Club now', p.currentClub]
+  ].filter(([, v]) => v);
+
+  const s = p.stats;
+  const isKeeper = p.category === 'goalkeeper';
+  const stats = s ? `
+    <h3 class="section-title">For Madrid</h3>
+    <div class="stat-row">
+      <div class="stat"><b>${statValue(s.madridApps)}</b><span>Appearances</span></div>
+      <div class="stat"><b>${statValue(isKeeper ? s.madridCleanSheets : s.madridGoals)}</b><span>${isKeeper ? 'Clean sheets' : 'Goals'}</span></div>
+      <div class="stat"><b>${statValue(s.madridAssists)}</b><span>Assists</span></div>
+      <div class="stat"><b>${statValue(s.internationalCaps)}</b><span>Caps${s.internationalGoals ? `, ${s.internationalGoals} goals` : ''}</span></div>
+    </div>
+    ${statsAreStale(p) ? `<p class="stats-note">Figures as of ${esc(RM_STATS_AS_OF)}; they don't include games since.</p>` : ''}
+    ${s.trophiesMadrid?.length ? `
+      <h3 class="section-title">Won with Madrid</h3>
+      <ul class="trophy-list">${s.trophiesMadrid.map(t => `<li>${esc(t)}</li>`).join('')}</ul>
+      ${statsAreStale(p) ? `<p class="stats-note">List as of ${esc(RM_STATS_AS_OF)}.</p>` : ''}` : ''}
+  ` : `<p class="stats-note">Madrid stats for ${esc(p.name.split(' ')[0])} haven't been added yet.</p>`;
+
+  return `
+    ${departure}
+    <p class="lede">${esc(p.bio)}</p>
+    ${p.quote ? `<blockquote class="pullquote">“${esc(p.quote)}”</blockquote>` : ''}
+    <h3 class="section-title">Profile</h3>
+    <table class="facts-table"><tbody>
+      ${rows.map(([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}
+    </tbody></table>
+    ${stats}`;
+}
+
+function careerTab(p) {
+  const madridIdx = p.lineage.findIndex(l => l.club === 'Real Madrid');
+  return `
+    <h3 class="section-title">Club by club</h3>
+    <ol class="timeline">
+      ${p.lineage.map((stage, i) => {
+        const cls = stage.club === 'Real Madrid' ? 'is-madrid' : (madridIdx !== -1 && i > madridIdx ? 'is-after' : '');
+        const meta = [stage.country, stage.fee && `Fee: ${stage.fee}`,
+          stage.appearances !== undefined && `${stage.appearances} apps${stage.goals !== undefined ? `, ${stage.goals} goals` : ''}`]
+          .filter(Boolean).join(' · ');
+        return `
+          <li class="${cls}">
+            <span class="tl-years">${esc(stage.years)} · ${esc(stage.stage)}</span>
+            <h4 class="tl-club">${esc(stage.club)}</h4>
+            <p class="tl-meta">${esc(meta)}</p>
+            <p class="tl-text">${esc(stage.details)}</p>
+          </li>`;
+      }).join('')}
+    </ol>`;
+}
+
+function matchesTab(p) {
+  const d = p.madridDebut;
+  const debut = d ? `
+    <h3 class="section-title">First game for Madrid</h3>
+    <article class="match">
+      <div class="match-top"><span>${esc(d.date)}</span><span>${esc(d.competition)}</span></div>
+      <div class="match-top" style="align-items:baseline">
+        <h4 class="match-title">Real Madrid v ${esc(d.opponent)}</h4>
+        <span class="match-score">${esc(d.result)}</span>
+      </div>
+      <p class="tl-meta">${esc([d.venue, d.minutesPlayed && `${d.minutesPlayed} minutes`, d.jerseyWorn && `wore ${d.jerseyWorn}`].filter(Boolean).join(' · '))}</p>
+      <p>${esc(d.contribution)}</p>
+    </article>` : '';
+
+  const games = p.peakPerformances.length ? `
+    <h3 class="section-title">Games to remember</h3>
+    ${p.peakPerformances.map(g => `
+      <article class="match">
+        <div class="match-top"><span>${esc(g.date)}</span><span>${esc(g.competition)}</span></div>
+        <div class="match-top" style="align-items:baseline">
+          <h4 class="match-title">${esc(g.match)}</h4>
+          <span class="match-score">${esc(g.score)}</span>
+        </div>
+        <p>${esc(g.highlight)}</p>
+      </article>`).join('')}` : '';
+
+  return debut + games || `<p class="muted">No match details for ${esc(p.name)} yet.</p>`;
+}
+
+function recordsTab(p) {
+  const list = (title, items) => items.length ? `
+    <h3 class="section-title">${title}</h3>
+    <ol class="prose-list">${items.map(i => `<li><span>${esc(i)}</span></li>`).join('')}</ol>` : '';
+  return list('Records', p.records) + list('Stories', p.facts) || `<p class="muted">Nothing here for ${esc(p.name)} yet.</p>`;
+}
+
+// ---------- career map ----------
+
+function initMapControls() {
+  bindSegmented('[data-map-filter]', btn => state.map?.setFilter(btn.dataset.mapFilter));
+  $('map-zoom-in').addEventListener('click', () => state.map?.zoomIn());
+  $('map-zoom-out').addEventListener('click', () => state.map?.zoomOut());
+  $('map-reset').addEventListener('click', () => state.map?.resetView());
+}
+
+// ---------- learn: flashcards & quiz ----------
+
+function initTrainer() {
+  const t = state.trainer;
+  bindSegmented('[data-mode]', btn => {
+    const quiz = btn.dataset.mode === 'quiz';
+    $('flashcards-panel').hidden = quiz;
+    $('quiz-panel').hidden = !quiz;
+    renderTrainer();
   });
 
-  if (flipBtn) {
-    flipBtn.addEventListener('click', () => {
-      sfx.playClick();
-      state.trainerInstance.toggleFlip();
-      updateFlashcardDisplay();
-    });
-  }
+  $('deck-select').addEventListener('change', e => { t.setDeck(e.target.value); renderFlashcard(); });
+  $('flashcard').addEventListener('click', () => { t.toggleFlip(); renderFlashcard(); });
+  $('card-next').addEventListener('click', () => { t.nextCard(); renderFlashcard(); });
+  $('card-prev').addEventListener('click', () => { t.prevCard(); renderFlashcard(); });
+  $('card-shuffle').addEventListener('click', () => { t.shuffleDeck(); renderFlashcard(); });
+  $('card-learned').addEventListener('click', () => { t.toggleLearned(t.getCurrentPlayer().id); renderFlashcard(); });
 
-  if (nextBtn) {
-    nextBtn.addEventListener('click', () => {
-      sfx.playClick();
-      state.trainerInstance.nextCard();
-      updateFlashcardDisplay();
-    });
-  }
+  document.addEventListener('keydown', e => {
+    if (state.view !== 'train' || $('flashcards-panel').hidden || !$('player-drawer').hidden) return;
+    if (e.target.closest('input, select, textarea')) return;
+    if (e.key === 'ArrowRight') { t.nextCard(); renderFlashcard(); }
+    if (e.key === 'ArrowLeft') { t.prevCard(); renderFlashcard(); }
+  });
 
-  if (prevBtn) {
-    prevBtn.addEventListener('click', () => {
-      sfx.playClick();
-      state.trainerInstance.prevCard();
-      updateFlashcardDisplay();
-    });
-  }
-
-  if (shuffleBtn) {
-    shuffleBtn.addEventListener('click', () => {
-      sfx.playClick();
-      state.trainerInstance.shuffleDeck();
-      updateFlashcardDisplay();
-    });
-  }
-
-  if (learnedBtn) {
-    learnedBtn.addEventListener('click', () => {
-      sfx.playClick();
-      const p = state.trainerInstance.getCurrentPlayer();
-      const isLearned = state.trainerInstance.toggleLearned(p.id);
-      learnedBtn.classList.toggle('learned', isLearned);
-      learnedBtn.textContent = isLearned ? '✓ Marked as Learned' : 'Mark as Learned';
-    });
-  }
-
-  const quizTypeBtns = document.querySelectorAll('.quiz-type-btn');
-  quizTypeBtns.forEach(btn => {
-    btn.addEventListener('click', () => {
-      sfx.playClick();
-      quizTypeBtns.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      renderQuizQuestion(btn.dataset.quiztype);
-    });
+  bindSegmented('[data-quiztype]', btn => renderQuestion(btn.dataset.quiztype));
+  $('quiz-question').addEventListener('click', e => {
+    const opt = e.target.closest('[data-answer]');
+    if (opt) answerQuestion(opt.dataset.answer);
+    if (e.target.closest('[data-next]')) renderQuestion(state.trainer.quizType);
   });
 }
 
 function renderTrainer() {
-  const flashcardSec = document.getElementById('trainer-flashcards-section');
-  const quizSec = document.getElementById('trainer-quiz-section');
-
-  if (state.trainerInstance.currentMode === 'flashcards') {
-    flashcardSec.style.display = 'block';
-    quizSec.style.display = 'none';
-    updateFlashcardDisplay();
-  } else {
-    flashcardSec.style.display = 'none';
-    quizSec.style.display = 'block';
-    renderQuizQuestion(state.trainerInstance.quizType || 'country');
-  }
+  if ($('quiz-panel').hidden) renderFlashcard();
+  else if (!state.trainer.currentQuestion) renderQuestion(state.trainer.quizType);
 }
 
-function updateFlashcardDisplay() {
-  const p = state.trainerInstance.getCurrentPlayer();
-  const cardElement = document.getElementById('flashcard-element');
-  const counterElement = document.getElementById('card-counter');
-  const learnedBtn = document.getElementById('card-learned-btn');
+function renderFlashcard() {
+  const t = state.trainer;
+  const p = t.getCurrentPlayer();
+  if (!p) return;
 
-  if (!p || !cardElement) return;
+  $('fc-photo').innerHTML = photoMarkup(p);
+  $('fc-name').textContent = p.name;
+  $('fc-meta').textContent = `No. ${p.number} · ${p.position}`;
+  $('fc-back-name').textContent = p.name;
+  $('fc-back-nation').textContent = p.nationality;
+  $('fc-back-from').textContent = signedFrom(p)?.club || 'Real Madrid academy';
+  const route = routeToMadrid(p).map(l => l.club);
+  $('fc-back-path').textContent = [...route, 'Real Madrid'].join(' → ');
+  $('fc-back-fact').textContent = p.facts[0] || p.bio;
 
-  if (counterElement) {
-    counterElement.textContent = `Card ${state.trainerInstance.currentCardIndex + 1} of ${RM_PLAYERS.length}`;
-  }
+  $('flashcard').classList.toggle('is-flipped', t.isCardFlipped);
+  $('flashcard').setAttribute('aria-label', t.isCardFlipped ? `Back of card for ${p.name}. Flip back` : `${p.name}. Flip for details`);
 
-  const isLearned = state.trainerInstance.isLearned(p.id);
-  if (learnedBtn) {
-    learnedBtn.classList.toggle('learned', isLearned);
-    learnedBtn.textContent = isLearned ? '✓ Marked as Learned' : 'Mark as Learned';
-  }
-
-  document.getElementById('fc-front-photo').src = p.photo;
-  document.getElementById('fc-front-name').textContent = p.name;
-  document.getElementById('fc-front-number').textContent = `#${p.number}`;
-  document.getElementById('fc-front-pos').textContent = p.position;
-
-  document.getElementById('fc-back-name').textContent = p.name;
-  document.getElementById('fc-back-nation').textContent = `${p.flag} ${p.nationality}`;
-  document.getElementById('fc-back-origin').textContent = p.lineage[0]?.club + ` (${p.lineage[0]?.country})`;
-  document.getElementById('fc-back-prev').textContent = p.lineage.slice(0, -1).map(l => l.club).join(' ➔ ');
-  document.getElementById('fc-back-fact').textContent = p.facts[0] || p.bio;
-
-  cardElement.classList.toggle('is-flipped', state.trainerInstance.isCardFlipped);
+  const known = t.isLearned(p.id);
+  $('card-learned').classList.toggle('is-on', known);
+  $('card-learned').textContent = known ? 'Known ✓' : 'Mark as known';
+  $('card-counter').textContent = `Card ${t.currentCardIndex + 1} of ${t.deck.length} · use ← → keys`;
+  $('deck-progress').textContent = `You know ${t.learnedInDeck()} of ${t.deck.length}`;
 }
 
-function renderQuizQuestion(type) {
-  const q = state.trainerInstance.generateQuestion(type);
-  const container = document.getElementById('quiz-question-container');
-  if (!container || !q) return;
-
-  document.getElementById('quiz-score-display').textContent = `Score: ${state.trainerInstance.quizScore} / ${state.trainerInstance.quizTotal}`;
-  document.getElementById('quiz-streak-display').innerHTML = `${ICONS.streak} Streak: ${state.trainerInstance.quizStreak}`;
-
-  container.innerHTML = `
-    <div class="quiz-card-wrapper">
-      <div class="quiz-header">
-        <span class="quiz-type-tag">${type.toUpperCase()} CHALLENGE</span>
-        <h3>${q.question}</h3>
-        <p class="quiz-prompt">${q.prompt}</p>
+function renderQuestion(type) {
+  const q = state.trainer.generateQuestion(type);
+  updateScore();
+  $('quiz-question').innerHTML = `
+    <div class="quiz-card">
+      <div class="quiz-head">
+        <div>
+          <h2 class="quiz-q">${esc(q.question)}</h2>
+          <p class="quiz-prompt">${esc(q.prompt)}</p>
+        </div>
+        ${q.showPhoto ? `<div class="quiz-photo">${photoMarkup(q.player, { label: false })}</div>` : ''}
       </div>
-
-      <div class="quiz-photo-wrapper">
-        <img src="${q.player.photo}" alt="${q.player.name}" class="quiz-player-photo">
+      <div class="quiz-options">
+        ${q.options.map(o => `<button type="button" class="quiz-option" data-answer="${esc(o.value)}">${esc(o.text)}</button>`).join('')}
       </div>
-
-      <div class="quiz-options-grid">
-        ${q.options.map(opt => `
-          <button class="quiz-option-btn" onclick="handleQuizAnswer('${opt.value}')">${opt.text}</button>
-        `).join('')}
-      </div>
-
-      <div id="quiz-feedback-box" class="quiz-feedback-box" style="display: none;"></div>
-    </div>
-  `;
+      <div id="quiz-feedback"></div>
+    </div>`;
 }
 
-function handleQuizAnswer(selectedValue) {
-  const result = state.trainerInstance.submitAnswer(selectedValue);
+function answerQuestion(value) {
+  const result = state.trainer.submitAnswer(value);
   if (!result) return;
-
-  const feedbackBox = document.getElementById('quiz-feedback-box');
-  const optionBtns = document.querySelectorAll('.quiz-option-btn');
-
-  optionBtns.forEach(btn => {
+  document.querySelectorAll('.quiz-option').forEach(btn => {
     btn.disabled = true;
-    if (btn.getAttribute('onclick').includes(`'${result.correctAnswer}'`)) {
-      btn.classList.add('correct');
-    } else if (btn.getAttribute('onclick').includes(`'${selectedValue}'`) && !result.isCorrect) {
-      btn.classList.add('incorrect');
-    }
+    if (btn.dataset.answer === String(result.correctAnswer)) btn.classList.add('is-right');
+    else if (btn.dataset.answer === String(value)) btn.classList.add('is-wrong');
   });
-
-  if (result.isCorrect) {
-    sfx.playSuccess();
-    feedbackBox.className = 'quiz-feedback-box correct';
-    feedbackBox.innerHTML = `
-      <div class="fb-icon">${ICONS.check}</div>
-      <div class="fb-text">
-        <h4>Spot on! That's correct!</h4>
-        <p>${result.explanation}</p>
-        <button class="btn btn-primary" onclick="renderQuizQuestion('${state.trainerInstance.quizType}')">Next Question ➔</button>
-      </div>
-    `;
-  } else {
-    sfx.playError();
-    feedbackBox.className = 'quiz-feedback-box incorrect';
-    feedbackBox.innerHTML = `
-      <div class="fb-icon">${ICONS.x}</div>
-      <div class="fb-text">
-        <h4>Not quite!</h4>
-        <p>${result.explanation}</p>
-        <button class="btn btn-secondary" onclick="renderQuizQuestion('${state.trainerInstance.quizType}')">Try Next ➔</button>
-      </div>
-    `;
-  }
-
-  feedbackBox.style.display = 'flex';
-  document.getElementById('quiz-score-display').textContent = `Score: ${result.score} / ${result.total}`;
-  document.getElementById('quiz-streak-display').innerHTML = `${ICONS.streak} Streak: ${result.streak}`;
+  const fb = $('quiz-feedback');
+  fb.className = `quiz-feedback ${result.isCorrect ? 'right' : 'wrong'}`;
+  fb.innerHTML = `
+    <h3>${result.isCorrect ? 'Correct' : 'Not quite'}</h3>
+    <p>${esc(result.explanation)}</p>
+    <button type="button" class="btn btn-primary" data-next>Next question</button>`;
+  fb.querySelector('[data-next]').focus();
+  updateScore();
 }
 
-// Side-by-Side Player Comparison Tool
-function renderCompareView() {
-  const pA = state.comparePlayerA || RM_PLAYERS[0];
-  const pB = state.comparePlayerB || RM_PLAYERS[1];
-  const container = document.getElementById('compare-display-container');
-  if (!container) return;
-
-  container.innerHTML = `
-    <div class="comparison-grid">
-      <!-- Player A Card -->
-      <div class="compare-player-column">
-        <div class="compare-card-header">
-          <img src="${pA.photo}" alt="${pA.name}" class="compare-photo">
-          <h3>${pA.name}</h3>
-          <span class="compare-sub">${pA.flag} ${pA.nationality} • #${pA.number} ${pA.position}</span>
-          <span class="compare-status-badge">${pA.statusLabel}</span>
-        </div>
-
-        <div class="compare-stats-table">
-          <div class="c-row"><span class="c-lbl">Debut</span><span class="c-val">${pA.madridDebut.date}</span></div>
-          <div class="c-row"><span class="c-lbl">Fee</span><span class="c-val">${pA.transferFee}</span></div>
-          <div class="c-row"><span class="c-lbl">Appearances</span><span class="c-val">${pA.stats.madridApps || pA.stats.appearances}</span></div>
-          <div class="c-row"><span class="c-lbl">Goals</span><span class="c-val">${pA.stats.madridGoals || pA.stats.goals || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Assists</span><span class="c-val">${pA.stats.madridAssists || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Trophies</span><span class="c-val">${ICONS.trophy} ${pA.stats.trophiesMadrid?.length || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Int. Caps</span><span class="c-val">${pA.stats.internationalCaps} (${pA.stats.internationalGoals}G)</span></div>
-        </div>
-
-        <div class="compare-lineage-block">
-          <h4>Career Path</h4>
-          <div class="c-path">${pA.lineage.map(l => l.club).join(' ➔ ')}</div>
-        </div>
-      </div>
-
-      <!-- Player B Card -->
-      <div class="compare-player-column">
-        <div class="compare-card-header">
-          <img src="${pB.photo}" alt="${pB.name}" class="compare-photo">
-          <h3>${pB.name}</h3>
-          <span class="compare-sub">${pB.flag} ${pB.nationality} • #${pB.number} ${pB.position}</span>
-          <span class="compare-status-badge">${pB.statusLabel}</span>
-        </div>
-
-        <div class="compare-stats-table">
-          <div class="c-row"><span class="c-lbl">Debut</span><span class="c-val">${pB.madridDebut.date}</span></div>
-          <div class="c-row"><span class="c-lbl">Fee</span><span class="c-val">${pB.transferFee}</span></div>
-          <div class="c-row"><span class="c-lbl">Appearances</span><span class="c-val">${pB.stats.madridApps || pB.stats.appearances}</span></div>
-          <div class="c-row"><span class="c-lbl">Goals</span><span class="c-val">${pB.stats.madridGoals || pB.stats.goals || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Assists</span><span class="c-val">${pB.stats.madridAssists || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Trophies</span><span class="c-val">${ICONS.trophy} ${pB.stats.trophiesMadrid?.length || 0}</span></div>
-          <div class="c-row"><span class="c-lbl">Int. Caps</span><span class="c-val">${pB.stats.internationalCaps} (${pB.stats.internationalGoals}G)</span></div>
-        </div>
-
-        <div class="compare-lineage-block">
-          <h4>Career Path</h4>
-          <div class="c-path">${pB.lineage.map(l => l.club).join(' ➔ ')}</div>
-        </div>
-      </div>
-    </div>
-  `;
+function updateScore() {
+  const t = state.trainer;
+  $('quiz-score').textContent = `${t.quizScore} / ${t.quizTotal}`;
+  $('quiz-streak').textContent = t.quizStreak > 1 ? `${t.quizStreak} in a row` : '';
 }
 
-// Global window helpers
-window.openPlayerModal = openPlayerModal;
-window.resetAllFilters = resetAllFilters;
-window.renderQuizQuestion = renderQuizQuestion;
-window.handleQuizAnswer = handleQuizAnswer;
-window.switchView = switchView;
+// ---------- compare ----------
+
+function initCompare() {
+  const options = STATUS_GROUPS.map(g => `
+    <optgroup label="${esc(g.title)}">
+      ${RM_PLAYERS.filter(p => p.status === g.status).sort((a, b) => a.number - b.number)
+        .map(p => `<option value="${esc(p.id)}">${esc(p.number)}. ${esc(p.name)}</option>`).join('')}
+    </optgroup>`).join('');
+  $('compare-a').innerHTML = options;
+  $('compare-b').innerHTML = options;
+  $('compare-a').value = 'vinicius';
+  $('compare-b').value = 'mbappe';
+  $('compare-a').addEventListener('change', renderCompare);
+  $('compare-b').addEventListener('change', renderCompare);
+}
+
+function renderCompare() {
+  const a = byId($('compare-a').value);
+  const b = byId($('compare-b').value);
+  if (!a || !b) return;
+
+  const num = v => (typeof v === 'number' ? v : null);
+  const rows = [
+    ['Country', p => p.nationality],
+    ['Position', p => p.position],
+    ['Born', p => p.birthDate || '—'],
+    ['At Madrid', p => madridStint(p)],
+    ['Signed from', p => signedFrom(p)?.club || 'Academy'],
+    ['Fee', p => p.transferFee || '—'],
+    ['Madrid debut', p => p.madridDebut ? `${p.madridDebut.date} v ${p.madridDebut.opponent}` : '—'],
+    ['Appearances', p => num(p.stats?.madridApps), true],
+    ['Goals', p => num(p.stats?.madridGoals), true],
+    ['Assists', p => num(p.stats?.madridAssists), true],
+    ['Trophies with Madrid', p => trophyCount(p), true],
+    ['International caps', p => num(p.stats?.internationalCaps), true],
+    ['Club now', p => p.currentClub],
+    ['Route to Madrid', p => [...routeToMadrid(p).map(l => l.club), 'Real Madrid'].join(' → ')]
+  ];
+
+  const head = p => `
+    <div class="compare-head">
+      <div class="quiz-photo">${photoMarkup(p, { label: false })}</div>
+      <div><strong>${esc(p.name)}</strong><span>No. ${esc(p.number)} · ${esc(p.statusLabel)}</span></div>
+    </div>`;
+
+  const staleNote = [a, b].some(statsAreStale)
+    ? `<p class="stats-note">Madrid figures for players at the club after 2024 are as of ${esc(RM_STATS_AS_OF)}. A dash means we don't have the number yet.</p>`
+    : '';
+
+  $('compare-output').innerHTML = `
+    <table class="compare-table">
+      <thead><tr><th></th><th>${head(a)}</th><th>${head(b)}</th></tr></thead>
+      <tbody>
+        ${rows.map(([label, get, numeric]) => {
+          const va = get(a), vb = get(b);
+          const leadA = numeric && va !== null && vb !== null && va > vb;
+          const leadB = numeric && va !== null && vb !== null && vb > va;
+          return `<tr><th scope="row">${label}</th>
+            <td class="${leadA ? 'lead' : ''}">${esc(statValue(va))}</td>
+            <td class="${leadB ? 'lead' : ''}">${esc(statValue(vb))}</td></tr>`;
+        }).join('')}
+      </tbody>
+    </table>
+    ${staleNote}`;
+}
+
+window.openPlayer = openPlayer;

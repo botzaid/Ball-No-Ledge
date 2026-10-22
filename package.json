@@ -1,12 +1,18 @@
 {
-  "name": "real-madrid-lineage",
+  "name": "ball-no-ledge",
   "version": "1.0.0",
-  "description": "Real Madrid Player Lineage & Football Intelligence App",
+  "description": "Real Madrid, player by player",
   "main": "index.html",
   "scripts": {
     "start": "npx serve ."
   },
-  "keywords": ["real-madrid", "football", "lineage", "laliga", "champions-league"],
+  "keywords": [
+    "real-madrid",
+    "football",
+    "lineage",
+    "laliga",
+    "champions-league"
+  ],
   "author": "Madridista",
   "license": "MIT"
 }
