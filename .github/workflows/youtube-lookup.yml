@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - tools/youtube_ids.txt
+      - tools/spotify_ids.txt
       - tools/youtube_lookup.sh
 
 permissions:
@@ -25,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add research/youtube.jsonl
+          git add research/youtube.jsonl research/spotify.jsonl
           if git diff --cached --quiet; then echo "Nothing new"; else
             git commit -m "YouTube lookup results"
             for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

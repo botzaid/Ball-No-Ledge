@@ -18,3 +18,16 @@ while IFS= read -r id; do
   fi
 done < tools/youtube_ids.txt
 cat "$out"
+
+# Spotify tracks for the radio's slim player: oEmbed answers 200 with the title
+out=research/spotify.jsonl
+: > "$out"
+while IFS= read -r id; do
+  [ -z "$id" ] && continue
+  body=$(curl -s -w '\n%{http_code}' "https://open.spotify.com/oembed?url=https://open.spotify.com/track/$id")
+  code=$(tail -n1 <<< "$body")
+  json=$(sed '$d' <<< "$body")
+  if [ "$code" = 200 ]; then jq -c --arg id "$id" '{id: $id, status: 200, title}' <<< "$json" >> "$out"
+  else jq -nc --arg id "$id" --arg code "$code" '{id: $id, status: ($code | tonumber)}' >> "$out"; fi
+done < tools/spotify_ids.txt
+cat "$out"
