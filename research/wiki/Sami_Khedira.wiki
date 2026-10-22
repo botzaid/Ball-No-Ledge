@@ -1,0 +1,422 @@
+<!-- Sami Khedira | revision 2026-08-25T19:08:11Z -->
+{{short description|German footballer (born 1987)}}
+{{redirect|Khedira|his younger brother (also a footballer)|Rani Khedira}}
+{{pp-blp|small=yes}}
+{{Use dmy dates|date=February 2025}}
+{{Infobox football biography
+| name = Sami Khedira
+| image = Sami Khedira - Juventus (cropped).jpg
+| caption = Khedira in 2020
+| full_name = Sami Khedira<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=26284 |title=Acta del Partido celebrado el 07 de marzo de 2015, en Bilbao |trans-title=Minutes of the Match held on 7 March 2015, in Bilbao |publisher=Royal Spanish Football Federation |access-date=18 June 2019 |language=es |archive-date=5 June 2022 |archive-url=https://web.archive.org/web/20220605143010/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=57027 |url-status=dead }}</ref>
+| birth_date = {{birth date and age|1987|4|4|df=y}}<ref>{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Germany |publisher=FIFA |page=12 |date=15 July 2018 |archive-url=https://web.archive.org/web/20191206135930/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=6 December 2019}}</ref>
+| birth_place = [[Stuttgart]], West Germany
+| height = 1.89 m<ref>{{cite web |url=http://www.juventus.com/it/squadre/prima-squadra/centrocampisti/sami-khedira/index.php |title=Sami Khedira |publisher=Juventus FC |language=it |archive-url=https://web.archive.org/web/20181010024828/http://www.juventus.com/it/squadre/prima-squadra/centrocampisti/sami-khedira/index.php |archive-date=10 October 2018}}</ref>
+| position = [[Central midfielder]]
+| currentclub = [[Real Madrid CF|Real Madrid]] (assistant coach)
+| clubnumber = 
+| youthyears1 = 1992–1995
+| youthclubs1 = TV Oeffingen
+| youthyears2 = 1995–2004
+| youthclubs2 = [[VfB Stuttgart]]
+| years1 = 2004–2006
+| clubs1 = [[VfB Stuttgart II]]
+| caps1 = 21
+| goals1 = 1
+| years2 = 2006–2010
+| clubs2 = [[VfB Stuttgart]]
+| caps2 = 98
+| goals2 = 14
+| years3 = 2010–2015
+| clubs3 = [[Real Madrid CF|Real Madrid]]
+| caps3 = 102
+| goals3 = 6
+| years4 = 2015–2021
+| clubs4 = [[Juventus FC|Juventus]]
+| caps4 = 99
+| goals4 = 21
+| years5 = 2021
+| clubs5 = [[Hertha BSC]]
+| caps5 = 9
+| goals5 = 0
+| totalcaps = 329
+| totalgoals = 42
+| nationalyears1 = 2003–2004
+| nationalteam1 = [[Germany national under-17 football team|Germany U17]]
+| nationalcaps1 = 10
+| nationalgoals1 = 2
+| nationalyears2 = 2007–2009
+| nationalteam2 = [[Germany national under-21 football team|Germany U21]]
+| nationalcaps2 = 15
+| nationalgoals2 = 5
+| nationalyears3 = 2009–2018
+| nationalteam3 = [[Germany national football team|Germany]]
+| nationalcaps3 = 77
+| nationalgoals3 = 7
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|GER}}}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|W|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads#Germany|Team]]}}
+{{Medal|Bronze|[[2010 FIFA World Cup|2010 South Africa]]|[[2010 FIFA World Cup squads#Germany|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|Bronze|[[UEFA Euro 2012|2012 Poland-Ukraine]]|[[UEFA Euro 2012 squads#Germany|Team]]}}<!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals for the first time: https://www.uefa.com/MultimediaFiles/Download/competitions/euro/91/87/57/918757_download.pdf-->
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|W|[[2009 UEFA European Under-21 Football Championship|2009 Sweden]]|[[2009 UEFA European Under-21 Championship squads#Germany|Team]]}}
+}}
+'''Sami Khedira''' ({{IPA|de|ˈsaːmiː 'kɛdiːʁaː|lang}};<ref>{{Cite web |date=1 February 2021 |title=Sami Khedira ist da! Herthas Hoffnungsträger ist schon in Berlin |trans-title=Sami Khedira is here! Hertha's great hope is already in Berlin. |url=https://www.youtube.com/watch?v=1h6egJNfGdc |access-date=20 May 2026 |website=[[YouTube]] |publisher=[[Sport Bild|SPORT BILD Fußball]] |language=de}}</ref> {{langx|ar|سامي خضيرة}}; born 4 April 1987) is a German former professional [[Association football|footballer]] who played as a [[central midfielder]].<ref name="Real_profile">{{cite web | url = http://www.realmadrid.com/en/football/squad/sami-khedira | title = Sami Khedira | publisher = Real Madrid C.F | access-date = 3 March 2012 | url-status = dead | archive-url = https://web.archive.org/web/20140223093307/http://www.realmadrid.com/en/football/squad/sami-khedira | archive-date = 23 February 2014 | df = dmy-all }}</ref> He is currently the [[Head coach|assistant coach]] of [[La Liga]] club [[Real Madrid CF|Real Madrid]]. 
+
+Khedira began his career at [[VfB Stuttgart]], winning the [[Bundesliga]] in 2007, before moving to Real Madrid in 2010. In his five seasons in Spain, he won seven domestic and international trophies, including the [[UEFA Champions League]] in 2014. In 2015, he moved to [[Serie A]] club [[Juventus FC|Juventus]] on a free transfer, and won the Serie A title and [[Coppa Italia]] in his first three seasons with the club, followed by two more league titles and a [[Supercoppa Italiana]].
+
+A full international for Germany since 2009, Khedira earned 77 caps for the national team.<ref>{{Cite web | url = https://www.rsssf.org/miscellaneous/dui-khedira-intlg.html | title = Sami Khedira - Goals in International Matches | first = Matthias | last = Arnhold | date = 7 July 2021 | accessdate = 13 July 2021 | publisher = [[Rec.Sport.Soccer Statistics Foundation|RSSSF.com]]}}</ref> He has taken part at three [[FIFA World Cup]]s and two [[UEFA European Championship]]s with Germany, and was part of their squads which reached the semi-finals at the [[2010 FIFA World Cup]], as well as the [[UEFA Euro 2012|2012]] and [[UEFA Euro 2016|2016]] UEFA European Football Championships; he also won the [[2014 FIFA World Cup]].
+
+==Club career==
+===VfB Stuttgart===
+Before joining the youth team of [[VfB Stuttgart]] in 1995, he played at TV Oeffingen. In the first months of the 2006–07 season, he was called up into VfB's [[Bundesliga]] squad by manager [[Armin Veh]]. His debut followed on 1 October 2006 against [[Hertha BSC]], replacing [[Antônio da Silva (footballer)|Antônio da Silva]] at the end of the 2–2 away draw. He scored his first two goals on 29 October in the 3–0 win against [[FC Schalke 04|Schalke 04]] at the [[MHPArena|Mercedes-Benz Arena]]. On 29 January 2007 he signed his first professional contract at VfB, valid until June 2009.<ref>{{cite web | url = http://www.qantara.de/webcom/show_article.php/_c-478/_nr-869/i.html | title = Origins are Irrelevant in Football&nbsp;– Portrait of Sami Khedira | publisher = Qantara.de |date = 21 February 2009 | access-date = 19 August 2010}}</ref> In the last game of the season on 19 May, Khedira scored the winner as ''Die Schwaben'' came from behind to defeat [[Energie Cottbus]] 2–1 and became champions for the first time in 15 years.<ref>{{cite news|title=El Stuttgart se corona campeón alemán con su triunfo ante el Cottbus|trans-title=Stuttgart crown themselves German champions with their triumph against Cottbus|url=http://futbol.as.com/futbol/2007/05/19/mas_futbol/1179525611_850215.html|access-date=20 March 2016|publisher=Diario AS|date=19 May 2007|language=es}}</ref>
+
+On 9 July 2008, he extended his contract until the summer of 2011.<ref>{{cite web|url=http://www.vfb.de/en/aktuell/news/2008/23851.php|title=Khedira signs until 2011|publisher=VfB Stuttgart|date=9 July 2008|access-date=9 July 2008}}</ref> In [[2008–09 Bundesliga|the ensuing season]], he scored a career-best 7 league goals in 27 games, including both in a 2–2 draw against [[Bayern Munich]] on 13 December.<ref>{{cite news|title=Rescata Stuttgart empate ante Bayern Munich|trans-title=Stuttgart rescue draw against Bayern Munich|url=http://televisadeportes.esmas.com/futbol/futbolinternacional/029744/rescata-stuttgart-empate-bayern-munich/|access-date=20 March 2016|publisher=Televisa Deportes|date=13 December 2008|language=es}}</ref>
+
+===Real Madrid===
+[[File:Arda Turan - Sami Khedira.JPG|thumb|right|Khedira running past [[Atlético Madrid]]'s [[Arda Turan]] in the [[Madrid derby]] in September 2013]]
+
+On 30 July 2010, Khedira moved to [[La Liga]] club [[Real Madrid CF|Real Madrid]] after 98 Bundesliga appearances<ref>{{Cite web | url = https://www.rsssf.org/players/dui-khediradata.html | title = Sami Khedira - Matches and Goals in Bundesliga | first = Matthias | last = Arnhold | date = 7 July 2021 | accessdate = 13 July 2021 | publisher = [[Rec.Sport.Soccer Statistics Foundation|RSSSF.com]]}}</ref> for an undisclosed fee, signing a contract until 2015.<ref>{{cite web|url=http://vfb.de/archiv/en/aktuell/news/2010/37816.php|title=Terms agreed with Real Madrid|publisher=VfB Stuttgart|access-date=30 July 2010|date=30 July 2010|archive-date=28 July 2014|archive-url=https://web.archive.org/web/20140728101214/http://www.vfb.de/archiv/en/aktuell/news/2010/37816.php|url-status=dead}}</ref> Khedira made his debut on 13 August in a friendly match against Bayern Munich, which Real Madrid won 4–2 on penalties for the [[Franz-Beckenbauer-Cup]]. His [[2010–11 La Liga|league]] debut came sixteen days later, in a 0–0 away draw against [[RCD Mallorca|Mallorca]].<ref>{{cite web | url = http://soccernet.espn.go.com/report?id=302066&cc=3888 | archive-url = https://web.archive.org/web/20121023112125/http://soccernet.espn.go.com/report?id=302066&cc=3888 | url-status = dead | archive-date = 23 October 2012 | title = Report: Mallorca v Real Madrid | publisher   =ESPN Soccernet | date = 30 August 2010 | access-date = 30 August 2010}}</ref> He made 40 appearances across his first season in Spain and won his first club honour on 20 April 2011 as his team won the [[Copa del Rey]] [[2011 Copa del Rey Final|final]] against [[El Clásico]] rivals [[FC Barcelona|Barcelona]].<ref>{{cite web | url = https://www.haz.de/Sportbuzzer/Fussball/Ueberregional/Real-Madrid-gewinnt-ersten-Titel-gegen-Barcelona | title = Real Madrid gewinnt ersten Titel gegen Barcelona  | language = de | website = haz.de | date = 21 April 2011 | access-date = 30 June 2020}}</ref>
+
+He scored his first competitive goal for Real Madrid in the [[UEFA Champions League|Champions League]], on 18 October 2011 against [[Olympique Lyonnais|Lyon]].<ref>{{cite web | url = https://www.kicker.de/real-madrid-gegen-lyon-2011-champions-league-1404023/ticker | title = Liveticker {{!}} Real Madrid - Olympique Lyon 4:0 | language = de | website = [[Kicker (magazine)|Kicker]] | date = 18 October 2011 | access-date = 30 June 2020}}</ref> He scored his first Copa del Rey goal against [[Málaga CF|Málaga]] in a 3–2 home win when Real Madrid were trailing behind 0–2, and his first league goal against [[RCD Espanyol|Espanyol]] in a 5–0 home win.<ref>{{cite web | url = https://www.fussballeuropa.com/news/copa-del-rey-real-madrid-dreht-spiel-malaga-khedira-higuain-benzema-treffen | title = Copa del Rey: Real Madrid dreht Spiel gegen Malaga - Khedira, Higuain und Benzema treffen | language = de | website = fussballeuropa.com | date = 4 January 2012 | access-date = 30 June 2020}}</ref>
+
+On 21 April 2012, Khedira scored his second league goal, against Barcelona; the goal was Real Madrid's 108th of the season in the league, breaking the previous La Liga record of 107, also set by them in the [[1989–90 La Liga|1989–90 season]].<ref>{{cite news|url=http://www.goal.com/en-us/news/88/spain/2012/04/21/3051803/real-madrid-break-all-time-liga-goals-record-with-sami|title=Real Madrid breaks all-time Liga goals record with Sami Khedira's Clasico strike against Barcelona|date=21 April 2012|publisher=Goal.com|first=Ben|last=Hayward|access-date= 23 April 2012}}</ref>
+
+On 24 May 2014, Khedira was in the starting 11 against [[Atlético Madrid|Atletico Madrid]] in the [[2014 UEFA Champions League Final|UEFA Champions League final]], in which Real Madrid won 4-1.<ref>{{Cite news|title=Real Madrid 4-1 Atletico Madrid|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/27383593|access-date=2021-02-15}}</ref>
+
+===Juventus===
+On 9 June 2015, [[Serie A]] club [[Juventus FC|Juventus]] announced that Khedira had signed a four-year deal on a free transfer.<ref name="Khedira signs for Juventus">{{cite news|url=http://www.juventus.com/juve/en/news/khedira+signs+for+juventus|title=Khedira signs for Juventus|publisher=juventus.com|date=9 June 2015|access-date=9 June 2015}}</ref> The move was completed on 1 July, at the start of the [[2015–16 Juventus FC season|2015–16 season]].<ref>{{cite news|url=https://www.theguardian.com/football/2015/jun/09/juventus-sami-khedira-real-madrid-free-transfer|title=Juventus sign Sami Khedira from Real Madrid on free transfer|date=9 June 2015|access-date=9 June 2015|work=The Guardian}}</ref>
+
+[[File:Khedira-juventus-2019.jpg|thumb|250px|right|Khedira (left) playing against [[FC Lokomotiv Moscow|Lokomotiv Moscow]] during the 2019–20 season]]
+
+On 1 August, Khedira was stretchered off the pitch after just 25 minutes while playing in a pre-season friendly match against [[Olympique de Marseille|Marseille]] with a [[pulled hamstring|hamstring injury]] and was ruled out of the [[2015 Supercoppa Italiana|Supercoppa Italiana]] a week later against [[S.S. Lazio|Lazio]].<ref>{{cite web | url = http://www.football-italia.net/70424/khedira-hamstring-strain | title = Khedira hamstring strain | website = Football Italia | date = 1 August 2015 | access-date = 1 August 2015}}</ref><ref>{{cite web | url = http://au.eurosport.com/football/serie-a/2011-2012/juventus-midfielder-sami-khedira-suffers-injury-blow_sto4841948/story.shtml| title = Juventus midfielder Sami Khedira ruled out of Italian Super Cup | website = Eurosport| date = 1 August 2015 | access-date = 1 August 2015}}</ref> Two days later Juventus confirmed that it was actually a muscle tear in his right thigh, and that he would be sidelined for approximately two months.<ref>{{cite web|last1=Gladwell|first1=Ben|title=Juventus midfielder Sami Khedira out for two months with thigh injury|url=http://www.espnfc.com/juventus/story/2546453/juventus-midfielder-sami-khedira-thigh-injury-blow|publisher=ESPN FC|access-date=3 August 2015|date=3 August 2015}}</ref> He was called back to action on 30 September as he started in a [[2015–16 UEFA Champions League group stage#Group D|Champions League]] group stage match in a 2–0 win over [[Sevilla FC|Sevilla]].<ref>{{cite web|url=https://www.theguardian.com/football/2015/sep/30/juventus-sevilla-champions-league-match-report|title=Sami Khedira impresses on debut as Juventus are too canny for Sevilla|work=The Guardian|date=30 September 2015|access-date=5 October 2015}}</ref> On 4 October, Khedira made his Serie A debut, starting and scoring the final goal of a 3–1 home win against [[Bologna F.C. 1909|Bologna]] in the 63rd minute.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/34381551|title=Juventus-Bologna: 3–1|publisher=BBC Sport|date=4 October 2015|access-date=5 October 2015}}</ref>
+
+On 20 March 2016, Khedira scored his fourth goal of the [[2015–16 Serie A|league season]] in a 4–1 win at [[Torino F.C.|Torino]] in the [[Derby della Mole]], but was given a straight red card for dissent later on.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/35803805|title=Torino 1–4 Juventus|publisher=BBC Sport|date=20 March 2016|access-date=20 March 2016}}</ref>
+
+On 20 August 2016, Khedira opened the [[2016–17 Serie A]] season with a goal in a 2–1 home win over [[ACF Fiorentina|Fiorentina]].<ref>{{cite web|url=http://www.football-italia.net/SerieA/match/87831|title=Juventus 2 – 1 Fiorentina|publisher=Football Italia|date=20 August 2016|access-date=29 August 2016}}</ref> A week later he scored the only goal in a 1–0 away win over Lazio in the league.<ref>{{cite web|url=http://www.espnfc.com/club/juventus/111/blog/post/2939107/sami-khedira-stars-again-as-juventus-earn-a-hard-fought-win-at-lazio|title=Khedira stars again as Juventus earn a hard-fought win at Lazio|publisher=ESPN FC|first=Mina|last=Rzouki|date=28 August 2016|access-date=29 August 2016}}</ref>
+
+On 22 October 2017, Khedira scored his first career [[hat-trick]] in a 6–2 away win over [[Udinese Calcio|Udinese]].<ref>{{cite web|url=https://www.football-italia.net/111701/udinese-crushed-10-man-juve|title=Udinese crushed by 10-man Juve|publisher=Football Italia|date=22 October 2017}}</ref><ref>{{cite web|url=https://www.football-italia.net/111703/khedira-my-first-hat-trick|title=Khedira: 'My first hat-trick!'|publisher=Football Italia|date=22 October 2017}}</ref>
+
+On 7 March 2018, Khedira made his 100th appearance for Juventus in a 2–1 win over [[Tottenham Hotspur F.C.|Tottenham]] at [[Wembley Stadium]], in the second leg of the round of 16 of the [[2017–18 UEFA Champions League|UEFA Champions League]], assisting [[Gonzalo Higuaín]]'s goal.<ref>{{cite web|url=https://www.bbc.com/sport/football/43306558|title=Tottenham Hotspur 1–2 Juventus|publisher=BBC Sport|author1=Phil McNulty|date=7 March 2018|access-date=9 March 2018}}</ref><ref>{{cite web|url=https://www.independent.co.uk/sport/football/european/tottenham-juventus-champions-league-match-report-paulo-dybala-gonzalo-higuain-a8244981.html|title=Paulo Dybala and Gonzalo Higuain stun Tottenham to send Juventus into Champions League quarter-finals|work=The Independent|author1=Luke Brown|date=8 March 2018|access-date=9 March 2018}}</ref><ref>{{cite web|url=http://www.juventus.com/en/news/news/2018/tottenham-juve-talking-points.php|title=Tottenham-Juve: Talking Points|publisher=Juventus F.C.|date=8 March 2018|access-date=11 March 2018}}</ref>
+
+In September 2018, Khedira signed a new contract with Juventus, which would keep him at the team until 2021.<ref>{{cite web |url=https://www.bbc.com/sport/football/45497784 |title=Sami Khedira: Juventus midfielder signs new contract at the club until 2021 |publisher=BBC Sport |date=12 September 2018 |access-date=12 September 2018 }}</ref> In February 2019 he was ruled out for a month to undergo treatment after it was diagnosed that he suffered from an irregular heartbeat.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/47299372|title=Sami Khedira: Juventus midfielder ruled out because of irregular heartbeat|date=19 February 2019|publisher=BBC Sport|access-date=27 August 2019}}</ref><ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/37569929/juventus-khedira-month-treatment-irregular-heartbeat |title=Juventus' Khedira out for a month after treatment for irregular heartbeat |publisher=ESPN FC |date=20 February 2019 |access-date=4 March 2019 }}</ref> He returned to action on 6 April, coming as a substitute for his injured compatriot [[Emre Can]] in a 2–1 home win over [[AC Milan]].<ref>{{cite web |url=https://www.gazzetta.it/Calcio/Serie-A/Juventus/06-04-2019/juventus-milan-2-1-dybala-kean-ribaltano-gol-piatek-330540050224.shtml |title=Juventus-Milan 2-1, Dybala e Kean ribaltano il gol di Piatek |publisher=La Gazzetta dello Sport |language=it |author1=Fabiana Della Valle |date=6 April 2019 |access-date=6 April 2019 }}</ref>
+
+===Hertha BSC===
+On 1 February 2021, Khedira returned to the Bundesliga, signing for [[Hertha BSC]].<ref>{{cite web|url=https://www.herthabsc.de/en/teams/khedira-/page/1629--4-4-.html|title=Sami Khedira is a Herthaner|date=1 February 2021|publisher=[[Hertha BSC]]|access-date=1 February 2021|archive-date=1 February 2021|archive-url=https://web.archive.org/web/20210201172343/https://www.herthabsc.de/en/teams/khedira-/page/1629--4-4-.html|url-status=dead}}</ref> On 5 February 2021, he made his debut in a 0–1 defeat against Bayern Munich.<ref>{{Cite web|title=Kingsley Coman fires Bayern Munich to hard-earned win over Hertha Berlin|url=https://www.bundesliga.com/en/bundesliga/news/hertha-berlin-bayern-munich-live-line-ups-stats-lewandowski-davies-neuer-14611|access-date=2021-02-15|website=bundesliga.com}}</ref> On 19 May 2021, he announced that he would retire at the end of the 2020–21 season.<ref>{{cite news|title=Sami Khedira beendet nach Saisonende seine Karriere|url=https://www.kicker.de/sami-khedira-beendet-nach-saisonende-seine-karriere-805308/artikel|language=German|access-date=19 May 2021|website=[[Kicker (magazine)|Kicker]]}}</ref>
+
+==International career==
+[[File:Sami Khedira, Germany national football team (07).jpg|thumb|220px|Khedira playing for the [[Germany national football team]] in 2011]]
+
+===Youth teams and debut===
+Khedira has appeared 30 times for several German youth national teams; he captained the [[Germany national under-21 football team|under-21 side]] during the [[2009 UEFA European Under-21 Football Championship|2009 European Under-21 Championship]], which [[Germany national youth football team#Germany national under-21 squad|Germany]] won, defeating [[England national under-21 football team|England]] 4–0 in the final.<ref>{{cite web | url = https://www.uefa.com/under21/news/0257-0de976295a92-49c3773d112f-1000--germany-claim-first-under-21-crown/ | title = Germany claim first Under-21 crown | website = [[UEFA]] | date = 29 June 2009 | access-date = 30 June 2020 | first = Michael | last = Harrold}}</ref>
+
+Khedira made his debut for the senior national squad on 5 September 2009 in a friendly match against [[South Africa national football team|South Africa]]. He was substituted on in the 73rd minute for [[Simon Rolfes]].<ref>{{cite news | url = https://www.welt.de/sport/article181202568/Nationalmannschaft-Sami-Khedira-rechnet-mit-sich-selbst-ab.html | title = Khedira rechnet mit sich selbst ab | language = de | newspaper = Die Welt | date = 16 August 2018 | access-date = 30 June 2020}}</ref><ref>{{cite web | url = https://www.dfb.de/datencenter/laenderspiel/2009-2010/saison/deutschland-suedafrika-58646 | title = Deutschland - Südafrika, 2:0, Länderspiel 2009/10 Saison - DFB Datencenter | language = de | website = DFB | date = 5 September 2009 | access-date = 30 June 2020}}</ref>
+
+===2010 World Cup===
+Khedira was called up to the [[2010 FIFA World Cup squads#Germany|German squad]] for the [[2010 FIFA World Cup|2010 World Cup]] in South Africa by coach [[Joachim Löw]]. Filling in for the injured [[Michael Ballack]] as a central midfielder, he played in all seven matches, and was only substituted twice, as Germany reached the semi-finals. After appearances in five friendlies prior to the World Cup, he made his first competitive appearance against [[Australia men's national soccer team|Australia]] in Germany's first [[2010 FIFA World Cup Group D|group]] game. On 10 July 2010, with his first senior international goal, he scored Germany's 16th and last goal of the tournament, in the third place match against [[Uruguay national football team|Uruguay]]; Khedira's match-winning header, which came eight minutes from time, ensured the final 3–2 scoreline, and won the [[2010 FIFA World Cup squads#Average age of squads|young German team]] the bronze medal.<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=264122&league=FIFA.WORLD&cc=5739&ver=global|archive-url=https://web.archive.org/web/20100717011847/http://soccernet.espn.go.com/report?id=264122&league=FIFA.WORLD&cc=5739&ver=global|url-status=dead|archive-date=17 July 2010|title=Khedira completes comeback|work=ESPN Soccernet|date=10 July 2010|access-date=14 July 2010}}</ref>
+
+===Euro 2012===
+Khedira was in the starting lineup in eight [[UEFA Euro 2012 qualifying|qualification]] matches for [[UEFA Euro 2012|Euro 2012]], helping Germany top their [[UEFA Euro 2012 qualifying Group A|qualifying group]] with a record ten wins out of ten matches. During the final tournament, he featured in every minute of their run to the semi-finals, scoring in the 4–2 quarter-final win over [[Greece national football team|Greece]] at the [[PGE Arena Gdańsk]], and was selected for the Team of the Tournament.<ref>{{cite news|title=UEFA EURO 2012 Team of the Tournament|url=http://www.uefa.org/mediaservices/mediareleases/newsid=1838241.html|access-date=9 June 2015|publisher=UEFA|date=2 July 2012}}</ref>
+
+===2014 World Cup===
+[[File:Brazil vs Germany, in Belo Horizonte 07.jpg|thumb|right|295px|Khedira playing against [[Bernard (footballer)|Bernard]] at the [[2014 FIFA World Cup]]]]
+
+Khedira tore his [[Anterior cruciate ligament injury|ACL]] in his right knee in a [[Exhibition match|friendly]] match against [[Italy national football team|Italy]] on 15 November 2013 and it was estimated that he would be ruled out for around six months, which put his participation at the [[2014 FIFA World Cup]] into question.<ref>{{cite web|url=http://www.espnfc.com/fifa-world-cup/story/1618241/dfb-confirms-germany-and-real-madrid-star-sami-khedira-has-suffered-acl-tear|title=DFB confirms Sami Khedira blow| date = 16 November 2013 |work=espnfc.com| access-date = 16 November 2013}}</ref> However, he recovered in time to be named in Germany's squad for the tournament,<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/germany/10810439/Germany-World-Cup-2014-squad.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/germany/10810439/Germany-World-Cup-2014-squad.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Germany World Cup 2014 squad|date=2 June 2014|access-date=22 June 2014|work=The Telegraph}}{{cbignore}}</ref> and was selected to start in the team's opening match, a 4–0 win against [[Portugal national football team|Portugal]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285106|title=Germany 4–0 Portugal|date=16 June 2014|access-date=22 June 2014|work=BBC}}</ref> On 8 July, he scored Germany's fifth goal in the [[Brazil v Germany (2014 FIFA World Cup)|7–1]] [[2014 FIFA World Cup knockout stage#Semi-final|semi-final]] defeat of hosts [[Brazil national football team|Brazil]].<ref>{{cite news|url=https://www.bbc.com/sport/0/football/28102403|title=Brazil 1–7 Germany|work=BBC|date=8 July 2014|access-date=9 July 2014}}</ref> He was injured during the pre-match warmup for [[2014 FIFA World Cup Final|the Final]] against [[Argentina national football team|Argentina]], and was replaced by [[Christoph Kramer]] in the team's starting line-up,<ref>{{cite web|url=http://www.espnfc.us/fifa-world-cup/story/1948304/germany-midfielder-sami-khedira-out-of-world-cup-final-christoph-kramer-steps-in|title=Khedira out of final, Kramer steps in|publisher=ESPN FC|date=13 July 2014|access-date=5 October 2015}}</ref> as Germany eventually won 1–0 after extra time.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/28181689|title=Germany-Argentina: 1–0|publisher=BBC Sport|date=13 July 2014|access-date=5 October 2015}}</ref>
+
+===Euro 2016===
+Khedira was named to Joachim Löw's 23-man Germany squad for [[UEFA Euro 2016]].<ref>{{cite web|url=http://www.uefa.com/uefaeuro-finals/season=2016/teams/team=47/squad/index.html|archive-url=https://web.archive.org/web/20160427121320/http://www.uefa.com/uefaeuro-finals/season=2016/teams/team=47/squad/index.html|url-status=dead|archive-date=27 April 2016|title=Germany – Squad|publisher=[[UEFA]]|access-date=11 July 2016}}</ref> On 2 July, he was forced off after sustaining an injury in the first half of the quarter-finals against [[Italy national football team|Italy]], and was ruled out for the remainder of the tournament; Germany won the match 6–5 in the resulting penalty shoot-out, following a 1–1 draw after extra-time.<ref>{{cite news|url=https://www.uefa.com/uefaeuro/history/news/0253-0d81e3c149c5-d7e77fb31e24-1000--germany-finally-defeat-italy-to-stride-into-euro-2016-semis/|title=Hector the shoot-out hero as Germany finally defeat Italy|website=[[UEFA]]|publisher=Union of European Football Associations|first=Sam|last=Adams|date=2 July 2016|access-date=3 July 2016}}</ref> As in the previous edition of the tournament, Germany were once again eliminated in the semi-finals of the competition, following a 2–0 defeat to hosts [[France national football team|France]] on 7 July.<ref>{{cite news|url=https://www.telegraph.co.uk/football/2016/07/07/germany-0-2-france-antoine-griezmanns-double-fires-hosts-into-eu/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/football/2016/07/07/germany-0-2-france-antoine-griezmanns-double-fires-hosts-into-eu/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Germany 0–2 France: Antoine Griezmann's double fires hosts into Euro 2016 final with Portugal|website=[[The Daily Telegraph]]|first=Jason|last=Burke|date=7 July 2016|access-date=7 July 2016}}{{cbignore}}</ref>
+
+During this time, Khedira was a part of a collaboration between the [[German Football Association]] and [[The LEGO Group]], who in May 2016 released a Europe-exclusive [[Lego Minifigures (theme)|collectible minifigure series]], with Khedira featured as the eleventh of sixteen [[minifigure]]s in the collection.<ref>{{cite web |url= https://www.lego.com/en-my/aboutus/news/2019/november/new-lego-dfb-minifigure-series |title= This squad will be playing for the LEGO Minifigure Series "DFB – Die Mannschaft" |author=Lego Group |date= 12 April 2016 |website= Lego.com |publisher= Lego |access-date= 28 March 2022}}</ref>
+
+===2018 World Cup===
+On 4 June 2018, Khedira was included in Joachim Löw's final 23-man squad for the [[2018 FIFA World Cup]].<ref>{{cite web|url=http://www.dw.com/en/germany-announce-final-world-cup-squad-with-manuel-neuer-without-leroy-san%C3%A9/a-44064011|title=Germany announce final World Cup squad, with Manuel Neuer, without Leroy Sané|publisher=Deutsche Welle|access-date=4 June 2018}}</ref> As Germany were eliminated in the group stage, Khedira was deemed as one of the weakest performers in the squad. After the tournament, he was left off the team for the subsequent [[2018–19 UEFA Nations League|UEFA Nations League]] matches.<ref>{{cite news |last1=Schulze |first1=Katrin |title=Für Sami Khedira reicht es nicht mehr |url=https://www.tagesspiegel.de/sport/fussball-nationalmannschaft-fuer-sami-khedira-reicht-es-nicht-mehr/22972734.html |newspaper=[[Der Tagesspiegel]] |access-date=26 December 2018 |language=de |date=29 August 2018}}</ref>
+
+==Style of play==
+Khedira is considered a dynamic and well-rounded [[midfielder]], with good awareness and "flawless aerial ability", who can cover a lot of ground efficiently, recover the ball and quickly join in the team's attacking plays; he is also capable of being a goal threat with his heading accuracy and powerful mid-range shooting.<ref name="FIFA World Cup South Africa 2010: List of Players">{{Cite news| title = FIFA World Cup South Africa 2010: List of Players| url = http://www.fifadata.com/document/fwc/2010/PDF_BackUp_2010_06_13/FWC_2010_SquadLists.pdf| publisher = FIFA| page = 11| date = 12 June 2010| access-date = 8 December 2013}}</ref><ref name="Real_profile"/> A physically strong, energetic, and tactically intelligent player, he is also known for his ball-winning abilities, work-rate, and vision, as well as his solid technique and reliable passing, which allow him to play anywhere in midfield; although usually a [[Midfielder#Central midfielder|central midfielder]], he has also been deployed as a [[Midfielder#Defensive midfielder|defensive midfielder]], as a [[Midfielder#Box-to-box midfielder|box-to-box midfielder]], or even in a more [[Midfielder#Attacking midfielder|offensive role]] as a [[Midfielder#Mezzala|mezzala]], due to his stamina, movement (both on and off the ball), positional sense, and versatility, which also enable him to create space or contribute to his team's offensive plays with goals, due to his ability to make late runs into the penalty area from behind.<ref name="Khedira signs for Juventus"/><ref name="The importance of being Sami Khedira">{{cite web|url=http://www.football-espana.net/25386/importance-being-sami-khedira|title=The importance of being Sami Khedira|publisher=Football España| first = Mina | last = Rzouki|date=26 October 2012|access-date=21 August 2016}}</ref><ref>{{cite web|url=http://www.gazzettaworld.com/features/khedira-juventus-rescue/|title=Khedira comes to Juventus' rescue|publisher=La Gazzetta dello Sport|first = Ogo | last = Sylla|date=30 September 2015|access-date=21 August 2016}}</ref><ref name="Khedira signs for Juve until 2019">{{cite web|url=http://www.marca.com/en/2015/06/09/en/football/real_madrid/1433860458.html|title=Khedira signs for Juve until 2019|publisher=Marca.com|date=6 September 2015|access-date=22 August 2016}}</ref><ref>{{cite web|url=http://www.espnfc.us/club/juventus/111/blog/post/2641208/juventus-excellent-in-europe-again-thanks-to-sami-khedira|title=Juventus excellent in Europe again thanks to Sami Khedira masterclass|publisher=ESPN FC| first =Mina | last = Rzouki|date=30 September 2015|access-date=29 May 2017}}</ref><ref>{{cite web |url=https://www.independent.co.uk/sport/football/european/juventus-vs-bayern-munich-sami-khedira-is-proving-the-perfect-complement-for-claudio-marchisio-and-a6891531.html |title=Juventus vs Bayern Munich: Sami Khedira is proving the perfect complement for Claudio Marchisio and Paul Pogba |work=The Independent |author1=Adam Digby |date=23 February 2016 |access-date=6 June 2018 }}</ref><ref>{{cite web |url=https://www.tuttojuve.com/primo-piano/allegri-gioca-il-jolly-272612 |title=ALLEGRI GIOCA IL JOLLY? |publisher=www.tuttojuve.com |language=it |author1=Massimo Pavan |date=13 February 2016 |access-date=6 June 2018 }}</ref><ref>{{cite web |url=https://gianlucadimarzio.com/en/khedira-could-depart-juventus-fiorentina-and-arsenal-are-interested |title=Khedira could depart Juventus: Fiorentina and Arsenal are interested |publisher=gianlucadimarzio.com |last1=Di Marzo |first1=Gianluca |date=25 July 2019 |access-date=28 January 2020 }}</ref><ref>{{cite web |url=https://www.marca.com/2014/07/09/en/football/international_football/1404859174.html |title=Khedira key against Brazil |publisher=Marca |date=7 September 2014 |access-date=26 April 2020 }}</ref> [[Jonathan Wilson (writer)|Jonathan Wilson]], when writing for ''[[The Guardian]]'' in 2013, described Khedira as a "destroyer with carrying tendencies," namely a holding midfielder who is predominantly tasked with running, winning back possession, and distributing the ball to other players, but who is also "capable of making late runs or carrying the ball at his feet."<ref name="WilsonHolding13">{{Cite web|url=https://www.theguardian.com/football/blog/2013/dec/18/question-holding-midfielders-changing-role|title=The Question: what does the changing role of holding midfielders tell us?|work=[[The Guardian]]|last=Wilson|first=Jonathan|author-link=Jonathan Wilson (writer)|date=18 December 2013|access-date=31 October 2014}}</ref> In spite of his playing ability, however, Khedira is also known to be injury-prone.<ref>{{cite web|url=http://www.football-italia.net/102677/juventus-%E2%82%AC25m-rafinha|title=Juventus €25m for Rafinha|publisher=Football Italia|date=16 May 2017|access-date=31 October 2017}}</ref> His playing role and style have been likened to that of compatriot [[Torsten Frings]].<ref>{{cite web |url=https://www.dw.com/en/germany-and-bremen-stalwart-torsten-frings-retires/a-16630171 |title=Germany and Bremen stalwart Torsten Frings retires |publisher=DW.COM |date=26 February 2013 |access-date=2 May 2022 }}</ref>
+
+==Broadcasting==
+In May 2021, Khedira was announced as one of several former players who would serve as studio analysts for [[ESPN]]'s coverage of the [[Impact of the COVID-19 pandemic on association football|rescheduled]] [[UEFA Euro 2020]].<ref>{{cite press release|url=https://espnpressroom.com/us/press-releases/2021/05/espn-assembles-an-all-star-roster-of-hosts-analysts-and-reporters-for-uefa-euro-2020-june-11-july-11/ |title=ESPN Assembles an All-Star Roster of Hosts, Analysts and Reporters for UEFA EURO 2020, June 11 – July 11 |publisher=ESPN |date=27 May 2021 |accessdate=28 June 2021}}</ref> He joined [[DAZN]] as an expert commentator in 2022 and extended his contract in 2025.<ref>{{cite web |url=https://dazngroup.com/press-room/dazn-verlangert-zusammenarbeit-mit-sami-khedira-der-weltmeister-wird-auch-in-der-kommenden-fusball-saison-einer-der-top-experten-sein/ |title=DAZN verlängert Zusammenarbeit mit Sami Khedira: Der Weltmeister wird auch in der kommenden Fußball-Saison einer der Top-Experten sein |publisher=DAZN Group |language=de |date=19 February 2025 }}</ref>
+
+==Coaching career==
+In July 2026, Khedira joined the coaching staff of his former coach, [[José Mourinho]], at Real Madrid as an assistant coach.<ref>{{Cite web |date=15 July 2026 |title=Technical Staff |url=https://www.realmadrid.com/en-US/football/first-team/players |access-date=19 July 2026 |publisher=[[Real Madrid CF]]}}</ref><ref>{{cite web |url=https://sport.sky.de/transfer/news/34132/13562278/sami-khedira-wird-co-trainer-bei-real-madrid-ex-weltmeister-arbeitet-unter-jose-mourinho |title=Sami Khedira wird Co-Trainer bei Real Madrid: Ex-Weltmeister arbeitet unter Jose Mourinho |publisher=Sky Sport |language=de |date=10 July 2026 }}</ref>
+
+==Personal life==
+[[File:Sami Khedira Champions for Charity 2022 (cropped).jpg|thumb|upright|right|Khedira in 2022]]
+Khedira was born in [[Stuttgart]], Baden-Württemberg to a Tunisian father and a German mother.<ref>{{cite web |title=Sami Khedira: Profile |url=https://www.worldfootball.net/person/pe28324/sami-khedira/ |access-date=27 June 2020 |website=worldfootball.net |publisher=HEIM:SPIEL}}</ref><ref>{{cite web|url=http://kurier.at/sportundmotor/fussball/1916483.php |title=Deutsche Talente und ihre Alternativen |language=de |publisher=Kurier |url-status=dead |archive-url=https://web.archive.org/web/20090619082146/http://kurier.at/sportundmotor/fussball/1916483.php |archive-date=19 June 2009 }}</ref> Sami's younger brother [[Rani Khedira|Rani]] is also a footballer,<ref>{{cite web | url = https://www.kicker.de/augsburg-angelt-sich-rani-khedira-679658/artikel | title = Augsburg angelt sich Rani Khedira | language = de | website = [[Kicker (magazine)|Kicker]] | date = 23 July 2017 | access-date = 23 July 2017}}</ref> and has represented the [[Germany national youth football team|German U19 team]].<ref>{{cite web | url = https://www.dfb.de/index.php?id=13109&action=showPlayer&player=khedira_rani&lang=D&cHash=bf2e5b7973 | title = U 15-Junioren Team Nationalspieler Rani Khedira | publisher = Deutscher Fussball-Bund | language = de | access-date = 19 August 2010}}</ref> However, Rani switched to [[Tunisia national football team|Tunisia]].<ref>{{cite web | url = https://www.reuters.com/sports/soccer/sami-khediras-brother-rani-switches-allegiance-tunisia-2026-03-05/ | title = Sami Khedira's brother Rani switches allegiance to Tunisia | website = Reuters | date = 5 March 2026 | access-date = 2 July 2026}}</ref><ref>{{cite web | url = https://sports.yahoo.com/articles/tunisia-cleared-fifa-pick-rani-103658449.html | title = Tunisia cleared by FIFA to pick Rani Khedira, brother of former Germany star Sami, for World Cup | website = Yahoo! Sports | date = 5 March 2026 | access-date = 2 July 2026}}</ref> Khedira dated German model [[Lena Gercke]] between 2011 and 2015.<ref>{{cite web |url=https://www.welt.de/vermischtes/prominente/article143691057/Sami-Khedira-und-Lena-Gercke-geben-die-Trennung-bekannt.html |title=Sami Khedira und Lena Gercke haben sich getrennt |publisher=Die Welt |language=de |date=7 July 2015 }}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[DFB-Pokal]], [[Copa del Rey]], [[Coppa Italia]]}}
+!colspan="2"|Europe{{efn|Includes [[UEFA Champions League]], [[UEFA Europa League|UEFA Cup/Europa League]], [[UEFA Intertoto Cup]]}}
+!colspan="2"|Other{{efn|Includes the [[DFL-Ligapokal]], [[Supercopa de España]], [[UEFA Super Cup]], [[FIFA Club World Cup]]}}
+!colspan="2"|Total!!rowspan="2"|{{Tooltip|Ref.|Reference}}
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[VfB Stuttgart II]]
+|[[2004–05 Regionalliga#Regionalliga Süd|2004–05]]
+|[[Regionalliga Süd (1994–2012)|Regionalliga Süd]]
+|5||0||colspan="2"|—||colspan="2" |—||colspan="2"|—||5||0
+|<ref>{{cite web|title=Khedira, Sami|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2004-05/34450/vereinsspieler_sami-khedira.html|archive-url=https://web.archive.org/web/20090730075818/http://www.kicker.de/news/fussball/bundesliga/vereine/2004-05/34450/vereinsspieler_sami-khedira.html|url-status=dead|archive-date=30 July 2009|publisher=kicker|access-date=22 March 2014|language=de}}</ref>
+|-
+|[[2005–06 Regionalliga#Regionalliga Süd|2005–06]]
+|Regionalliga Süd
+|7||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||0
+|<ref>{{cite web|title=Khedira, Sami|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2005-06/34450/vereinsspieler_sami-khedira.html|archive-url=https://web.archive.org/web/20090730075828/http://www.kicker.de/news/fussball/bundesliga/vereine/2005-06/34450/vereinsspieler_sami-khedira.html|url-status=dead|archive-date=30 July 2009|publisher=kicker|access-date=22 March 2014|language=de}}</ref>
+|-
+|[[2006–07 Regionalliga#South|2006–07]]
+|Regionalliga Süd
+|9||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||1
+|<ref name="Spieler-Statistik 2006/07">{{cite web|title=Khedira, Sami|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2006-07/34450/vereinsspieler_sami-khedira.html|archive-url=https://web.archive.org/web/20090729020309/http://www.kicker.de/news/fussball/bundesliga/vereine/2006-07/34450/vereinsspieler_sami-khedira.html|url-status=dead|archive-date=29 July 2009|publisher=kicker|access-date=22 March 2014|language=de}}</ref>
+|-
+!colspan="2"|Total
+!21!!1!!0!!0!!0!!0!!0!!0!!21!!1!!—
+|-
+|rowspan="5"|[[VfB Stuttgart]]
+|[[2006–07 VfB Stuttgart season|2006–07]]
+|[[Bundesliga]]
+|22||4||4||0||colspan="2"|—||colspan="2"|—||26||4||<ref name="Spieler-Statistik 2006/07"/>
+|-
+|[[2007–08 VfB Stuttgart season|2007–08]]
+|Bundesliga
+|24||1||4||0||5||0||1||0||34||1
+|<ref>{{cite web|title=Khedira, Sami|url=https://www.kicker.de/sami-khedira/spieler/bundesliga/2007-08/vfb-stuttgart|publisher=kicker|access-date=22 March 2014|language=de}}</ref><ref>{{cite web|title=Sami Khedira|url=http://www.fussballdaten.de/spieler/khedirasami/2008/|publisher=Fussballdaten.de|access-date=22 March 2014|language=de}}</ref>
+|-
+|[[2008–09 VfB Stuttgart season|2008–09]]
+|Bundesliga
+|27||7||2||0||8||1||colspan="2"|—||37||8
+|<ref>{{cite web|title=Khedira, Sami|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2008-09/34450/vereinsspieler_sami-khedira.html|archive-url=https://web.archive.org/web/20090729020424/http://www.kicker.de/news/fussball/bundesliga/vereine/2008-09/34450/vereinsspieler_sami-khedira.html|url-status=dead|archive-date=29 July 2009|publisher=kicker|access-date=22 March 2014|language=de}}</ref><ref>{{cite web|title=Sami Khedira|url=http://www.fussballdaten.de/spieler/khedirasami/2009/|publisher=Fussballdaten|access-date=22 March 2014|language=de}}</ref>
+|-
+|[[2009–10 VfB Stuttgart season|2009–10]]
+|Bundesliga
+|25||2||2||1||8||0||colspan="2"|—||35||3
+|<ref>{{cite web|title=Khedira, Sami|url=https://www.kicker.de/sami-khedira/spieler/bundesliga/2009-10/vfb-stuttgart|publisher=kicker|access-date=22 March 2014|language=de}}</ref>
+|-
+!colspan="2"|Total
+!98!!14!!12!!1!!21!!1!!1!!0!!132!!16!!—
+|-
+|rowspan="6"|[[Real Madrid CF|Real Madrid]]
+|[[2010–11 Real Madrid CF season|2010–11]]
+|[[La Liga]]
+|25||0||7||0||8||0||colspan="2"|—||40||0
+|<ref name="Sami Khedira » Club matches">{{cite web|title=Sami Khedira » Club matches|url=https://www.worldfootball.net/person/pe28324/sami-khedira/club-matches/|publisher=World Football|access-date=3 April 2016}}</ref>
+|-
+|[[2011–12 Real Madrid CF season|2011–12]]
+|La Liga
+|28||2||4||1||8||1||2||0||42||4
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2012–13 Real Madrid CF season|2012–13]]
+|La Liga
+|25||3||6||1||11||0||2||0||44||4
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2013–14 Real Madrid CF season|2013–14]]
+|La Liga
+|13||1||0||0||5||0||colspan="2"|—||18||1
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2014–15 Real Madrid CF season|2014–15]]
+|La Liga
+|11||0||3||0||2||0||1||0||17||0
+|<ref name="Sami Khedira » Club matches"/>
+|-
+!colspan="2"|Total
+!102!!6!!20!!2!!34!!1!!5!!0!!161!!9!!—
+|-
+|rowspan="7"|[[Juventus FC|Juventus]]
+|[[2015–16 Juventus FC season|2015–16]]
+|[[Serie A]]
+|20||5||1||0||4||0||0||0||25||5
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2016–17 Juventus FC season|2016–17]]
+|Serie A
+|31||5||3||0||11||0||1||0||46||5
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2017–18 Juventus FC season|2017–18]]
+|Serie A
+|26||9||4||0||8||0||1||0||39||9
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2018–19 Juventus FC season|2018–19]]
+|Serie A
+|10||2||2||0||4||0||1||0||17||2
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2019–20 Juventus FC season|2019–20]]
+|Serie A
+|12||0||1||0||5||0||0||0||18||0
+|<ref name="Sami Khedira » Club matches"/>
+|-
+|[[2020–21 Juventus FC season|2020–21]]
+|Serie A
+|0||0||0||0||0||0||0||0||0||0
+|<ref name="Sami Khedira » Club matches"/>
+|-
+!colspan="2"|Total
+!99!!21!!11!!0!!32!!0!!3!!0!!145!!21!!—
+|-
+|[[Hertha BSC]]
+|[[2020–21 Hertha BSC season|2020–21]]
+|Bundesliga
+|9||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
+|<ref name="Sami Khedira » Club matches"/>
+|-
+!colspan="3"|Career total
+!329!!42!!43!!3!!87!!2!!9!!0!!468!!47!!—
+|}
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="11"|[[Germany national football team|Germany]]
+|-
+|2009||1||0
+|-
+|2010||16||1
+|-
+|2011||7||0
+|-
+|2012||12||1
+|-
+|2013||8||2
+|-
+|2014||9||1
+|-
+|2015||4||0
+|-
+|2016||12||2
+|-
+|2017||3||0
+|-
+|2018||5||0
+|-
+!colspan="2"|Total||77||7
+|}
+
+:''Germany score listed first, score column indicates score after each Khedira goal''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Sami Khedira
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 10 July 2010 || [[Nelson Mandela Bay Stadium]], [[Port Elizabeth]], South Africa || {{fb|URU}} || align=center | 3–2 || align=center | 3–2 || [[2010 FIFA World Cup]]
+|-
+| align=center | 2 || 22 June 2012 || [[Stadion Energa Gdańsk]], [[Gdańsk]], Poland || {{fb|GRE}} || align=center | 2–1 || align=center | 4–2 || [[UEFA Euro 2012]]
+|-
+| align=center | 3 || 6 February 2013 || [[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France || {{fb|FRA}} || align=center | 2–1 || align=center | 2–1 || [[Exhibition game#Association football|Friendly]]
+|-
+| align=center | 4 || 11 October 2013 || [[RheinEnergieStadion]], [[Cologne]], Germany || {{fb|IRL}} || align=center | 1–0 || align=center | 3–0 || [[2014 FIFA World Cup qualification]]
+|-
+| align=center | 5 || 26 June 2014 || [[Mineirão]], [[Belo Horizonte]], Brazil || {{fb|BRA}} || align=center | 5–0 || align=center | [[Brazil v Germany (2014 FIFA World Cup)|7–1]] || [[2014 FIFA World Cup]]
+|-
+| align=center | 6 || 11 October 2016 || [[Niedersachsenstadion|HDI Arena]], [[Hanover]], Germany || {{fb|NIR}} || align=center | 2–0 || align=center | 2–0 || rowspan=2|[[2018 FIFA World Cup qualification]]
+|-
+| align=center | 7 || 11 November 2016 || [[San Marino Stadium]], [[Serravalle (San Marino)|Serravalle]], San Marino ||  {{fb|SMR}} || align=center | 1–0 || align=center | 8–0
+|}
+
+==Honours==
+[[File:Sami Khedira.jpg|thumb|200px|Khedira celebrates winning the [[Bundesliga]] with [[VfB Stuttgart]] in [[2006–07 Bundesliga|2007]].]]
+
+'''VfB Stuttgart'''<ref name="soccerway">{{cite web | url = https://int.soccerway.com/players/sami-khedira/4519/ | title = S. Khedira | publisher = soccerway.com | access-date = 17 July 2014}}</ref>
+*[[Bundesliga]]: [[2006–07 Bundesliga|2006–07]]<ref name="fussballdaten.de">{{cite web | url = http://www.fussballdaten.de/spieler/khedirasami/2014/ | title = Sami Khedira | language = de | publisher = fussballdaten.de | access-date = 17 July 2014}}</ref>
+
+'''Real Madrid'''<ref name="soccerway"/>
+*[[La Liga]]: [[2011–12 La Liga|2011–12]]
+*[[Copa del Rey]]: [[2010–11 Copa del Rey|2010–11]], [[2013–14 Copa del Rey|2013–14]]
+*[[Supercopa de España]]: [[2012 Supercopa de España|2012]]
+*[[UEFA Champions League]]: [[2013–14 UEFA Champions League|2013–14]]<ref>{{cite web | url = https://www.kicker.de/real-madrid-gegen-atl-madrid-2014-champions-league-2395830/analyse | title = Der Traum ist wahr: Real gewinnt "La Décima" | language = de | publisher = [[Kicker (magazine)|Kicker]] | date = 24 May 2014 | access-date = 17 July 2014}}</ref>
+*[[UEFA Super Cup]]: [[2014 UEFA Super Cup|2014]]
+*[[FIFA Club World Cup]]: [[2014 FIFA Club World Cup|2014]]
+
+'''Juventus'''<ref name="soccerway"/>
+*[[Serie A]]: [[2015–16 Serie A|2015–16]], [[2016–17 Serie A|2016–17]], [[2017–18 Serie A|2017–18]], [[2018–19 Serie A|2018–19]], [[2019–20 Serie A|2019–20]]
+*[[Coppa Italia]]: [[2015–16 Coppa Italia|2015–16]], [[2016–17 Coppa Italia|2016–17]], [[2017–18 Coppa Italia|2017–18]]
+*[[Supercoppa Italiana]]: [[2018 Supercoppa Italiana|2018]]
+* [[UEFA Champions League]] runner-up: [[2016–17 UEFA Champions League|2016–17]]
+
+'''Germany U21'''
+*[[UEFA European Under-21 Championship]]: [[2009 UEFA European Under-21 Championship|2009]]<ref>{{cite web |url=https://www.uefa.com/under21/match/2001198--germany-vs-england/lineups/?iv=true |title=Final: Germany 4–0 England: Line-ups |publisher=UEFA |access-date=30 June 2020}}</ref>
+
+'''Germany'''
+*[[FIFA World Cup]]: [[2014 FIFA World Cup|2014]]<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/round=255959/match=300186501/report.html |title=Match report: Germany – Argentina |publisher=FIFA |archive-url=https://web.archive.org/web/20190817004102/https://www.fifa.com/worldcup/matches/round=255959/match=300186501/report.html |archive-date=17 August 2019}}</ref>
+
+'''Individual'''
+*[[UEFA European Championship Team of the Tournament]]: [[UEFA Euro 2012#Awards|2012]]<ref>{{cite web|title=Ten Spain players in Team of the Tournament|date = 2 July 2012|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7ed20b7bd1-cded9ff294f6-1000--ten-spain-players-in-team-of-the-tournament/|publisher=[[UEFA]]|access-date=5 October 2016}}</ref>
+
+'''Orders'''
+* [[File:Silbernes_Lorbeerblatt_ribbon.png|50px]] [[Silbernes Lorbeerblatt]]: 2010,<ref>{{cite web|url=http://www.rp-online.de/sport/fussball/nationalelf/wm/dfb/DFB-Elf-erhaelt-Silbernes-Lorbeerblatt_bid_59101.html|title=DFB-Elf erhält Silbernes Lorbeerblatt|access-date=19 December 2010|language=de|work=[[Rheinische Post]]|archive-url=https://web.archive.org/web/20101229043204/http://www.rp-online.de/sport/fussball/nationalelf/wm/dfb/DFB-Elf-erhaelt-Silbernes-Lorbeerblatt_bid_59101.html|archive-date=29 December 2010|url-status=dead}}</ref> 2014<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0253-0d7f8c2081ab-69397326aee8-1000--government-honour-germany-for-brazil-triumph/ |title=Government honour Germany for Brazil triumph |publisher=UEFA |date=10 November 2014 }}</ref>
+* [[File:DE-BW_Verdienstmedaille_des_Landes_Baden-Württemberg_BAR.png|50px]] [[Order of Merit of Baden-Württemberg]]: 2016<ref>{{cite web | url = http://www.sport1.de/fussball/2016/07/sami-khedira-erhaelt-verdienstorden-von-baden-wuerttemberg | title = Khedira mit Verdienstorden geehrt | language = de | publisher = sport1.de | date = 31 July 2016 | access-date = 3 August 2016 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website}}
+* [https://www.realmadrid.com/en-US/the-club/history/football-legends/sami-khedira Profile] at the Real Madrid CF website
+* {{DFB}}
+* {{FIFA player}}
+* {{UEFA player}}
+
+{{Navboxes
+| title = Germany squads
+| bg = white
+| fg = black
+| bordercolor = black
+| list1 =
+{{Germany squad 2010 FIFA World Cup}}
+{{Germany squad UEFA Euro 2012}}
+{{Germany squad 2014 FIFA World Cup}}
+{{Germany squad UEFA Euro 2016}}
+{{Germany squad 2018 FIFA World Cup}}
+}}
+{{UEFA Euro 2012 Team of the Tournament}}
+{{Authority control}}
+
+{{DEFAULTSORT:Khedira, Sami}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Footballers from Stuttgart]]
+[[Category:German men's footballers]]
+[[Category:Germany men's youth international footballers]]
+[[Category:Germany men's under-21 international footballers]]
+[[Category:Germany men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:VfB Stuttgart II players]]
+[[Category:VfB Stuttgart players]]
+[[Category:Real Madrid CF players]]
+[[Category:Juventus FC players]]
+[[Category:Hertha BSC players]]
+[[Category:Regionalliga players]]
+[[Category:Bundesliga players]]
+[[Category:La Liga players]]
+[[Category:Serie A players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:FIFA World Cup–winning players]]
+[[Category:German expatriate men's footballers]]
+[[Category:German expatriate sportspeople in Italy]]
+[[Category:German expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Recipients of the Order of Merit of Baden-Württemberg]]
+[[Category:German people of Tunisian descent]]
+[[Category:21st-century German sportsmen]]
+[[Category:Sportspeople of Tunisian descent]]
+[[Category:Recipients of the Silver Laurel Leaf]]

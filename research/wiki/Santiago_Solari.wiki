@@ -1,0 +1,368 @@
+<!-- Santiago Solari | revision 2026-08-17T03:04:49Z -->
+{{Short description|Argentine footballer and manager (born 1976)}}
+{{For|the active Argentine football winger|Santiago Solari (footballer, born 1998)}}
+{{family name hatnote|Solari|Poggio|lang=Spanish}}
+{{Use dmy dates|date=May 2023}}
+{{Infobox football biography
+| name = Santiago Solari
+| image = Santiago Solari (cropped).jpg
+| caption = Solari in 2019
+| full_name = Santiago Hernán Solari Poggio
+| birth_date = {{birth date and age|1976|10|7|df=y}}<ref name=FIFA>{{cite web|url=http://www.fifa.com/mm/document/tournament/competition/95/12/84/fcwc_2009_squadlists.pdf|title=FIFA Club World Cup UAE 2009 presented by Toyota: List of Players|publisher=FIFA|page=2|date=9 December 2009|access-date=24 December 2022|url-status=dead|archive-url=https://web.archive.org/web/20120902182958/http://www.fifa.com/mm/document/tournament/competition/95/12/84/fcwc_2009_squadlists.pdf|archive-date=2 September 2012}}</ref>
+| birth_place = [[Rosario]], Argentina
+| height = 1.84 m<ref name=FIFA/>
+| position = [[Left midfielder]]
+| currentclub = [[Real Madrid CF|Real Madrid]] (director of football)
+| collegeyears1 = 1994 | college1 = [[Stockton University|Stockton Ospreys]]
+| youthyears1 = 1994–1995 | youthclubs1 = [[Newell's Old Boys]]
+| youthyears2 = 1995–1996 | youthclubs2 = [[Club Renato Cesarini]]
+| years1 = 1996–1998 | clubs1 = [[Club Atlético River Plate|River Plate]] | caps1 = 67 | goals1 = 13
+| years2 = 1999–2000 | clubs2 = [[Atlético Madrid]] | caps2 = 46 | goals2 = 7
+| years3 = 2000–2005 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 131 | goals3 = 10
+| years4 = 2005–2008 | clubs4 = [[Inter Milan]] | caps4 = 39 | goals4 = 4
+| years5 = 2008–2009 | clubs5 = [[San Lorenzo de Almagro|San Lorenzo]] | caps5 = 26 | goals5 = 4
+| years6 = 2009–2010 | clubs6 = [[Atlante F.C.|Atlante]] | caps6 = 33 | goals6 = 5
+| years7 = 2010–2011 | clubs7 = [[Peñarol]] | caps7 = 9 | goals7 = 0
+| totalcaps = 351 | totalgoals = 43
+| nationalyears1 = 1999–2004 | nationalteam1 = [[Argentina national football team|Argentina]] | nationalcaps1 = 11 | nationalgoals1 = 1
+| manageryears1 = 2016–2018 | managerclubs1 = [[Real Madrid Castilla]]
+| manageryears2 = 2018–2019 | managerclubs2 = [[Real Madrid CF|Real Madrid]]
+| manageryears3 = 2020–2022 | managerclubs3 = [[Club América|América]]
+}}
+'''Santiago Hernán Solari Poggio''' (born 7 October 1976) is an Argentine professional [[association football|football]] [[manager (association football)|manager]] and former player who played as a [[left midfielder]]. A product of [[Club Atlético River Plate|River Plate]]'s extensive youth academy names, where he made his professional debut in 1996, Solari then went to play for two [[La Liga|LaLiga]] clubs, [[Atlético Madrid]] and [[Real Madrid CF|Real Madrid]], and for [[Serie A]] club [[Inter Milan]].
+
+Solari began working as a coach in 2013, going on to spend several years associated with Real Madrid in different capacities.
+
+==Playing career==
+===Club===
+====Early career and River====
+Born in [[Rosario]], Santa Fe,<ref>{{cite news|url=https://observador.pt/2018/11/12/solari-deixa-de-ser-interino-e-deve-ser-anunciado-como-novo-treinador-principal-do-real-madrid/|title=Solari deixa de ser interino e deve ser anunciado como novo treinador principal do Real Madrid|trans-title=Solari is no longer interim and must be announced as Real Madrid's new head coach|newspaper=[[Observador]]|first=Mariana|last=Fernandes|language=pt|date=12 November 2018|access-date=3 February 2023}}</ref> Solari played youth football for [[Newell's Old Boys]] and Renato Cesarini, after returning from the United States where he attended [[Stockton University|Richard Stockton College]] in [[New Jersey]].<ref>{{cite web|url=http://intraweb.stockton.edu/eyos/athletics/content/docs/mens%20soccer%20guide.pdf|title=2010 Stockton Men's Soccer|publisher=Stockton University|page=31|access-date=27 October 2011}}</ref> He joined [[Club Atlético River Plate|River Plate]] midway through the [[1995–96 Argentine Primera División|1995–96 season]], making his [[Argentine Primera División|Primera División]] debut on 12 May.
+
+Solari appeared in 24 league games in his [[1996–97 Argentine Primera División|first full campaign]], helping River to both the [[Apertura and Clausura]] tournaments.<ref name=HONOURS1>{{cite web|url=https://dechalaca.com/hemeroteca/que-nivel/river-plate-1996-1997-cinco-millonarias-copas|title=River Plate 1996–1997: Cinco millonarias copas|trans-title=River Plate 1996–1997: Five cups worth a million|publisher=Dechalaca|first=José Carlos|last=Álvarez|language=es|date=5 August 2015|access-date=11 February 2022}}</ref>
+
+====Atlético Madrid====
+Solari moved to Spain late in the 1999 January [[transfer window]], signing with [[Atlético Madrid]]. He played his first [[La Liga]] game on 7 February, in a 2–1 away loss against [[UD Salamanca|Salamanca]].<ref>{{cite news|url=https://elpais.com/diario/1999/02/08/deportes/918428416_850215.html|title=Al Atlético le sacan los colores|trans-title=Atlético drained|newspaper=[[El País]]|first=José|last=Miguelez|language=es|date=8 February 1999|access-date=2 November 2017}}</ref>
+
+Solari had his best individual season in [[1999–2000 La Liga|1999–2000]] when he scored six goals in 34 matches, but the ''Colchoneros'' were relegated from the top division.<ref name=ABC>{{cite news|url=https://www.abc.es/deportes/real-madrid/abci-solari-jugador-rojiblanco-hasta-descenso-201902080232_noticia.html|title=Solari, jugador rojiblanco hasta el descenso|trans-title=Solari, red-and-white player until the relegation|newspaper=[[ABC (newspaper)|ABC]]|first=Tomás|last=González-Martín|language=es|date=8 February 2019|access-date=11 February 2022}}</ref>
+
+====Real Madrid====
+Subsequently, Solari moved across [[Madrid|the city]] to join [[Real Madrid CF|Real Madrid]], who paid Atlético his [[buyout clause]] of 600 million [[Spanish peseta|pesetas]].<ref name=ABC/> After a poor [[2000–01 La Liga|first season]] he became a regular, albeit as a [[Substitute (association football)|substitute]]; in [[2002 UEFA Champions League Final|the final]] of the [[2001–02 UEFA Champions League]], in which he played the full 90 minutes, he was involved in the play that led to [[Zinedine Zidane]]'s wonder strike against [[Bayer 04 Leverkusen|Bayer Leverkusen]], in an eventual 2–1 win.<ref name=UCL>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/champions_league/1984398.stm|title=Real crowned champions of Europe|publisher=[[BBC Sport]]|date=15 May 2002|access-date=6 April 2012}}</ref>
+
+Solari's best season with Real was [[2003–04 La Liga|2003–04]], but his five goals from 34 appearances – 15 starts, 1,539 minutes of action – could only help the side to the fourth position in the league. During his five-year spell he also played 49 matches in the Champions League, netting seven times.<ref>{{cite web|url=https://www.rsssf.org/players/realmadrid-in-ec.html|title=Real Madrid CF – All the players in European Cups|publisher=[[RSSSF]]|first=Emilio|last=Pla Díaz|access-date=5 May 2014}}</ref>
+
+====Inter and later years====
+Solari signed a three-year contract with [[Inter Milan]] in the summer of 2005 for [[Euro|€]]6 million,<ref>Page 18–19: ''Attivo: immobilizzazioni immateriali: Acquisti:'' FC Internazionale Milano SpA ''bilancio'' (financial report and accounts) on 30 June 2006 (in Italian), [http://www.registroimprese.it PDF purchased from Italian CCIAA]</ref><ref>Page 7: ''Movimentazione diritti pluriennali alle prestazioni calciatori'', FC Internazionale Milano SpA ''bilancio'' (financial report and accounts) on 30 June 2007 (in Italian), [http://www.registroimprese.it PDF purchased from Italian CCIAA]</ref> being sparingly used during his three-year stint (maximum 21 games in [[2006–07 Serie A|his second season]]) but winning three consecutive [[Serie A]] titles to add to his trophy cabinet, the [[2005–06 Serie A|2006 edition]] due to the [[2006 Italian football scandal|Calciopoli scandal]].<ref name=HONOURS2>{{cite web|url=https://tribuna.com/it/news/inter-2020-03-04-solari-ricorda-ho-fatto-parte-di-uninter-incredibile-che-vinse-tre-scudetti-di-fila/|title=Solari ricorda: "Ho fatto parte di un'Inter incredibile che vinse tre Scudetti di fila"|trans-title=Solari rememberes: "I was part of an amazing Inter who won three ''Scudetti'' in a row"|publisher=Tribuna|language=it|date=26 November 2018|access-date=11 February 2022}}</ref><ref name=HONOURS3>{{cite web|url=https://www.goal.com/it/notizie/real-madrid-inter-flop-da-tecnico-carriera-solari/frdxf7k56g4s1ktb2jsx5jrje|title=Il Real Madrid, l'Inter e il flop da tecnico: la carriera del 'Principito' Solari|trans-title=Real Madrid, Inter and failure as manager: the career of 'Little Prince' Solari|publisher=[[Goal (website)|Goal]]|first=Vittorio|last=Rotondaro|language=it|date=7 October 2021|access-date=11 February 2022}}</ref>
+
+On 30 June 2008, Solari's contract with the ''Nerazzurri'' expired and he joined [[San Lorenzo de Almagro|San Lorenzo]] shortly after.<ref>{{cite web|url=https://www.infobae.com/2008/08/28/400052-solari-llega-manana/|title=Solari llega mañana|trans-title=Solari arrives tomorrow|publisher=[[Infobae]]|language=es|date=28 August 2008|access-date=11 February 2022}}</ref> On 9 July of the following year, he moved teams and countries again and signed with [[Atlante F.C.|Atlante]] from Mexico, again on a [[Free transfer (association football)|free transfer]].<ref>{{cite news|url=https://www.laprensa.hn/deportes/santiago-solari-presentado-en-el-atlante-BALP508081|title=Santiago Solari presentado en el Atlante|trans-title=Santiago Solari presented at Atlante|newspaper=[[La Prensa (Honduras)|La Prensa]]|language=es|date=23 July 2009|access-date=11 February 2022}}</ref>
+
+In early September 2010, the 34-year-old Solari signed with Uruguayan club [[Peñarol]] for one year, yet again as a [[free agent]].<ref>{{cite web|url=http://www.tuttomercatoweb.com/?action=read&id=227533|title=Penarol, preso Solari|trans-title=Peñarol, Solari acquired|publisher=Tutto Mercato Web|first=Matteo|last=Magrini|language=it|date=2 September 2010|access-date=6 April 2012}}</ref> He retired after only a couple of months.
+
+===International===
+Solari made eleven [[Cap (sport)|appearances]] for the [[Argentina national football team|Argentina national team]] in five years,{{Clarify|reason=What matches he appeared against, especially his first?|date=June 2024}} but was not selected for any major international tournaments.<ref>{{Cite news|title=Padres e hijos que jugaron para la selección argentina|trans-title=Fathers and sons who played for the Argentina national team|url=https://mundod.lavoz.com.ar/futbol/padres-e-hijos-que-jugaron-para-la-seleccion-argentina|url-status=dead|newspaper=[[La Voz del Interior]]|date=9 September 2018|language=es|archive-url=https://web.archive.org/web/20190424193813/https://mundod.lavoz.com.ar/futbol/padres-e-hijos-que-jugaron-para-la-seleccion-argentina|archive-date=24 April 2019}}</ref>
+
+==Coaching career==
+===Real Madrid===
+Solari started working as a manager in 2013, first being in charge of [[Real Madrid CF (youth)|Real Madrid's youths]].<ref>{{cite news|url=https://www.diariopopular.com.ar/futbol/santiago-solari-entrenara-al-juvenil-del-real-madrid-n246965|title=Santiago Solari entrenará al Juvenil A del Real Madrid|trans-title=Santiago Solari will coach Real Madrid's ''Juvenil A''|newspaper=[[Diario Popular]]|language=es|date=5 January 2016|access-date=29 October 2018}}</ref><ref>{{cite news|url=http://www.elgrafico.com.ar/2016/05/13/C-9469-santiago-solari-a-paso-firme-en-la-casa-blanca.php|title=Santiago Solari, a paso firme en la Casa Blanca|trans-title=Santiago Solari, going steady in the White House|newspaper=[[El Gráfico (Argentina)|El Gráfico]]|first=Diego|last=Borinsky|language=es|date=13 May 2016|access-date=29 October 2018}}</ref> Ahead of the [[2016–17 Segunda División B|2016–17 season]], he was appointed at [[Real Madrid Castilla|the reserves]] who competed in [[Segunda División B]].<ref>{{cite web|url=https://capitaldeporte.com/solari-nuevo-entrenador-castila/|title=Solari ya es nuevo entrenador del Castilla|trans-title=Solari is already the new manager of Castilla|publisher=Capital Deporte|first=Carlos V.|last=Gómez Bermejo|language=es|date=19 July 2016|access-date=29 October 2018}}</ref>
+
+On 29 October 2018, Solari was named [[caretaker manager]] of the first team after the dismissal of [[Julen Lopetegui]]. He assumed the role the next day,<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/10/official-announcement-5|title=Official announcement|publisher=Real Madrid CF|date=29 October 2018|access-date=29 October 2018}}</ref> and became the official coach 14 days later because in Spain no club was allowed to have a caretaker for more than two weeks.<ref>{{cite news|url=https://www.marca.com/en/football/real-madrid/2018/11/12/5be97da4468aeba10c8b45a7.html|title=Solari is officially the new Real Madrid coach|newspaper=[[Marca (newspaper)|Marca]]|first1=Miguel Ángel|last1=Lara|first2=Charlie|last2=Brooke|date=12 November 2018|access-date=13 November 2018}}</ref><ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/11/official-announcement-solari|title=Official announcement: Solari|publisher=Real Madrid CF|date=13 November 2018|access-date=14 November 2018}}</ref> He won the [[2018 FIFA Club World Cup|FIFA Club World Cup]] during his tenure, extending Real's reign in the competition to three consecutive titles.<ref name=Legend>{{cite news|url=https://www.marca.com/futbol/mundial-de-clubes/cronica/2018/12/22/5c1e81a2e5fdea02688b4580.html|title=El Madrid agranda su leyenda|trans-title=Madrid largen their legend|newspaper=Marca|first=José María|last=Rodríguez|language=es|date=22 December 2018|access-date=22 December 2018}}</ref>
+
+Solari was sacked on 11 March 2019, following a humiliating elimination from the [[2018–19 UEFA Champions League|UEFA Champions League]] by [[AFC Ajax|Ajax]] and replaced by his former teammate [[Zinedine Zidane]].<ref>{{cite web|url=https://www.realmadrid.com/en/news/2019/03/official-announcement|title=Official announcement|publisher=Real Madrid CF|date=11 March 2019|access-date=11 March 2019}}</ref>
+
+===Club América===
+On 29 December 2020, Solari was unveiled as the new manager of [[Club América]] from Mexico after signing a two-year contract, replacing the fired [[Miguel Herrera]].<ref>{{cite web|url=https://www.goal.com/en-us/news/ex-madrid-coach-solari-unveiled-as-new-america-boss/cq061te0mtaq1dgnw1a5hcy97|title=Ex-Madrid coach Solari unveiled as new America boss|publisher=Goal|date=29 December 2020|access-date=29 December 2020}}</ref> He did not obtain his work permit in time, and as a result could not be on the sideline for the team's opening match of [[2020–21 Liga MX season|the season]] against [[Atlético San Luis]].<ref>{{cite web|url=https://www.telemundodeportes.com/liga-mx/por-que-santiago-solari-no-podra-debutar-en-el-banquillo-del-america|title=Por qué Santiago Solari no podrá debutar en el banquillo del América|trans-title=Why will Santiago Solari not be able to debut in América's bench|publisher=[[Telemundo Deportes]]|first=Ernesto|last=Espinosa|language=es|date=8 January 2021|access-date=22 February 2021}}</ref> He made his [[Liga MX]] debut the following week in a 1–0 away defeat to [[C.F. Monterrey|Monterrey]],<ref>{{cite news|url=https://en.as.com/en/2021/01/17/football/1610906627_406866.html|title=Club América loses to Monterrey on Solari's debut|newspaper=[[Diario AS]]|first=Rodrigo|last=Serrano|date=17 January 2021|access-date=22 February 2021}}</ref> and earned his first win against [[FC Juárez|Juárez]] on 26 January.<ref>{{cite news|url=https://www.eluniversal.com.mx/universal-deportes/futbol/america-vs-juarez-en-vivo-jornada-3-guardianes-2021|title=América derrotó a Juárez FC en el Estadio Azteca|trans-title=América beat Juárez FC at the Azteca Stadium|newspaper=[[El Universal (Mexico City)|El Universal]]|language=es|date=26 January 2021|access-date=22 February 2021}}</ref> He led the side to a second-place finish in the general table, but was eliminated in the quarter-finals by [[C.F. Pachuca|Pachuca]].<ref>{{cite news|url=https://www.ole.com.ar/informacion-general/santiago-solari-america-liga-mexico_0_XeotRoL1G.html|title=Santiago Solari revolucionó América|trans-title=Santiago Solari undertook revolution at América|newspaper=[[Olé (sports newspaper)|Olé]]|language=es|date=19 August 2021|access-date=20 August 2021}}</ref>
+
+América began the [[2021–22 Liga MX season#Torneo Apertura|Apertura 2021]] tournament with four victories and one draw from five matches, taking Solari's total tally with the club to 18 wins from his first 27 games, tying the mark set by [[Leo Beenhakker]] during the [[1994–95 Mexican Primera División season|1994–95 campaign]].<ref>{{cite web|url=https://onefootball.com/en/news/santiago-solari-has-tied-leo-beenhakkers-record-33605676|title=Santiago Solari has tied Leo Beenhakker's record|publisher=One Football|first=Blaise|last=Bourgeois|date=19 August 2021|access-date=20 August 2021}}</ref> He guided them to [[2021 CONCACAF Champions League|the final]] of the [[CONCACAF Champions League]] in late October, losing 1–0 to Monterrey.<ref name=CCL>{{cite news|url=https://us.marca.com/claro/futbol/concachampions/2021/10/29/617b7498e2704ec0148b4598.html|title=Monterrey gana su quinta Concachampions con dos decisiones polémicas de VAR|trans-title=Monterrey win their fifth Concachampions with two controversial VAR decisions|newspaper=Marca|language=es|date=28 October 2021|access-date=11 February 2022|archive-date=11 February 2022|archive-url=https://web.archive.org/web/20220211224430/https://us.marca.com/claro/futbol/concachampions/2021/10/29/617b7498e2704ec0148b4598.html|url-status=dead}}</ref> The team finished the Apertura regular phase first in the table with 37 points, though once again falling at the [[Apertura 2021 Liga MX championship stage#Quarter-finals|quarter-final stage]], being ousted by [[Pumas UNAM|Club Universidad Nacional]] 3–1 on aggregate; they had managed to remain unbeaten at [[Estadio Azteca|home]] throughout the 2021 calendar year (winning 13 and drawing three).<ref>{{cite web|url=https://www.goal.com/es-mx/noticias/estadio-azteca-guarida-infranqueable-solari-hacer-pesar/dkn5wbfxgdxf181de21dhxgk1|title=Estadio Azteca, la guarida infranqueable que Solari no pudo hacer pesar|trans-title=Azteca Stadium, the unsurmountable fortress Solari could not make prevail|publisher=Goal|first=Salvador|last=Pérez|language=es|date=28 November 2021|access-date=3 January 2022}}</ref>
+
+Solari was dismissed on 2 March 2022, after a poor run of results, departing after eight games in the Grita México Clausura 2022.<ref>{{cite news|url=https://www.marca.com/claro-mx/futbol/liga-mx/2022/03/02/621f9d36e2704e548d8b45f2.html|title=Santiago Solari es destituido del América|trans-title=Santiago Solari is dismissed by América|newspaper=Marca|first=Tania|last=Suárez|language=es|date=2 March 2022|access-date=3 March 2022}}</ref>
+
+==Style of play==
+A dynamic and versatile left-footed [[Midfielder#Winger|winger]], with excellent technical ability, Solari was mainly known for his [[Dribbling#Association football|dribbling]] skills, although he was also an accurate passer and was capable of striking the ball from distance with both feet.<ref>{{cite news|url=http://archiviostorico.gazzetta.it/2002/agosto/23/Solari_esterno_che_manca_Garantisce_ga_0_0208235557.shtml|title=Solari è l' esterno che manca – Garantisce qualità e quantità|trans-title=Solari is the missing winger – He guarantees quality and quantity|newspaper=[[La Gazzetta dello Sport]]|first=Giovanni Battista|last=Olivero|language=it|date=23 August 2002|access-date=1 March 2015}}</ref>
+
+==Broadcasting==
+Since 2010, Solari worked as pundit for [[ESPN]].<ref>{{cite web|url=https://www.multichannel.com/news/espn-taps-quintet-first-world-cup-analysts-375479|title=ESPN taps quintet of analysts|publisher=[[Multichannel News]]|first=Mike|last=Reynolds|date=3 December 2013|access-date=9 January 2019}}</ref><ref>{{cite web|url=https://espnmediazone.com/us/bios/santiago-solari/|title=Sr. Soccer Analyst|publisher=ESPN Media Zone|access-date=9 January 2019}}</ref>
+
+==Personal life==
+[[file:Football against poverty 2014 - Santiago Solari.jpg|thumb|upright|Solari playing in the 2014 [[Match Against Poverty]]]]
+Nicknamed ''Indiecito'' (''Little Indian'' in Spanish), Solari came from a sporting family: his uncle [[Jorge Solari|Jorge]], his father Eduardo and two of his four siblings, younger [[Esteban Solari|Esteban]] and [[David Solari (footballer)|David]], were also footballers.<ref>{{cite web|url=http://clubs.pathfinder.gr/esteban_solari/452665|title=Esteban Solari|publisher=Pathfinder|language=el|access-date=6 April 2012|url-status=dead|archive-url=https://web.archive.org/web/20120609220312/http://clubs.pathfinder.gr/esteban_solari/452665|archive-date=9 June 2012}}</ref><ref>{{cite web|url=https://www.mediotiempo.com/futbol/liga-mx/santiago-solari-esta-feliz-bombini|title=Santiago Solari está feliz: Bombini|trans-title=Santiago Solari is happy: Bombini|publisher=Medio Tiempo|language=es|date=17 July 2009|access-date=11 February 2022}}</ref><ref>{{cite web|url=http://www.uefa.com/memberassociations/association=isr/news/newsid=1746937.html|archive-url=https://web.archive.org/web/20120204023551/http://www.uefa.com/memberassociations/association=isr/news/newsid=1746937.html|url-status=dead|archive-date=4 February 2012|title=Kiryat Shmona shaking up Israel|publisher=UEFA|first=Boaz|last=Goren|date=1 February 2012|access-date=6 April 2012}}</ref> His younger sister, [[Liz Solari|Liz]], worked as an actress.<ref>{{cite news|url=https://www.elmundo.es/loc/famosos/2018/10/31/5bd88af922601dbf698b45ac.html|title=La "barbie perfecta": así es la hermana de Solari, el nuevo entrenador del Real Madrid|trans-title=The "perfect barbie": meet the sister of Solari, the new manager of Real Madrid|newspaper=El Mundo|first=Lorena|last=Álvarez|language=es|date=31 October 2018|access-date=19 December 2018}}</ref> He is of Spanish and Italian descent.<ref>{{Cite web|url=https://www.express.de/sport/fussball/1-fc-koeln/jorge-mer-liegt-angebot-von-club-am-rica-aus-mexiko-vor-85081|title="Habe das Gefühl, dass er weg will": Baumgart bestätigt Merés Wechselwunsch – FC sucht Alternative|date=13 January 2022|website=EXPRESS}}</ref>
+
+His uncle Jorge played for several clubs during his career, mostly River Plate, whilst his cousin Natalia married [[Fernando Redondo]] who also represented Real Madrid. All but David played for Argentina.<ref>{{cite news|url=http://old.ole.com.ar/diario/1999/10/30/r-02601e.htm|title=Que hoy nos dejen muy bien parados|trans-title=May our name be held very high today|newspaper=Olé|first=Enrique|last=Romero|language=es|date=30 October 1999|access-date=7 November 2016}}</ref><ref>{{cite web|url=http://www.futebolportenho.com.br/2011/12/20/familiares-na-selecao-argentina-parte-2-os-solari/|title=Familiares na Seleção Argentina – Parte 2: os Solari|trans-title=Relatives in the Argentine national team – Part 2: the Solaris|publisher=Futebol Portenho|first=Caio|last=Brandão|language=pt|date=20 December 2011|access-date=19 December 2018}}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition<ref>{{BDFutbol}}</ref>{{citation needed|date=December 2024}}
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup{{efn|Includes [[Copa del Rey]], [[Coppa Italia]].}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Club Atlético River Plate|River Plate]]
+|[[1996–97 Argentine Primera División|1996–97]]
+|rowspan="3"|[[Argentine Primera División|Primera División]]
+|24||2||colspan="2"|—||1||0||colspan="2"|—||25||2
+|-
+|[[1997–98 Argentine Primera División|1997–98]]
+|27||6||colspan="2"|—||9||1||colspan="2"|—||36||7
+|-
+|[[1998–99 Argentine Primera División|1998–99]]
+|16||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||5
+|-
+!colspan="2"|Total
+!67!!13!!colspan="2"|—!!10!!1!!colspan="2"|—!!77!!14
+|-
+|rowspan="3"|[[Atlético Madrid]]
+|[[1998–99 Atlético Madrid season|1998–99]]
+|rowspan="2"|[[La Liga]]
+|12||1||3||0||1||0||colspan="2"|—||16||1
+|-
+|[[1999–2000 Atlético Madrid season|1999–2000]]
+|34||6||4||0||7||0||colspan="2"|—||45||6
+|-
+!colspan="2"|Total
+!46!!7!!7!!0!!8!!0!!0!!0!!61!!7
+|-
+|rowspan="6"|[[Real Madrid CF|Real Madrid]]
+|[[2000–01 Real Madrid CF season|2000–01]]
+|rowspan="5"|La Liga
+|14||1||1||0||10||1||0||0||25||2
+|-
+|[[2001–02 Real Madrid CF season|2001–02]]
+|28||1||9||0||14||4||2||0||53||5
+|-
+|[[2002–03 Real Madrid CF season|2002–03]]
+|28||0||3||1||11||0||2||0||44||1
+|-
+|[[2003–04 Real Madrid CF season|2003–04]]
+|34||5||9||2||9||2||1||0||53||9
+|-
+|[[2004–05 Real Madrid CF season|2004–05]]
+|27||3||2||2||5||0||colspan="2"|—||34||5
+|-
+!colspan="2"|Total
+!131!!10!!24!!5!!57!!7!!5!!0!!217!!22
+|-
+|rowspan="4"|[[Inter Milan]]
+|[[2005–06 Inter Milan season|2005–06]]
+|rowspan="3"|[[Serie A]]
+|13||3||7||2||6||0||0||0||26||5
+|-
+|[[2006–07 Inter Milan season|2006–07]]
+|21||1||5||0||4||0||0||0||30||1
+|-
+|[[2007–08 Inter Milan season|2007–08]]
+|5||0||5||1||5||0||0||0||15||1
+|-
+!colspan="2"|Total
+!39!!4!!17!!3!!15!!0!!0!!0!!71!!7
+|-
+|[[San Lorenzo de Almagro|San Lorenzo]]
+|[[2008–09 Argentine Primera División season|2008–09]]
+|Primera División
+|26||4||colspan="2"|—||3||0||colspan="2"|—||29||4
+|-
+|rowspan="3"|[[Atlante F.C.|Atlante]]
+|[[2009–10 Mexican Primera División season|2009–10]]
+|rowspan="2"|[[Liga MX]]
+|29||4||colspan="2"|—||colspan="2"|—||5||0||34||4
+|-
+|[[2010–11 Mexican Primera División season|2010–11]]
+|4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||1
+|-
+!colspan="2"|Total
+!33!!5!!colspan="2"|—!!colspan="2"|—!!5!!0!!38!!5
+|-
+|[[Peñarol]]
+|[[2010–11 Uruguayan Primera División season|2010–11]]
+|[[Uruguayan Primera División|Primera División]]
+|9||0||colspan="2"|—||2||0||colspan="2"|—||11||0
+|-
+!colspan="3"|Career total
+!351!!43!!48!!8!!87!!8!!10!!0!!496!!59
+|}
+
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{NFT player}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Argentina national football team|Argentina]]
+|1999||1||0
+|-
+|2000||1||1
+|-
+|2001||0||0
+|-
+|2002||3||0
+|-
+|2003||4||0
+|-
+|2004||2||0
+|-
+!colspan="2"|Total!!11!!1
+|}
+
+:''Score and result list Argentina's goal tally first, score column indicates score after Solari goal.''
+
+{| class="wikitable sortable"
+|+ International goal scored by Santiago Solari
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 || 20 December 2000 || [[Los Angeles Memorial Coliseum|Memorial Coliseum]], [[Los Angeles]], United States || {{fb|MEX}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 || [[Friendly (association football)|Friendly]]<ref>{{cite web|url=http://www.espnfc.us/global/news/2000/1221/20001221argvmexrep.html|title=Argentina blank Mexico in friendly|publisher=[[ESPN FC]]|date=21 December 2000|access-date=21 January 2019}}</ref>
+|}
+
+==Managerial statistics==
+{{updated|2 March 2022}}<ref>{{Soccerway coach|santiago-hernan-solari/3981}}</ref>
+{| class="wikitable" style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan="2"|Team
+!rowspan="2"|Nat
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="8"|Record
+!rowspan=2|{{abbr|Ref|Reference}}
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+|align=left|[[Real Madrid Castilla|Real Madrid B]]
+|{{flagicon|Spain}}
+|align=left|19 July 2016
+|align=left|29 October 2018
+{{WDL|86|32|29|25|for=112|against=92|diff=yes}}
+|<ref>{{cite web|url=https://www.bdfutbol.com/en/p/l2459.html?temp=2016-17|title=Solari: Santiago Hernán Solari Poggio|publisher=BDFutbol|access-date=6 December 2018}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2459.html?temp=2017-18|title=Solari: Santiago Hernán Solari Poggio|publisher=BDFutbol|access-date=6 December 2018}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2459.html?cat=&temp=2018-19&equip=61&rival=&pgep=|title=Solari: Santiago Hernán Solari Poggio|publisher=BDFutbol|access-date=6 December 2018}}</ref>
+|-
+|align=left|[[Real Madrid CF|Real Madrid]]
+|{{flagicon|Spain}}
+|align=left|30 October 2018
+|align=left|11 March 2019
+{{WDL|32|22|2|8|for=71|against=37|diff=yes}}
+|<ref>{{cite web|url=https://www.bdfutbol.com/en/p/l2459.html?cat=&temp=2018-19&equip=2&rival=&pgep=|title=Solari: Santiago Hernán Solari Poggio|publisher=BDFutbol|access-date=6 December 2018}}</ref>
+|-
+|align=left|[[Club América|América]]
+|{{flagicon|Mexico}}
+|align=left|29 December 2020
+|align=left|2 March 2022
+{{WDL|50|26|12|12|for=68|against=48|diff=yes}}
+|<ref>{{cite web|url=https://uk.soccerway.com/teams/mexico/club-de-futbol-america/1458/|title=Club América: Matches|publisher=Soccerway|access-date=29 December 2020}}</ref>
+|-
+!colspan="4"|Total
+{{WDLtot|168|80|43|45|for=251|against=177|diff=yes}}
+!—
+|}
+
+==Honours==
+===Player===
+'''River Plate'''
+*[[Argentine Primera División]]: [[1996–97 Argentine Primera División|Apertura 1996]], [[1996–97 Argentine Primera División|Clausura 1997]], [[1997–98 Argentine Primera División|Apertura 1997]]<ref name=HONOURS1/><ref name=HONOURS3/>
+*[[Supercopa Libertadores]]: [[1997 Supercopa Libertadores|1997]]<ref name=HONOURS3/>
+
+'''Real Madrid'''
+*[[La Liga]]: [[2000–01 La Liga|2000–01]], [[2002–03 La Liga|2002–03]]<ref name=RM>{{cite web|url=https://www.realmadrid.com/en/about-real-madrid/history/football-legends/santiago-hernan-solari-poggio|title=Class and reliability on the left wing|publisher=Real Madrid CF|access-date=11 February 2022}}</ref>
+*[[Supercopa de España]]: [[2001 Supercopa de España|2001]], [[2003 Supercopa de España|2003]]<ref name=RM/>
+*[[UEFA Champions League]]: [[2001–02 UEFA Champions League|2001–02]]<ref name=UCL/><ref name=RM/>
+*[[UEFA Super Cup]]: [[2002 UEFA Super Cup|2002]]<ref name=RM/>
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: [[2002 Intercontinental Cup|2002]]<ref name=RM/>
+
+'''Inter Milan'''
+*[[Serie A]]: [[2005–06 Serie A|2005–06]], [[2006–07 Serie A|2006–07]], [[2007–08 Serie A|2007–08]]<ref name=HONOURS2/><ref name=HONOURS3/>
+*[[Coppa Italia]]: [[2005–06 Coppa Italia|2005–06]]<ref name=HONOURS3/>
+*[[Supercoppa Italiana]]: [[2005 Supercoppa Italiana|2005]], [[2006 Supercoppa Italiana|2006]]<ref name=HONOURS3/>
+
+===Manager===
+'''Real Madrid'''
+*[[FIFA Club World Cup]]: [[2018 FIFA Club World Cup|2018]]<ref name=Legend/>
+
+'''América'''
+*[[CONCACAF Champions League]] runner-up: [[2021 CONCACAF Champions League|2021]]<ref name=CCL/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{BDFA|2658}}
+*{{BDFutbol player|name=Santiago Solari player profile}}
+*{{BDFutbol manager|2459}}
+*[https://www.inter.it/en/archivio_giocatore/G0786 Inter Milan profile]
+*{{TuttoCalciatori|Solari_Santiago}}
+*{{NFT player}}
+
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Real Madrid Castilla managers}}
+{{Real Madrid CF managers}}
+{{Club América managers}}
+}}
+{{FIFA Club World Cup winning managers}}
+
+{{DEFAULTSORT:Solari, Santiago}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Argentine men's footballers]]
+[[Category:Argentine people of Italian descent]]
+[[Category:Sportspeople of Italian descent]]
+[[Category:Argentine people of Spanish descent]]
+[[Category:Sportspeople of Spanish descent]]
+[[Category:Footballers from Rosario, Santa Fe]]
+[[Category:Men's association football midfielders]]
+[[Category:Stockton Ospreys men's soccer players]]
+[[Category:Argentine Primera División players]]
+[[Category:Newell's Old Boys footballers]]
+[[Category:Club Atlético River Plate footballers]]
+[[Category:San Lorenzo de Almagro footballers]]
+[[Category:La Liga players]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:Serie A players]]
+[[Category:Inter Milan players]]
+[[Category:Liga MX players]]
+[[Category:Atlante F.C. footballers]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Peñarol players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:Argentina men's international footballers]]
+[[Category:Argentine expatriate men's footballers]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:Expatriate men's footballers in Uruguay]]
+[[Category:Argentine expatriate sportspeople in the United States]]
+[[Category:Argentine expatriate sportspeople in Spain]]
+[[Category:Argentine expatriate sportspeople in Italy]]
+[[Category:Argentine expatriate sportspeople in Mexico]]
+[[Category:Argentine expatriate sportspeople in Uruguay]]
+[[Category:Argentine football managers]]
+[[Category:La Liga managers]]
+[[Category:Segunda División B managers]]
+[[Category:Real Madrid Castilla managers]]
+[[Category:Real Madrid CF managers]]
+[[Category:Liga MX managers]]
+[[Category:Club América managers]]
+[[Category:Argentine expatriate football managers]]
+[[Category:Expatriate football managers in Spain]]
+[[Category:Expatriate football managers in Mexico]]
+[[Category:Copa Libertadores–winning players]]

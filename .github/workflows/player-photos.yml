@@ -1,0 +1,49 @@
+name: Player photos
+
+# Downloads freely licensed player photos from Wikimedia Commons, crops the
+# face-centred headshots and commits them back to the branch.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - tools/photo_manifest.json
+      - tools/fetch_photos.py
+      - tools/make_headshots.py
+      - .github/workflows/player-photos.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install requests pillow "opencv-python-headless<5"
+
+      - name: Download missing photos
+        run: python3 tools/fetch_photos.py
+
+      - name: Crop headshots
+        run: python3 tools/make_headshots.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/players
+          if git diff --cached --quiet; then
+            echo "No new photos"
+          else
+            git commit -m "Add player photos from Wikimedia Commons"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fi

@@ -1,0 +1,712 @@
+<!-- Ruud van Nistelrooy | revision 2026-10-09T15:18:57Z -->
+{{short description|Dutch professional footballer and manager}}
+{{family name hatnote|lang=Dutch|van Nistelrooy|wrong=Nistelrooy|Nistelrooy}}
+{{Redirect|van Nistelrooij|the politician|Lambert van Nistelrooij}}
+{{Use dmy dates|date=April 2025}}
+{{Infobox football biography
+| name = Ruud van Nistelrooy
+| image = Ruud van Nistelrooy 2017.jpg
+| caption = Van Nistelrooy in 2017
+| fullname = Rutgerus Johannes Martinus van Nistelrooij<ref>{{cite web |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |title=2006 FIFA World Cup Germany: List of Players: Netherlands |publisher=FIFA |page=19 |date=21 March 2014 |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019 |url-status=live}}</ref>
+| birth_date = {{birth date and age|1976|7|1|df=y}}<ref name=Hugman>{{Hugman|20108|access-date=5 October 2017}}</ref>
+| birth_place = [[Oss]], Netherlands
+| height = 1.88 m<ref name=PremProfile/>
+| position = [[Striker (association football)|Striker]]
+| youthyears1 = 1981–1990
+| youthclubs1 = Nooit Gedacht
+| youthyears2 = 1990–1991
+| youthclubs2 = RKSV Margriet
+| youthyears3 = 1991–1993
+| youthclubs3 = [[FC Den Bosch|Den Bosch]]
+| years1 = 1993–1997
+| clubs1 = [[FC Den Bosch|Den Bosch]]
+| caps1 = 69
+| goals1 = 17
+| years2 = 1997–1998
+| clubs2 = [[SC Heerenveen|Heerenveen]]
+| caps2 = 31
+| goals2 = 13
+| years3 = 1998–2001
+| clubs3 = [[PSV Eindhoven]]
+| caps3 = 67
+| goals3 = 62
+| years4 = 2001–2006
+| clubs4 = [[Manchester United F.C.|Manchester United]]
+| caps4 = 150
+| goals4 = 95
+| years5 = 2006–2010
+| clubs5 = [[Real Madrid CF|Real Madrid]]
+| caps5 = 68
+| goals5 = 46
+| years6 = 2010–2011
+| clubs6 = [[Hamburger SV]]
+| caps6 = 36
+| goals6 = 12
+| years7 = 2011–2012
+| clubs7 = [[Málaga CF|Málaga]]
+| caps7 = 28
+| goals7 = 4
+| totalcaps = 449
+| totalgoals = 249<!-- LEAGUE ONLY -->
+| nationalyears1 = 1997–1998
+| nationalteam1 = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 1998–2011
+| nationalteam2 = [[Netherlands national football team|Netherlands]]
+| nationalcaps2 = 70
+| nationalgoals2 = 35
+| manageryears1 = 2021–2022
+| managerclubs1 = [[Jong PSV]]
+| manageryears2 = 2022–2023
+| managerclubs2 = [[PSV Eindhoven|PSV]]
+| manageryears3 = 2024
+| managerclubs3 = [[Manchester United F.C.|Manchester United]] (caretaker)
+| manageryears4 = 2024–2025
+| managerclubs4 = [[Leicester City F.C.|Leicester City]]
+| managerclubs5 = [[Netherlands national football team|Netherlands]] (assistant)
+| manageryears5 = 2026–
+}}
+
+'''Rutgerus Johannes Martinus van Nistelrooij''' ({{IPA|nl|ˈryt fɑn ˈnɪstəlroːi}}; born 1 July 1976), commonly known by his [[Anglicisation of names|anglicised]] name of '''Ruud''' '''van Nistelrooy''' ({{IPAc-en|v|æ|n|_|ˈ|n|ɪ|s|t|l̩|r|ɔɪ}}), is a Dutch professional [[Association football|football]] manager and former player. He is currently working as an assistant coach of the [[Netherlands national football team]]. Widely regarded as one of the best strikers of his generation, Van Nistelrooy was the top scorer in three [[UEFA Champions League]] seasons and is the all-time Dutch [[European Cup and UEFA Champions League records and statistics#All-time top scorers|top goalscorer]] in the competition's history with 56 goals. He has also been the top scorer in three European domestic leagues.<ref>{{Cite web |last=Tighe |first=Sam |title=Ranking the Top 60 Strikers of All Time |url=https://bleacherreport.com/articles/1954831-ranking-the-top-60-strikers-of-all-time |access-date=23 May 2024 |website=Bleacher Report |language=en}}</ref> In 2004, he was listed in the [[FIFA 100]] of the world's greatest living players.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/3533891.stm |title=Pele's list of the greatest |work=BBC Sport |date=4 March 2004 |access-date=16 November 2013 |archive-date=19 October 2018 |archive-url=https://web.archive.org/web/20181019205959/http://news.bbc.co.uk/sport2/hi/football/3533891.stm |url-status=live }}</ref>
+
+Van Nistelrooy began his career with [[FC Den Bosch|Den Bosch]], before moving onto [[SC Heerenveen|Heerenveen]], eventually making a name for himself at [[PSV Eindhoven]], where he won two [[Eredivisie]] titles. His goalscoring record at PSV attracted attention from [[Manchester United F.C.|Manchester United]]; a deal was in place in the summer of 2000, but because of injury problems, his move was secured a year later for a then British record fee of £19&nbsp;million. His time at United was successful, winning the [[2002–03 FA Premier League|Premier League]], [[2003–04 FA Cup|FA Cup]], [[2005–06 Football League Cup|Football League Cup]], and [[FA Community Shield]], along with winning the [[Sir Matt Busby Player of the Year]] twice. Van Nistelrooy scored 150 goals in just 219 games for United, as well as becoming at the time their all-time European record goalscorer, but fell out of favour towards the end of his tenure. 
+
+[[Real Madrid CF|Real Madrid]] secured Van Nistelrooy's services in 2006. Although an injury blighted the end of his days with Madrid, he won [[La Liga]] twice and the [[Supercopa de España]] before signing for [[Hamburger SV]] during the January transfer window in 2010. After one and a half seasons with Hamburg, he moved back to Spain with [[Málaga CF|Málaga]] in the summer of 2011. He retired as a player in 2012.
+
+Internationally, Van Nistelrooy represented the [[Netherlands national football team|Netherlands]] on 70 occasions, netting 35 times. He was part of the [[UEFA Euro 2004|Euro 2004]], [[2006 FIFA World Cup|2006 World Cup]], and [[UEFA Euro 2008|Euro 2008]] squads.
+
+==Club career==
+===Early career===
+Born in [[Oss]], [[North Brabant]],<ref name=Hugman/> Van Nistelrooy started his career in 1993, aged 17, with Dutch [[Eerste Divisie]] side [[FC Den Bosch|Den Bosch]], where he was converted from a [[central midfielder]] to [[centre-forward]], after playing for local clubs Nooit Gedacht and RKSV Margriet.<ref name=":0">{{cite news |last=Kuper |first=Simon |date=12 August 2001 |title=Polite Ruud shocks United |url=https://www.theguardian.com/football/2001/aug/12/newsstory.sport14 |url-status=live |archive-url=https://web.archive.org/web/20181217110627/https://www.theguardian.com/football/2001/aug/12/newsstory.sport14 |archive-date=17 December 2018 |access-date=16 December 2018 |website=The Guardian |issn=0261-3077}}</ref><ref name="complete">{{cite web |url=https://www.telegraph.co.uk/sport/2428584/Van-Nistelrooy-emerges-as-complete-centre-forward.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/2428584/Van-Nistelrooy-emerges-as-complete-centre-forward.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Van Nistelrooy emerges as complete centre-forward |publisher=The Daily Telegraph |first=Alan |last=Smith |date=14 January 2002 |access-date=18 June 2018 }}{{cbignore}}</ref> After netting 12 goals in 31 games in the 1996–97 campaign, he transferred for €360,000 to [[SC Heerenveen|Heerenveen]] the next year, and scored 13 goals in 31 matches in his only season with the club.
+
+=== PSV ===
+Van Nistelrooy was signed by [[PSV Eindhoven]] ahead of the 1998–99 season for €6.3 million, a then-record transfer sum between two Dutch teams.<ref name=":0" /> Manager [[Bobby Robson]] started with him as a substitute, but he went on to score 31 goals in 34 matches,<ref name=":0" /> the highest season total in the [[1998–99 Eredivisie|Eredivisie]] and second-highest in Europe overall, in addition to scoring all three of PSV's goals in a [[1998–99 UEFA Champions League|Champions League]] match against [[Helsingin Jalkapalloklubi|HJK Helsinki]] on 25 November 1998.<ref>{{cite news |date=25 November 1998 |title=HJK taipui ennätysyleisön edessä |url=https://www.mtvuutiset.fi/artikkeli/hjk-taipui-ennatysyleison-edessa/5483724#gs.J9iEKrM |url-status=live |archive-url=https://web.archive.org/web/20181217062619/https://www.mtvuutiset.fi/artikkeli/hjk-taipui-ennatysyleison-edessa/5483724#gs.J9iEKrM |archive-date=17 December 2018 |access-date=16 December 2018 |website=MTV Uutiset |language=fi}}</ref><ref name="PSV_statistics">{{cite web |url=http://www.psvweb.nl/speleroud.php?id=43 |title=Ruud van Nistelrooij PSVweb.nl profile |website=PSVweb.nl |access-date=16 December 2018 |language=nl |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217110549/http://www.psvweb.nl/speleroud.php?id=43 |url-status=live }}</ref> Van Nistelrooy capped off the year by winning the [[Dutch Footballer of the Year|Dutch Player of the Year]] award.<ref name="Dutch Player of the Year">{{cite web |url=https://www.rsssf.org/miscellaneous/nedpoy.html |title=Netherlands – Player of the Year and other awards |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=16 December 2018 |archive-date=17 March 2015 |archive-url=https://web.archive.org/web/20150317051045/http://rsssf.com/miscellaneous/nedpoy.html |url-status=live }}</ref> The [[1999–2000 Eredivisie|following season]], he won his second Eredivisie scoring title with 29 goals.<ref name="1999–2000 top goalscorer">{{cite web|url=https://www.worldfootball.net/competition/co37/se3947/statistics-goals/|title=Eredivisie 1999/2000 " Top Scorer|publisher=WorldFootball.net|access-date=12 May 2015|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305025654/http://www.worldfootball.net/goalgetter/ned-eredivisie-1999-2000/|url-status=live}}</ref>
+
+Van Nistelrooy looked set to complete a club record [[Pound sterling|£]]18.5&nbsp;million transfer to English club [[Manchester United F.C.|Manchester United]] in the summer of 2000.<ref>{{cite news |date=21 April 2000 |title=Record signing for Man Utd |url=https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/721505.stm |url-status=live |archive-url=https://web.archive.org/web/20090216230807/http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/721505.stm |archive-date=16 February 2009 |access-date=9 August 2014 |publisher=BBC Sport}}</ref> He was to be unveiled at a press conference four days later, but this was instead used to announce that the transfer had been postponed over concerns about his fitness, having not played for a month due to problems with his knee.<ref>{{cite news |date=25 April 2000 |title=Man Utd record transfer postponed |url=https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/725828.stm |url-status=live |archive-url=https://web.archive.org/web/20070102181522/http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/725828.stm |archive-date=2 January 2007 |access-date=9 August 2014 |publisher=BBC Sport}}</ref> The transfer was then cancelled after PSV refused to agree to further medical tests,<ref>{{cite news |date=27 April 2000 |title=Man Utd record transfer halted |url=https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/728386.stm |url-status=live |archive-url=https://web.archive.org/web/20030410014153/http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/728386.stm |archive-date=10 April 2003 |access-date=9 August 2014 |publisher=BBC Sport}}</ref><ref>{{cite news |date=27 April 2000 |title=Van Nistelrooy deal collapses |url=https://www.theguardian.com/football/2000/apr/27/newsstory.sport13 |url-status=live |archive-url=https://web.archive.org/web/20140811091627/http://www.theguardian.com/football/2000/apr/27/newsstory.sport13 |archive-date=11 August 2014 |access-date=9 August 2014 |website=The Guardian |issn=0261-3077}}</ref> and the next day he suffered a rupture to his [[Anterior cruciate ligament|anterior cruciate knee ligaments]] during a training session, leaving him injured for a year.<ref>{{cite news |date=28 April 2000 |title=Van Nistelrooy suffers new injury |url=https://news.bbc.co.uk/2/hi/sport/football/fa_carling_premiership/729700.stm |url-status=live |archive-url=https://web.archive.org/web/20030407112908/http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/729700.stm |archive-date=7 April 2003 |access-date=9 August 2014 |publisher=BBC Sport}}</ref><ref name=":1">{{cite news |date=28 April 2000 |title=Van Nistelrooy out for a year with cruciate ligament injury |url=https://www.theguardian.com/football/2000/apr/28/newsstory.sport8 |url-status=live |archive-url=https://web.archive.org/web/20140811033912/http://www.theguardian.com/football/2000/apr/28/newsstory.sport8 |archive-date=11 August 2014 |access-date=9 August 2014 |website=The Guardian}}</ref>
+
+===Manchester United===
+A year later, Van Nistelrooy signed a five-year contract with Manchester United after passing his medical.<ref>{{cite news |title=Man Utd clinch Van Nistelrooy deal |url=https://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/1292248.stm |publisher=BBC Sport |date=23 April 2001 |access-date=30 April 2010 |archive-date=7 October 2007 |archive-url=https://web.archive.org/web/20071007144855/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/1292248.stm |url-status=live }}</ref> He downplayed United's £19&nbsp;million investment to reporters, saying, "The price is not heavy for me&nbsp;– it lifts me up because it means United have big confidence in me."<ref name="telegraph">{{cite news |first=Henry |last=Winter |author-link=Henry Winter |title=Van Nistelrooy in melting pot |url=https://www.telegraph.co.uk/sport/football/leagues/premierleague/manutd/3004221/Van-Nistelrooy-in-melting-pot.html |archive-url=https://web.archive.org/web/20090126191424/http://www.telegraph.co.uk/sport/football/leagues/premierleague/manutd/3004221/Van-Nistelrooy-in-melting-pot.html |url-status=dead |archive-date=26 January 2009 |work=The Daily Telegraph |date=27 April 2001 |access-date=30 April 2010 |location=London}}</ref> According to a 2001 interview with ''[[The Daily Telegraph]],'' [[Manchester United F.C.|Manchester United]] coach [[Alex Ferguson|Sir Alex Ferguson]] said that his son, [[Darren Ferguson|Darren]], who was at try-outs for Eredivisie rival Heerenveen at the time, begged his father, "You've got to sign Van Nistelrooy right away, he's fantastic. We've been watching him."<ref name="telegraph" /> Ferguson sent team representatives to PSV's next league game and signed Van Nistelrooy the next day.<ref name="telegraph" />
+
+====2001–02====
+Van Nistelrooy made his debut in the [[2001 FA Charity Shield|Charity Shield]] against [[Liverpool F.C.|Liverpool]], scoring in a 2–1 loss.<ref>{{cite news |last=Winter |first=Henry |url=https://www.telegraph.co.uk/sport/football/teams/liverpool/3010619/Charity-Shield-Liverpool-shut-out-raging-storm.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/teams/liverpool/3010619/Charity-Shield-Liverpool-shut-out-raging-storm.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Liverpool shut out raging storm |date=12 August 2001 |access-date=16 December 2014 |work=The Guardian}}{{cbignore}}</ref> On 19 August, Van Nistelrooy made his [[Premier League]] debut against [[Fulham F.C.|Fulham]] at [[Old Trafford]], and scored two goals to help United to a 3–2 win.<ref>{{cite news |last=Lacey |first=David |date=20 August 2001 |title=Winning habit sees United home |url=https://www.theguardian.com/football/2001/aug/20/newsstory.sport8 |url-status=live |archive-url=https://web.archive.org/web/20140905062620/http://www.theguardian.com/football/2001/aug/20/newsstory.sport8 |archive-date=5 September 2014 |access-date=4 September 2014 |work=The Guardian |issn=0261-3077}}</ref> He scored his first [[UEFA Champions League|Champions League]] goals on 17 October in a 3–2 loss to [[Deportivo de La Coruña|Deportivo La Coruña]].<ref>{{cite news |last=Lacey |first=David |date=18 October 2001 |title=United sunk by Barthez blunders |url=https://www.theguardian.com/football/2001/oct/18/championsleague.sport |url-status=live |archive-url=https://web.archive.org/web/20141217003315/http://www.theguardian.com/football/2001/oct/18/championsleague.sport |archive-date=17 December 2014 |access-date=16 December 2014 |work=The Guardian |issn=0261-3077}}</ref>
+
+On 22 December, Van Nistelrooy scored his first [[List of Premier League hat-tricks|Premier League hat-trick]] in a 6–1 win against [[Southampton F.C.|Southampton]].<ref>{{cite news |last=Fifield |first=Dominic |date=24 December 2001 |title=Van Nistelrooy wires up United and strings up the Saints |url=https://www.theguardian.com/football/2001/dec/24/match.sport1 |url-status=live |archive-url=https://web.archive.org/web/20140905064150/http://www.theguardian.com/football/2001/dec/24/match.sport1 |archive-date=5 September 2014 |access-date=4 September 2014 |work=The Guardian |issn=0261-3077}}</ref> In the [[2001–02 FA Cup|FA Cup]], Van Nistelrooy started on the bench for the third round tie against [[Aston Villa F.C.|Aston Villa]] due to a groin strain, but was substituted on for [[Luke Chadwick]] in the second-half with United 2–0 down and scored two "sublime" goals in three minutes to help United advance to the fourth round with a 3–2 win.<ref>{{cite news |last=Bradley |first=Mark |date=7 January 2002 |title=Van Nistelrooy breaks Villa in three-goal comeback |url=https://www.theguardian.com/football/2002/jan/07/match.sport6 |url-status=live |archive-url=https://web.archive.org/web/20141216235641/http://www.theguardian.com/football/2002/jan/07/match.sport6 |archive-date=16 December 2014 |access-date=16 December 2014 |work=The Guardian |issn=0261-3077}}</ref>
+
+In total, during his [[2001–02 FA Premier League|first season]], Van Nistelrooy netted 23 goals in 32 league games. He broke the record he shared with [[Mark Stein (footballer)|Mark Stein]], [[Alan Shearer]] and [[Thierry Henry]], by scoring in eight consecutive league games. He also scored ten [[2001–02 UEFA Champions League|Champions League]] goals, and was named the [[PFA Players' Player of the Year]].
+
+====2002–03====
+The following season, he finished as the top [[2002–03 FA Premier League|Premier League]] scorer with 25 goals in 34 games, with a goal on the final day against [[Everton F.C.|Everton]] earning him the Golden Boot ahead of [[Arsenal F.C.|Arsenal]]'s [[Thierry Henry]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/3018753.stm |title=Van Nistelrooy nets Golden Boot |publisher=BBC Sport |date=11 May 2003 |access-date=8 August 2014 |archive-date=23 July 2004 |archive-url=https://web.archive.org/web/20040723083542/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3018753.stm |url-status=live }}</ref> His tally included three [[hat-trick]]s against [[Newcastle United F.C.|Newcastle United]],<ref>{{cite news |last=McCarra |first=Kevin |date=25 November 2002 |title=Van Nistelrooy helps United capitalise on their reserves |url=https://www.theguardian.com/football/2002/nov/25/match.sport10 |url-status=live |archive-url=https://web.archive.org/web/20140811002928/http://www.theguardian.com/football/2002/nov/25/match.sport10 |archive-date=11 August 2014 |access-date=8 August 2014 |work=The Guardian |issn=0261-3077}}</ref> Fulham,<ref>{{cite news |title=Van Nistelrooy sends Man Utd top |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/2847631.stm |publisher=BBC Sport |date=22 March 2003 |access-date=8 August 2014 |archive-date=1 September 2017 |archive-url=https://web.archive.org/web/20170901150131/http://news.bbc.co.uk/sport1/hi/football/eng_prem/2847631.stm |url-status=live }}</ref> and [[Charlton Athletic F.C.|Charlton Athletic]].<ref>{{cite news |first=Paul |last=Wilson |title=Van Nistelrooy's title role |url=https://www.theguardian.com/football/2003/may/04/match.manchesterunited |work=The Observer |date=4 May 2003 |access-date=8 August 2014 |archive-date=11 August 2014 |archive-url=https://web.archive.org/web/20140811000957/http://www.theguardian.com/football/2003/may/04/match.manchesterunited |url-status=live }}</ref> He also scored in each of the final eight games of the season as United won the title. Van Nistelrooy won the [[Premier League Player of the Season]] in 2003.<ref>{{cite news |url=http://www.espnfc.com/story/267125/ruud-nets-player-of-the-year-award |title=Ruud nets Player of the Year award |date=14 May 2003 |access-date=8 August 2014 |publisher=ESPN |archive-date=9 August 2014 |archive-url=https://web.archive.org/web/20140809213546/http://www.espnfc.com/story/267125/ruud-nets-player-of-the-year-award |url-status=live }}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/sport/2404029/Van-Nistelrooy-has-final-say.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/2404029/Van-Nistelrooy-has-final-say.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Van Nistelrooy has final say |work=The Daily Telegraph |date=14 May 2003 |access-date=8 August 2014}}{{cbignore}}</ref> He was accredited with spearheading the title win for United with a goal tally that was described as "astonishing".<ref>{{cite news |last=Atherton |first=Paul |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/2993045.stm |title=Man Utd in Ruud health |publisher=BBC Sport |date=2 May 2003 |access-date=8 August 2014 |archive-date=2 June 2022 |archive-url=https://web.archive.org/web/20220602065804/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/2993045.stm |url-status=live }}</ref> After scoring 12 Champions League goals in nine consecutive matches,<ref>{{cite web |url=https://thefootballfaithful.com/players-score-most-consecutive-games-champions-league/ |title=Ranking the five players to score in the most consecutive Champions League games |website=The Football Faithful |date=18 August 2020 |access-date=23 October 2020 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026171846/https://thefootballfaithful.com/players-score-most-consecutive-games-champions-league/ |url-status=live }}</ref> he was named by UEFA as the best striker in Europe.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/europe/3190471.stm |title=Van Nistelrooy wins award |publisher=BBC Sport |date=29 August 2003 |access-date=2 September 2014 |archive-date=29 January 2022 |archive-url=https://web.archive.org/web/20220129060033/http://news.bbc.co.uk/sport1/hi/football/europe/3190471.stm |url-status=live }}</ref>
+
+====2003–04====
+[[File:Ruud.JPG|thumb|upright|Van Nistelrooy (left) playing for Manchester United versus Tottenham Hotspur in 2004]]
+{{Quote box |width=25% |align=right |quoted=1 |quote=My ambition is to combine the best of No. 9 and No. 10, as a striker who is also a team player and creator. |salign=right |source=— Van Nistelrooy in 2003.<ref name="That finishing Dutch">{{cite news |url=https://www.theguardian.com/football/2003/nov/30/sport.features1 |title=That finishing Dutch |date=30 November 2003 |access-date=16 December 2014 |work=The Guardian |archive-date=17 December 2014 |archive-url=https://web.archive.org/web/20141217000423/http://www.theguardian.com/football/2003/nov/30/sport.features1 |url-status=live }}</ref>}}
+Van Nistelrooy started the [[2003–04 FA Premier League|2003–04 season]] by scoring twice in his first two league matches. This meant he had scored in 10 consecutive league games, then a Premier League record,<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/12011800/Ruud-van-Nistelrooy-deserves-more-than-being-a-footnote-to-Jamie-Vardys-achievements.html |title=Ruud van Nistelrooy deserves more than being a footnote to Jamie Vardy's achievements |date=23 November 2015 |access-date=24 November 2015 |work=The Daily Telegraph |archive-date=24 November 2015 |archive-url=https://web.archive.org/web/20151124184339/http://www.telegraph.co.uk/sport/football/teams/manchester-united/12011800/Ruud-van-Nistelrooy-deserves-more-than-being-a-footnote-to-Jamie-Vardys-achievements.html |url-status=live }}</ref> which stood until 2015 when [[Jamie Vardy]] scored in 11 consecutive matches.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/34953098|title=Jamie Vardy breaks record for goals in consecutive games|date=28 November 2015|access-date=29 November 2015|publisher=BBC Sport|archive-date=28 November 2015|archive-url=https://web.archive.org/web/20151128195734/http://www.bbc.com/sport/0/football/34953098|url-status=live}}</ref> In the 0–0 draw on 21 September 2003, later dubbed the [[Battle of Old Trafford]], Van Nistelrooy was at the centre of one of the most infamous incidents of the [[Arsenal F.C.–Manchester United F.C. rivalry|Arsenal–Manchester United rivalry]]. After missing a last-minute penalty that would have won the game for United,<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/3084372.stm |title=Deadlock at Old Trafford |publisher=BBC Sport |date=21 September 2003 |access-date=9 August 2014 |archive-date=29 November 2022 |archive-url=https://web.archive.org/web/20221129080056/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3084372.stm |url-status=live }}</ref> Van Nistelrooy was attacked by [[Martin Keown]], prompting a melee involving several players from both sides; five Arsenal players including Keown received various bans and fines, while the club itself received a record fine of £175,000.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/3228349.stm |title=Arsenal players banned |publisher=BBC Sport |date=30 October 2003 |access-date=9 August 2014 |archive-date=3 May 2009 |archive-url=https://web.archive.org/web/20090503014853/http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/3228349.stm |url-status=live }}</ref><ref>{{cite news |url=http://news.sky.com/story/216662/arsenal-fined-for-old-trafford-battle |title=Arsenal Fined For Old Trafford Battle |publisher=Sky News |date=30 October 2003 |access-date=9 August 2014 |archive-date=10 August 2014 |archive-url=https://web.archive.org/web/20140810013410/http://news.sky.com/story/216662/arsenal-fined-for-old-trafford-battle |url-status=live }}</ref> Earlier in the game, he had been fouled by [[Patrick Vieira]], who was sent off for a second bookable offence. Vieira and his manager [[Arsène Wenger]] both accused Van Nistelrooy of cheating and stamping on Vieira,<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/3127572.stm |title=Van Nistelrooy accused |publisher=BBC Sport |date=22 September 2003 |access-date=9 August 2014 |archive-date=7 December 2005 |archive-url=https://web.archive.org/web/20051207142751/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3127572.stm |url-status=live }}</ref><ref>{{cite news |last=Buckingham |first=Mark |url=http://www1.skysports.com/football/news/11667/2276998/vieira-in-stamp-claim |title=Vieira in stamp claim |publisher=Sky Sports |date=22 September 2003 |access-date=9 August 2014 |archive-date=10 August 2014 |archive-url=https://web.archive.org/web/20140810012800/http://www1.skysports.com/football/news/11667/2276998/vieira-in-stamp-claim |url-status=live }}</ref> prompting a vociferous defence by Alex Ferguson.<ref>{{cite news |last=Oliver |first=Pete |url=https://www.espn.com/espn/wire?id=1620571 |title=Ferguson anger after Wenger claims Van Nistelrooy cheated |publisher=ESPN |date=21 September 2003 |access-date=9 August 2014 |archive-date=11 August 2014 |archive-url=https://web.archive.org/web/20140811152908/http://sports.espn.go.com/espn/wire?id=1620571 |url-status=live }}</ref>
+
+On 27 September, he scored a hat-trick against [[Leicester City F.C.|Leicester City]] in a 4–1 victory.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/3122914.stm |title=Red-hot United stun Foxes |publisher=BBC Sport |date=27 September 2003 |access-date=8 August 2014 |archive-date=13 January 2016 |archive-url=https://web.archive.org/web/20160113024819/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3122914.stm |url-status=live }}</ref> He scored his 100th goal for the club in a dramatic 4–3 victory over Everton on 7 February 2004.<ref>{{cite news |title=Everton 3–4 Man Utd |url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/3447465.stm |publisher=BBC Sport |date=7 February 2004 |access-date=8 August 2014 |archive-date=29 January 2022 |archive-url=https://web.archive.org/web/20220129063105/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3447465.stm |url-status=live }}</ref>
+
+In the [[2003–04 FA Cup|FA Cup]] fifth round [[Manchester derby|derby]] against [[Manchester City F.C.|Manchester City]], Van Nistelrooy scored twice to help ten-man United win 4–2,<ref>{{cite news |last=Wilson |first=Paul |date=15 February 2004 |title=City left red-faced by Ruud and Co |url=https://www.theguardian.com/football/2004/feb/15/match.facup |url-status=live |archive-url=https://web.archive.org/web/20140912221948/http://www.theguardian.com/football/2004/feb/15/match.facup |archive-date=12 September 2014 |access-date=16 December 2014 |work=The Guardian |issn=0261-3077}}</ref> and again scored twice in the quarter-final against Fulham as United came from behind to win 2–1.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/3495798.stm |title=Van Nistelrooy proves point |date=6 March 2004 |access-date=16 December 2014 |publisher=BBC Sport |archive-date=9 June 2004 |archive-url=https://web.archive.org/web/20040609090545/http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/3495798.stm |url-status=live }}</ref> He scored a further two goals, including one penalty, in United's victory over [[Millwall F.C.|Millwall]] in the [[2004 FA Cup Final]].<ref>{{cite news |title=Man Utd win FA Cup |url=https://news.bbc.co.uk/sport1/hi/football/fa_cup/3725063.stm |publisher=BBC Sport |date=22 May 2004 |access-date=26 January 2010 |archive-date=25 February 2009 |archive-url=https://web.archive.org/web/20090225084836/http://news.bbc.co.uk/sport1/hi/football/fa_cup/3725063.stm |url-status=live }}</ref>
+
+====2004–05====
+Van Nistelrooy missed a large part of the [[2004–05 FA Premier League|2004–05 season]] due to injury, but nonetheless scored a [[2004–05 UEFA Champions League|Champions League]]-best eight goals. One of them was his 30th career European goal, which he scored in a 2–2 Champions League group stage draw with [[Olympique Lyonnais|Lyon]] on 15 September 2004, overtaking [[Denis Law]]'s previous club record of 28 goals. Law later said to reporters, "I'm delighted for Ruud. It could not happen to a nicer guy."<ref>{{cite news |last=McNulty |first=Phil |author-link=Phil McNulty |url=https://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/3306907.stm |title=Ruud lays down Law |publisher=BBC Sport |date=16 September 2004 |access-date=30 April 2010 |archive-date=23 February 2010 |archive-url=https://web.archive.org/web/20100223201117/http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/3306907.stm |url-status=live }}</ref>
+
+On 24 October, Arsenal returned to Old Trafford for another dramatic fixture. [[Arsenal F.C|The Gunners]] entered the fixture with a 49-game unbeaten run and had been dubbed "[[The Invincibles (football)|The Invincibles]]", but United won the game 2–0. Van Nistelrooy scored the opening goal from the penalty spot, atoning for the penalty miss the previous year, with [[Wayne Rooney]] scoring a second.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/3727552.stm |title=Man Utd 2–0 Arsenal |publisher=BBC Sport |date=24 October 2004 |access-date=9 August 2014 |archive-date=31 July 2017 |archive-url=https://web.archive.org/web/20170731112939/http://news.bbc.co.uk/sport1/hi/football/eng_prem/3727552.stm |url-status=live }}</ref><ref>{{cite news |url=http://edition.cnn.com/2004/SPORT/football/10/24/england.united/ |title=United end Arsenal's unbeaten run |publisher=CNN |date=24 October 2004 |access-date=9 August 2014 |archive-date=11 August 2014 |archive-url=https://web.archive.org/web/20140811023545/http://edition.cnn.com/2004/SPORT/football/10/24/england.united/ |url-status=live }}</ref> Van Nistelrooy was later banned for three games for a foul on [[Ashley Cole]] that the referee had missed.<ref>{{cite news |last=Moore |first=Glenn |title=Van Nistelrooy repents while Wenger fumes |url=https://www.independent.co.uk/sport/football/premier-league/van-nistelrooy-repents-while-wenger-fumes-6159085.html |work=The Independent |publisher=Independent Print |date=27 October 2004 |access-date=9 August 2014 |archive-date=10 August 2014 |archive-url=https://web.archive.org/web/20140810020428/http://www.independent.co.uk/sport/football/premier-league/van-nistelrooy-repents-while-wenger-fumes-6159085.html |url-status=live }}</ref> On 3 November, Van Nistelrooy scored all four goals in a 4–1 win against [[AC Sparta Prague|Sparta Prague]].<ref>{{cite news |last=Taylor |first=Daniel |date=4 November 2004 |title=Four-star Van Nistelrooy runs riot |url=https://www.theguardian.com/football/2004/nov/04/championsleague200405.championsleague1 |url-status=live |archive-url=https://web.archive.org/web/20140811000837/http://www.theguardian.com/football/2004/nov/04/championsleague200405.championsleague1 |archive-date=11 August 2014 |access-date=8 August 2014 |work=The Guardian |issn=0261-3077}}</ref> On 17 April 2005, he scored two goals in the [[2004–05 FA Cup|FA Cup]] semi-final in a 4–1 win against Newcastle,<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4427549.stm |title=Newcastle 1–4 Man Utd |publisher=BBC Sport |date=17 April 2005 |access-date=9 August 2014 |archive-date=5 March 2012 |archive-url=https://web.archive.org/web/20120305174944/http://news.bbc.co.uk/sport1/hi/football/fa_cup/4427549.stm |url-status=live }}</ref> but United lost the final on penalties to Arsenal.<ref>{{cite news |last=Lawrence |first=Amy |title=Vieira holds his nerve to claim historic penalty prize for Arsenal |url=https://www.theguardian.com/football/2005/may/22/match.sport1 |work=The Observer |date=22 May 2005 |access-date=9 August 2014 |archive-date=13 May 2019 |archive-url=https://web.archive.org/web/20190513002154/https://www.theguardian.com/football/2005/may/22/match.sport1 |url-status=live }}</ref>
+
+====2005–06====
+[[File:RVN chelsea.jpg|thumb|upright|Van Nistelrooy in United colours against [[Chelsea F.C.|Chelsea]]]]
+
+At the start of the [[2005–06 FA Premier League|2005–06 season]], Van Nistelrooy scored in United's first four Premier League games. He finished as the second-highest league scorer with 21 goals, behind Arsenal's Thierry Henry. However, he was named as a substitute for the [[2006 Football League Cup Final|League Cup Final]] against [[Wigan Athletic F.C.|Wigan Athletic]], fuelling speculation of a rift between him and Alex Ferguson, which Van Nistelrooy denied. He was nonetheless left on the bench for six consecutive league matches, and though he then returned to the starting line-up and scored match-winners against [[West Ham United F.C.|West Ham United]] and [[Bolton Wanderers F.C.|Bolton Wanderers]], fresh doubt spread over Van Nistelrooy's future when he was benched for United's season finale win over Charlton Athletic. Ferguson said that Van Nistelrooy was angry at the decision and left the stadium three hours before kick-off.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4957458.stm |title=Man Utd 4–0 Charlton |date=7 May 2006 |access-date=9 August 2014 |work=BBC Sport|archive-date=14 August 2017 |archive-url=https://web.archive.org/web/20170814024605/http://news.bbc.co.uk/sport1/hi/football/eng_prem/4957458.stm |url-status=live }}</ref><ref>{{cite news |last=Rich |first=Tim |url=https://www.telegraph.co.uk/sport/football/2336549/United-move-on-without-Van-Nistelrooy.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/2336549/United-move-on-without-Van-Nistelrooy.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=United move on without Van Nistelrooy |date=8 May 2006 |access-date=9 August 2014 |work=The Daily Telegraph}}{{cbignore}}</ref> 
+
+On 9 May 2006, it was reported that Van Nistelrooy's exclusion from the squad was due to a training session fight between him and teammate [[Cristiano Ronaldo]]. Van Nistelrooy allegedly criticised Ronaldo's tendency to hold onto the ball instead of passing to his teammates, which sparked the fight, after which Van Nistelrooy remarked, "What are you going to do? Complain to your daddy?" This was in reference to United's Portuguese assistant manager, [[Carlos Queiroz]],<ref>{{Cite book |last=Ferguson |first=Alex |url=https://books.google.com/books?id=9LV5LnedxXQC&dq=%22He+meant+Carlos%2C+not+Cristiano%27s+dad.%22&pg=PT126 |title=Alex Ferguson: My Autobiography |year=2013 |publisher=Hodder & Stoughton |isbn=978-1-84894-863-1 |language=en |access-date=15 April 2022 |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030223130/https://books.google.com/books?id=9LV5LnedxXQC&dq=%22He+meant+Carlos%2C+not+Cristiano%27s+dad.%22&pg=PT126 |url-status=live }}</ref> but Ronaldo took the statement literally and allegedly broke into tears since his father, José had died eight months previously.<ref>{{cite web|url=http://www.huffingtonpost.co.uk/2013/03/07/wayne-rooney-leaving-united_n_2826606.html|title=Wayne Rooney Another Manchester United Man To Lose Battle With Sir Alex Ferguson?|last=Luckhurst|first=Samuel|date=7 March 2013|work=The Huffington Post|publisher=AOL|access-date=5 May 2016|archive-date=17 April 2017|archive-url=https://web.archive.org/web/20170417161308/http://www.huffingtonpost.co.uk/2013/03/07/wayne-rooney-leaving-united_n_2826606.html|url-status=live}}</ref> Van Nistelrooy later apologised to Ferguson for his behaviour in the previous few months.<ref>{{cite news |last=Taylor |first=Daniel |date=11 January 2011 |title=Ruud van Nistelrooy apologises to United's manager Sir Alex Ferguson |url=https://www.theguardian.com/football/2011/jan/21/ruud-van-nistelrooy-apologises-ferguson-united |url-status=live |archive-url=https://web.archive.org/web/20140811094518/http://www.theguardian.com/football/2011/jan/21/ruud-van-nistelrooy-apologises-ferguson-united |archive-date=11 August 2014 |access-date=9 August 2014 |work=The Guardian |issn=0261-3077}}</ref>
+
+Van Nistelrooy signed with Spanish [[La Liga]] side [[Real Madrid CF|Real Madrid]] on 28 July, departing Old Trafford after five seasons with a total of 150 goals in 219 appearances, with his final goal coming on 1 April against Bolton, scoring what proved to be the winning goal.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4842420.stm |title=Bolton 1–2 Man Utd |date=1 April 2006 |publisher=BBC Sport |access-date=8 August 2014 |archive-date=8 October 2007 |archive-url=https://web.archive.org/web/20071008112413/http://news.bbc.co.uk/sport1/hi/football/eng_prem/4842420.stm |url-status=live }}</ref> With 38 goals, he is also the club's second all-time European goalscorer, behind [[Wayne Rooney]].
+
+===Real Madrid===
+[[File:Ruud Van Nistelrooy madrid.jpg|thumb|upright|Van Nistelrooy playing for Real Madrid during a league game to [[Villarreal CF|Villarreal]]]]
+
+On 15 July 2006, Ferguson confirmed that Van Nistelrooy wanted to leave Manchester United and Real Madrid announced two weeks later that he had signed a three-year contract after being purchased for €14&nbsp;million.<ref>{{cite news |url=http://soccernet.espn.go.com/news/story?id=374503&cc=5739 |title=Real Madrid sign Dutch striker Van Nistelrooy |work=Soccernet |publisher=ESPN |date=27 July 2006 |access-date=30 March 2011 |archive-date=24 October 2012 |archive-url=https://web.archive.org/web/20121024135159/http://soccernet.espn.go.com/news/story?id=374503&cc=5739 |url-status=dead }}</ref>
+
+Van Nistelrooy made his debut for the Spanish club in a 1–0 friendly win over [[Urbs Reggina 1914|Reggina]] on 4 August 2006.<ref>{{cite news|title=Ruud finally makes debut for Real|url=https://news.google.com/newspapers?id=96ktAAAAIBAJ&pg=4894%2C3570474|date=6 August 2006|access-date=9 May 2015|newspaper=New Straits Times|page=69|archive-date=29 January 2022|archive-url=https://web.archive.org/web/20220129035040/https://news.google.com/newspapers?id=96ktAAAAIBAJ&pg=4894%2C3570474|url-status=live}}</ref> Van Nistelrooy scored a hat-trick in his second league match against [[Levante UD|Levante]] and, on 12 November 2006, he scored all four of Real Madrid's goals in a 4–1 victory over [[CA Osasuna|Osasuna]]. For the first six months he was a teammate of [[Ronaldo (Brazilian footballer)|Ronaldo]], a player whom Van Nistelrooy regards as the best he ever played with.<ref>{{cite web |title=Ruud van Nistelrooy. Full Q & A |url=https://m.youtube.com/watch?v=N2HhXVNlj68 | archive-url=https://ghostarchive.org/varchive/youtube/20211102/N2HhXVNlj68| archive-date=2 November 2021 | url-status=live|website=YouTube |publisher=Oxford Union|date=6 February 2016|access-date=5 September 2018}}{{cbignore}}</ref> Van Nistelrooy won the league's [[Pichichi Trophy|Pichichi]] award with 25 goals as Real Madrid took home the [[2006–07 La Liga|2006–07 title]], and he also equalled the longest consecutive scoring streak in La Liga history with seven straight matches, tying a league record shared by [[Hugo Sánchez]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/europe/6736175.stm |title=Van Nistelrooy goals rescue Real |publisher=BBC Sport |date=9 June 2007 |access-date=4 July 2007 |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404211920/http://news.bbc.co.uk/sport1/hi/football/europe/6736175.stm |url-status=live }}</ref>
+
+In January 2008, Van Nistelrooy signed a contract extension keeping him with Madrid until 2010, with the expiration date one day shy of his 34th birthday.<ref>{{cite news|url=http://in.reuters.com/article/sportsNews/idINIndia-31322820080109|work=Reuters|title=Van Nistelrooy extends contract with Real Madrid to 2010|date=10 January 2008|access-date=30 April 2010|archive-date=24 November 2020|archive-url=https://web.archive.org/web/20201124184132/https://in.reuters.com/article/sportsNews/idINIndia-31322820080109|url-status=dead}}</ref> He underwent ankle surgery in March,<ref>{{cite news |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=716674.html |archive-url=https://web.archive.org/web/20080327232557/http://www.fifa.com/worldfootball/clubfootball/news/newsid=716674.html |url-status=dead |archive-date=27 March 2008 |publisher=FIFA |title=Van Nistelrooy has ankle surgery |date=19 March 2008}}</ref> and returned for the [[El Clásico]] derby against [[FC Barcelona|Barcelona]] on 7 May, in which he netted a penalty two minutes after coming on as a substitute.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/7385203.stm|publisher=BBC Sport|title=Real Madrid 4–1 Barcelona|date=7 May 2008|first=Paul|last=Fletcher|access-date=9 May 2008|archive-date=9 July 2018|archive-url=https://web.archive.org/web/20180709221426/http://news.bbc.co.uk/sport2/hi/football/europe/7385203.stm|url-status=live}}</ref> He finished the season with 20 goals in 33 appearances.
+
+[[File:Van Nistelrooy (2007).JPG|thumb|left|upright|Van Nistelrooy signing autographs in 2007]]
+
+In November 2008, Real Madrid announced that Van Nistelrooy would miss the remainder of the [[2008–09 Real Madrid CF season|2008–09 season]] after exploratory arthroscopic surgery revealed a partially torn [[Meniscus (anatomy)|meniscus]] in his right knee, with an expected recovery time of six to nine months following a second operation to repair the damage.<ref>{{cite news |url=http://afp.google.com/article/ALeqM5jcrNkFiwnlnZqad1-U7ButGPaz7w |title=Real's Van Nistelrooy out for season after knee injury |agency=Agence France-Presse |date=13 November 2008 |access-date=14 November 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090126040832/http://afp.google.com/article/ALeqM5jcrNkFiwnlnZqad1-U7ButGPaz7w |archive-date=26 January 2009}}</ref> Van Nistelrooy travelled to the United States to see specialist [[Richard Steadman]], who had previously operated on the same knee back in 2000. At the time of his injury, he had 10 goals in 12 club appearances for the season.<ref>{{cite news|url=http://soccernet.espn.go.com/news/story?id=591958&|title=Van Nistelrooy out for season with knee injury|date=13 November 2008|work=Soccernet|publisher=ESPN|access-date=30 April 2010|archive-date=20 October 2012|archive-url=https://web.archive.org/web/20121020043417/http://soccernet.espn.go.com/news/story?id=591958&|url-status=dead}}</ref> Following the injury, he was de-registered by Real Madrid for the rest of the 2008–09 season, and his shirt number was given to [[Dani Parejo]]. On 24 August 2009, in the last pre-season match before the start of [[2009–10 La Liga|La Liga]], Van Nistelrooy stepped on the pitch for the first time since his injury and played the last 15 minutes of the game against [[Rosenborg BK|Rosenborg]], substituting [[Kaká]]. Van Nistelrooy came on for Cristiano Ronaldo in the 80th minute against [[Xerez CD|Xerez]] in his first La Liga match since recovering from his injury. In the 81st minute, he provided the assist for a [[Karim Benzema]] goal, following it with his own 88th-minute goal. During his strike, however, he picked up a thigh injury, where it was later revealed by Real Madrid that he would be out from first team action for up to six weeks.<ref>{{cite news |title=Real Madrid Star Ruud van Nistelrooy Injured Against Xerez |url=http://www.goal.com/en-us/news/88/spain/2009/09/20/1513536/real-madrid-star-ruud-van-nistelrooy-injured-against-xerez |publisher=Goal.com |date=20 September 2009 |access-date=30 April 2010 |archive-date=19 August 2022 |archive-url=https://web.archive.org/web/20220819120134/https://www.goal.com/en-us/news/88/spain/2009/09/20/1513536/real-madrid-star-ruud-van-nistelrooy-injured-against-xerez |url-status=live}}</ref> On 27 October, Van Nistelrooy made his second comeback of the season coming on as a substitute for [[Raúl (footballer)|Raúl]] in the 71st minute against [[AD Alcorcón|Alcorcón]] in the [[2009–10 Copa del Rey|Copa del Rey]].<ref>{{cite news |title=Third division Alcorcón ridicules Real Madrid |url=https://www.france24.com/en/20091028-third-division-alcorcon-ridicules-real-madrid |website=France 24 |agency=Reuters |date=28 October 2009 |access-date=16 December 2018 |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217110519/https://www.france24.com/en/20091028-third-division-alcorcon-ridicules-real-madrid |url-status=live}}</ref>
+
+===Hamburger SV===
+On 23 January 2010, Van Nistelrooy signed an 18-month contract with the German club [[Hamburger SV]] until June 2011.<ref>{{cite news |url=http://www.hsv.de/teams/meldungen/bundesliga/januar-2010/hsv-verpflichtet-van-nistelrooy/ |title=HSV verpflichtet Ruud van Nistelrooy |date=23 January 2010 |publisher=Hamburger SV |language=de |trans-title=HSV signs Ruud van Nistelrooy |access-date=30 April 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100127011225/http://www.hsv.de/teams/meldungen/bundesliga/januar-2010/hsv-verpflichtet-van-nistelrooy |archive-date=27 January 2010}}</ref><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/europe/8468559.stm |title=Dutch striker Ruud van Nistelrooy joins Hamburg |date=23 January 2010 |publisher=BBC Sport |access-date=26 January 2010 |archive-date=31 May 2023 |archive-url=https://web.archive.org/web/20230531112622/http://news.bbc.co.uk/sport2/hi/football/europe/8468559.stm |url-status=live}}</ref> He made his first appearance for the club after coming off the bench in the last two minutes of Hamburg's 3–3 draw with [[1. FC Köln]] on 6 February.<ref>{{cite news |url=https://www.google.com/hostednews/afp/article/ALeqM5h0xe_2qY6KlwEE4xasrGRZZ1CKWg |title=Three-star Robben strikes as Bayern draw level |agency=Agence France-Presse |date=6 February 2010 |access-date=27 April 2010 |archive-date=21 February 2014 |archive-url=https://web.archive.org/web/20140221090808/http://www.google.com/hostednews/afp/article/ALeqM5h0xe_2qY6KlwEE4xasrGRZZ1CKWg |url-status=dead }}</ref> Van Nistelrooy scored his first two goals for Hamburg on 13 February 2010 against [[VfB Stuttgart]] in the 75th and 77th minutes of a 3–1 win, after entering the game just a few minutes prior.<ref>{{cite news |url=https://www.google.com/hostednews/afp/article/ALeqM5j_BsH0anl9KD2JHAd7uggPoi_XOg |title=Van Nistelrooy at the double for Hamburg |date=13 February 2010 |agency=Agence France-Presse |access-date=30 April 2010 |archive-date=17 February 2010 |archive-url=https://web.archive.org/web/20100217143729/http://www.google.com/hostednews/afp/article/ALeqM5j_BsH0anl9KD2JHAd7uggPoi_XOg |url-status=dead}}</ref> On 11 March 2010, he scored his first [[2009–10 UEFA Europa League|UEFA Europa League]] goal in the 41st minute of Hamburg's match against [[RSC Anderlecht|Anderlecht]].<ref>{{cite news |title=Jarolím gives Hamburg breathing space |url=https://www.uefa.com/uefaeuropaleague/news/01e3-0e740310fd3b-db7df6e822bf-1000--jarolim-gives-hamburg-breathing-space/ |publisher=UEFA |date=11 March 2010 |access-date=27 April 2010 |archive-date=29 September 2015 |archive-url=https://web.archive.org/web/20150929064418/http://www.uefa.com/uefaeuropaleague/season=2010/matches/round=2000039/match=2000939/postmatch/report/index.html |url-status=live}}</ref>
+
+Van Nistelrooy scored his only competitive hat-trick with Hamburg on 15 August 2010, in a 5–1 win over [[Torgelower FC Greif|Torgelower SV Greif]] in the first round of the [[2010–11 DFB-Pokal]].<ref>{{cite web |url=http://soccernet.espn.go.com/match?id=295858&cc=5739 |title=Torgelower SV Greif 1–5 Hamburg SV |date=15 August 2010 |work=ESPN Soccernet |access-date=23 August 2010 |archive-date=23 October 2012 |archive-url=https://web.archive.org/web/20121023111535/http://soccernet.espn.go.com/match?id=295858&cc=5739 |url-status=dead}}</ref> On 21 August 2010, he scored a brace in Hamburg's [[2010–11 Bundesliga|season opener]] against [[FC Schalke 04|Schalke 04]], which HSV won 2–1. During that match, he played against his friend and former Real Madrid teammate Raúl, who was making his Bundesliga debut. In the January transfer window, Van Nistelrooy was linked a return move back to Real Madrid and could be used for a short-term basis to cover, following injuries of [[Gonzalo Higuaín]] and Karim Benzema as manager [[José Mourinho]] would be happy for Van Nistelrooy to join the club as Mourinho left the door for him.<ref>{{cite news |title=Jose opens door for Ruud |url=http://www1.skysports.com/football/news/11095/6664823/ |publisher=Sky Sports |date=15 January 2011 |access-date=15 November 2012 |archive-date=29 October 2013 |archive-url=https://web.archive.org/web/20131029215146/http://www1.skysports.com/football/news/11095/6664823/ |url-status=live}}</ref> Van Nistelrooy admitted he seriously considered moving back to the club if the bid happened.<ref>{{cite news |title=Ruud reveals Real appeal |url=http://www1.skysports.com/football/news/11095/6665875/ |publisher=Sky Sports |date=16 January 2011 |access-date=15 November 2012 |archive-date=29 October 2013 |archive-url=https://web.archive.org/web/20131029184132/http://www1.skysports.com/football/news/11095/6665875/ |url-status=live}}</ref> The club, however, rejected Madrid's bid for Van Nistelrooy, giving the club a warning as Hamburg wants to keep hold of him until the transfer window ended.<ref>{{cite news |title=Hamburg – Hands off Ruud |url=http://www1.skysports.com/football/news/11095/6673117/ |publisher=Sky Sports |date=19 January 2011 |access-date=15 November 2012 |archive-date=29 October 2013 |archive-url=https://web.archive.org/web/20131029193513/http://www1.skysports.com/football/news/11095/6673117/ |url-status=live}}</ref> Despite being angered over his move to Real Madrid rejected, Van Nistelrooy said he would remain committed at Hamburg.<ref>{{cite news |title=Ruud committed to Hamburg |url=http://www1.skysports.com/football/news/11095/6747152/ |publisher=Sky Sports |date=12 February 2011 |access-date=15 November 2012 |archive-date=5 March 2016 |archive-url=https://web.archive.org/web/20160305222810/http://www.skysports.com/football/news/11095/6747152 |url-status=live}}</ref> During a match between Hamburg and [[Hannover 96]] on 16 April 2011, Van Nistelrooy suffered a calf injury that kept him out until the last matchday.<ref>{{cite news |title=Ruud van Nistelrooy to miss rest of the season |url=https://www.foxsports.com/soccer/story/ruud-van-nistelrooy-to-miss-rest-of-the-season-63824527-041711 |website=Fox Sports |date=17 April 2011 |access-date=16 December 2018 |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217110544/https://www.foxsports.com/soccer/story/ruud-van-nistelrooy-to-miss-rest-of-the-season-63824527-041711 |url-status=live}}</ref><ref>{{cite web |url=https://www.fussballdaten.de/person/ruud-van-nistelrooy/2011/ |title=Ruud van Nistelrooy |website=Fussballdaten.de |access-date=16 December 2018 |language=de |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217062835/https://www.fussballdaten.de/person/ruud-van-nistelrooy/2011/ |url-status=live}}</ref>
+
+Van Nistelrooy netted seven goals and made two assists in 25 appearances in his only full season with Hamburg.<ref>{{cite web |title=Hamburger SV Squad Summary 2010/11 |url=http://www.whoscored.com/Teams/38/Archive/Germany-Hamburger-SV |publisher=WhoScored.com |access-date=15 September 2011 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405152303/http://www.whoscored.com/Teams/38/Archive/Germany-Hamburger-SV |url-status=live}}</ref>
+
+===Málaga===
+[[File:Van Nistelrooy Málaga.jpg|thumb|upright|Van Nistelrooy being introduced as a Málaga player]]
+On 1 June 2011, Van Nistelrooy returned to Spain to pen a one-year deal with La Liga side [[Málaga CF|Málaga]], on a free transfer.<ref>{{cite news |title=Van Nistelrooy returns to La Liga with Malaga |url=https://www.bbc.co.uk/sport/football/13631851 |publisher=BBC Sport |date=2 June 2011 |access-date=2 June 2011 |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030223138/https://www.bbc.com/sport/football/13631851 |url-status=live}}</ref> Van Nistelrooy was presented at [[La Rosaleda Stadium]] as he was welcomed by 15,000 Málaga fans.<ref>{{cite news |date=2 June 2011 |title=Presentación galáctica de Van Nistelrooy ante 15.000 personas |url=http://www.marca.com/2011/06/02/futbol/equipos/malaga/1307042357.html |url-status=live |archive-url=https://web.archive.org/web/20130618143830/http://www.marca.com/2011/06/02/futbol/equipos/malaga/1307042357.html |archive-date=18 June 2013 |access-date=15 November 2012 |website=Marca |location=Madrid |language=es}}</ref> He made his debut in a 2–1 loss against [[Sevilla FC|Sevilla]] on the opening game of the [[2011–12 La Liga|2011–12 season]].<ref>{{cite news |title=Negredo at the double in Sevilla win |url=https://www.eurosport.com/football/la-liga/2011-2012/negredo-at-the-double_sto2925094/story.shtml |website=Eurosport |date=29 August 2011 |access-date=16 December 2018 |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030223101/https://www.eurosport.com/geoblocking.shtml |url-status=live}}</ref><ref name="ESPN">{{cite web |url=http://www.espnfc.com/player/8852/ruud-van-nistelrooy?season=2011 |title=Ruud van Nistelrooy |website=ESPN FC |access-date=16 December 2018 |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217063035/http://www.espnfc.com/player/8852/ruud-van-nistelrooy?season=2011 |url-status=live}}</ref>
+
+Van Nistelrooy registered his first goal on 1 October 2011 against [[Getafe CF|Getafe]].<ref>{{cite news |date=1 October 2011 |title=Van Nistelrooy trefzeker tijdens overwinning Málaga |url=https://www.vi.nl/nieuws/van-nistelrooy-trefzeker-tijdens-overwinning-malaga |url-status=live |archive-url=https://web.archive.org/web/20231030223103/https://www.vi.nl/nieuws/van-nistelrooy-trefzeker-tijdens-overwinning-malaga |archive-date=30 October 2023 |access-date=16 December 2018 |website=Voetbal International |language=nl}}</ref> On 21 December, against the same club, he opened the scoring with a volley as Málaga won 3–2 on aggregate in the [[2011–12 Copa del Rey|Copa del Rey]].<ref>{{cite news |last=Bonachera |first=Rocío |date=21 December 2011 |title=Buonanotte y Van Nistelrooy clasifican al Málaga para octavos de Copa |url=https://www.vavel.com/es/futbol/2011/12/21/malaga/54009.html |url-status=live |archive-url=https://web.archive.org/web/20181217062711/https://www.vavel.com/es/futbol/2011/12/21/malaga/54009.html |archive-date=17 December 2018 |access-date=16 December 2018 |website=Vavel |language=es}}</ref> Later on in the season, Van Nistelrooy scored two more goals in the league against [[RCD Espanyol|Espanyol]] and [[Racing de Santander|Racing Santander]],<ref>{{cite news |title=Malaga comes from behind to beat Espanyol |url=https://www.sportsnet.ca/soccer/spanish-liga-sunday/ |website=Sportsnet |agency=Associated Press |date=25 March 2012 |access-date=16 December 2018 |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217062825/https://www.sportsnet.ca/soccer/spanish-liga-sunday/ |url-status=live}}</ref><ref>{{cite news |date=9 April 2012 |title=El Málaga vence sin problemas y ya es tercero |url=https://www.cuatro.com/deportes/futbol/malaga/Liga_BBVA-Jornada_32-Malaga-Racing_de_Santander_0_1393875499.html |url-status=live |archive-url=https://web.archive.org/web/20181217062713/https://www.cuatro.com/deportes/futbol/malaga/Liga_BBVA-Jornada_32-Malaga-Racing_de_Santander_0_1393875499.html |archive-date=17 December 2018 |access-date=16 December 2018 |website=Cuatro |language=es |agency=Reuters}}</ref> with the latter being his final goal of his career.<ref name="ESPN" /> Just one day before his retirement, Van Nistelrooy made his last appearance of his career, coming on as a substitute in the 75th minute for goalscorer [[Salomón Rondón]], who scored the only goal in Málaga's league match against [[Sporting de Gijón|Sporting Gijón]].<ref name="ESPN" /><ref>{{cite news |date=13 May 2012 |title=El Málaga completa una sensacional temporada clasificándose para la Champions League |url=https://ecodiario.eleconomista.es/futbol/noticias/3963931/05/12/El-Malaga-completa-una-sensacional-temporada-clasificandose-para-la-Champions-League.html |url-status=live |archive-url=https://web.archive.org/web/20181217062854/https://ecodiario.eleconomista.es/futbol/noticias/3963931/05/12/El-Malaga-completa-una-sensacional-temporada-clasificandose-para-la-Champions-League.html |archive-date=17 December 2018 |access-date=16 December 2018 |website=El Economista |language=es |agency=Europa Press}}</ref>
+
+On 14 May 2012, Van Nistelrooy announced his retirement from football at the age of 35.<ref>{{cite news |title=Ruud van Nistelrooy calls time on career at age of 35 |url=https://www.telegraph.co.uk/sport/football/european/9264662/Ruud-van-Nistelrooy-calls-time-on-career-at-age-of-35.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/european/9264662/Ruud-van-Nistelrooy-calls-time-on-career-at-age-of-35.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |work=The Daily Telegraph |location=London |date=14 May 2012 |access-date=3 August 2012}}{{cbignore}}</ref> He told [[Ziggo Sport Totaal|Sport1]] he previously made hints that his football career was coming to an end after insisting Málaga would be his last club.<ref>{{cite news |title=Van Nistelrooy admits he could retire this summer |url=http://www.goal.com/en/news/462/netherlands/2012/03/20/2979625/van-nistelrooy-admits-he-could-retire-this-summer |publisher=Goal.com |date=20 March 2012 |access-date=15 November 2012 |archive-date=14 June 2012 |archive-url=https://web.archive.org/web/20120614173608/http://www.goal.com/en/news/462/netherlands/2012/03/20/2979625/van-nistelrooy-admits-he-could-retire-this-summer |url-status=live}}</ref>
+
+{{clear|left}}
+
+==International career==
+
+===Early international career===
+[[File:Ruud van Nistelrooy.JPG|200px|thumb|upright|Van Nistelrooy with the Netherlands during the 2006 World Cup]]
+Van Nistelrooy, who earned 70 appearances and scored 35 goals for the [[Netherlands national football team|Netherlands]], made his international debut in a friendly match against [[Germany national football team|Germany]] on 18 November 1998.<ref>{{cite web |title=Acht feiten over Ruud van Nistelrooy in Oranje |url=https://www.vi.nl/nieuws/acht-feiten-over-ruud-van-nistelrooy-in-oranje |website=Voetbal International |date=4 August 2018 |access-date=17 June 2026 |language=nl}}</ref> However, a cruciate ligament injury – which postponed his transfer to Manchester United – also ruled Van Nistelrooy out of [[UEFA Euro 2000|Euro 2000]].<ref name=":1" />
+
+The Netherlands failed to qualify for the [[2002 FIFA World Cup|2002 World Cup]], being beaten to a playoff place by the [[Republic of Ireland national football team|Republic of Ireland]].<ref>{{cite news |title=Holland – Failure to qualify for World Cup |url=https://www.wsc.co.uk/the-archive/holland--failure-to-qualify-for-world-cup/ |access-date=29 October 2024|website=When Saturday Comes |date=November 2001}}</ref> On 19 November 2003, Van Nistelrooy scored a hat-trick in a 6–0 win over [[Scotland national football team|Scotland]] in the [[UEFA Euro 2004]] qualification playoffs, ensuring a place in the finals with a 6–1 aggregate victory.<ref>{{cite news |title=Scotland thrashed by Dutch |url=https://news.bbc.co.uk/sport2/hi/football/internationals/scotland/3275085.stm |access-date=29 October 2024 |publisher=BBC Sport |date=19 November 2003}}</ref> At the finals in Portugal, he scored in a draw with Germany, a loss to the [[Czech Republic national football team|Czech Republic]] and twice in a 3–0 win over [[Latvia national football team|Latvia]], to become the only player other than Czech [[Milan Baroš]] to net in all three group games at the tournament.<ref>{{cite news |last=Diamond |first=Harry|title=Every player to score in all three group games at a European Championship |url=https://thefootballfaithful.com/every-player-to-score-in-all-three-group-games-at-a-european-championship/ |access-date=29 October 2024 |website=The Football Faithful |date=28 June 2024}}</ref>
+
+===Initial retirement and return===
+[[File:Van Persie Van Nistelrooy.jpg|thumb|upright|140px|left|Van Nistelrooy (front) with Robin van Persie in 2008]]
+During a [[2006 FIFA World Cup qualification – UEFA Group 1|2006 World Cup qualifying match]], Nistelrooy scored in the 4–0 victory for the Netherlands against bottom-placed [[Andorra national football team|Andorra]] and was yellow-carded for going to Andorra player [[Antoni Lima]] and celebrating in front of him, following an incident six minutes before when Van Nistelrooy missed a penalty and Lima laughed at him.<ref>{{cite web |title=2006 FIFA World Cup preliminaries: Netherlands vs Andorra |url=https://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/matches/match=36520/report.html |publisher=FIFA |date=7 September 2005 |access-date=27 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110908174046/http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary%3D8071/matches/match%3D36520/report.html |archive-date=8 September 2011}}</ref> He was a part of coach [[Marco van Basten]]'s squad for the [[2006 FIFA World Cup|2006 World Cup]] finals, for which he served as the official FIFA/SOS ambassador.<ref>{{cite news |title=FIFA for SOS Children's Villages Ambassadors |url=http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm|website=SOS Children's Villages |date=21 February 2006 |access-date=18 August 2006 |archive-url=https://web.archive.org/web/20060928234654/http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm |archive-date = 28 September 2006}}</ref> He started, and was substituted, in all of the Netherlands' group stage matches, and scored his lone goal against the [[Ivory Coast national football team|Ivory Coast]]. Van Nistelrooy was dropped to the bench by Van Basten without an explanation for the Netherlands' second round match, which saw them again eliminated by Portugal.<ref>{{cite news |last=Sanghera |first=Mandeep |title=Ruud turns attention to Man Utd |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/holland/5116128.stm |access-date=29 October 2024|website=BBC Sport|publisher=BBC|date=26 June 2006}}</ref>
+
+Van Basten left Nistelrooy out of the squad for a friendly match against the Republic of Ireland on 16 August 2006,<ref>{{cite news|url=http://www.news24.com/xArchive/Sport/Soccer/Van-Basten-drops-Van-Nistelrooy-20060811|title=Van Basten drops Van Nistelrooy|website=[[News24 (website)|News24]]|publisher=[[Media24]]|date=11 August 2006|access-date=30 March 2011|archive-date=28 September 2012|archive-url=https://web.archive.org/web/20120928065254/http://www.news24.com/xArchive/Sport/Soccer/Van-Basten-drops-Van-Nistelrooy-20060811|url-status=dead}}</ref> and [[Dirk Kuyt]] replaced him in their next match against Portugal in September.<ref>{{cite news |date=26 September 2006 |title=Van Nistelrooij haalt uit naar bondscoach |url=http://www.nos.nl/nosstudiosport/artikelen/2006/9/26/26091330vannistelrooijhaaltuitnaarbondscoach.html |url-status=dead |archive-url=https://web.archive.org/web/20070911025710/http://www.nos.nl/nosstudiosport/artikelen/2006/9/26/26091330vannistelrooijhaaltuitnaarbondscoach.html |archive-date=11 September 2007|access-date=6 September 2007 |publisher=Nederlandse Omroep Stichting|language=nl}}</ref> After [[Klaas-Jan Huntelaar]] was unavailable for [[UEFA Euro 2008 qualifying|Euro 2008 qualifiers]] against [[Bulgaria national football team|Bulgaria]] and [[Belarus national football team|Belarus]] due to injury, Van Nistelrooy refused Van Basten's request to take his place on the team.<ref>{{cite news |title=Duo reject call-up to Dutch squad |url=https://news.bbc.co.uk/sport2/hi/football/internationals/5398080.stm |access-date=29 October 2024|website=BBC Sport|publisher=BBC|date=2 October 2006}}</ref>
+
+On 23 January 2007, Van Nistelrooy announced his retirement from international football following continued disputes with Van Basten, which had started back in 2006 during the course of the World Cup finals matches.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/internationals/6291257.stm |title=Van Nistelrooy in Dutch decision |website=BBC Sport|publisher=BBC|date=23 January 2007 |access-date=23 January 2007 |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407130312/http://news.bbc.co.uk/sport2/hi/football/internationals/6291257.stm |url-status=live }}</ref> However, after several phone conversations and at the persuasion of veteran goalkeeper [[Edwin van der Sar]], both player and coach put aside their differences. Van Basten announced four months later that Van Nistelrooy was returning to the ''Oranje''.<ref>{{cite news |title=Ruud to make Holland return |url=http://home.skysports.com/list.aspx?HLID=468587&CPID=219&title=Ruud+to+make+Holland+return&lid=&channel=Football_Home&f=rss&clid=366|publisher=Sky Sports |date=25 May 2007 |access-date=25 May 2007}}{{dead link |date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news |url=http://www.rte.ie/sport/2007/0525/vannistelrooyr.html |title=Ruud primed for Dutch return |publisher=RTÉ News|date=25 May 2007 |access-date=25 May 2007 |archive-date=22 December 2007 |archive-url=https://web.archive.org/web/20071222123853/http://www.rte.ie/sport/2007/0525/vannistelrooyr.html |url-status=live}}</ref> On 8 September, Van Nistelrooy filled Huntelaar's spot – as previously requested – for the UEFA Euro 2008 qualifying against Bulgaria, scoring in a 2–0 victory,<ref>{{cite news |title=Madrid duo do the Netherlands proud |url=https://www.uefa.com/uefaeuro/history/news/0254-0d7badc4de17-c20805b128bc-1000--madrid-duo-do-the-netherlands-proud/ |publisher=UEFA |date=9 September 2007 |access-date=9 August 2014 |archive-date=29 October 2014 |archive-url=https://web.archive.org/web/20141029105439/http://www.uefa.com/uefaeuro/season=2008/matches/round=2241/match=83687/postmatch/report/index.html |url-status=live}}</ref> and scored the winning goal four days later in injury time of the Netherlands' win over [[Albania national football team|Albania]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7bb13cd2b6-7b3c7ec120e7-1000--van-nistelrooy-times-it-right-in-tirana/|title=Van Nistelrooy times it right in Tirana|publisher=UEFA|date=12 September 2007|access-date=10 November 2024}}</ref>
+
+===European Championships and 2010 FIFA World Cup===
+At [[UEFA Euro 2008|Euro 2008]], Van Nistelrooy scored for the Netherlands in their decisive 3–0 victory against [[Italy national football team|Italy]] in the group stage, and scored the equaliser in their eventual 3–1 loss against [[Russia national football team|Russia]] in the quarter-finals. On 4 August, he again announced his retirement from international competition.<ref>{{cite news |title=Van Nistelrooy retires from international football |url=http://uk.reuters.com/article/sportsNews/idUKL447526520080804?feedType=RSS&feedName=sportsNews|agency=Reuters|location=United Kingdom|date=4 August 2008|access-date=4 August 2008|first=Theo|last=Ruizenaar|archive-date=27 December 2008|archive-url=https://web.archive.org/web/20081227194957/http://uk.reuters.com/article/sportsNews/idUKL447526520080804?feedType=RSS&feedName=sportsNews |url-status=dead }}</ref><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/7542088.stm |title=Van Nistelrooy quits Dutch set-up |date=4 August 2008 |access-date=4 August 2008|website=BBC Sport|publisher=BBC|archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405201240/http://news.bbc.co.uk/sport2/hi/football/internationals/7542088.stm |url-status=live }}</ref>
+
+During the [[2010 FIFA World Cup]], Van Nistelrooy was left out by the Netherlands' new coach [[Bert van Marwijk]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8676023.stm|title=Trio omitted from Dutch Cup squad|website=BBC Sport|publisher=BBC|date=15 May 2010 |access-date=23 May 2010 |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030223118/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8676023.stm |url-status=live }}</ref> After being left out for the World Cup, Van Nistelrooy said he had no choices except to face the fact that his international career is finished.<ref>{{cite news |title=Dutch striker accepts fate |url=http://www1.skysports.com/football/news/11095/6150902/|website=Sky Sports|publisher=Sky Group|date=13 May 2010 |access-date=15 November 2012 |archive-date=29 October 2013 |archive-url=https://web.archive.org/web/20131029183847/http://www1.skysports.com/football/news/11095/6150902/ |url-status=live }}</ref>
+
+After main striker [[Robin van Persie]] suffered an injury during a match with his club Arsenal, Van Marwijk gave Van Nistelrooy a chance to reclaim his position as the main striker of the Netherlands' national team. Van Nistelrooy was invited to two Netherlands' Group E qualification matches for [[UEFA Euro 2012|Euro 2012]] against [[San Marino national football team|San Marino]] and [[Finland national football team|Finland]].<ref name="Nu.nl">{{cite news |url=http://www.nu.nl/sport/2322729/van-nistelrooij-terug-bij-nederlands-elftal.html |title=Van Nistelrooij terug bij Nederlands Elftal |date=30 August 2010|website=[[NU.nl]]|publisher=[[DPG Media]]|language=nl |trans-title=Van Nistelrooij back in Dutch national squad |access-date=30 August 2010 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405201239/https://www.nu.nl/sport/2322729/van-nistelrooij-terug-bij-nederlands-elftal.html |url-status=live }}</ref> He scored in the 5–0 victory against San Marino on 3 September 2010.<ref>{{cite news |title=Huntelaar hits hat-trick |url=http://soccernet.espn.go.com/report?id=299313&cc=5901|website=ESPN Soccernet|publisher=[[ESPN]]|date=3 September 2010 |access-date=3 September 2010 |archive-date=7 September 2010 |archive-url=https://web.archive.org/web/20100907063930/http://soccernet.espn.go.com/report?id=299313&cc=5901 |url-status=dead}}</ref>
+
+Van Nistelrooy was recalled to the team in March 2011 for two Euro 2012 qualification matches against [[Hungary national football team|Hungary]] after injuries of strikers Klaas-Jan Huntelaar, [[Arjen Robben]], and [[Theo Janssen]].<ref>{{cite news |title=Dutch recall Van Nistelrooy |url=http://www.skysports.com/story/0,19528,11095_6828848,00.html|website=Sky Sports|publisher=Sky Group|date=21 March 2011 |access-date=29 March 2011 |archive-date=15 August 2016 |archive-url=https://web.archive.org/web/20160815061309/http://www.skysports.com/story/0,19528,11095_6828848,00.html |url-status=live }}</ref> In the away match on 25 March, he appeared as a late substitute for Dirk Kuyt<ref>{{cite news |title=Lineups: Hungary 0–4 Netherlands |url=https://www.uefa.com/uefaeuro/match/2002065--hungary-vs-netherlands/ |publisher=UEFA |date=25 March 2011 |access-date=30 March 2011 |archive-date=4 November 2017 |archive-url=https://web.archive.org/web/20171104012440/http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002065/postmatch/lineups/index.html |url-status=live }}</ref> while in the return game in [[Amsterdam]] four days later, he came off the bench to score his 35th international goal.<ref>{{cite news |first=Berend |last=Scholten |title=Kuyt kills off brave Hungary for Netherlands |url=https://www.uefa.com/uefaeuro/history/news/0252-0ce21dd5164b-788003870eb2-1000--kuyt-kills-off-brave-hungary-for-netherlands/ |publisher=UEFA |date=29 March 2011 |access-date=9 August 2014 |archive-date=26 October 2014 |archive-url=https://web.archive.org/web/20141026214623/http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002052/postmatch/report/index.html |url-status=live }}</ref> adding it is "wonderful to be able to add something to this Oranje team", as he told Berend Scholten.<ref>{{cite news |first=Berend |last=Scholten |title=Van Nistelrooy vaunts Dutch class |url=https://www.uefa.com/uefaeuro/match/2002052--netherlands-vs-hungary/ |publisher=UEFA |date=30 March 2011 |access-date=9 August 2014 |archive-date=17 October 2013 |archive-url=https://web.archive.org/web/20131017074201/http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002052/postmatch/quotes/index.html |url-status=live }}</ref>
+
+==Style of play==
+A highly prolific goalscorer, Van Nistelrooy was known for being extremely clinical and opportunistic in front of goal, and stood out throughout his career for his outstanding striking ability and finishing ability with either foot as well as his head, which earned him a reputation as one of the best strikers of his generation.<ref name="footnote">{{cite web |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/12011800/Ruud-van-Nistelrooy-deserves-more-than-being-a-footnote-to-Jamie-Vardys-achievements.html |title=Ruud van Nistelrooy deserves more than being a footnote to Jamie Vardy's achievements |publisher=The Daily Telegraph |first=Mark |last=Ogden |date=23 November 2015 |access-date=18 June 2018 |archive-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619031459/https://www.telegraph.co.uk/sport/football/teams/manchester-united/12011800/Ruud-van-Nistelrooy-deserves-more-than-being-a-footnote-to-Jamie-Vardys-achievements.html |url-status=live }}</ref><ref name="toast"/><ref name="cult">{{cite web |url=https://www.vice.com/en/article/the-cult-ruud-van-nistelrooy/ |title=The Cult: Ruud van Nistelrooy |publisher=Vice Sports |first=Will |last=Magee |date=7 December 2016 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618203139/https://sports.vice.com/en_ca/article/78gpzd/the-cult-ruud-van-nistelrooy |url-status=live}}</ref><ref name="complete"/><ref name="Time your run to perfection">{{cite web |url=https://www.fourfourtwo.com/performance/skills/ruud-van-nistelrooy-time-your-run-perfection |title=Ruud van Nistelrooy: Time your run to perfection |publisher=FourFourTwo |first=Ben |last=Welch |date=26 August 2011 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618175622/https://www.fourfourtwo.com/performance/skills/ruud-van-nistelrooy-time-your-run-perfection |url-status=live }}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/van-nistelrooy-trumps-rooneys-trick-531952.html |title=Van Nistelrooy trumps Rooney's trick |work=The Independent |first=Glenn |last=Moore |date=4 November 2004 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618184041/https://www.independent.co.uk/sport/football/premier-league/van-nistelrooy-trumps-rooneys-trick-531952.html |url-status=live }}</ref><ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/01c7-0e6ec6bc53cd-be911001323c-1000--van-nistelrooy-a-life-in-goalscoring/ |title=Van Nistelrooy: a life in goalscoring |publisher=[[UEFA]] |date=30 November 2007 |access-date=18 June 2018 |archive-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619005833/http://www.uefa.com/uefachampionsleague/news/newsid=629564.html |url-status=live}}</ref><ref>{{cite web |title=The forward scored the winning goal at the San Mamés in the 2007–08 campaign |url=https://www.realmadrid.com/en/news/2017/12/historic-goals-van-nistelrooy |publisher=www.realmadrid.com |date=1 December 2017 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618204748/https://www.realmadrid.com/en/news/2017/12/historic-goals-van-nistelrooy |url-status=live}}</ref> Due to his excellent positional sense, quick reactions and intelligent offensive movement, he excelled at finding space in the penalty area and at anticipating his opponents movement to the ball. He was also known for his ability to time his runs to escape his markers, beat the [[offside trap]], and get on the end of his teammates' passes; his tendency to be in the right place at the right time in the box saw him occasionally labelled as a "poacher" in the media.<ref name="toast"/><ref name="cult"/><ref name="complete"/><ref name="Time your run to perfection"/><ref>{{cite news |url=https://www.independent.co.uk/sport/football/football-league/charlton-athletic-1-preston-north-end-2-brown-goals-are-a-ruud-awakening-for-charlton-793642.html |title=Charlton Athletic 1 Preston North End 2: Brown goals are a Ruud awakening for Charlton |work=The Independent |first=Evan |last=Fanning |date=10 March 2008 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618184048/https://www.independent.co.uk/sport/football/football-league/charlton-athletic-1-preston-north-end-2-brown-goals-are-a-ruud-awakening-for-charlton-793642.html |url-status=live }}</ref><ref>{{cite web |url=https://www.thetimes.com/sport/football/article/united-in-debt-to-van-nistelrooy-after-great-escape-czmhcgq7533 |title=United in debt to Van Nistelrooy after great escape |work=The Times |first=Oliver |last=Kay |date=16 September 2004 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618175707/https://www.thetimes.co.uk/article/united-in-debt-to-van-nistelrooy-after-great-escape-czmhcgq7533 |url-status=live }}</ref><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4525113.stm |title=Southampton 1-2 Man Utd |publisher=BBC Sport |date=15 May 2005 |access-date=18 June 2018 |archive-date=27 April 2009 |archive-url=https://web.archive.org/web/20090427115404/http://news.bbc.co.uk/sport2/hi/football/eng_prem/4525113.stm |url-status=live }}</ref>
+
+A well-rounded [[centre-forward]], in addition to his eye for goal, Van Nistelrooy was gifted with pace, physical strength, and shooting power, as well as excellent technical skills, and an ability to hold up the ball with his back to goal and link-up with his teammates or provide them with [[Assist (association football)|assists]], due to his ability to read the game.<ref name="That finishing Dutch"/><ref name="footnote"/><ref name="toast">{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/a-toast-to-van-extraordinaire-9161977.html |title=A toast to Van extraordinaire |work=The Independent |first=Alex |last=Hayes |date=13 January 2002 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618183926/https://www.independent.co.uk/sport/football/premier-league/a-toast-to-van-extraordinaire-9161977.html |url-status=live }}</ref><ref name="complete"/><ref>{{cite web |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-ruud-van-nistelrooy-10488532 |title=How former Manchester United striker legend Ruud van Nistelrooy set the benchmark for Jamie Vardy |publisher=Manchester Evening News |first=Stuart |last=Mathieson |date=24 November 2015 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618203131/https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-ruud-van-nistelrooy-10488532 |url-status=live }}</ref> He was also an accurate [[Penalty kick (association football)|penalty taker]].<ref>{{cite web |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/ruud-still-reds-penalty-king-1152514 |title=Ruud still Reds penalty king says Fergie |publisher=Manchester Evening News |date=11 August 2004 |access-date=18 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618175640/https://www.manchestereveningnews.co.uk/sport/football/football-news/ruud-still-reds-penalty-king-1152514 |url-status=live}}</ref> In spite of his talent and goalscoring ability, however, at times he drew criticism from managers, players and pundits for his controversial behaviour, as well as for having a tendency to be selfish, overly flamboyant, or for his penchant for [[Diving (association football)|simulation]].<ref name="cult"/>
+
+==Coaching career==
+
+===PSV under-17s===
+On 22 June 2013, Van Nistelrooy joined PSV as a coaching intern working with the under-17s.<ref>{{cite web |title=Van Nistelrooy, Ooijer, Kolkka and Zenden undertake internship|url=http://www.psv.nl/News/News-page/Van-Nistelrooy-Ooijer-Kolkka-and-Zenden-undertake-internship.htm|date=22 June 2013|publisher=PSV|access-date=19 May 2014|url-status=dead|archive-url=https://web.archive.org/web/20140519222912/http://www.psv.nl/News/News-page/Van-Nistelrooy-Ooijer-Kolkka-and-Zenden-undertake-internship.htm|archive-date=19 May 2014}}</ref> He was revealed as the new striker coach of the under-17s, 19s and the reserve team in February 2016.<ref>{{cite news |title=Ruud van Nistelrooy roped in at Dutch side PSV Eindhoven |url=http://www.kickoff.com/news/62476/ruud-van-nistelrooy-roped-in-at-dutch-side-psv-eindhoven |website=Kick Off |date=3 February 2016 |access-date=16 December 2018 |archive-date=17 December 2018 |archive-url=https://web.archive.org/web/20181217062743/http://www.kickoff.com/news/62476/ruud-van-nistelrooy-roped-in-at-dutch-side-psv-eindhoven |url-status=live }}</ref>
+
+===Netherlands===
+In March 2014, it was announced that Van Nistelrooy would be assisting [[Guus Hiddink]] after the [[2014 FIFA World Cup|2014 World Cup]].<ref>{{Cite news|title=Van Nistelrooy joins Holland coaching setup|url=http://www.espn.co.uk/football/sport/story/295261.html|date=28 March 2014|work=ESPN UK|access-date=19 May 2014|archive-date=5 September 2014|archive-url=https://web.archive.org/web/20140905020944/http://www.espn.co.uk/football/sport/story/295261.html|url-status=dead}}</ref>
+
+===PSV under-19s===
+On 25 June 2018, Van Nistelrooy became the new manager of the PSV under-19s, taking over [[Mark van Bommel]], who left his role for the senior team.<ref>{{cite news |date=25 June 2018 |title=Ruud van Nistelrooy volgt Mark van Bommel op bij PSV-jeugd: 'Het trainersvak heeft me gegrepen' |url=https://www.omroepbrabant.nl/nieuws/243483/Ruud-van-Nistelrooy-volgt-Mark-van-Bommel-op-bij-PSV-jeugd-Het-trainersvak-heeft-me-gegrepen |url-status=dead |archive-url=https://web.archive.org/web/20181217110523/https://www.omroepbrabant.nl/nieuws/243483/Ruud-van-Nistelrooy-volgt-Mark-van-Bommel-op-bij-PSV-jeugd-Het-trainersvak-heeft-me-gegrepen |archive-date=17 December 2018 |access-date=16 December 2018 |website=Omroep Brabant |language=nl}}</ref>
+
+In December 2019 it was confirmed, that Van Nistelrooy beside his position at PSV, also had been added to [[Ronald Koeman]]'s Netherlands backroom staff as an assistant manager together with [[Maarten Stekelenburg (footballer, born 1972)|Maarten Stekelenburg]] ahead of the [[UEFA Euro 2020|Euro 2020]], after [[Kees van Wonderen]] recently had left the position.<ref>{{cite web | url = https://www.channelnewsasia.com/news/sport/van-nistelrooy-roped-in-as-dutch-assistant-coach-for-euro-2020-12191768 | title = Van Nistelrooy roped in as Dutch assistant coach for Euro 2020 | website = channelnewsasia.com | date = 18 December 2019 | access-date = 21 August 2020 | archive-date = 1 December 2020 | archive-url = https://web.archive.org/web/20201201122654/https://www.channelnewsasia.com/news/sport/van-nistelrooy-roped-in-as-dutch-assistant-coach-for-euro-2020-12191768 | url-status = live }}</ref>
+
+===PSV first team===
+In March 2022, Van Nistelrooy was appointed as the replacement for the outgoing [[Roger Schmidt (football manager)|Roger Schmidt]] as PSV's head coach. He signed a three-year contract beginning with the 2022–23 season.<ref>{{cite news |title=Ruud van Nistelrooy: PSV Eindhoven appoint former Manchester United striker as boss from the 2022-23 season |url=https://www.bbc.co.uk/sport/football/60932996 |website=BBC Sport |date=30 March 2022 |access-date=11 April 2022 |archive-date=11 April 2022 |archive-url=https://web.archive.org/web/20220411141136/https://www.bbc.co.uk/sport/football/60932996 |url-status=live}}</ref> After winning the [[2022 Johan Cruyff Shield]] and [[2022–23 KNVB Cup]], he resigned with one match remaining in the [[2022–23 Eredivisie]] season, citing a lack of support.<ref>{{cite web |url=https://www.nu.nl/voetbal/6264961/van-nistelrooij-vertrekt-per-direct-als-trainer-psv-wegens-gebrek-aan-steun.html |title=Van Nistelrooij vertrekt per direct als trainer PSV wegens gebrek aan steun |trans-title=Van Nistelrooy immediately leaves PSV due to lack of support |language=nl |date=24 May 2023 |access-date=24 May 2023 |archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524114442/https://www.nu.nl/voetbal/6264961/van-nistelrooij-vertrekt-per-direct-als-trainer-psv-wegens-gebrek-aan-steun.html |url-status=live}}</ref>
+
+===Manchester United===
+On 11 July 2024, Van Nistelrooy was appointed as an assistant coach for Premier League club [[Manchester United F.C.|Manchester United]] on a two-year contract. He was originally tasked to work alongside [[Erik ten Hag]]; however, following the sacking of the latter on 28 October, he was appointed as interim head coach.<ref>{{cite news|publisher=Manchester United F.C.|url=https://www.manutd.com/en/news/detail/man-utd-official-club-statement-on-erik-ten-hag-28-oct |title=Man Utd official club statement on Erik ten Hag |date=28 October 2024|access-date=28 October 2024}}</ref> Two days later in his first game, he led Manchester United to a 5–2 win over [[Leicester City F.C.|Leicester City]] in the [[EFL Cup]].<ref>{{cite news|url=https://www.skysports.com/football/news/11095/13243589/man-utd-5-2-leicester-ruud-van-nistelrooy-gets-off-to-winning-start-in-carabao-cup|title=Man Utd 5-2 Leicester: Ruud van Nistelrooy gets off to winning start in Carabao Cup|publisher=[[Sky Sports]]|date=30 October 2024|access-date=31 October 2024}}</ref> On 7 November, Van Nistelrooy led his club to their first European win in 13 months in a 2–0 win against [[PAOK FC|PAOK]].<ref>{{cite news|url=https://www.skysports.com/football/news/11959/13248474/manchester-united-2-0-paok-amad-diallo-scores-twice-as-ruud-van-nistelrooy-oversees-long-awaited-european-win|title=Manchester United 2–0 PAOK: Amad Diallo scores twice as Ruud van Nistelrooy oversees long-awaited European win|publisher=[[Sky Sports]]|date=7 November 2024|access-date=10 November 2024}}</ref> In what would be his final game in charge, he oversaw a 3–0 league win, again over Leicester City.<ref>{{Cite web |title=Man Utd 3-0 Leicester City: Bruno Fernandes shines in Premier League win |url=https://www.bbc.com/sport/football/live/c1lgj2eje9vt |access-date=21 November 2024 |website=BBC Sport |language=en-GB}}</ref> Upon the arrival of new head coach [[Ruben Amorim]], Van Nistelrooy departed the club. He finished his tenure as interim manager with three wins and one draw in four matches.<ref>{{Cite web |title=Statement: Van Nistelrooy later fully leaves the club, not remaining as an Assistant Manager or a member of the coaching staff following Amorim's changes. |url=https://www.manutd.com/en/news/detail/statement-on-ruud-van-nistelrooy-and-coaching-staff-departures |access-date=11 November 2024 |website=www.manutd.com}}</ref>
+
+===Leicester City===
+On 29 November 2024, Van Nistelrooy was appointed manager of Premier League club [[Leicester City F.C.|Leicester City]] on a two-and-a-half-year deal running until June 2027, replacing [[Steve Cooper (football manager)|Steve Cooper]].<ref>{{Cite web |url=https://www.lcfc.com/pages/en/media-article/leicester-city-name-ruud-van-nistelrooy-as-new-first-team-manager |title=Leicester City Name Ruud Van Nistelrooy As New First Team Manager |website=Leicester City |date=29 November 2024 |access-date=29 November 2024}}</ref> On 3 December 2024, he got his first win as a Premier League manager, in his home debut game and winning 3–1 against [[West Ham United F.C.|West Ham United]].<ref>{{Cite web |title=Van Nistelrooy starts Leicester reign with win over West Ham |url=https://www.premierleague.com/news/4183315 |access-date=4 December 2024 |website=www.premierleague.com |language=en}}</ref><ref>{{cite news |last=Tanner |first=Rob |date=11 December 2024 |title=How Ruud van Nistelrooy is building on Leicester's box midfield foundations |url=https://www.nytimes.com/athletic/5983549/2024/12/11/how-ruud-van-nistelrooy-is-building-on-leicesters-box-midfield-foundations/ |access-date=11 December 2024 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Leicester then followed up the win by drawing 2–2 with [[Brighton & Hove Albion F.C.|Brighton]] at home on 8 December 2024. 
+
+Following the draw with Brighton, Leicester began a bleak run of form of only one win in 17 games, with a 4–0 away defeat to [[Newcastle United F.C.|Newcastle United]] on 14 December 2024, then a 3–0 loss at home to relegation rivals [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. The defeat to Wolves began a run of eight losses in a row at home for the Foxes without scoring, which was a new record in English football. On 26 January 2025, he won his first away game at [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 2–1, and that saw the Foxes end a run of eight games without a win.
+
+On 20 April 2025, Leicester were relegated to the [[2025–26 EFL Championship|Championship]] after losing 1–0 at home to league leaders [[Liverpool F.C.|Liverpool]].<ref>{{cite web |last=Stevens |first=Sam |title=City Relegated After Liverpool Defeat |url=https://www.lcfc.com/pages/en/media-article/leicester-city-liverpool-premier-league-match-reported-relegation |publisher=Leicester City F.C. |date=20 April 2025}}</ref> This left the Foxes 18 points off safety with five games to play and extended their run of home losses without scoring to nine games, also giving Leicester the record of the first team in top flight history to go nine games without scoring at home.<ref>{{Cite web |last=Aloia |first=Andrew |title=Leicester part company with manager Van Nistelrooy |url=https://www.bbc.com/sport/football/articles/c3w4860ez9wo |publisher=BBC Sport |date=27 June 2025}}</ref>
+
+On 27 June 2025, van Nistelrooy left Leicester by mutual consent.<ref>{{cite web |title=Ruud Van Nistelrooy: First Team Manager And Leicester City Agree To Part Ways |url=https://www.lcfc.com/pages/en/media-article/ruud-van-nistelrooy-first-team-manager-and-leicester-city-agree-to-part-ways |publisher=Leicester City F.C. |date=27 June 2025}}</ref>
+
+=== Netherlands ===
+On 16 January 2026, Van Nistelrooy was announced as assistant coach of the [[Netherlands national football team|Netherlands national team]], and would commence in the role on 1 February 2026, in preparation for the upcoming [[2026 FIFA World Cup]] in North America.<ref>{{cite web |date=16 January 2025 |title=Ruud van Nistelrooy (49) returns to the Dutch national team as assistant and will go to the 2026 World Cup |url=https://www.telegraaf.nl/sport/voetbal/ruud-van-nistelrooy-49-keert-bij-het-nederlands-elftal-terug-als-assistent-en-gaat-mee-naar-wk-2026/124220560.html |access-date=16 January 2026 |website=De Telegraaf}}</ref>
+
+==Outside football==
+
+===Personal life===
+Van Nistelrooy married his girlfriend and former professional cyclist, Leontien Slaats, in July 2004.<ref>{{cite news |title=Ruud celebrates match of the day |publisher=BBC News |date=10 July 2004 |url=https://news.bbc.co.uk/1/hi/world/europe/3883195.stm |access-date=2 February 2011 |archive-date=10 November 2011 |archive-url=https://web.archive.org/web/20111110132214/http://news.bbc.co.uk/2/hi/europe/3883195.stm |url-status=live }}</ref> The couple have a daughter and a son.<ref>{{cite news |title=New father Van Nistelrooy rejoins Real squad |url=http://uk.sports.yahoo.com/26092006/2/photo/new-father-van-nistelrooy-rejoins-real-squad.html |publisher=Yahoo! Sport |date=26 September 2006 |access-date=6 September 2007 }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news |title=Proud dad Ruud set for Real berth |url=http://edition.cnn.com/2006/SPORT/football/09/25/spain.ronaldo/ |publisher=CNN |date=26 September 2006 |access-date=6 September 2007 |archive-date=12 October 2007 |archive-url=https://web.archive.org/web/20071012021429/http://edition.cnn.com/2006/SPORT/football/09/25/spain.ronaldo/ |url-status=live }}</ref><ref>{{cite news |title=Van Nistelrooy happy |url=http://www.realmadrid.com/articulo/rma33942.htm |archive-url=https://archive.today/20070929091549/http://www.realmadrid.com/articulo/rma33942.htm |url-status=dead |archive-date=29 September 2007 |publisher=Real Madrid CF |date=26 September 2006 |access-date=6 September 2007}}</ref> Van Nistelrooy is a [[Catholic Church|Roman Catholic]].<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/europe/3883195.stm |title=Europe &#124; Ruud celebrates match of the day |publisher=BBC News |date=10 July 2004 |access-date=20 July 2022 |archive-date=18 July 2022 |archive-url=https://web.archive.org/web/20220718155034/http://news.bbc.co.uk/1/hi/world/europe/3883195.stm |url-status=live }}</ref><ref>{{cite news |title=What Dutch football tells us |publisher=The Tablet |date=4 November 2000 |url=http://archive.thetablet.co.uk/article/4th-november-2000/15/what-dutch-football-tells-us |access-date=12 November 2014 |archive-url=https://web.archive.org/web/20151124113006/http://archive.thetablet.co.uk/article/4th-november-2000/15/what-dutch-football-tells-us |archive-date=24 November 2015 |url-status=dead}}</ref>
+
+===Charity===
+Van Nistelrooy and his wife are both heavily involved with the charity organization [[SOS Children's Villages]]. The organization has been around since 1949 and is an international development charity which serves to protect the interests and rights of children. Van Nistelrooy was officially appointed "FIFA for SOS Children's Villages" Ambassador in the Netherlands on 1 September 2001.<ref>{{cite news |title=The Netherlands: Ruud van Nistelrooy |url=http://www.sos-childrensvillages.org/get-involved/celebrities-as-partners/fifa-ambassadors-europe/pages/netherlands-ruud-van-nistelrooy.aspx |publisher=SOS Children's Villages |access-date=19 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100617065944/http://www.sos-childrensvillages.org/Get-involved/Celebrities-as-partners/FIFA-ambassadors-Europe/Pages/Netherlands-Ruud-van-Nistelrooy.aspx |archive-date=17 June 2010}}</ref>
+
+On 17 November 2009, Van Nistelrooy and his wife hosted SOS at [[Ciudad Real Madrid]]. The purpose of the event was to help create a calendar which would be sold to benefit the organization.<ref>{{cite news |title=Van Nistelrooy's Charity Work |url=http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |publisher=Real Madrid CF |date=17 November 2009 |access-date=19 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091120185259/http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |archive-date=20 November 2009}}</ref>
+
+===Endorsements===
+Van Nistelrooy was sponsored by sportswear company [[Nike, Inc.|Nike]] and appeared in Nike commercials. In a global Nike advertising campaign in the run-up to the 2002 World Cup in Korea and Japan, he starred in a "[[Secret Tournament]]" commercial (branded "Scorpion KO") directed by [[Terry Gilliam]], appearing alongside football players such as [[Thierry Henry]], [[Ronaldo (Brazilian footballer)|Ronaldo]], [[Edgar Davids]], [[Fabio Cannavaro]], [[Francesco Totti]], [[Ronaldinho]], [[Luís Figo]] and [[Hidetoshi Nakata]], with former player [[Eric Cantona]] as the tournament "referee".<ref>{{cite news|title=A lighter shoe, cooler kits, a faster ball, a Secret Tournament – every touch counts |url=http://www.nikebiz.com/story/stry_scorpion.shtml |work=NikeBiz |publisher=Nike |access-date=21 July 2012 |url-status=dead |archive-url=https://web.archive.org/web/20020602055510/http://www.nikebiz.com/story/stry_scorpion.shtml |archive-date=2 June 2002}}</ref><ref>{{cite news |last=Cozens |first=Claire |date=3 April 2002 |title=Cantona hosts World Cup with a difference |url=https://www.theguardian.com/media/2002/apr/03/advertising.worldcupfootball2002?INTCMP=ILCNETTXT3487 |url-status=live |archive-url=https://web.archive.org/web/20180701165023/https://www.theguardian.com/media/2002/apr/03/advertising.worldcupfootball2002?INTCMP=ILCNETTXT3487 |archive-date=1 July 2018 |access-date=21 July 2012 |work=The Guardian |issn=0261-3077}}</ref>
+
+===Media career===
+During the 2014 World Cup, Van Nistelrooy worked as a [[Sports analyst|studio analyst]] for [[ESPN]].<ref>{{cite news|title=Silva and Van Nistelrooy join ESPN for World Cup|url=https://www.espn.com/espn/wire?section=soccer&id=10279077|publisher=ESPN|date=11 January 2014|access-date=19 July 2014|archive-date=8 August 2014|archive-url=https://web.archive.org/web/20140808155129/http://sports.espn.go.com/espn/wire?section=soccer&id=10279077|url-status=live}}</ref>
+
+==Career statistics==
+===Club===
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition<ref name="NFT">{{NFT|4636|name=Van Nistelrooy, Ruud |access-date=16 December 2018}}</ref><ref>{{cite news |title=Ruud van Nistelrooy |url=https://www.psv.nl/nieuwspagina/artikel/ruud-van-nistelrooy-2.htm |website=PSV.nl |date=18 April 2002 |access-date=16 December 2018 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727185745/https://www.psv.nl/nieuwspagina/artikel/ruud-van-nistelrooy-2.htm |url-status=dead }}</ref><ref>{{cite web |url=http://thetopforward.com/view?id=72 |title=Ruud van Nistelrooy The Top Forward profile |website=The Top Forward |access-date=16 December 2018 |archive-date=29 January 2022 |archive-url=https://web.archive.org/web/20220129035042/http://thetopforward.com/view?id=72 |url-status=live }}</ref><ref name="PSV_statistics"/>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]], [[FA Cup]], [[Copa del Rey]], [[DFB-Pokal]]}}
+!colspan="2"|League cup{{efn|Includes [[Football League Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[FC Den Bosch|Den Bosch]]
+|{{nowrap|[[1993–94 Eerste Divisie|1993–94]]}}
+|[[Eerste Divisie]]
+|2||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[1994–95 Eerste Divisie|1994–95]]
+|Eerste Divisie
+|15||3||2||3||colspan="2"|—||colspan="2"|—||colspan="2"|–||17||6
+|-
+|[[1995–96 Eerste Divisie|1995–96]]
+|Eerste Divisie
+|21||2||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||2
+|-
+|[[1996–97 Eerste Divisie|1996–97]]
+|Eerste Divisie
+|31||12||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||12
+|-
+!colspan="2"|Total
+!69!!17!!2!!3!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!71!!20
+|-
+|[[SC Heerenveen|Heerenveen]]
+|[[1997–98 Eredivisie|1997–98]]
+|[[Eredivisie]]
+|31||13||5||3||colspan="2"|—||4{{efn|Appearances in [[UEFA Intertoto Cup]]}}||0||colspan="2"|—||40||16
+|-
+|rowspan="4"|[[PSV Eindhoven|PSV]]
+|[[1998–99 PSV Eindhoven season|1998–99]]
+|Eredivisie
+|34||31||4||4||colspan="2"|—||7{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||6||1{{efn|Appearance in [[Johan Cruyff Shield]]}}||0||46||41
+|-
+|[[1999–2000 PSV Eindhoven season|1999–2000]]
+|Eredivisie
+|23||29||1||0||colspan="2"|—||8{{efn|name=UCL}}||3||colspan="2"|—||32||32
+|-
+|[[2000–01 PSV Eindhoven season|2000–01]]
+|Eredivisie
+|10||2||2||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||4
+|-
+!colspan="2"|Total
+!67!!62!!7!!6!!colspan="2"|—!!15!!9!!1!!0!!90!!77
+|-
+|rowspan="6"|[[Manchester United F.C.|Manchester United]]
+|[[2001–02 Manchester United F.C. season|2001–02]]
+|[[Premier League]]
+|32||23||2||2||0||0||14{{efn|name=UCL}}||10||1{{efn|name=FCS|Appearance in [[FA Community Shield]]}}||1||49||36
+|-
+|[[2002–03 Manchester United F.C. season|2002–03]]
+|Premier League
+|34||25||3||4||4||1||11{{efn|name=UCL}}||14||0||0||52||44
+|-
+|[[2003–04 Manchester United F.C. season|2003–04]]
+|Premier League
+|32||20||4||6||0||0||7{{efn|name=UCL}}||4||1{{efn|name=FCS}}|||0||44||30
+|-
+|[[2004–05 Manchester United F.C. season|2004–05]]
+|Premier League
+|17||6||3||2||0||0||7{{efn|name=UCL}}||8||0||0||27||16
+|-
+|[[2005–06 Manchester United F.C. season|2005–06]]
+|Premier League
+|35||21||2||0||2||1||8{{efn|name=UCL}}||2||0||0||47||24
+|-
+!colspan="2"|Total
+!150!!95!!14!!14!!6!!2!!47!!38!!2!!1!!219!!150
+|-
+|rowspan="5"|[[Real Madrid CF|Real Madrid]]
+|[[2006–07 Real Madrid CF season|2006–07]]
+|[[La Liga]]
+|37||25||3||2||colspan="2"|—||7{{efn|name=UCL}}||6||0||0||47||33
+|-
+|[[2007–08 Real Madrid CF season|2007–08]]
+|La Liga
+|24||16||1||0||colspan="2"|—||7{{efn|name=UCL}}||4||1{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||0||33||20
+|-
+|[[2008–09 Real Madrid CF season|2008–09]]
+|La Liga
+|6||4||0||0||colspan="2"|—||4{{efn|name=UCL}}||3||2{{efn|name=SDE}}||3||12||10
+|-
+|[[2009–10 Real Madrid CF season|2009–10]]
+|La Liga
+|1||1||2||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||4||1
+|-
+!colspan="2"|Total
+!68!!46!!6!!2!!colspan="2"|—!!19!!13!!3!!3!!96!!64
+|-
+|rowspan="3"|[[Hamburger SV]]
+|[[2009–10 Hamburger SV season|2009–10]]
+|[[Bundesliga]]
+|11||5||0||0||colspan="2"|—||7{{efn|Appearances in [[UEFA Europa League]]}}||2||0||0||18||7
+|-
+|[[2010–11 Hamburger SV season|2010–11]]
+|Bundesliga
+|25||7||1||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||26||10
+|-
+!colspan="2"|Total
+!36!!12!!1!!3!!colspan="2"|—!!7!!2!!0!!0!!44!!17
+|-
+|[[Málaga CF|Málaga]]
+|[[2011–12 Málaga CF season|2011–12]]
+|La Liga
+|28||4||4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||32||5
+|-
+!colspan="3"|Career total
+!449!!249!!39!!32!!6!!2!!92!!62!!6!!4!!592!!349
+|}
+
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref name="NFT"/>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="14" |[[Netherlands national football team|Netherlands]]
+|1998||1||0
+|-
+|1999||8||1
+|-
+|2000||1||0
+|-
+|2001||7||7
+|-
+|2002||4||1
+|-
+|2003||8||5
+|-
+|2004||11||6
+|-
+|2005||9||5
+|-
+|2006||5||3
+|-
+|2007||5||2
+|-
+|2008||5||3
+|-
+|2009
+|0
+|0
+|-
+|2010||3||1
+|-
+|2011||3||1
+|-
+!colspan="2"|Total!!70!!35
+|}
+:''Scores and results list the Netherlands' goal tally first, score column indicates score after each Van Nistelrooy goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ruud van Nistelrooy<ref>{{cite web |url=https://eu-football.info/_player.php?id=21836 |title=Ruud van Nistelrooy |website=European Football |access-date=16 December 2018 |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030223107/https://eu-football.info/_player.php?id=21836 |url-status=live }}</ref>
+|-
+!scope="col"|No.
+!scope="col" data-sort-type="date"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center;"|1
+|28 April 1999||[[GelreDome]], [[Arnhem]], Netherlands|| style="text-align:center;"|3||{{fb|MAR}}|| style="text-align:center;"|1–2|| style="text-align:center;"|1–2||[[Friendly (association football)|Friendly]]
+|-
+| style="text-align:center;"|2
+|25 April 2001||[[Philips Stadion]], [[Eindhoven]], Netherlands|| style="text-align:center;"|11||{{fb|CYP|1960}}|| style="text-align:center;"|4–0|| style="text-align:center;"|4–0||[[2002 FIFA World Cup qualification – UEFA Group 2|2002 FIFA World Cup qualification]]
+|-
+| style="text-align:center;"|3
+|rowspan="2"|2 June 2001||rowspan="2"|[[A. Le Coq Arena|Lilleküla Stadium]], [[Tallinn]], Estonia||rowspan="2" style="text-align:center"|12||rowspan="2"|{{fb|EST}}|| style="text-align:center;"|2–2||rowspan="2" style="text-align:center"|4–2||rowspan="2"|2002 FIFA World Cup qualification
+|- style="text-align:center;" 
+||4
+||4–2
+|-
+| style="text-align:center;"|5
+|15 August 2001||[[White Hart Lane]], [[London]], England|| style="text-align:center;"|13||{{fb|ENG}}|| style="text-align:center;"|2–0|| style="text-align:center;"|2–0||Friendly
+|-
+| style="text-align:center;"|6
+|5 September 2001||Philips Stadion, Eindhoven, Netherlands|| style="text-align:center;"|15||{{fb|EST}}|| style="text-align:center;"|5–0|| style="text-align:center;"|5–0||2002 FIFA World Cup qualification
+|-
+| style="text-align:center;"|7
+|rowspan="2"|6 October 2001||rowspan="2"|GelreDome, Arnhem, Netherlands||rowspan="2" style="text-align:center"|16||rowspan="2"|{{fb|AND}}|| style="text-align:center;"|3–0||rowspan="2" style="text-align:center"|4–0||rowspan="2"|2002 FIFA World Cup qualification
+|- style="text-align:center;" 
+||8
+||4–0
+|-
+| style="text-align:center;"|9
+|20 November 2002||[[Arena AufSchalke]], [[Gelsenkirchen]], Germany|| style="text-align:center;"|21||{{fb|GER}}|| style="text-align:center;"|3–1|| style="text-align:center;"|3–1||Friendly
+|-
+| style="text-align:center;"|10
+|29 March 2003||[[De Kuip]], [[Rotterdam]], Netherlands|| style="text-align:center;"|23||{{fb|CZE}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–1||[[UEFA Euro 2004 qualifying Group 3|UEFA Euro 2004 qualifying]]
+|-
+| style="text-align:center;"|11
+|2 April 2003||[[Sheriff Stadium]], [[Tiraspol]], Moldova|| style="text-align:center;"|24||{{fb|MLD}}|| style="text-align:center;"|1–1|| style="text-align:center;"|2–1||UEFA Euro 2004 qualifying
+|-
+| style="text-align:center;"|12
+|rowspan="3"|19 November 2003||rowspan="3"|[[Johan Cruyff Arena|Amsterdam Arena]], [[Amsterdam]], Netherlands||rowspan="3" style="text-align:center"|29||rowspan="3"|{{fb|SCO}}|| style="text-align:center;"|3–0||rowspan="3" style="text-align:center"|6–0||rowspan="3"|[[UEFA Euro 2004 qualifying play-offs|UEFA Euro 2004 qualifying]]
+|- style="text-align:center;" 
+||13
+||4–0
+|- style="text-align:center;" 
+||14
+||6–0
+|-
+| style="text-align:center;"|15
+|15 June 2004||[[Estádio do Dragão]], [[Porto]], Portugal|| style="text-align:center;"|34||{{fb|GER}}|| style="text-align:center;"|1–1|| style="text-align:center;"|1–1||[[UEFA Euro 2004 Group D|UEFA Euro 2004]]
+|-
+| style="text-align:center;"|16
+|19 June 2004||[[Estádio Municipal de Aveiro]], [[Aveiro, Portugal|Aveiro]], Portugal|| style="text-align:center;"|35||{{fb|CZE}}|| style="text-align:center;"|2–0|| style="text-align:center;"|2–3||UEFA Euro 2004
+|-
+| style="text-align:center;"|17
+|rowspan="2"|23 June 2004||rowspan="2"|[[Estádio Municipal de Braga]], [[Braga]], Portugal||rowspan="2" style="text-align:center"|36||rowspan="2"|{{fb|LAT}}|| style="text-align:center;"|1–0||rowspan="2" style="text-align:center"|3–0||rowspan="2"|UEFA Euro 2004
+|- style="text-align:center;" 
+||18
+||2–0
+|-
+| style="text-align:center;"|19
+|rowspan="2"|13 October 2004||rowspan="2"|Amsterdam Arena, Amsterdam, Netherlands||rowspan="2" style="text-align:center"|39||rowspan="2"|{{fb|FIN}}|| style="text-align:center;"|2–1||rowspan="2" style="text-align:center"|3–1||rowspan="2"|[[2006 FIFA World Cup qualification – UEFA Group 1|2006 FIFA World Cup qualification]]
+|- style="text-align:center;" 
+||20
+||3–1
+|-
+| style="text-align:center;"|21
+|30 March 2005||Philips Stadion, Eindhoven, Netherlands|| style="text-align:center;"|42||{{fb|ARM}}|| style="text-align:center;"|2–0|| style="text-align:center;"|2–0||2006 FIFA World Cup qualification
+|-
+| style="text-align:center;"|22
+|8 June 2005||[[Helsinki Olympic Stadium]], [[Helsinki]], Finland|| style="text-align:center;"|44||{{fb|FIN}}|| style="text-align:center;"|1–0|| style="text-align:center;"|4–0||2006 FIFA World Cup qualification
+|-
+| style="text-align:center;"|23
+|3 September 2005||[[Vazgen Sargsyan Republican Stadium|Hanrapetakan Stadium]], [[Yerevan]], Armenia|| style="text-align:center;"|46||{{fb|ARM}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–0||2006 FIFA World Cup qualification
+|-
+| style="text-align:center;"|24
+|rowspan="2"|7 September 2005||rowspan="2"|Philips Stadion, Eindhoven, Netherlands||rowspan="2" style="text-align:center"|47||rowspan="2"|{{fb|AND}}|| style="text-align:center;"|3–0||rowspan="2" style="text-align:center"|4–0||rowspan="2"|2006 FIFA World Cup qualification
+|- style="text-align:center;" 
+||25
+||4–0
+|-
+| style="text-align:center;"|26
+|27 May 2006||De Kuip, Rotterdam, Netherlands|| style="text-align:center;"|50||{{fb|CMR}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–0||Friendly
+|-
+| style="text-align:center;"|27
+|4 June 2006||De Kuip, Rotterdam, Netherlands|| style="text-align:center;"|51||{{fb|AUS}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–1||Friendly
+|-
+| style="text-align:center;"|28
+|16 June 2006||[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]], Germany|| style="text-align:center;"|53||{{fb|CIV}}|| style="text-align:center;"|2–0|| style="text-align:center;"|2–1||[[2006 FIFA World Cup Group C|2006 FIFA World Cup]]
+|-
+| style="text-align:center;"|29
+|8 September 2007||Amsterdam Arena, Amsterdam, Netherlands|| style="text-align:center;"|56||{{fb|BUL}}|| style="text-align:center;"|2–0|| style="text-align:center;"|2–0||[[UEFA Euro 2008 qualifying Group G|UEFA Euro 2008 qualifying]]
+|-
+| style="text-align:center;"|30
+|12 September 2007||[[Qemal Stafa Stadium]], [[Tirana]], Albania|| style="text-align:center;"|57||{{fb|ALB}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–0||UEFA Euro 2008 qualifying
+|-
+| style="text-align:center;"|31
+|29 May 2008||Philips Stadion, Eindhoven, Netherlands|| style="text-align:center;"|60||{{fb|DEN}}|| style="text-align:center;"|1–0|| style="text-align:center;"|1–1||Friendly
+|-
+| style="text-align:center;"|32
+|9 June 2008||[[Stade de Suisse]], [[Bern]], Switzerland|| style="text-align:center;"|62||{{fb|ITA}}|| style="text-align:center;"|1–0|| style="text-align:center;"|3–0||[[UEFA Euro 2008 Group C|UEFA Euro 2008]]
+|-
+| style="text-align:center;"|33
+|21 June 2008||[[St. Jakob-Park]], [[Basel]], Switzerland|| style="text-align:center;"|64||{{fb|RUS}}|| style="text-align:center;"|1–1|| style="text-align:center;"|1–3||UEFA Euro 2008
+|-
+| style="text-align:center;"|34
+|3 September 2010||[[San Marino Stadium|Stadio Olimpico]], [[Serravalle (San Marino)|Serravalle]], San Marino|| style="text-align:center;"|65||{{fb|SMR|1862}}|| style="text-align:center;"|5–0|| style="text-align:center;"|5–0||[[UEFA Euro 2012 qualifying Group E|UEFA Euro 2012 qualifying]]
+|-
+| style="text-align:center;"|35
+|29 March 2011||Amsterdam Arena, Amsterdam, Netherlands|| style="text-align:center;"|70||{{fb|HUN}}|| style="text-align:center;"|3–2|| style="text-align:center;"|5–3||UEFA Euro 2012 qualifying
+|}
+
+==Managerial statistics==
+{{updated|match played 25 May 2025}}
+{| class="wikitable" style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+! rowspan="2" |Team
+! rowspan="2" |From
+! rowspan="2"|To
+! colspan="8" |Record
+!rowspan=2|{{abbr|Ref|Reference}}
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+|align=left|[[Jong PSV]]
+|align=left|1 June 2021
+|align=left|18 May 2022
+{{WDL|38|11|11|16|for=61|against=63|diff=yes}}
+|<ref>{{cite web|url=https://uk.soccerway.com/teams/netherlands/jong-psv/4789/|title=Jong PSV: Matches|publisher=Soccerway|access-date=12 August 2022|archive-date=12 August 2022|archive-url=https://web.archive.org/web/20220812220941/https://uk.soccerway.com/teams/netherlands/jong-psv/4789/|url-status=live}}</ref>
+|-
+|align=left|[[PSV Eindhoven]]
+|align=left|19 May 2022
+|align=left|24 May 2023
+{{WDL|51|33|10|8|for=126|against=60|diff=yes}}
+|<ref>{{cite web|url=https://uk.soccerway.com/teams/netherlands/psv-nv/1517/|title=PSV Eindhoven: Matches|publisher=Soccerway|access-date=12 August 2022|archive-date=12 August 2022|archive-url=https://web.archive.org/web/20220812220940/https://uk.soccerway.com/teams/netherlands/psv-nv/1517/|url-status=live}}</ref>
+|-
+|align=left|[[Manchester United F.C.|Manchester United]] (caretaker)
+|align=left|28 October 2024
+|align=left|10 November 2024
+{{WDL|4|3|1|0|for=11|against=3|diff=yes}}
+|<ref>{{cite web |title=Ruud van Nistelrooy - Manchester United interim manager (28/10/2024 - 10/11/2024) |url=https://www.mufcinfo.com/manupag/managers/mangers_pages/van_nistelrooy_ruud.html |website=MUFCinfo.com |access-date=10 November 2024}}</ref>
+|-
+|align=left|[[Leicester City F.C.|Leicester City]]
+|align=left|29 November 2024{{efn|Van Nistelrooy's appointment was announced on 29 November 2024, he was in the stand and not in charge of the game on 30 November as Leicester lost 4–1 against [[Brentford F.C.|Brentford]], which was taken by first team coach [[Ben Dawson]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c2e79z9wem3t|title=Brentford 4-1 Leicester preview: Kevin Schade's hat-trick shows Ruud van Nistelrooy the Foxes' problems|first=Nick |last=Mashiter |website=BBC Sport |date=30 November 2024|access-date=3 December 2024}}</ref> Van Nistelrooy's first match in charge was a 3–1 win over [[West Ham United F.C.|West Ham]] on 3 December.}}
+|align=left|27 June 2025
+{{WDL|27|5|3|19|for=24|against=57|diff=yes}}
+|<ref>{{cite web|url=https://uk.soccerway.com/teams/england/leicester-city-fc/682/|title=Leicester City: Matches|publisher=Soccerway|access-date=29 November 2024}}</ref>
+|-
+!colspan="3"|Total
+{{WDLtot|120|52|25|43|for=222|against=183|diff=yes}}
+!—
+|}
+
+{{notelist}}
+
+==Honours==
+
+===Player===
+'''PSV'''<ref name="Soccerway">{{cite web |url=https://int.soccerway.com/players/ruud-van-nistelrooy/46/ |title=R. van Nistelrooy |publisher=Soccerway |access-date=28 July 2014 |archive-date=11 October 2014 |archive-url=https://web.archive.org/web/20141011040735/http://int.soccerway.com/players/ruud-van-nistelrooy/46/ |url-status=dead }}</ref>
+* [[Eredivisie]]: [[1999–2000 Eredivisie|1999–2000]], [[2000–01 Eredivisie|2000–01]]
+* [[Johan Cruyff Shield]]: [[1998 Johan Cruyff Shield|1998]]
+
+'''Manchester United'''<ref name="Soccerway"/>
+* [[Premier League]]: [[2002–03 FA Premier League|2002–03]]<ref name=PremProfile>{{cite web |url=https://www.premierleague.com/players/2117/Ruud-van-Nistelrooy/overview |title=Ruud van Nistelrooy: Overview |publisher=Premier League |access-date=28 September 2018 |archive-date=18 April 2018 |archive-url=https://web.archive.org/web/20180418074643/https://www.premierleague.com/players/2117/Ruud-van-Nistelrooy/overview |url-status=live }}</ref>
+* [[FA Cup]]: [[2003–04 FA Cup|2003–04]]
+* [[EFL Cup|Football League Cup]]: [[2005–06 Football League Cup|2005–06]];<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/4727118.stm |title=Man Utd ease to Carling Cup glory |website=BBC Sport |date=26 February 2006 |access-date=9 October 2026}}</ref> runner-up: [[2002–03 Football League Cup|2002–03]]<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/2811805.stm |title=Liverpool lift Worthington cup |website=BBC Sport |date=2 March 2003 |access-date=9 October 2026}}</ref>
+* [[FA Community Shield]]: [[2003 FA Community Shield|2003]]
+
+'''Real Madrid'''<ref name="Soccerway"/>
+* [[La Liga]]: [[2006–07 La Liga|2006–07]], [[2007–08 La Liga|2007–08]]
+* [[Supercopa de España]]: [[2008 Supercopa de España|2008]]
+
+===Manager===
+'''PSV'''
+* [[KNVB Cup]]: [[2022–23 KNVB Cup|2022–23]]<ref name="NOS">{{cite web |date=30 April 2023 |title=PSV wint na strafschoppen van Ajax in bekerfinale vol irritaties en opstootjes |trans-title=PSV beats Ajax after penalty kicks in cup final full off irritations and fights |url=https://nos.nl/artikel/2473413-psv-wint-na-strafschoppen-van-ajax-in-bekerfinale-vol-irritaties-en-opstootjes |access-date=10 May 2023 |language=Dutch |archive-date=13 May 2023 |archive-url=https://web.archive.org/web/20230513171342/https://nos.nl/artikel/2473413-psv-wint-na-strafschoppen-van-ajax-in-bekerfinale-vol-irritaties-en-opstootjes |url-status=live }}</ref>
+* [[Johan Cruyff Shield]]: [[2022 Johan Cruyff Shield|2022]]<ref name=JCSwin>{{cite web|url=https://www.psv.nl/english-psv/matches/match/ajax-psv-30-07-2022.htm|title=Ajax - PSV|website=PSV.nl|date=30 July 2022|access-date=30 July 2022|archive-date=20 June 2022|archive-url=https://web.archive.org/web/20220620112929/https://www.psv.nl/english-psv/matches/match/ajax-psv-30-07-2022.htm|url-status=dead}}</ref>
+
+===Individual===
+<!--LEAGUE AND FEDERATION-SANCTIONED AWARDS ONLY. No fan or magazine-voted awards. Listed in chronological order-->
+* [[Dutch Footballer of the Year#Dutch Footballers of the Year|Dutch Footballer of the Year]]: 1998–99, 1999–2000<ref name="Dutch Player of the Year"/>
+* [[Eredivisie#Top scorers|Eredivisie Top Goalscorer]]: [[1998–99 Eredivisie|1998–99]], [[1999–2000 Eredivisie|1999–2000]]<ref>{{cite web|url=https://www.worldfootball.net/competition/co37/se3943/statistics-goals/|title=Eredivisie 1998/1999 " Top Scorer|publisher=WorldFootball.net|access-date=12 May 2015|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305025605/http://www.worldfootball.net/goalgetter/ned-eredivisie-1998-1999/|url-status=live}}</ref><ref name="1999–2000 top goalscorer"/>
+* [[Premier League Player of the Month]]: [[2001–02 FA Premier League#Monthly awards|December 2001]], February 2002, [[2002–03 FA Premier League#Monthly awards|April 2003]]<ref name=PremProfile/>
+* [[Sir Matt Busby Player of the Year]]: [[2001–02 Manchester United F.C. season|2001–02]], [[2002–03 Manchester United F.C. season|2002–03]]<ref>{{cite web|first=Richard|last=Arrowsmith|url=https://www.mirror.co.uk/sport/football/news/manchester-united-player-year-robin-1893164|title='An incredible year': Robin Van Persie gushes after picking up fans' Manchester United Player of the Year award|publisher=Mirror Online|date=16 May 2013|access-date=2 May 2018|archive-date=18 April 2018|archive-url=https://web.archive.org/web/20180418161423/https://www.mirror.co.uk/sport/football/news/manchester-united-player-year-robin-1893164|url-status=live}}</ref>
+* [[European Sports Media|ESM Team of the Year]]: [[European Sports Media#2000s|2001–02]]
+* [[List of European Cup and UEFA Champions League top scorers#Top scorers by season|UEFA Champions League Top Goalscorer]]: [[2001–02 UEFA Champions League#Top goalscorers|2001–02]], [[2002–03 UEFA Champions League#Top goalscorers|2002–03]], [[2004–05 UEFA Champions League#Top goalscorers|2004–05]]<ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2001/index.html|title=UEFA Champions League – 2001/02|access-date=23 March 2015|publisher=UEFA|archive-date=15 June 2012|archive-url=https://web.archive.org/web/20120615010946/http://www.uefa.com/uefachampionsleague/season=2001/index.html|url-status=dead}}</ref><ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2002/index.html|title=UEFA Champions League – 2002/03|access-date=23 March 2015|publisher=UEFA|archive-date=18 February 2012|archive-url=https://web.archive.org/web/20120218082852/http://www.uefa.com/uefachampionsleague/season=2002/index.html|url-status=dead}}</ref><ref>{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2004/index.html|title=UEFA Champions League – 2004/05|access-date=23 March 2015|publisher=UEFA|archive-date=18 February 2012|archive-url=https://web.archive.org/web/20120218083301/http://www.uefa.com/uefachampionsleague/season=2004/index.html|url-status=dead}}</ref>
+* UEFA Champions League Top Assist Provider: 2001–02
+* FA Cup Top Goalscorer: [[2002–03 FA Cup|2002–03]], [[2003–04 FA Cup|2003–04]]<ref>{{cite web |url=https://www.worldfootball.net/competition/co41/se3436/statistics-goals/ |title=FA Cup 2002/2003 » Top Scorer |publisher=WorldFootball |access-date=22 October 2017 |archive-date=23 October 2017 |archive-url=https://web.archive.org/web/20171023063342/http://www.worldfootball.net/goalgetter/eng-fa-cup-2002-2003/ |url-status=live }}</ref><ref>{{cite web |url=https://www.worldfootball.net/competition/co41/se3441/statistics-goals/ |title=FA Cup 2003/2004 » Top Scorer |publisher=WorldFootball |access-date=22 October 2017 |archive-date=23 October 2017 |archive-url=https://web.archive.org/web/20171023023145/http://www.worldfootball.net/goalgetter/eng-fa-cup-2003-2004/ |url-status=live }}</ref>
+* [[PFA Fans' Player of the Year]]: [[PFA Fans' Player of the Year#2002|2001–02]]
+* [[PFA Players' Player of the Year]]: [[PFA Players' Player of the Year#Winners|2001–02]]<ref>{{cite news|url=https://news.bbc.co.uk/cbbcnews/hi/sport/newsid_1930000/1930474.stm|title=Van Nistelrooy is PFA Player of the Year|date=15 April 2002|access-date=19 March 2015|publisher=BBC|archive-date=2 April 2015|archive-url=https://web.archive.org/web/20150402194636/http://news.bbc.co.uk/cbbcnews/hi/sport/newsid_1930000/1930474.stm|url-status=live}}</ref>
+* [[PFA Team of the Year]]: [[PFA Team of the Year (2000s)#FA Premier League 3|2001–02 Premier League]],<ref>{{cite news | url = https://news.bbc.co.uk/sport1/hi/football/3628905.stm | title = Henry retains PFA crown | website = BBC Sport | date = 25 April 2004 | access-date = 21 August 2020 | archive-date = 18 August 2016 | archive-url = https://web.archive.org/web/20160818090749/http://news.bbc.co.uk/sport2/hi/football/3628905.stm | url-status = live }}</ref> [[PFA Team of the Year (2000s)#FA Premier League 5|2003–04 Premier League]]<ref>{{cite web | url = https://www.theguardian.com/football/2002/apr/15/newsstory.sport4 | title = PFA teams send Hatters mad | website = The Guardian | date = 15 April 2002 | access-date = 21 August 2020 | archive-date = 6 May 2021 | archive-url = https://web.archive.org/web/20210506052359/https://www.theguardian.com/football/2002/apr/15/newsstory.sport4 | url-status = live }}</ref> 
+* [[International Federation of Football History & Statistics#The World's Best Top Goal Scorer|IFFHS World's Top Goal Scorer of the Year]]: 2002<ref>{{cite web|url=http://www.iffhs.de/former-results/|title=Former results|access-date=19 March 2015|publisher=IFFHS.de|archive-date=15 June 2018|archive-url=https://web.archive.org/web/20180615214702/https://iffhs.de/former-results/|url-status=live}}</ref>
+* [[BBC Goal of the Month]]: March 2003
+* [[Premier League Player of the Season]]: [[2002–03 FA Premier League#Annual awards|2002–03]]<ref name=PremProfile/>
+* [[Premier League Golden Boot]]: [[2002–03 FA Premier League#Annual awards|2002–03]]<ref name=PremProfile/>
+* [[UEFA Club Football Awards|UEFA Club Forward of the Year]]: [[UEFA Champions League Best Forward|2002–03]]
+* [[UEFA Team of the Year]]: [[UEFA Team of the Year#Team of the Year 2003|2003]]
+* [[FIFA 100]]
+* [[UEFA Euro 2004|UEFA Euro Team of the Tournament]]: [[UEFA Euro 2004#Awards|2004]]
+* [[Pichichi Trophy]]: [[2006–07 La Liga#Awards|2006–07]]<ref>{{cite web |title=Historic goals: Van Nistelrooy |publisher=Real Madrid CF |url=https://www.realmadrid.com/en/news/2016/11/historic-goals-van-nistelrooy |access-date=1 May 2018 |archive-date=1 May 2018 |archive-url=https://web.archive.org/web/20180501230421/https://www.realmadrid.com/en/news/2016/11/historic-goals-van-nistelrooy |url-status=live }}</ref>
+* [[ESPN|ESPN World Team of the Decade]]: 2009<ref>{{cite news|last=Brewin|first=John|url=http://www.espnfc.com/story/717519/espn-soccernet-international-team-of-the-decade|title=World Team of the Decade|date=25 December 2009|work=ESPNsoccernet|publisher=ESPN|access-date=29 January 2018|archive-date=1 August 2017|archive-url=https://web.archive.org/web/20170801044740/http://www.espnfc.com/story/717519/espn-soccernet-international-team-of-the-decade|url-status=live}}</ref>
+* [[International Federation of Football History & Statistics|IFFHS World's Top Goal Scorer of the Last Decade]]: 2012<ref>{{cite web|url=http://www.malagacf.com/en/news/van-nistelrooy-is-named-best-goal-scorer-of-the-last-decade-by-the-iffhs|title=Van Nistelrooy is named best goal scorer of the last decade by the IFFHS|access-date=13 November 2016|publisher=Málaga Club de Fútbol|archive-date=14 November 2016|archive-url=https://web.archive.org/web/20161114001503/http://www.malagacf.com/en/news/van-nistelrooy-is-named-best-goal-scorer-of-the-last-decade-by-the-iffhs|url-status=live}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{commons category}}
+*{{FIFA player}}
+*{{BDFutbol}}
+*{{Soccerbase}}
+*{{IMDb name}}
+*[https://www.11v11.com/players/ruud-van-nistelrooy-6693/ Ruud van Nistelrooy] at 11v11.com
+*[https://web.archive.org/web/20180831042953/http://wereldvanoranje.nl/profielen/profiel.php?id=467 Ruud van Nistelrooy] at Wereld van Oranje {{in lang|nl}}
+
+{{Navboxes
+| title = Netherlands squads
+| bg = #F1771D
+| fg = white
+| bordercolor = blue
+| list1 = 
+{{Netherlands squad UEFA Euro 2004}}
+{{Netherlands squad 2006 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2008}}
+}}
+{{Navboxes
+| bg = gold
+| fg = black
+| bordercolor = black
+| title = Awards
+| list1 = 
+{{2001–02 FA Premier League PFA Team of the Year}}
+{{2003–04 FA Premier League PFA Team of the Year}}
+{{UEFA Euro 2004 Team of the Tournament}}
+{{Eredivisie top scorers}}
+{{Premier League Golden Boot}}
+{{Premier League Player of the Season}}
+{{La Liga top scorers}}
+{{Sir Matt Busby Player of the Year}}
+{{PFA Players' Player of the Year}}
+{{PFA Fans' Player of the Year}}
+{{Dutch Footballer of the Year}}
+{{UEFA Champions League top scorers}}
+{{UEFA Club Football Awards}}
+{{2003 UEFA Team of the Year}}
+{{IFFHS World's Best International Goal Scorer}}
+{{FIFA 100}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{PSV Eindhoven managers}}
+{{Manchester United F.C. managers}}
+{{Leicester City F.C. managers}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Nistelrooy, Ruud Van}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Footballers from Oss]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:PSV Eindhoven players]]
+[[Category:SC Heerenveen players]]
+[[Category:FC Den Bosch players]]
+[[Category:Premier League players]]
+[[Category:Manchester United F.C. players]]
+[[Category:First Division/Premier League top scorers]]
+[[Category:La Liga players]]
+[[Category:Real Madrid CF players]]
+[[Category:Málaga CF players]]
+[[Category:Pichichi Trophy winners]]
+[[Category:Bundesliga players]]
+[[Category:Hamburger SV players]]
+[[Category:Netherlands men's international footballers]]
+[[Category:Netherlands men's under-21 international footballers]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:UEFA Euro 2004 players]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:FIFA 100]]
+[[Category:UEFA Champions League top scorers]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch expatriate sportspeople in Germany]]
+[[Category:Dutch football managers]]
+[[Category:Netherlands national football team non-playing staff]]
+[[Category:PSV Eindhoven non-playing staff]]
+[[Category:PSV Eindhoven managers]]
+[[Category:Manchester United F.C. non-playing staff]]
+[[Category:Manchester United F.C. managers]]
+[[Category:Leicester City F.C. managers]]
+[[Category:Eerste Divisie managers]]
+[[Category:Eredivisie managers]]
+[[Category:Premier League managers]]
+[[Category:Expatriate football managers in England]]
+[[Category:Dutch expatriate football managers]]
+[[Category:Dutch football coaches]]

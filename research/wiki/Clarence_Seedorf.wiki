@@ -1,0 +1,593 @@
+<!-- Clarence Seedorf | revision 2026-10-22T11:36:41Z -->
+{{Short description|Dutch footballer (born 1976)}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Clarence Seedorf
+| image = Clarence Seedorf Introductory Press Conferences, 2 June 2025 - 40 (cropped).jpg
+| caption = Seedorf in 2025
+| full_name = Clarence Clyde Seedorf<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=49854 |archive-url=https://archive.today/20190616220506/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=49854 |url-status=dead |archive-date=16 June 2019 |title=Acta del Partido celebrado el 20 de mayo de 2018, en Valencia |trans-title=Minutes of the Match held on 20 May 2018, in Valencia |publisher=Royal Spanish Football Federation |access-date=22 December 2020 |language=es }}</ref>
+| birth_date = {{birth date and age|1976|4|1|df=y}}
+| birth_place = [[Paramaribo]], Suriname
+| height = 1.77 m<ref name="Clarence Seedorf - A.C. Milan squad 2011/2012">{{cite web |url=http://www.acmilan.com/en/teams/roster_player/57 |title=Clarence Seedorf |publisher=AC Milan |access-date=26 January 2012 |archive-url=https://web.archive.org/web/20120127134651/http://www.acmilan.com/en/teams/roster_player/57 |archive-date=27 January 2012 |url-status=dead }}</ref>
+| position = [[Midfielder]]
+| current_club = [[SC Corinthians Paulista|Corinthians]] (head coach)
+| youth_years1 = 1982–1983
+| youth_clubs1 = VV AS' 80
+| youth_years2 = 1983–1986
+| youth_clubs2 = Real Almere
+| youth_years3 = 1986–1992
+| youth_clubs3 = [[AFC Ajax|Ajax]]
+| years1 = 1992–1995
+| clubs1 = [[AFC Ajax|Ajax]]
+| caps1 = 65
+| goals1 = 11
+| years2 = 1995–1996
+| clubs2 = [[UC Sampdoria|Sampdoria]]
+| caps2 = 32
+| goals2 = 3
+| years3 = 1996–2000
+| clubs3 = [[Real Madrid CF|Real Madrid]]
+| caps3 = 121
+| goals3 = 15
+| years4 = 2000–2002
+| clubs4 = [[Inter Milan]]
+| caps4 = 64
+| goals4 = 8
+| years5 = 2002–2012
+| clubs5 = [[AC Milan]]
+| caps5 = 300
+| goals5 = 47
+| years6 = 2012–2014
+| clubs6 = [[Botafogo de Futebol e Regatas|Botafogo]]
+| caps6 = 58
+| goals6 = 16
+| total_caps = 654
+| total_goals = 107
+| national_years1 = 1990
+| national_team1 = Netherlands U15<ref name="Netherlands U15 – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/24/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Jeugd onder 15 |trans-title=Clarence Seedorf – Netherlands U15 |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407070938/http://www.onsoranje.nl/team-statistieken/teams/speler/24/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref>
+| national_caps1 = 1
+| national_goals1 = 1
+| national_years2 = 1990–1992
+| national_team2 = [[Netherlands national under-17 football team|Netherlands U17]]<ref name="Netherlands U17 – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/22/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Jeugd onder 17 |trans-title=Clarence Seedorf – Netherlands U17 |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407065357/http://www.onsoranje.nl/team-statistieken/teams/speler/22/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref>
+| national_caps2 = 12
+| national_goals2 = 4
+| national_years3 = 1990–1992
+| national_team3 = Netherlands U16<ref name="Netherlands U16 – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/23/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Jeugd onder 16 |trans-title=Clarence Seedorf – Netherlands U16 |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407065155/http://www.onsoranje.nl/team-statistieken/teams/speler/23/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref><ref name="BeSoccer – Clarence Seedorf"/>
+| national_caps3 = 7
+| national_goals3 = 0
+| national_years4 = 1992–1994
+| national_team4 = [[Netherlands national under-19 football team|Netherlands U19]]<ref name="Netherlands U19 – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/20/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Jeugd onder 19 |trans-title=Clarence Seedorf – Netherlands U19 |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407070913/http://www.onsoranje.nl/team-statistieken/teams/speler/20/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref>
+| national_caps4 = 21
+| national_goals4 = 8
+| national_years5 = 1993–1994
+| national_team5 = Netherlands U18<ref name="BeSoccer – Clarence Seedorf"/>
+| national_caps5 = 2
+| national_goals5 = 0
+| national_years6 = 1993
+| national_team6 = [[Netherlands national under-21 football team|Netherlands U21]]<ref name="Netherlands U21 – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/25/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Jong Oranje |trans-title=Clarence Seedorf – Netherlands U21 |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407070925/http://www.onsoranje.nl/team-statistieken/teams/speler/25/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref>
+| national_caps6 = 1
+| national_goals6 = 0
+| national_years7 = 1994–2008
+| national_team7 = [[Netherlands national football team|Netherlands]]<ref name="Netherlands – Clarence Seedorf">{{cite web |language=nl |url=http://www.onsoranje.nl/team-statistieken/teams/speler/11/50a3c223-ecc32831-823154 |title=Clarence Seedorf – Kies een team Nederlands eftal |trans-title=Clarence Seedorf – Netherlands |website=OnsOranje.nl |access-date=14 October 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140407072454/http://www.onsoranje.nl/team-statistieken/teams/speler/11/50a3c223-ecc32831-823154 |archive-date=7 April 2014 }}</ref>
+| national_caps7 = 87
+| national_goals7 = 11
+| manager_years1 = 2014
+| manager_clubs1 = [[AC Milan]]
+| manager_years2 = 2016
+| manager_clubs2 = [[Shenzhen F.C.|Shenzhen FC]]
+| manager_years3 = 2018
+| manager_clubs3 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+| manager_years4 = 2018–2019
+| manager_clubs4 = [[Cameroon national football team|Cameroon]]
+| manager_years5 = 2026–
+| manager_clubs5 = [[SC Corinthians Paulista|Corinthians]]
+}}
+
+'''Clarence Clyde Seedorf''' ({{IPA|nl|ˈklɛrən ˈseiːdɔr(ə)f|lang|Nl-Clarence Seedorf.ogg}}; born 1 April 1976) is a Dutch professional [[manager (association football)|football manager]] and former professional [[association football|footballer]].<ref>{{Cite web |date=6 March 2021 |title=The interminable force of Clarence Seedorf |url=https://boxtoboxfootball.uk/the-interminable-force-of-clarence-seedorf/ |access-date=5 June 2022 |website=Box To Box Football |archive-date=14 August 2022 |archive-url=https://web.archive.org/web/20220814151212/https://boxtoboxfootball.uk/the-interminable-force-of-clarence-seedorf/ |url-status=dead }}</ref><ref>{{Cite web |date=6 April 2021 |title=SportMob – Facts about Clarence Seedorf, the Dutch legend |url=https://sportmob.com/en/article/956344-Facts-about-Clarence-Seedorf-the-Dutch-legend |access-date=5 June 2022 |website=SportMob}}</ref><ref>{{Cite web |last=Bishop |first=Callum |date=2024-10-08 |title=The 20 greatest midfielders in football history have been ranked - Iniesta 6th |url=https://www.givemesport.com/greatest-midfielders-in-football-history/ |access-date=2024-11-30 |website=GiveMeSport |language=en}}</ref><ref>{{cite magazine |last1=Lane |first1=Barnaby |title=Ranking the 25 Best Soccer Midfielders of All Time |url=https://www.si.com/soccer/ranking-the-25-best-soccer-midfielders-of-all-time |magazine=Sports Illustrated |date=7 February 2025 |language=en-us |access-date=7 February 2025}}</ref> He is currently working as the head coach of [[Campeonato Brasileiro Série A]] club [[SC Corinthians Paulista|Corinthians]].
+
+Widely regarded as one of the greatest midfielders of all time, Seedorf is one of the most successful players in [[UEFA Champions League]] history, as he is the only player to have [[List of footballers who won the UEFA Champions League with more than one club|won the UEFA Champions League with three clubs]]&nbsp;— once with [[AFC Ajax|Ajax]] in [[1994–95 UEFA Champions League|1995]], once with [[Real Madrid CF|Real Madrid]] in [[1997–98 UEFA Champions League|1998]], and twice with [[AC Milan]] in [[2002–03 UEFA Champions League|2003]] and in [[2006–07 UEFA Champions League|2007]].<ref>{{Cite web |title=UEFA Champions League - Clarence Seedorf |url=http://2000.uefa.com/uefachampionsleague/season=2012/clubs/player=13127/profile/index.html |archive-url=https://web.archive.org/web/20150927130025/http://2000.uefa.com/uefachampionsleague/season=2012/clubs/player=13127/profile/index.html |archive-date=2015-09-27 |access-date=2025-06-16 |website=UEFA.com |language=en}}</ref><ref>[https://web.archive.org/web/20120111044406/http://www.uefa.com/printoutfiles/competitions/ucl/2010/e/e_01_md.pdf UEFA CHAMPIONS LEAGUE SEASON 2009/10 MATCHWEEK STATS PACK MATCHWEEK 1 15/09/2009-16/09/2009] uefa.com</ref>
+
+At international level, he represented the [[Netherlands national football team|Netherlands]] on 87 occasions, and took part in three [[UEFA European Football Championship]]s ([[UEFA Euro 1996|1996]], [[UEFA Euro 2000|2000]], [[UEFA Euro 2004|2004]]) and the [[1998 FIFA World Cup]], reaching the semi-finals of the latter three tournaments.
+
+Including youth internationals, he has made over 1,000 appearances in his career.<ref name="Movement of change – FIFA – Clarence Seedorf">{{cite news |url=https://inside.fifa.com/news/seedorf-this-is-a-movement-of-change-2874914 |title=Seedorf: This is a movement of change |date=8 March 2017 |website=inside.FIFA.com |publisher=[[FIFA]] |access-date=14 October 2026 |archive-url=https://web.archive.org/web/20261014053334/https://inside.fifa.com/news/seedorf-this-is-a-movement-of-change-2874914 |archive-date=14 October 2026 |url-status=live }}</ref>
+
+In 2004, he was chosen by [[Pelé]] as part of the [[FIFA 100]]. Seedorf is one of the most decorated Dutch players ever, and has won domestic and continental titles while playing.<ref>{{cite web|title=Clarence Seedorf|url=http://www.voetbalcanon.nl/speler/0/Clarence_Seedorf.htm|url-status=dead|archive-url=https://web.archive.org/web/20140714191035/http://www.voetbalcanon.nl/speler/0/Clarence_Seedorf.htm|archive-date=14 July 2014|access-date=9 July 2014|work=Voetbalcanon.nl – de Nederlandse voetbalhistorie in 22 vensters}}</ref>
+
+==Early life==
+Born in [[Paramaribo]], [[Suriname]],<ref name="Clarence Seedorf - A.C. Milan squad 2011/2012"/> Seedorf was raised in [[Almere]], [[Flevoland]], where he moved when he was two years old. He grew up in a footballing family, with both his younger brothers Jürgen and [[Chedric Seedorf]],<ref>{{cite news|title=AC Milan sends Seedorf Jr. to France|url=http://www.tribalfootball.com/articles/ac-milan-sends-seedorf-jr-france-201275|work=Tribalfootball|access-date=3 December 2013}}</ref> and his father, former player and talent agent [[Johann Seedorf]].<ref>{{Cite web |title=Seedorf Family at Ajax |url=http://www.afc-ajax.info/en/family/Seedorf |access-date=2026-03-02 |website=AFC-Ajax.info |language=en}}</ref>
+
+==Club career==
+===Early career===
+Seedorf began his career at the age of six in the youth ranks of his local amateur sides VV AS '80 and Real Almere,<ref>{{cite web|title=Clarence Seedorf profile|url=http://www.fcintermilano.com/clanek-80-clarence-seedorf|publisher=Inter Milano|access-date=3 December 2013|archive-url=https://web.archive.org/web/20140118061945/http://www.fcintermilano.com/clanek-80-clarence-seedorf|archive-date=18 January 2014|url-status=dead}}</ref> before being discovered and recruited to the ranks of nearby Dutch giants [[AFC Ajax|Ajax]] by Urgent Scoutingteam, the talent agency set up by [[Johan Cruyff]], and which was responsible for recruiting the likes of [[Frank de Boer|Frank]] and [[Ronald de Boer]], [[Edgar Davids]], [[Rob Witschge]] and [[Patrick Kluivert]] to the club as well.<ref>{{Cite web |title=The evolution of Barcelona's DNA from Ajax |url=http://espnfc.com/blog/_/name/laliga/id/747?cc=5901 |access-date=2025-06-17 |website=ESPN.com |language=en}}</ref>
+
+Following in their brother's footsteps, under the guidance of their father and talent agent, Seedorf's siblings, as well as cousin [[Stefano Seedorf|Stefano]], would later also join the ranks of Ajax.
+
+===Ajax===
+A product of the famed [[Ajax Youth Academy]], Seedorf started his career as a right midfielder for Ajax during the early 1990s. He made his professional debut on 29 November 1992 against [[FC Groningen|Groningen]] at the age of 16 years and 242 days, making him the youngest-ever debutant for Ajax, at the time.<ref>{{cite web |title=Wijnaldum jongste Feyenoord-debutant |url=http://www.nos.nl/nosstudiosport/artikelen/2007/4/8/08041716wijnaldumjongstefeyenoorddebutant.html |url-status=dead |archive-url=https://web.archive.org/web/20070930222507/http://www.nos.nl/nosstudiosport/artikelen/2007/4/8/08041716wijnaldumjongstefeyenoorddebutant.html |archive-date=30 September 2007 |access-date=13 August 2007 |publisher=NOS.nl |language=nl}}</ref> He quickly established himself as the first choice on his position under manager [[Louis van Gaal]], and in the [[1993–94 Eredivisie|1993–94 season]], his second with the club, he helped the [[Amsterdam]]-based side win the [[treble (association football)|treble]], securing the [[Eredivisie]] title, the [[KNVB Cup]] and the [[Johan Cruijff Shield|Dutch Super Cup]] in the same year.<ref>{{cite web|title=AFC Ajax " season 1993/1994|url=https://www.worldfootball.net/teams/te64/afc-ajax/squad/|work=Worldfootball.net|access-date=3 December 2013}}</ref> Among his teammates was [[Frank Rijkaard]], the player he used to idolise in his younger days.<ref name=":1">{{Cite news |last=Kessel |first=Anna |date=2010-02-14 |title=Clarence Seedorf paints picture of hunger and intelligence |url=https://www.theguardian.com/football/2010/feb/14/clarence-seedorf-interview-champions-league |access-date=2025-06-17 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+The following season, Seedorf helped his team secure consecutive Super Cup and Eredivisie titles, as well as their fourth [[UEFA Champions League|European Cup]] trophy, winning the [[1994–95 UEFA Champions League]] after defeating [[AC Milan]] in the [[1995 UEFA Champions League final|final]].<ref>{{cite web|title=Ajax's adolescents master men of Milan|url=http://espnfc.com/columns/story?id=827853&cc=5901|publisher=ESPN|access-date=3 December 2013}}</ref> He played a key role in the final before being replaced in the 53rd minute by striker [[Nwankwo Kanu]].<ref>[http://2000.uefa.com/uefachampionsleague/season=1994/matches/live/day=11/session=1/match=51668/matchcenterlight/index.html UEFA Champions League – Matches – UEFA.com] {{webarchive|url=https://web.archive.org/web/20120412204637/http://2000.uefa.com/uefachampionsleague/season%3D1994/matches/live/day%3D11/session%3D1/match%3D51668/matchcenterlight/index.html |date=12 April 2012 }}. 2000.uefa.com. Retrieved on 22 June 2013.</ref> [[Patrick Kluivert]] scored a late goal to lift Ajax to a 1–0 victory over the Italian giants,<ref>{{Cite web |last= |title=1994/95: Kluivert strikes late for Ajax – UEFA.com |url=http://www.uefa.com/uefachampionsleague/season=1994/overview/index.html#199495+kluivert+strikes+late+ajax |archive-url=https://web.archive.org/web/20111203044124/http://www.uefa.com/uefachampionsleague/season=1994/overview/index.html#199495+kluivert+strikes+late+ajax |archive-date=2011-12-03 |access-date=2025-06-17 |website=www.uefa.com |language=en}}</ref> whom Seedorf would later go on to represent for a decade.<ref>[http://www.goal.com/en-us/news/86/italy/2012/06/21/3191273/seedorf-confirms-ac-milan-exit Seedorf confirms AC ola Milan exit –]. Goal.com (21 June 2012). Retrieved on 22 June 2013.</ref> While at Ajax, he was part of a trio known as "[[De kabel]]", composed of Edgar Davids, Patrick Kluivert and himself. Later, [[Winston Bogarde]] and [[Michael Reiziger]] would be added to the group to make it a quintet; what had started as a friendship was then taken over during [[UEFA Euro 1996]] to describe the group.<ref>{{Cite web |title=The Dutch are past masters at self-destruction |url=https://www.mirror.co.uk/sport/columnists/holt/ |access-date=2025-06-17 |website=The Mirror |language=en}}</ref>
+
+===Sampdoria===
+Opting not to extend his contract with Ajax following their European success and the [[Bosman ruling]], Seedorf signed a one-year contract with Italian [[Serie A]] side [[UC Sampdoria|Sampdoria]] instead.<ref name="autogenerated1">{{cite web|author= Paul Madden |url=http://www.goal.com/en/news/2669/birthdays/2010/04/01/1858499/spanish-cumpleanos-javier-irureta |title=Spanish Cumpleanos: Javier Irureta |work=Goal.com |date=1 April 2010 |access-date=27 April 2010}}</ref> While not able to obtain any silverware in his first season at his new club, Seedorf appeared in 32 matches, scoring three goals helping his side to an eighth-place finish in the league table, all the while maintaining the form he had demonstrated at Ajax in the past. Seedorf was then able to secure a transfer to [[Real Madrid CF|Real Madrid]], moving to Spain's [[La Liga]] by the end of the season.<ref>{{Cite web |title=Clarence Seedord Transfer History |url=http://www1.skysports.com/football/player/9373/clarence-seedorf |archive-url=https://web.archive.org/web/20250222121917/https://www.skysports.com/football/player/9373/clarence-seedorf |archive-date=2025-02-22 |access-date=2025-06-17 |website=SkySports |language=en}}</ref>
+
+===Real Madrid===
+
+Seedorf moved to Real Madrid in 1996,<ref>{{Cite web |title=Seedorf confirma saída do Milan e deixa futuro em aberto – Esporte – Notícia – VEJA.com |url=http://veja.abril.com.br/noticia/esporte/seedorf-confirma-saida-do-milan-e-deixa-futuro-em-aberto |access-date=2025-06-17 |website=VEJA |language=pt-BR}}</ref> where he was virtually ever present for ''Los Blancos'' in his first three seasons.<ref name="autogenerated1"/> In his [[1996–97 Real Madrid CF season|first season]], he helped the team regain the La Liga title, while in his second season, [[1997–98 Real Madrid CF season|1997–98]], he played a major role in the team's [[1997–98 UEFA Champions League|Champions League]] success, as Madrid secured a 1–0 victory over [[Juventus FC|Juventus]] in the [[1998 UEFA Champions League final|final]],<ref>{{Cite web |title=1997/98: Seventh heaven for Madrid – UEFA.com |url=http://www.uefa.com/uefachampionsleague/season=1997/overview/index.html|archive-url=https://web.archive.org/web/20111207102219/http://www.uefa.com/uefachampionsleague/season=1997/overview/index.html|archive-date=2011-12-07 |access-date=2025-06-17 |website=www.uefa.com |language=en}}</ref> earning his second Champions League title of his career. While playing for Real Madrid, Seedorf scored a notable long-range goal against [[Atlético Madrid]] in 1997.<ref>{{Cite web |title=Seedorf - against atletico madrid 1997 |url=https://ghostarchive.org/varchive/uRFnsRPOQu8 |access-date=2025-06-17 |website=ghostarchive.org}}</ref> At the end of the [[1998–99 Real Madrid CF season|1998–99 season]], Madrid and Juventus wanted to swap Seedorf for [[Zinedine Zidane]], but the deal did not go through and the French playmaker waited two more years before joining Real Madrid. Starting from the summer of 1999, Seedorf's role at Real Madrid became less prominent during the tenure of Dutch manager [[Guus Hiddink]] at the club. He was eventually transferred back to Italy during the [[1999–2000 Real Madrid CF season|1999–2000 season]], this time to [[Inter Milan]], for a fee of about 44&nbsp;billion [[Italian lira]] (approximately €23&nbsp;million).<ref>{{Cite web |title=Oriali  a Madrid per Seedorf Ed e' nata l' idea Benarrivo |trans-title=Oriali in Madrid for Seedorf and the idea of Benarrivo was born. |url=http://archiviostorico.gazzetta.it/1999/agosto/09/Oriali_Madrid_per_Seedorf_nata_ga_0_9908092250.shtml |archive-url=https://web.archive.org/web/20231117132605/http://archiviostorico.gazzetta.it/1999/agosto/09/Oriali_Madrid_per_Seedorf_nata_ga_0_9908092250.shtml |archive-date=2023-11-17 |access-date=2025-06-17 |website=archiviostorico.gazzetta.it |language=it}}</ref>
+
+===Inter Milan===
+On 24 December 1999, Seedorf moved to Inter Milan in a $24.35&nbsp;million deal after cementing his place in the Real Madrid midfield for over three years.<ref>{{Cite web |title=CNN/SI - World Soccer - Inter Milan signs midfielder Seedorf  - Friday    December  24, 1999 11:56 AM |url=http://sportsillustrated.cnn.com/soccer/world/news/1999/12/24/seedorf_signing/ |archive-url=https://web.archive.org/web/20140320053811/http://sportsillustrated.cnn.com/soccer/world/news/1999/12/24/seedorf_signing/ |archive-date=2014-03-20 |access-date=2025-06-17 |website=sportsillustrated.cnn.com}}</ref> Despite helping the team to the [[Coppa Italia]] final later that season – a 2–1 aggregate loss to [[SS Lazio|Lazio]] where Seedorf scored Inter's only goal<ref>{{Cite web |title=RaiSport - 12 Aprile 2000 - Speciale Coppe: Lazio-Inter 2-1 |url=http://www2.raisport.rai.it/news/rubriche/coppe978/200004/12/38f4cbcd02888/ |archive-url=https://web.archive.org/web/20180923045054/http://www2.raisport.rai.it/news/rubriche/coppe978/200004/12/38f4cbcd02888/ |archive-date=2018-09-23 |access-date=2025-06-17 |website=www2.raisport.rai.it}}</ref> – Seedorf could not help bring any major silverware to the club. Nonetheless, he is remembered by many Inter fans for his two goals against Juventus in a 2–2 draw on 9 March 2002, both of which were superb long-range efforts.<ref>[http://www.goal.com/en/news/1717/editorial/2010/04/16/1880872/derby-ditalia-debate-top-5-inter-juventus-matches-from-the# Finished – Derby d’Italia Debate: Top 5 Inter-Juventus Matches From The Past –]. Goal.com (16 April 2010). Retrieved on 22 June 2013.</ref>
+
+===AC Milan===
+[[File:Seedorf with Addo.jpg|thumb|left|upright|Clarence Seedorf in action for [[AC Milan]] against [[Eric Addo]] of [[PSV Eindhoven|PSV]] in a friendly game on 3 August 2007 at the [[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]], Moscow.]]
+After two years with Inter, Seedorf moved to their rivals [[AC Milan]] in 2002, in an exchange with [[Francesco Coco]].<ref>{{cite news|url=http://www.inter.it/aas/news/reader?L=en&N=2938|title=Agreement reached between Inter and AC Milan for Seedorf-Coco swap|date=30 May 2002|access-date=26 January 2010|publisher=inter.it|archive-date=18 October 2012|archive-url=https://web.archive.org/web/20121018115709/http://www.inter.it/aas/news/reader?N=2938&L=en|url-status=dead}}</ref> Seedorf won the [[2002–03 Coppa Italia|Coppa Italia]] with Milan in 2003, the first time they had won the competition in 26 years. In the same season, Seedorf gained his third Champions League medal, becoming the first player to win the Champions League with three clubs.<ref name="autogenerated1"/> The all-Italian [[2003 UEFA Champions League final|final]] saw Milan beat Juventus on penalties after a 0–0 draw, despite Seedorf failing to convert his own penalty. During the game, he also had to switch roles three times; having started the first half on the left in midfield, in the second he was moved into the center, and eventually onto the right side. The following season, [[2003–04 AC Milan season|2003–04]], Seedorf played a role in the Milan side that won the [[2003–04 Serie A|Serie A]] title. It was Seedorf's fourth national league title of his career, following his two Dutch title wins with Ajax and his one Spanish win with Real Madrid.
+
+Seedorf played a major role as Milan reached the Champions League final again in [[2005 UEFA Champions League final|2005]], scoring the only goal of the game in their opening group match against [[FC Shakhtar Donetsk|Shakhtar Donetsk]] on 14 September 2004 and appearing in all 13 competition matches.<ref>{{Cite web |date=14 September 2004|title=Seedorf Strike steals points |url=http://www.uefa.com/uefachampionsleague/season=2004/matches/round=1968/match=1077155/postmatch/report/index.html|url-status=dead|archive-url=https://web.archive.org/web/20170704154602/http://www.uefa.com/uefachampionsleague/season=2004/matches/round=1968/match=1077155/postmatch/report/index.html|archive-date=4 July 2017|website=[[UEFA]]}}</ref> He started the match against [[Liverpool F.C.|Liverpool]] in [[Istanbul]] in which Milan lost a 3–0 lead, eventually losing on penalties after a 3–3 draw; Seedorf did not take a penalty-kick.<ref>{{Cite web|date=25 May 2005|title=2004/05: Liverpool belief defies Milan |url=https://www.uefa.com/uefachampionsleague/news/0253-0d7b89fe7b7f-c91716d11bdf-1000--2004-05-liverpool-belief-defies-milan/|access-date=7 October 2020 |website=[[UEFA]]}}</ref> Milan also finished runners-up in the [[2004–05 Serie A|Serie A]], seven points behind champions Juventus, although Juventus were stripped of the title and Milan docked points for match-fixing.<ref>{{Cite news |date=2006-07-26 |title=Punishments cut for Italian clubs |url=https://news.bbc.co.uk/sport1/hi/football/europe/5215178.stm |access-date=2025-06-17 |language=en-GB}}</ref>
+
+A [[Calciopoli|match-fixing scandal tarnished Serie A]] and Milan were weakened by the scandal but were allowed to continue in Europe the following season, which led to their top players remaining with the club. In that season, [[2005–06 UEFA Champions League|2005–06]], he scored a goal after just 25 seconds in a 2–2 draw against [[FC Schalke 04|Schalke]].<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/01ad-0e6d1020a54d-522180f8fbb8-1000--seedorf-sets-milan-milestone/ |title=Seedorf sets Milan milestone |website=UEFA |date=28 September 2005 }}</ref>
+
+Seedorf's role as foil to midfielder [[Kaká]] became increasingly impressive as the pair combined in style to score and supply the goals which drove Milan past [[FC Bayern Munich|Bayern Munich]] and [[Manchester United F.C.|Manchester United]] to another [[2007 UEFA Champions League final|Champions League final]], again against Liverpool. This time, however, they defeated them 2–1 in [[Athens]], with Seedorf collecting his fourth Champions League medal. In that same year, Seedorf was a part of the Milan squad that won the [[2007 FIFA Club World Cup]], becoming the first European player to win the trophy with three clubs (Ajax in 1995 and Real Madrid in 1998). He ended up winning the Silver Ball for the competition for his performances, notably scoring the winner against [[Urawa Red Diamonds]] in the semi-final to send his club to the final.<ref>{{Cite news|last=FIFA.com|date=16 December 2007|title=Kaka soars above the competition|url=http://www.fifa.com/tournaments/archive/clubworldcup/japan2007/news/newsid=662494.html|url-status=dead|access-date=7 October 2020|archive-url=https://web.archive.org/web/20080314233155/http://www.fifa.com/tournaments/archive/clubworldcup/japan2007/news/newsid%3D662494.html|archive-date=14 March 2008}}</ref>
+
+[[File:Clarence Seedorf and Mesut Özil.jpg|thumb|right|231x231px|Seedorf playing against former club Real Madrid. On the left is [[Mesut Özil]].]]
+At the end of the [[2006–07 UEFA Champions League|2006–07 season]], Seedorf was voted best midfielder of the Champions League. He played his 100th game in the Champions League on 4 December against [[Celtic F.C.|Celtic]].
+
+With Milan, Seedorf formed a formidable midfield partnership with [[Gennaro Gattuso]] and [[Andrea Pirlo]], which began since the [[2002–03 AC Milan season|2002–03 season]]. This midfield trio was still used in the starting line-up until the [[2011–12 AC Milan season|2011–12 season]] (Pirlo left the ''Rossoneri'' in the summer of 2011), although their form had been declining. Under the guidance of coach [[Carlo Ancelotti]], their role was to support an attacking midfielder, whether it be [[Rivaldo]], [[Rui Costa]], Kaká or [[Ronaldinho]].
+
+Seedorf became the foreigner with the most appearances for Milan following a game against his former club, Sampdoria, which he scored in. At 395 appearances, he passed [[Nils Liedholm]] for this historic milestone. During the Sampdoria game, he also became the ninth-highest scoring foreigner for Milan, with 58 goals.
+On 29 March 2010, Seedorf was the target of racist chants from Lazio fans in a 1–1 draw, which led to the Rome-based club being given a €15,000 fine by the [[Italian Football Federation]] (FIGC). This led the Italy's players' union want racism stamped out in Serie A.<ref>{{cite news|title=AIC bid to kick out racism|url=http://www1.skysports.com/football/news/11095/6061583/|publisher=Sky Sports|date=29 March 2010|access-date=18 February 2012}}</ref>
+
+Seedorf won his second ''[[Scudetto]]'' with Milan in the [[2010–11 Serie A]] season, where he once again played a vital role. He scored four goals and made 36 appearances in the 2010–11 season.
+Seedorf added yet another medal to his trophy cabinet in the first official game of the 2011–12 season, where he played the full 90 minutes in a 2–1 comeback win over rivals Inter Milan in the [[2011 Supercoppa Italiana|Supercoppa Italiana]].<ref>[http://www.legaseriea.it/c/document_library/get_file?uuid=ba3846db-2e45-4b5c-aff3-518770cd309f&groupId=10192 Supercoppa Italiana 2011: Milan-Inter 2–1]{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}. legaseriea.it (6 August 2011).</ref> He scored the winning goal of Milan's first win of the 2011–12 Serie A campaign, a 1–0 defeat of [[AC Cesena|Cesena]] on 24 September.<ref>{{Deprecated archive|url=https://archive.today/20130103042246/http://soccernet.espn.go.com/report?id=327155&cc=5901|title=Report: AC Milan v Cesena – Italian Serie A – ESPNFC}}. Soccernet.espn.go.com (24 September 2011). Retrieved on 22 June 2013.</ref>
+
+Seedorf was ranked seventh of the 20 best players of the Champions League, a list which was compiled in 2012 to commemorate the 20th anniversary of the competition. The ranking was done by ''Champions'', the official magazine of UEFA.<ref>{{Cite web |title=Clarence Seedorf: stats and matches |url=http://www.acmilan.com/en/club/legends/players/seedorf |access-date=2026-03-02 |website=AC Milan |language=en}}</ref> On 14 May, he said that he was playing his last match with Milan against Novara that day. He also confirmed that he would continue to play football for another club. On 21 June, Seedorf held a press conference announcing his departure from Milan, stating, "I am leaving after 10 wonderful years... I leave a family" after playing for the ''Rossoneri'' for a decade and winning two Champions League, two ''Scudettos'' and a Coppa Italia.<ref>[https://www.theguardian.com/football/2012/jun/21/milan-clarence-seedorf-leaves?newsfeed=true Milan strengthen squad after Clarence Seedorf bids farewell | Football]. guardian.co.uk (21 June 2012). Retrieved on 22 June 2013.</ref><ref>{{Deprecated archive|url=https://archive.today/20130102205421/http://soccernet.espn.go.com/news/story/_/id/1110556/clarence-seedorf-confirms-ac-milan-departure?cc=5901|title=Clarence Seedorf confirms AC Milan departure – ESPNFC}}. Soccernet.espn.go.com (21 June 2012). Retrieved on 22 June 2013.</ref> Club CEO [[Adriano Galliani]] spoke of Seedorf following the player's departure in the highest regard, stating, "When Milan played well, which happened often, each and every time it occurred Seedorf played an amazing match. He is a world class player."<ref>[http://www.legaseriea.it/en/news-centre/news-detail/-/news/SEEDORF_LEAVES_MILAN/679976 Seedorf Leaves Milan –] {{Webarchive|url=https://web.archive.org/web/20140320053624/http://www.legaseriea.it/en/news-centre/news-detail/-/news/SEEDORF_LEAVES_MILAN/679976 |date=20 March 2014 }}. Legaseriea.it (21 June 2012). Retrieved on 22 June 2013.</ref>
+
+===Botafogo===
+[[File:Seedorf (10663636224).jpg|thumb|Seedorf playing for Botafogo in 2013]]
+
+On 30 June 2012, Seedorf signed a two-year contract with Brazilian club [[Botafogo de Futebol e Regatas|Botafogo]].<ref>{{cite web|url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=1658219.html|archive-url=https://web.archive.org/web/20120712173109/http://www.fifa.com/worldfootball/clubfootball/news/newsid=1658219.html|url-status=dead|archive-date=12 July 2012|publisher=FIFA |title=Seedorf signs with Botafogo |date=1 July 2012}}</ref> The veteran midfielder made his debut with the club on 22 July against [[Gremio Foot-Ball Porto Alegrense|Grêmio]].<ref>{{cite web|url=http://www.livesoccertv.com/news/5858/Botafogo-lose-to-gremio-in-clarence-seedorf-s-official-debut/|title=Botafogo lose to Gremio in Clarence Seedorf's official debut |publisher=Live Soccer TV |date=22 July 2012}}</ref><ref>{{Cite web |title=Grêmio estraga festa de Seedorf e vence o Botafogo no Rio de Janeiro |url=http://www.gazetaesportiva.net/noticia/2012/07/botafogo/gremio-estraga-festa-de-seedorf-e-vence-o-botafogo-no-rio-de-janeiro.html |archive-url=https://web.archive.org/web/20120726020956/http://www.gazetaesportiva.net/noticia/2012/07/botafogo/gremio-estraga-festa-de-seedorf-e-vence-o-botafogo-no-rio-de-janeiro.html |archive-date=2012-07-26 |access-date=2025-06-17 |website=Gazetaesportiva.Net}}</ref> On 5 August, Seedorf scored his first goal for Botafogo, curling in a [[Direct free kick|free kick]] against [[Atlético Clube Goianiense|Atlético Goianiense]]. On 5 September, Seedorf scored two goals and made an assist against [[Cruzeiro Esporte Clube|Cruzeiro]], helping Botafogo to a 3–1 victory.<ref>{{Cite web |title=Com golaço de Seedorf, Botafogo bate o Atlético-GO de virada |url=http://www.gazetaesportiva.net/noticia/2012/08/botafogo/com-golaco-de-seedorf-botafogo-bate-o-atleticogo-de-virada.html |access-date=2025-06-17 |website=Gazeta Esportiva |language=pt-BR}}</ref> On 3 February 2013, for the first time on his career, Seedorf scored a hat-trick against [[Macaé Esporte Futebol Clube|Macaé]], his first game as a starter that year. Before that game, Seedorf played the second half against [[Fluminense Football Club|Fluminense]] and made an assist to [[Bolívar (footballer, born 1980)|Bolívar]], who scored the match's equalizer.<ref>{{Cite journal |last=Ferraguto |first=Federico |date=2017-03-14 |title=A confrontação de Fichte com o realismo racional de Reinhold e Bardili. Perspectivas práticas |url=https://doi.org/10.4000/ref.708 |journal=Revista de Estud(i)os sobre Fichte |issue=13 |doi=10.4000/ref.708 |issn=2258-014X|url-access=subscription }}</ref>
+
+On 10 March 2013, Seedorf won his first title with Botafogo: the 2013 [[Taça Guanabara]], the first round of 2013 [[Campeonato Carioca]]. On 5 May, he won the second round of 2013 Campeonato Carioca – 2013 Taça Rio – against Fluminense. That is also the day of his first official title for Botafogo, the 2013 Campeonato Carioca, as the team won both rounds and no final match was needed. On 6 June, Seedorf scored his 100th goal in domestic league play: 11 with Ajax, 3 with Sampdoria, 15 with Real Madrid, 8 with Inter, 47 with Milan and 16 with Botafogo. On 14 January 2014, Seedorf announced his retirement from professional football. He announced that he is ending his playing career to take up the manager position at Milan following the sacking of [[Massimiliano Allegri]].
+
+==International career==
+Due to Surinamese rules against [[Multiple citizenship|dual citizenship]], players who take [[Dutch nationality law|Dutch citizenship]] are no longer eligible to represent the Netherlands' [[Dutch Empire|former colony]]. He received his first callup on 14 December 1994 at the age of 18 against [[Luxembourg national football team|Luxembourg]].<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/seedorf-intl.html|website=[[RSSSF]]|title=Clarence Seedorf – International Appearances }}</ref> Seedorf scored on his debut, helping his team to a 5–0 victory in a [[UEFA Euro 1996 qualifying Group 5|UEFA Euro 1996 qualifying]] match.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/50681--netherlands-vs-luxembourg/|title=Netherlands 5 – 0 Luxembourg |publisher=UEFA|date=14 December 1994}}</ref>
+
+Seedorf was in the Dutch squad for the [[UEFA European Football Championship|UEFA European Championships]] in [[UEFA Euro 1996|1996]], where his penalty miss proved decisive in the quarter-final shootout defeat to [[France national football team|France]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b2e30f9c9-aa62ed408a94-1000--france-reach-euro-96-last-four-after-shoot-out-success-agai/|title=France reach last four after shoot-out success |publisher=UEFA |date=6 October 2003}}</ref> He also appeared for the Netherlands at [[UEFA Euro 2000|Euro 2000]] and [[UEFA Euro 2004|2004]], as well as the [[1998 FIFA World Cup]], reaching the semi-finals in all three of these tournaments.
+
+On 12 November 2006, Seedorf was recalled for the first time since June 2004 as a replacement for the injured [[Wesley Sneijder]]. He started and played the full 90&nbsp;minutes in a 1–1 friendly draw against [[England national football team|England]]. Seedorf won the last of his 87 caps for the Netherlands in 2007.<ref name="autogenerated1"/> In the Euro 2008 qualifiers against [[Romania national football team|Romania]] (0–0 at home) and [[Slovenia national football team|Slovenia]] (1–0 away win), Seedorf played four and six&nbsp;minutes respectively. There were doubts on his position within the national team, as [[Marco van Basten]] favoured younger players such as [[Rafael van der Vaart]], Wesley Sneijder and [[Robin van Persie]]. On 13 May 2008, Seedorf announced that he would not take part in [[UEFA Euro 2008]] due to his ongoing personal conflict with van Basten.<ref>{{cite web|url=http://www.goal.com/en/news/476/euro-2008/2008/05/14/695578/seedorf-blames-van-basten-for-exit|work= Goal|title=Seedorf Blames Van Basten For Exit |date=14 May 2008}}</ref>
+
+==Style of play==
+[[File:Jersey of Clarence Seedorf.jpg|thumb|upright|Seedorf's number 10 Milan jersey in the [[San Siro]] museum]]
+Nicknamed "Il Professore" and "Willy Wonka", Seedorf is widely considered one of the best midfielders of his generation. He is considered to have been a well-rounded player with high strength, pace and stamina, allowing him to play anywhere in the [[Midfielder|midfield]] and contribute both offensively and defensively. While he primarily served as a [[playmaker]] in the [[central midfielder|centre]], he was also deployed as an [[attacking midfielder]], on the [[winger (association football)|wing]], as a ''[[Midfielder#Mezzala|mezzala]]'', or in a [[holding midfielder|holding]] or [[box-to-box midfielder|box-to-box]] role.<ref name="Identity">{{cite web|url=http://www.espnfc.us/blog/tactics-and-analysis/67/post/1839846/cox-unlike-simeones-atletico-seedorfs-milan-searching-for-identity|title=Unlike Simeone's Atletico, Seedorf's AC Milan still searching for identity|publisher=ESPN FC|author1=Michael Cox|date=10 March 2014|access-date=26 July 2016}}</ref><ref name="Landmark">{{cite web|url=https://www.fifa.com/world-match-centre/nationalleagues/nationalleague=italy-serie-a-2000000026/news/newsid/162/639/8/index.html|archive-url=https://web.archive.org/web/20150112123858/http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=italy-serie-a-2000000026/news/newsid/162/639/8/index.html|url-status=dead|archive-date=12 January 2015|title=Seedorf reaches Milan landmark|website=fifa.com|publisher=FIFA|date=13 May 2012|access-date=23 April 2015}}</ref><ref name=acmilan.com>{{cite web|url=https://www.acmilan.com/en/clarence-seedorf|title=AC Milan Hall of Fame: Clarence Seedorf|publisher=AC Milan|access-date=11 September 2014}}</ref><ref>{{cite web |title=Zenga su Seedorf: "Ha tutte le caratteristiche per fare bene" |trans-title=Zenga on Seedorf: "He has all the characteristics to do well" |url=http://www.milannews.it/altre-notizie/zenga-su-seedorf-ha-tutte-le-caratteristiche-per-fare-bene-136095 |url-status=dead |archive-url=https://web.archive.org/web/20140912002157/http://www.milannews.it/altre-notizie/zenga-su-seedorf-ha-tutte-le-caratteristiche-per-fare-bene-136095 |archive-date=12 September 2014 |access-date=11 September 2014 |website=milannews.it |language=it}}</ref><ref>{{cite news |url=https://www.gazzetta.it/Calcio/Squadre/Milan/Primo_Piano/2006/04_Aprile/14/spogliatoio.shtml |title=Seedorf: "Sogno scudetto" |work=La Gazzetta dello Sport |language=it |last=Pratesi |first=Riccardo |date=14 April 2006 |access-date=16 April 2020 }}</ref><ref>{{Cite web |last=Stevenson |first=William
+ |date=2024-08-17 |title=12 Most 'Complete' Players in Football History [Ranked] |url=https://www.givemesport.com/most-complete-players-football-history-ranked/ |access-date=2025-02-04 |website=GiveMeSport |language=en}}</ref>
+
+In addition to his physical attributes and skill as a defender,<ref name="Identity"/><ref name="Landmark"/> he was an excellent [[Dribbling#Association football|dribbler]] who could retain possession under pressure, [[Cross (football)|crossing]] the ball off to on-rushing teammates with impressive accuracy.<ref name="Identity"/><ref name=acmilan.com/><ref name="AC Milan Pen Pics">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/6658701.stm|title=AC Milan Pen Pics|publisher=BBC Sport|last=May|first=John|date=22 May 2007|access-date=7 January 2013}}</ref><ref>{{cite web|url=http://www.advarsitysports.com/samples-with-the-rossoneri-clarence-seedorf/|title=Samples with the Rossoneri: Clarence Seedorf|website=advarsitysports.com|date=14 October 2014|access-date=23 April 2015}}</ref><ref>{{cite web|url=http://www.magliarossonera.it/protagonisti/Gioc-Seedorf.html|title=Clarence Clyde SEEDORF (I)|website=magliarossonera.it|language=it|access-date=23 April 2015}}</ref> Seedorf was also a successful free kicker<ref>{{cite web|url=http://www.football-italia.net/113488/pirlo-%E2%80%98my-free-kick-secrets%E2%80%99|title=Pirlo: 'My free-kick secrets'|work=Football Italia|date=28 November 2017|access-date=17 December 2017}}</ref> and capable of scoring goals from distance with either foot.<ref name="Identity"/><ref name="Landmark"/><ref>{{cite web|url=https://news.bbc.co.uk/2/hi/euro2000/teams/holland/squad/743795.stm|title=Euro 2000 Profile: Clarence Seedorf|publisher=BBC Sport|access-date=11 September 2014}}</ref><ref>{{cite web|url=http://www.treccani.it/enciclopedia/clarence-seedorf/|title=Clarence Seedorf|publisher=Treccani|language=it|access-date=11 September 2014}}</ref> Despite his physical style of play, Seedorf was regarded as a player with good behavior, having been sent off only two times in his career. He has also been praised for his longevity on the field.<ref name="Identity"/>
+
+==Managerial career==
+Seedorf was appointed the new head coach of Milan on 16 January 2014, terminating his contract with Botafogo early in order to take on the managerial role, with Milan languishing in 11th in the Serie A table. On 19 January, he won his first managerial match, played against [[Hellas Verona FC|Hellas Verona]], with [[Mario Balotelli]] scoring the lone goal of the game.<ref>{{Cite web | title = Milan 1-0 Verona | publisher = BBC Sport | date = 19 January 2014 | access-date = 5 July 2018 | url = https://www.bbc.co.uk/sport/football/25717720}}</ref>
+
+Despite overseeing the club's first five-match winning run since 2011, and first Serie A victory in the [[Derby della Madonnina|Milan derby]] against Inter since 2011, Seedorf was dismissed by Milan on 9 June 2014 after just four months on the job, with [[Filippo Inzaghi]] being named as his successor.<ref name="Sacked">{{cite news|title=AC Milan sacks manager Clarence Seedorf and replaces him with youth-team coach Filippo Inzaghi|url=https://www.foxnews.com/sports/ac-milan-sacks-manager-clarence-seedorf-and-replaces-him-with-youth-team-coach-filippo-inzaghi/|access-date=9 June 2014|agency=Associated Press|publisher=Fox News|date=9 June 2014|location=Milan, Italy}}</ref> During the Dutchman's time at the helm of the club, Milan gained a total of 35 out of a possible 57 points - the fourth-most out of all Serie A sides (one less than Napoli's corresponding total and six less than Roma's).
+
+Seedorf was appointed manager of [[China League One]] team [[Shenzhen F.C.|Shenzhen FC]] in July 2016,<ref>{{cite web|title=Former AC Milan coach Clarence Seedorf takes over at Shenzhen FC|url=https://www.scmp.com/sport/china/article/1986866/former-ac-milan-coach-clarence-seedorf-takes-over-shenzhen-fc|work=South China Morning Post|date=7 July 2016|access-date=10 July 2016}}</ref> but was replaced five months later by [[Sven-Göran Eriksson]].<ref>{{cite web|title=深圳官方宣布埃里克森挂帅西多夫离任 重塑深足|date=5 December 2016|url=http://sports.sina.com.cn/china/b/2016-12-05/doc-ifxyiayq2309433.shtml|publisher=Sina|access-date=5 December 2016}}</ref> A year later Seedorf joined Brazilian club [[Clube Atlético Paranaense|Atlético Paranaense]] as both a coach and a sporting director.<ref>{{cite web |date=21 December 2017 |title=Brasileirao, Seedorf torna in panchina: allenerà l'Atletico Paranaense |trans-title=Brazileirão, Seedorf returns to the bench: will coach Atletico Paranaense |url=http://www.corrieredellosport.it/news/calcio/calcio-estero/2017/12/21-35933651/brasileirao_seedorf_torna_in_panchina_allener_latletico_paranaense/ |access-date=21 December 2017 |work=Il Corriere dello Sport |language=it}}</ref><ref>{{cite web|url=http://www.football-italia.net/114643/seedorf-set-brazil-return|title=Seedorf set for Brazil return?|work=Football Italia|date=21 December 2017|access-date=21 December 2017}}</ref><ref>{{cite web|url=https://globoesporte.globo.com/pr/futebol/times/atletico-pr/noticia/seedorf-acerta-com-o-atletico-pr-para-cargo-inedito-de-manager.ghtml|title=Seedorf acerta com o Atlético-PR para cargo inédito de manager|work=Globo Esporte|language=pt|date=21 December 2017|access-date=21 December 2017}}</ref> Within a month the deal was cancelled after both parties failed to reach an agreement.{{Citation needed|date=October 2026}} In February 2018, Seedorf was appointed as manager of Spanish club [[Deportivo de La Coruña|Deportivo La Coruña]] for the remainder of the [[2017–18 in Spanish football|2017–18]] season.<ref>{{Cite web | title = Clarence Seedorf, nuevo entrenador del Real Club Deportivo | trans-title = Clarence Seedorf, new coach of Real Club Deportivo | publisher = R.C. Deportivo de La Coruña | date = 5 February 2018 | access-date = 5 February 2018 | url = https://www.rcdeportivo.es/noticia/clarence-seedorf-nuevo-entrenador-del-real-club-deportivo | language = es}}</ref> Seedorf led the team to just two wins in sixteen matches, Deportivo were relegated from [[2017–18 La Liga|La Liga]], and at the end of the season he left the club.<ref>{{Cite web |title=Seedorf no seguirá al frente del Deportivo |trans-title = Seedorf will not continue to lead Deportivo |work=Mundo Deportivo |date=22 May 2018 |access-date=22 May 2018 |url=http://www.mundodeportivo.com/futbol/deportivo-coruna/20180522/443768659774/seedorf-deportivo-segunda.html |language=es}}</ref>
+
+After a deal with Sven-Göran Eriksson could not be agreed, the [[Cameroonian Football Federation|Fédération Camerounaise de Football]] appointed Seedorf as the manager of the [[Cameroon national football team|Cameroon national team]] in August 2018.<ref name=":0" /> He was joined by former teammate [[Patrick Kluivert]] as his assistant manager.<ref name=":0">{{Cite news|url=https://www.bbc.co.uk/sport/football/45070860|title=Cameroon appoint Seedorf & Kluivert as deal for Eriksson falls through|date=4 August 2018|website=BBC Sport|access-date=11 October 2018}}</ref> However, after a disappointing [[2019 Africa Cup of Nations]], where Cameroon as defending champions were eliminated by [[Nigeria national football team|Nigeria]] in the round of 16 after an unimpressive group stage, he was sacked in July 2019.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/49009362|title=Clarence Seedorf and Patrick Kluivert sacked by Cameroon|date=16 July 2019|website=BBC Sport|access-date=26 August 2019}}</ref>
+
+On 11 October 2026, Seedorf agreed to become the head coach of [[SC Corinthians Paulista|Corinthians]], replacing [[Fernando Diniz]].<ref>{{Cite web |date=11 October 2026 |title=Clarence Seedorf e o novo treinador do Corinthians |url=https://www.corinthians.com.br/noticias/clarence-seedorf-e-o-novo-treinador-do-corinthians |access-date=11 October 2026 |website=corinthians.com.br}}</ref>
+
+==Personal life and other work==
+[[File:Princess Máxima, Prince Willem-Alexander & Clarence Seedorf.jpg|thumb|Seedorf with [[Queen Máxima]] and [[King Willem-Alexander of the Netherlands]].]] 
+Seedorf speaks six languages fluently:<ref name="Landmark"/><ref>{{cite web|url=http://www.swide.com/sport-man/clarence-seedorf-is-the-new-ac-milan-coach-6-reasons-why-he-was-destined-for-it/2014/01/17|title=Discover|access-date=12 January 2015|archive-url=https://web.archive.org/web/20150924112642/http://www.swide.com/sport-man/clarence-seedorf-is-the-new-ac-milan-coach-6-reasons-why-he-was-destined-for-it/2014/01/17|archive-date=24 September 2015|url-status=dead}}</ref><ref>{{cite web|title=Seedorf, campione anche nel business|url=http://www.businessgentlemen.it/index.php?option=com_content&view=article&id=82:seedorf-campione-anche-nel-business&catid=21:canale-personaggi&Itemid=50|access-date=15 September 2014}}</ref> Dutch, English,<ref>{{cite web|url=https://www.youtube.com/watch?v=DKTqaPwMMXk| archive-url=https://ghostarchive.org/varchive/youtube/20211113/DKTqaPwMMXk| archive-date=13 November 2021 | url-status=live|title=Kate Giles Interviews Clarence Seedorf on CNN|publisher=Abdo Media Group|date=9 March 2011|via=YouTube}}{{cbignore}}</ref> Italian, Portuguese, Spanish and [[Sranan Tongo]]. He was often seen as a spiritual, intelligent and articulate figure in football,<ref name=":1" /> and in a 2011 interview, Seedorf stated that he was studying to obtain a master's degree in business at the prestigious [[Bocconi University]] in [[Milan]];<ref>{{cite web|title=Clarence Seedorf: One-on-One|url=http://www.fourfourtwo.com/features/clarence-seedorf-one-one|access-date=15 September 2014}}</ref> because of this, he earned the nickname "''il professore''" ("the professor") during his time playing at Milan.<ref name="Landmark"/> Seedorf married a Brazilian woman, Luviana Seedorf, with whom he owns a restaurant called ''Finger's'' in Milan. They have four children.<ref>{{cite web|title=La moglie di Seedorf fa belli i calciatori|url=http://www.sologossip.it/2010/06/04/la-moglie-di-seedorf-fa-belli-i-calciatori/|access-date=15 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20110410125815/http://www.sologossip.it/2010/06/04/la-moglie-di-seedorf-fa-belli-i-calciatori/|archive-date=10 April 2011}}</ref> After separating from his wife, he began a relationship with Canadian-Iranian Sophia Makramati, and converted to her faith of [[Islam]] in a March 2022 ceremony in [[Dubai]].<ref>{{cite news |title=Após separação de brasileira, Seedorf se converte ao islamismo|trans-title=After separating from Brazilian woman, Seedorf converts to Islam|url=https://www.uol.com.br/esporte/ultimas-noticias/2022/03/08/apos-separacao-de-brasileira-seedorf-se-converte-ao-islamismo.htm |access-date=25 October 2023 |publisher=[[Universo Online]] |date=8 March 2022 |language=Portuguese}}</ref><ref>{{cite news |last1=Moreno Velazquez |first1=Marcos Jesús |title=Clarence Seedorf asistió al sorteo del Mundial con la mujer que lo convirtió al Islam|trans-title=Clarence Seedorf attended the World Cup draw with the woman who converted him to Islam|url=https://www.mundodeportivo.com/us/futbol/mundial/20220401/4004/clarence-seedorf-asistio-sorteo-mundial-mujer-convirtio-islam.html |access-date=25 October 2023 |work=[[Mundo Deportivo]] |date=1 April 2022 |language=Spanish}}</ref>
+
+Seedorf has dabbled in media-related work during recent years. In 2009, he worked with ''[[The New York Times]]'' to run a column entitled "Seedorf responds", where once a month he would answer peoples' questions regarding football.<ref>{{cite web|title=Seedorf editorialista del NY Times |url=http://www.sportmediaset.mediaset.it/calcio/articoli/articolo28900.shtml|access-date=15 September 2014}}</ref> He joined the [[BBC]]'s team covering the [[2010 FIFA World Cup]] in South Africa, working as a [[Pundit (expert)|television pundit]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8637613.stm |title=Klinsmann and Seedorf join BBC's World Cup team|publisher=BBC Sport|date=22 April 2010 |access-date=9 March 2011}}</ref> He also presented a number of features for the BBC coverage, including one about [[Robben Island]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8799052.stm |title=World Cup 2010: Clarence Seedorf goes to Robben Island|publisher=BBC Sport|date=7 July 2010|access-date=9 March 2011}}</ref> He joined the BBC for their ''[[Match of the Day]]'' Live coverage of [[UEFA Euro 2012]]. He has also made appearances on ''[[Match of the Day 2]]'' during the English football league season.
+
+Because of his strong connection with the country Suriname, where he was born, he is involved in many social development projects there. He built his own [[Clarence Seedorf Stadion|Clarence Seedorf Stadium]] in the [[Para District|district of Para]] in Suriname. In this stadium, the Para Juniors League of Suriname is being held and the teams of the Suri Profs & [[S.V. The Brothers|SV The Brothers]] play there regularly. With his Champions for Children Foundation, he supports projects for good causes in Suriname.<ref>{{cite web|title=Seedorf – Off the field – Champions for Children|url=http://www.seedorf.com/EN/seedorf/off_the_field/champions_for_children.aspx|access-date=15 September 2014}}</ref> For this, Suriname has honoured him to Commander of the High-Order of the Yellow Star, and in 2011 he was invested as a Knight of the [[Order of Orange-Nassau]] (OON).
+
+In 2012 and 2014, Seedorf took part in ''[[Soccer Aid]]'', a charity match at [[Old Trafford]] with former professional players and celebrities. He played for "The Rest of the World" team against England. In 2014, he scored a hat-trick, where The Rest of the World won 4–2; they raised over £4&nbsp;million in total.<ref>{{cite news|url=http://www.sportsmole.co.uk/football/result/result-seedorf-scores-hat-trick-for-rest-of-world_158949.html|title=Result: Clarence Seedorf scores hat-trick for Rest of World in Soccer Aid|first=David|last=Wright|work=Sportsmole|date=8 June 2014|access-date=9 June 2014}}</ref>
+
+On 13 May 2025, Seedorf became a sports advisor at Iranian giants [[Esteghlal F.C.|Esteghlal]].<ref name="Clarence Seedorf steps – FlashScore">{{cite web |url=https://www.flashscore.com/news/soccer-persian-gulf-pro-league-clarence-seedorf-steps-into-role-as-advisor-at-iranian-giants-esteghlal/6oiL2uwJ/ |title=Clarence Seedorf steps into role as advisor at Iranian giants Esteghlal |website=FlashScore.com |access-date=11 October 2026 |archive-date=11 October 2026 |archive-url=https://web.archive.org/web/20261011213858/https://www.flashscore.com/news/soccer-persian-gulf-pro-league-clarence-seedorf-steps-into-role-as-advisor-at-iranian-giants-esteghlal/6oiL2uwJ/ |date=13 May 2025 |url-status=live }}</ref>
+
+Clarence's nephew, [[Collin Seedorf]], is also a professional footballer, and currently plays for Bosnian club [[FK Željezničar Sarajevo|Željezničar]].<ref>{{cite news |date=25 June 2025 |title=Collin Seedorf novi igrač Željezničara |url=https://fkzeljeznicar.ba/foto-collin-seedorf-novi-igrac-zeljeznicara/83811/ |publisher=fkzeljeznicar.ba |access-date=25 June 2025}}</ref>
+
+==Career statistics==
+===Club===
+{|class="wikitable" style="text-align: center;"
+|+Appearances and goals by club, season and competition<ref>{{cite web |url=https://www.worldfootball.net/person/pe839/clarence-seedorf/|title=Clarence Seedorf – Career Statistics |date=5 July 2019 |publisher=Worldfootball.net}}</ref><ref name="BeSoccer – Clarence Seedorf">{{cite web |url=https://www.besoccer.com/player/career-path/c-seedorf-1152 |title=Profile of Clarence Seedorf: Info, news, matches and statistics |website=BeSoccer.com |access-date=14 October 2026 |archive-date=14 October 2026 |archive-url=https://web.archive.org/web/20261014042659/https://www.besoccer.com/player/career-path/c-seedorf-1152 |url-status=live }}</ref>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League<ref>Includes [[Campeonato Carioca|Campeonato Carioca 2013]].</ref>
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]], [[Coppa Italia]], [[Copa del Rey]], [[Copa do Brasil]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-	
+|rowspan="4"|[[AFC Ajax|Ajax]]
+|[[1992–93 Eredivisie|1992–93]]
+| rowspan="3" |[[Eredivisie]]
+|12||1||3||0||3{{efn|name=UC|Appearances in [[UEFA Cup]]}}||0||colspan="2"|–||18||1
+|-
+|[[1993–94 Eredivisie|1993–94]]
+|19||4||2||0||2{{efn|name=UCWC|Appearances in [[UEFA Cup Winners' Cup]]}}||0||1{{efn|name=DSC|Appearance in [[Dutch Supercup]]}}||0||24||4
+|-
+|[[1994–95 AFC Ajax season|1994–95]]
+|34||6||3||0||11{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||1{{efn|name=DSC}}||0||49||6
+|-
+!colspan="2"|Total
+!65!!11!!8!!0!!16!!0!!2!!0!!91!!11
+|-
+|[[UC Sampdoria|Sampdoria]]
+|[[1995–96 UC Sampdoria season|1995–96]]
+|[[Serie A]]
+|32||3||2||1|| colspan="4" rowspan="2" |–||34||4
+|-
+|rowspan="5"|[[Real Madrid CF|Real Madrid]]
+|[[1996–97 Real Madrid CF season|1996–97]]
+| rowspan="4" |[[La Liga]]
+|38||6||4||0||42||6
+|-
+|[[1997–98 Real Madrid CF season|1997–98]]
+|36||6||0||0||11{{efn|name=UCL}}||0||2{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||1||49||7
+|-
+|[[1998–99 Real Madrid CF season|1998–99]]
+|37||3||5||1||8{{efn|name=UCL}}||3||2{{efn|One appearance in [[UEFA Super Cup]], one appearance in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]}}||0||52||7
+|-
+|[[1999–2000 Real Madrid CF season|1999–2000]]
+|10||0||0||0||6{{efn|name=UCL}}||0||0||0||16||0
+|-
+!colspan="2"|Total
+!121!!15!!9!!1!!25!!3!!4!!1!!159!!20
+|-
+|rowspan="4"|[[Inter Milan]]
+|[[1999–2000 Inter Milan season|1999–2000]]
+| rowspan="3" |[[Serie A]]
+|20||3||5||2|| colspan="4" |–||25||5
+|-
+|[[2000–01 Inter Milan season|2000–01]]
+|24||2||4||0||7{{efn|Two appearances in UEFA Champions League, five appearances and three goals in UEFA Cup}}||3||1{{efn|name=SCI|Appearance in [[Supercoppa Italiana]]}}||0||36||5
+|-
+|[[2001–02 Inter Milan season|2001–02]]
+|20||3||2||1||10{{efn|name=UC}}||0||colspan="2"|–||32||4
+|-
+!colspan="2"|Total
+!64!!8!!11!!3!!17!!3!!1!!0!!93!!14
+|-
+|rowspan="11"|[[AC Milan]]
+|[[2002–03 AC Milan season|2002–03]]
+| rowspan="10" |[[Serie A]]
+|29||4||3||2||16{{efn|name=UCL}}||1||colspan="2"|–||48||7
+|-
+|[[2003–04 AC Milan season|2003–04]]
+|29||3||5||0||8{{efn|name=UCL}}||0||3{{efn|One appearance in Supercoppa Italiana, one appearance in UEFA Super Cup, one appearance in Intercontinental Cup}}||0||45||3
+|-
+|[[2004–05 AC Milan season|2004–05]]
+|32||5||4||1||13{{efn|name=UCL}}||1||0||0||49||7
+|-
+|[[2005–06 AC Milan season|2005–06]]
+|36||4||2||1||11{{efn|name=UCL}}||1|| colspan="2" rowspan="2" |–||49||6
+|-
+|[[2006–07 AC Milan season|2006–07]]
+|32||7||5||0||14{{efn|name=UCL}}||3||51||10
+|-
+|[[2007–08 AC Milan season|2007–08]]
+|32||7||0||0||7{{efn|name=UCL}}||2||3{{efn|One appearance in UEFA Super Cup, two appearances and one goal in [[FIFA Club World Cup]]}}||1||42||10
+|-
+|[[2008–09 AC Milan season|2008–09]]
+|33||6||1||0||7{{efn|name=UC}}||0|| colspan="2" rowspan="3" |–||41||6
+|-
+|[[2009–10 AC Milan season|2009–10]]
+|29||5||0||0||8{{efn|name=UCL}}||1||37||6
+|-
+|[[2010–11 AC Milan season|2010–11]]
+|30||4||2||0||8{{efn|name=UCL}}||0||40||4
+|-
+|[[2011–12 AC Milan season|2011–12]]
+|18||2||3||1||8{{efn|name=UCL}}||0||1{{efn|name=SCI}}||0||30||3
+|-
+!colspan="2"|Total
+!300!!47!!25!!5!!100!!9!!7!!1!!432!!62
+|-
+|rowspan="3"|[[Botafogo de Futebol e Regatas|Botafogo]]
+|[[2012 Campeonato Brasileiro Série A|2012]]
+| rowspan="2" |[[Campeonato Brasileiro Série A|Série A]]
+|24||8||0||0||1||1||0||0||25||9
+|-
+|[[2013 Campeonato Brasileiro Série A|2013]]
+|34||8||8||0||0||0||14{{efn|Fourteen appearances and seven goals in the [[Campeonato Carioca]]. }}||7||56||15
+|-
+!colspan="2"|Total
+!58!!16!!8!!0!!1!!1!!14!!7!!81!!24
+|-
+!colspan="3"|Career total
+!640!!100!!57!!7!!159!!16!!28!!9!!890!!135 
+|}
+{{notelist}}
+
+===International===
+{| class="wikitable sortable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{NFT player|4653|name=Clarence Seedorf|accessdate= }}</ref><ref>[https://www.rsssf.org/miscellaneous/seedorf-intl.html Clarence Seedorf – International Appearances]. rsssf.org. Retrieved on 22 June 2013.</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="15"|[[Netherlands national football team|Netherlands]]
+|1994||1||1
+|-
+|1995||7||3
+|-
+|1996||11||2
+|-
+|1997||7||0
+|-
+|1998||12||1
+|-
+|1999||7||0
+|-
+|2000||10||2
+|-
+|2001||4||1
+|-
+|2002||2||1
+|-
+|2003||7||0
+|-
+|2004||9
+|0
+|-
+|2005||0
+|0
+|-
+|2006||1
+|0
+|-
+|2007||8
+|0
+|-
+|2008||1
+|0
+|-
+!colspan="2"|Total!!87!!11
+|}
+
+:''Scores and results list the Netherlands' goal tally first, score column indicates score after each Seedorf goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Clarence Seedorf<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/seedorf-intl.html |title=Clarence Seedorf – International Appearances |website=[[RSSSF]] |access-date=17 August 2012 }}</ref>
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 14 December 1994 || rowspan="2" | [[De Kuip]], Rotterdam || {{fb|LUX}} || align="center"|5–0 || align="center"|5–0 || rowspan="4" | [[UEFA Euro 1996 qualifying]]
+|-
+| align="center"|2 || 29 March 1995 || rowspan="2" | {{fb|MLT}}|| align="center" |1–0 || align="center"|4–0 
+|-
+| align="center"|3 || 11 October 1995 || [[Ta' Qali National Stadium]], Attard || align="center" |4–0 || align="center"|4–0 
+|-
+| align="center"|4 || 15 November 1995 || rowspan="2" | [[De Kuip]], Rotterdam || {{fb|NOR}} || align="center"|1–0 || align="center"|3–0 
+|-
+| align="center"|5 || 4 June 1996 || {{fb|IRL}} || align="center"|2–1 || align="center"|3–1 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|6 || 14 December 1996 || [[King Baudouin Stadium]], Brussels || {{fb|BEL}} || align="center"|2–0 || align="center"|3–0 || [[1998 FIFA World Cup qualification (UEFA)|1998 FIFA World Cup qualification]]
+|-
+| align="center"|7 || 21 February 1998 || [[Orange Bowl]], Miami || {{fb|USA}} || align="center"|2–0 || align="center"|2–0 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|8 || rowspan="2" | 7 October 2000 || rowspan="2" | [[GSP Stadium]], Nicosia || rowspan="2" | {{fb|CYP|1960}} || align="center"|1–0 || rowspan="2" align="center" |4–0 || rowspan="3" | [[2002 FIFA World Cup qualification (UEFA)|2002 FIFA World Cup qualification]]
+|-
+| align="center"|9 || align="center" |2–0 
+|-
+| align="center"|10 || 6 October 2001 || [[GelreDome]], Arnhem || {{fb|AND}} || align="center"|2–0 || align="center"|4–0 
+|-
+| align="center"|11 || 16 October 2002 || [[Ernst-Happel-Stadion]], Vienna || {{fb|AUT}} || align="center"|1–0 || align="center"|3–0 || [[UEFA Euro 2004 qualifying Group 3|UEFA Euro 2004 qualifying]]
+|}
+
+==Managerial statistics==
+{{Updated|20 June 2025}}
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2"| Team
+!rowspan="2"| From
+!rowspan="2"| To
+!colspan="8"|Record
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[AC Milan]]
+| 16 January 2014<ref name="Seedorf-coach">{{cite news|title=Clarence Seedorf Returns to AC Milan As a Coach|url=http://www.acmilan.com/en/news/show/150872|access-date=19 January 2014|newspaper=acmilan.com|date=25 January 2014}}</ref>
+| 9 June 2014<ref name="Sacked"/>
+{{WDL|22|11|2|9|for=28|against=26|diff=yes}}
+|-
+| [[Shenzhen F.C.|Shenzhen FC]]
+| 7 July 2016
+| 5 December 2016
+{{WDL|14|4|4|6|for=17|against=24|diff=yes}}
+|-
+| [[Deportivo de La Coruña|Deportivo La Coruña]]
+| 5 February 2018
+| 22 May 2018
+{{WDL|16|2|6|8|for=14|against=25|diff=yes}}
+|-
+| [[Cameroon national football team|Cameroon]]
+| 4 August 2018
+| 16 July 2019
+{{WDL|13|4|5|4|for=10|against=11|diff=yes}}
+|-
+| [[SC Corinthians Paulista|Corinthians]]
+| 11 October 2026
+| ''Present''
+{{WDL|0|0|0|0|for=0|against=0|diff=yes}}
+|-
+! colspan="3"| Total
+{{WDLtot|64|21|17|26|for=69|against=84|diff=yes}}
+|}
+
+==Honours==
+<ref>{{Cite web|url=https://www.fourfourtwo.com/features/clarence-seedorf-one-one-manager-who-had-biggest-cultural-impact-me-sven-goran-eriksson|title=The big interview: Clarence Seedorf – "The manager who had the biggest cultural impact on me? Sven-Goran Eriksson"|date=24 May 2017|website=FourFourTwo}}</ref>
+
+'''Ajax'''<ref name = "honours">{{cite web |url=https://int.soccerway.com/coaches/clarence-seedorf/3992/|title=Clarence Seedorf – Career Honours |work=Soccerway}}</ref>
+* [[Eredivisie]]: [[1993–94 Eredivisie|1993–94]], [[1994–95 Eredivisie|1994–95]]
+* [[KNVB Cup]]: [[1992–93 KNVB Cup|1992–93]]
+* [[Johan Cruijff Shield]]: [[1993 Dutch Supercup|1993]]
+* [[UEFA Champions League]]: [[1994–95 UEFA Champions League|1994–95]]<ref name="Four-time winner Seedorf">{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0250-0e886c882ffd-36cd0c025d66-1000--four-time-winner-seedorf-one-of-a-kind/ |title=Four-time winner Seedorf one of a kind |publisher=[[UEFA]] |last1=Scholten |first1=Berend |date=1 April 2019 |access-date=3 May 2020 }}</ref>
+
+'''Real Madrid'''<ref name = "honours"/>
+* [[La Liga]]: [[1996–97 La Liga|1996–97]]
+* [[Supercopa de España]]: [[1997 Supercopa de España|1997]]
+* UEFA Champions League: [[1997–98 UEFA Champions League|1997–98]]<ref name="Four-time winner Seedorf"/><ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/022d-0e9458554d19-9e9caf57a328-1000--reyes-s-fifth-win-top-uefa-club-cup-winners/|title=UEFA Europa League – News |website=uefa.com|date=18 May 2016}}</ref>
+* [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: [[1998 Intercontinental Cup|1998]]
+
+'''AC Milan'''<ref name = "honours"/>
+* [[Serie A]]: [[2003–04 Serie A|2003–04]], [[2010–11 Serie A|2010–11]]
+* [[Coppa Italia]]: [[2002–03 Coppa Italia|2002–03]]
+* [[Supercoppa Italiana]]: [[2011 Supercoppa Italiana|2011]]
+* UEFA Champions League: [[2002–03 UEFA Champions League|2002–03]], [[2006–07 UEFA Champions League|2006–07]]<ref name="Four-time winner Seedorf"/>
+* [[UEFA Super Cup]]: [[2003 UEFA Super Cup|2003]], [[2007 UEFA Super Cup|2007]]	
+* [[FIFA Club World Cup]]: [[2007 FIFA Club World Cup|2007]]
+
+'''Botafogo'''<ref name = "honours"/>
+*[[Campeonato Carioca]]: [[2013 Campeonato Carioca|2013]]
+'''Individual'''<!--LEAGUE AND FEDERATION-SANCTIONED AWARDS ONLY. No fan or magazine-voted awards. Listed in chronological order from last time won.-->
+* [[Dutch Football Talent of the Year]]: 1993, 1994<ref name = "Talent of the year">{{cite web |url=https://www.rsssf.org/miscellaneous/nedpoy.html|website=[[RSSSF]]|title=Clarence Seedorf – Dutch Talent of the Year }}</ref> 
+*[[ESM Team of the Year]]: [[European Sports Media#1996–97|1996–97]]<ref name="ESM Team of the year">{{cite web|url=https://www.rsssf.org/miscellaneous/esm-xi.html |title=Clarence Seedorf – ESM Team of the Year |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20160207144925/http://www.rsssf.com/miscellaneous/esm-xi.html |archive-date=7 February 2016 }}</ref>
+* [[UEFA Team of the Year]]: 2002,<ref name = "UEFA Team of the year 2002">{{cite web|url=http://en.toty.uefa.com/history=2002.html|title=Clarence Seedorf - UEFA Team of the Year 2002|publisher=UEFA|access-date=1 August 2014|archive-url=https://web.archive.org/web/20140529200246/http://en.toty.uefa.com/history=2002.html|archive-date=29 May 2014|url-status=dead}}</ref> 2007<ref name = "UEFA Team of the year 2007">{{cite web|url=http://en.toty.uefa.com/history=2007.html|title=Clarence Seedorf - UEFA Team of the Year 2007|publisher=UEFA|access-date=1 August 2014|archive-url=https://web.archive.org/web/20150709042816/http://en.toty.uefa.com/history=2007.html|archive-date=9 July 2015|url-status=dead}}</ref>
+* [[UEFA Champions League Best Midfielder|UEFA Best Midfielder Award]]: 2006–07<ref name = "UEFA Champions League awards">{{cite web |url=http://www.uefa.com/memberassociations/news/newsid=1639472.html|archive-url=https://archive.today/20130105022355/http://www.uefa.com/memberassociations/news/newsid=1639472.html|url-status=dead|archive-date=5 January 2013|title=UEFA Champions League Awards|date=May 2011|publisher=UEFA}}</ref> 
+* [[UEFA Champions League]] Squad of the Season: [[2006–07 UEFA Champions League|2006–07]]<ref>{{cite web|url=https://www.uefa.com/newsfiles/614019.pdf|title=2006/07 UEFA Champions League technical report|website=UEFA.com|publisher=Union of European Football Associations|date=2007}}</ref>
+* [[FIFA Club World Cup Silver Ball]]: 2007<ref name = "FIFA Club World Cup Awards">{{cite web |url=https://www.rsssf.org/tablest/toyotamvp.html|website=[[RSSSF]]|title=FIFA Club World Cup Awards }}</ref> 
+* [[FIFPro World XI]] Nominee: 2007<ref>{{cite web|url=http://www.fifpro.org/en/events/world-xi/players?sortname2=2007|title=News & Media – FIFPro World Players' Union|access-date=25 March 2015|archive-url=https://web.archive.org/web/20150402144852/http://www.fifpro.org/en/events/world-xi/players?sortname2=2007|archive-date=2 April 2015|url-status=dead}}</ref>
+* [[Real Madrid CF|Real Madrid]] Team of the Century: 2008<ref name = "Real Madrid Team of the Century">{{cite web |url=https://bleacherreport.com/articles/63140-ryan-giggs-vs-clarence-seedorf-whos-the-best-player|title=Ryan Giggs vs Clarence Seedorf: Who's the Best Player? |work=Bleacher Report}}</ref>
+* [[Bola de Prata (Brazil)|Bola de Prata]]: 2013<ref>{{cite web|url=http://espn.uol.com.br/post/375422_para-seedorf-selecao-do-premio-bola-de-prata-venceria-a-champions|title=Para Seedorf, seleção do prêmio Bola de Prata venceria a Champions|publisher=ESPN.br|access-date=24 March 2015|archive-url=https://web.archive.org/web/20150402215035/http://espn.uol.com.br/post/375422_para-seedorf-selecao-do-premio-bola-de-prata-venceria-a-champions|archive-date=2 April 2015|url-status=dead}}</ref>
+* [[Knight of the Order of Orange-Nassau]]<ref name = "Knighthood">{{cite web|url=http://www.rnw.nl/africa/article/clarence-seedorf-delighted-knighthood|archive-url=https://archive.today/20140806052823/http://www.rnw.nl/africa/article/clarence-seedorf-delighted-knighthood|url-status=dead|archive-date=6 August 2014|title=Clarence Seedorf delighted with knighthood|publisher=RNW}}</ref>
+* [[Commander of the Honorary Order of the Yellow Star]]<ref name = "Gele Ster">{{cite web |url=http://nos.nl/artikel/234415-seedorf-koninklijk-onderscheiden.html|title=Seedorf koninklijk onderscheiden |date=21 April 2011 |publisher=NOS}}</ref>
+* [[Nelson Mandela|Nelson Mandela Legacy Champion]]<ref>{{cite web |url=http://www.nelsonmandela.org/news/entry/clarence-seedorf-becomes-a-legacy-champion|title=Clarence Seedorf becomes a legacy champion |publisher=Nelsonmandela.org}}</ref>
+* [[FIFA 100]]<ref name = "FIFA 100">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/3533833.stm|title=Fifa names greatest list |date=4 March 2004 |publisher=BBC}}</ref>
+* [[AC Milan]] Hall of Fame<ref name=acmilan.com/>
+* [[Golden Foot#Award legends|Golden Foot Award Legends]]: 2018<ref>{{cite web |url=http://www.radiomontecarlo.net/news/principato-di-monaco/245894/il-golden-foot-2018-e-edinson-cavani.html |title=Il Golden Foot 2018 è Edinson Cavani |date=2 November 2018 |publisher=www.radiomontecarlo.net |language=it |access-date=6 December 2018 }}</ref>
+{{Clear}}
+
+== See also ==
+* [[List of footballers who won the UEFA Champions League with more than one club]]
+* [[List of footballers with 100 or more UEFA Champions League appearances]]
+* [[List of people named in the Panama Papers]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category}}
+* [http://www.seedorf.com Clarence Seedorf official website]
+* [https://www.acmilan.com/en/club/legends/players/seedorf Profile] at the AC Milan website
+* [https://www.realmadrid.com/en-US/the-club/history/football-legends/clarence-seedorf Profile] at the Real Madrid CF website
+* [https://www.onsoranje.nl/teams/185184/speler/7570 Profile] at the Royal Dutch Football Association website (in Dutch)
+* {{Wereld van Oranje|1093}}
+* {{FIFA player}}
+* {{UEFA player}}
+
+{{SC Corinthians Paulista squad}}
+{{Campeonato Brasileiro Série A managers}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{AC Milan managers}}
+{{Shenzhen F.C. managers}}
+{{Deportivo de La Coruña managers}}
+{{Cameroon national football team managers}}
+{{SC Corinthians Paulista managers}}
+}}
+{{Navboxes
+| title = International tournaments
+| list1 = 
+{{Netherlands squad UEFA Euro 1996}}
+{{Netherlands squad 1998 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2000}}
+{{Netherlands squad UEFA Euro 2004}}
+{{Cameroon squad 2019 Africa Cup of Nations}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = black
+| list1 = 
+{{2002 UEFA Team of the Year}}
+{{2007 UEFA Team of the Year}}
+{{2013 Bola de Prata}}
+{{UEFA Club Football Awards}}
+{{Dutch Football Talent of the Year}}
+{{FIFA 100}}
+{{Golden Foot Legends Award}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Seedorf, Clarence}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Seedorf family|Clarence]]
+[[Category:Footballers from Paramaribo]]
+[[Category:Footballers from Almere]]
+[[Category:Dutch men's footballers]]
+[[Category:Dutch football managers]]
+[[Category:Netherlands men's international footballers]]
+[[Category:Surinamese men's footballers]]
+[[Category:Surinamese football managers]]
+[[Category:Surinamese emigrants to the Netherlands]]
+[[Category:Men's association football midfielders]]
+[[Category:AFC Ajax players]]
+[[Category:UC Sampdoria players]]
+[[Category:Real Madrid CF players]]
+[[Category:Inter Milan players]]
+[[Category:AC Milan players]]
+[[Category:Botafogo FR players]]
+[[Category:Eredivisie players]]
+[[Category:Serie A players]]
+[[Category:La Liga players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Euro 1996 players]]
+[[Category:1998 FIFA World Cup players]]
+[[Category:UEFA Euro 2000 players]]
+[[Category:UEFA Euro 2004 players]]
+[[Category:FIFA 100]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Surinamese expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in Italy]]
+[[Category:Dutch expatriate sportspeople in Spain]]
+[[Category:Dutch expatriate sportspeople in Brazil]]
+[[Category:Dutch Muslims]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Brazil]]
+[[Category:AC Milan managers]]
+[[Category:Shenzhen F.C. managers]]
+[[Category:Deportivo de A Coruña managers]]
+[[Category:Cameroon national football team managers]]
+[[Category:SC Corinthians Paulista managers]]
+[[Category:Serie A managers]]
+[[Category:China League One managers]]
+[[Category:La Liga managers]]
+[[Category:Campeonato Brasileiro Série A managers]]
+[[Category:2019 Africa Cup of Nations managers]]
+[[Category:Dutch expatriate football managers]]
+[[Category:Dutch expatriate sportspeople in China]]
+[[Category:Dutch expatriate sportspeople in Cameroon]]
+[[Category:Expatriate football managers in Italy]]
+[[Category:Expatriate football managers in China]]
+[[Category:Expatriate football managers in Spain]]
+[[Category:Expatriate football managers in Cameroon]]
+[[Category:Expatriate football managers in Brazil]]
+[[Category:Knights of the Order of Orange-Nassau]]
+[[Category:Honorary Order of the Yellow Star]]
+[[Category:People named in the Panama Papers]]
+[[Category:Converts to Islam]]
+[[Category:Dutch people of Surinamese descent]]
+[[Category:Sportspeople of Surinamese descent]]
+[[Category:Association football people awarded knighthoods]]
+[[Category:20th-century Dutch sportsmen]]

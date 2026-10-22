@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ball No Ledge · Real Madrid, player by player</title>
-  <meta name="description" content="Who's who at Real Madrid: where every player came from, how they got here and where the ones who left went next.">
+  <meta name="description" content="Real Madrid since 2000, player by player: where every player came from, where they went, every season's results and this season's matches.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
@@ -24,8 +24,9 @@
       </a>
 
       <nav class="view-nav" aria-label="Sections">
-        <a class="nav-link" href="#squad" data-view="squad">Squad</a>
-        <a class="nav-link" href="#map" data-view="map">Career map</a>
+        <a class="nav-link" href="#squad" data-view="squad">Players</a>
+        <a class="nav-link" href="#seasons" data-view="seasons">Seasons</a>
+        <a class="nav-link" href="#map" data-view="map">Transfers</a>
         <a class="nav-link" href="#train" data-view="train">Learn</a>
         <a class="nav-link" href="#compare" data-view="compare">Compare</a>
       </nav>
@@ -39,7 +40,7 @@
       <div class="page-head">
         <div>
           <p class="kicker" id="squad-season"></p>
-          <h1 id="squad-title">The squad</h1>
+          <h1 id="squad-title">The players</h1>
         </div>
         <p class="page-intro" id="squad-intro"></p>
       </div>
@@ -62,6 +63,8 @@
               <option value="number">Shirt number</option>
               <option value="name">Name</option>
               <option value="debut">Year joined</option>
+              <option value="apps">Most games</option>
+              <option value="goals">Most goals</option>
               <option value="trophies">Trophies with Madrid</option>
             </select>
           </label>
@@ -78,47 +81,69 @@
         <div class="segmented" role="group" aria-label="Status">
           <button type="button" class="seg-btn is-active" data-status="all">Everyone</button>
           <button type="button" class="seg-btn" data-status="active">First team</button>
-          <button type="button" class="seg-btn" data-status="departed">Former players</button>
           <button type="button" class="seg-btn" data-status="legend">Legends</button>
+          <button type="button" class="seg-btn" data-status="departed">Former players</button>
         </div>
       </div>
 
-      <p class="result-count" id="result-count" aria-live="polite"></p>
+      <div class="result-bar">
+        <p class="result-count" id="result-count" aria-live="polite"></p>
+        <div class="segmented segmented-small" role="group" aria-label="Layout">
+          <button type="button" class="seg-btn is-active" data-layout="cards">Cards</button>
+          <button type="button" class="seg-btn" data-layout="table">Table</button>
+        </div>
+      </div>
       <div id="squad-grid"></div>
     </section>
 
-    <!-- Career map -->
+    <!-- Seasons -->
+    <section id="view-seasons" class="view" aria-labelledby="seasons-title" hidden>
+      <div class="page-head">
+        <div>
+          <p class="kicker" id="seasons-kicker"></p>
+          <h1 id="seasons-title">Seasons</h1>
+        </div>
+        <p class="page-intro" id="seasons-intro"></p>
+      </div>
+      <div id="season-now"></div>
+      <div id="season-history"></div>
+    </section>
+
+    <!-- Transfers -->
     <section id="view-map" class="view" aria-labelledby="map-title" hidden>
       <div class="page-head">
         <div>
           <p class="kicker">Where they came from, where they went</p>
-          <h1 id="map-title">Career map</h1>
+          <h1 id="map-title">Transfer map</h1>
         </div>
-        <p class="page-intro">Every player is linked to their country, the club Madrid signed them from and, for those who left, where they went next. Drag to move around, scroll or pinch to zoom, tap a player to open their profile.</p>
+        <p class="page-intro">Every player with 40 or more games since 2000, traced from the country Madrid signed them from to where they went next. Thicker bands mean more players. Tap a country or band to see who.</p>
       </div>
 
-      <div class="map-frame" id="map-container">
-        <div class="map-toolbar">
-          <div class="segmented segmented-small" role="group" aria-label="Show on map">
-            <button type="button" class="seg-btn is-active" data-map-filter="all">Everyone</button>
-            <button type="button" class="seg-btn" data-map-filter="active">First team</button>
-            <button type="button" class="seg-btn" data-map-filter="departed">Former</button>
-            <button type="button" class="seg-btn" data-map-filter="legend">Legends</button>
-          </div>
-          <div class="map-zoom">
-            <button type="button" class="icon-btn" id="map-zoom-in" aria-label="Zoom in">+</button>
-            <button type="button" class="icon-btn" id="map-zoom-out" aria-label="Zoom out">&minus;</button>
-            <button type="button" class="text-btn" id="map-reset">Reset</button>
-          </div>
+      <div class="routes-controls">
+        <div class="segmented segmented-small" role="group" aria-label="Joined">
+          <button type="button" class="seg-btn is-active" data-era="all">All years</button>
+          <button type="button" class="seg-btn" data-era="2000">Joined 2000s</button>
+          <button type="button" class="seg-btn" data-era="2010">2010s</button>
+          <button type="button" class="seg-btn" data-era="2020">2020s</button>
         </div>
-        <canvas id="lineage-canvas" aria-label="Network of players, countries and clubs"></canvas>
-        <ul class="map-key">
-          <li><span class="key-dot key-player"></span>Player</li>
-          <li><span class="key-dot key-nation"></span>Country</li>
-          <li><span class="key-dot key-feeder"></span>Signed from</li>
-          <li><span class="key-dot key-dest"></span>Went to</li>
-        </ul>
+        <div class="segmented segmented-small" role="group" aria-label="Position">
+          <button type="button" class="seg-btn is-active" data-route-pos="all">All</button>
+          <button type="button" class="seg-btn" data-route-pos="goalkeeper">GK</button>
+          <button type="button" class="seg-btn" data-route-pos="defender">DEF</button>
+          <button type="button" class="seg-btn" data-route-pos="midfielder">MID</button>
+          <button type="button" class="seg-btn" data-route-pos="forward">FWD</button>
+        </div>
+        <label class="search search-small">
+          <span class="visually-hidden">Find a player on the map</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input type="search" id="route-search" placeholder="Find a player" list="route-players" autocomplete="off">
+          <datalist id="route-players"></datalist>
+        </label>
       </div>
+
+      <div class="routes-summary" id="routes-summary"></div>
+      <div class="routes-frame" id="routes-frame"></div>
+      <div class="routes-panel" id="routes-panel" aria-live="polite"></div>
     </section>
 
     <!-- Learn -->
@@ -226,10 +251,15 @@
       <button type="button" role="tab" class="tab" data-tab="records" aria-selected="false">Stories</button>
     </div>
     <div class="drawer-body" id="drawer-body" role="tabpanel"></div>
+    <p class="drawer-credit" id="drawer-credit"></p>
   </aside>
 
   <script src="js/data.js"></script>
-  <script src="js/mindmap.js"></script>
+  <script src="js/history.js"></script>
+  <script src="js/clubs.js"></script>
+  <script src="js/season.js"></script>
+  <script src="js/players.js"></script>
+  <script src="js/routes.js"></script>
   <script src="js/quiz.js"></script>
   <script src="js/app.js"></script>
 </body>

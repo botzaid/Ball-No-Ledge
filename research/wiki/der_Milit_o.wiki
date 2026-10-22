@@ -1,0 +1,288 @@
+<!-- Éder Militão | revision 2026-10-18T21:10:13Z -->
+{{short description|Brazilian footballer (born 1998)}}
+{{Portuguese name|Militão|Pinheiro}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox football biography
+| name = Éder Militão
+| image = Eder Militao 2021.jpg
+| caption = Militão in 2021
+| full_name = Éder Gabriel Militão Pinheiro<ref>{{cite web |url=https://editorial.uefa.com/resources/0292-1c34f8d42cb6-ebb24aeefc64-1000/ucl_bookinglist_before_lp_md4.pdf |title=UEFA Champions League 2024/2025: Booking List before League Phase Matchday 4 |publisher=UEFA |page=1 |date=10 September 2024 |accessdate=3 November 2024}}</ref>
+| birth_date = {{birth date and age|1998|1|18|df=y}}
+| birth_place = [[Sertãozinho]], São Paulo, Brazil
+| height = 1.86 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/eder-gabriel-militao|title=Éder Militão |publisher=Real Madrid CF |access-date=11 July 2019}}</ref>
+| position = [[Centre-back]]
+| currentclub = [[Real Madrid CF|Real Madrid]]
+| clubnumber = 3
+| youthyears1 = 2010–2017
+| youthclubs1 = [[São Paulo FC (youth)|São Paulo]]
+| years1 = 2017–2018
+| clubs1 = [[São Paulo FC|São Paulo]]
+| caps1 = 49
+| goals1 = 5
+| years2 = 2018–2019
+| clubs2 = [[FC Porto|Porto]]
+| caps2 = 29
+| goals2 = 3
+| years3 = 2019–
+| clubs3 = [[Real Madrid CF|Real Madrid]]
+| caps3 = 135
+| goals3 = 10
+| nationalyears1 = 2015
+| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2018–
+| nationalteam2 = [[Brazil national football team|Brazil]]
+| nationalcaps2 = 38
+| nationalgoals2 = 2
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|BRA}}}}
+{{Medal|Competition|[[Copa América]]}}
+{{Medal|W|[[2019 Copa América|2019 Brazil]]|}}
+{{Medal|RU|[[2021 Copa América|2021 Brazil]]|}}
+| club-update = 21:10, 18 October 2026 (UTC)
+| nationalteam-update = 23:09, 18 November 2025 (UTC)
+}}
+'''Éder Gabriel Militão Pinheiro''' ({{IPA|pt-BR|ˈɛdeʁ miliˈtɐ̃w̃|lang}}; born 18 January 1998) is a Brazilian professional [[Association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
+
+Militão began his career at [[São Paulo FC|São Paulo]], playing 57 matches over a span of two years before transferring to [[FC Porto|Porto]]. In 2019, after one season in Portugal, he joined Real Madrid for a reported transfer fee of €50&nbsp;million, where he has since won three La Liga and two [[UEFA Champions League]] titles.
+
+Militão made his senior international debut for [[Brazil national football team|Brazil]] in 2018. He was part of their squads that won the [[Copa América]] in [[2019 Copa América|2019]] and came runners-up in [[2021 Copa América|2021]], also playing at the [[2022 FIFA World Cup]] and the [[2024 Copa América]].
+
+==Club career==
+===São Paulo===
+Born in [[Sertãozinho]], Militão began playing for [[São Paulo FC|São Paulo]] youth squads in 2010. He started in the first team for the 2016 [[Copa Paulista]], and debuted on 2 July in a 2–1 loss at [[Ituano FC|Ituano]]; the team from the state capital was playing in the tournament for its first time, with an U20 team.<ref>{{cite news |title=Com time sub-20, São Paulo estreia na Copa Paulista contra o Ituano, em Itu |trans-title=With an under-20 team, São Paulo debuts in the Copa Paulista against Ituano, in Itu|url=http://globoesporte.globo.com/sp/sorocaba/futebol/noticia/2016/07/com-time-sub-20-sao-paulo-estreia-na-copa-paulista-contra-o-ituano-em-itu.html |accessdate=16 October 2018 |publisher=Globo |date=2 July 2016 |language=Portuguese}}</ref> He played eleven matches and scored two goals, the first being in a 4–0 home win over [[Clube Atlético Juventus|Juventus]] on 18 September that ensured qualification to the second round.<ref>{{cite news |title=São Paulo 4&nbsp;×&nbsp;0 Juventus – Tricolor goleia e garante vaga na próxima fase|trans-title=São Paulo 4–0 Juventus – ''Tricolor'' thrashes and guarantees progress to next phase |url=https://www.futebolinterior.com.br/futebol/Copa-Paulista/Unica/2016/noticias/2016-09/Sao-Paulo-4-x-0-Juventus---Tricolor-goleia-e-garante-vaga-na-2-fase |accessdate=16 October 2018 |publisher=Futebol Interior |date=18 September 2016 |language=Portuguese}}</ref>
+
+Militão made his professional debut on 14 May 2017 in a 1–0 loss away to [[Cruzeiro Esporte Clube|Cruzeiro]], the opening match for the [[2017 Campeonato Brasileiro Série A]].<ref name=pro_debut>{{cite web|url=http://www.espn.com.br/noticia/695661_polivalente-eder-militao-comemora-estreia-pelo-sao-paulo|title=Polivalente, Éder Militão comemora estreia pelo São Paulo|work=ESPN |trans-title=Versatile Eder Militão celebrates his debut for São Paulo |publisher=ESPN Brasil|language=Portuguese|date=17 May 2017|accessdate=25 July 2018}}</ref> He made 22 appearances over the season as the club finished in 13th place, and was sent off on 12 November towards the end of a 1–1 draw at [[Clube de Regatas Vasco da Gama|Vasco da Gama]].<ref>{{cite news |title=São Paulo e Vasco da Gama ficam no 1 a 1 em empate ruim para ambos|trans-title=São Paulo and Vasco da Gama end 1–1 in a disappointing draw for both|url=https://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2017/11/12/vasco-da-gama-x-sao-paulo.htm |accessdate=16 October 2018 |publisher=UOL |date=12 November 2017 |language=Portuguese}}</ref> He contributed two goals over the campaign, starting by opening a 2–1 win at fellow strugglers [[Esporte Clube Vitória|Vitória]] on 17 September.<ref>{{cite news |title=Em duelo contra o rebaixamento, São Paulo vence o Vitória em Salvador e respira|trans-title=In a fight against relegation, São Paulo defeated Vitória in Salvador and breathe again |url=http://globoesporte.globo.com/ba/futebol/brasileirao-serie-a/jogo/17-09-2017/vitoria-sao-paulo/ |accessdate=16 October 2018 |publisher=Globo |date=17 September 2018 |language=Portuguese}}</ref>
+
+Militão made his last appearance for the club on 5 August 2018 when the ''Tricolor'' defeated Vasco 2–1 to reach first place in [[2018 Campeonato Brasileiro Série A|the year's national tournament]].<ref>{{cite news |last1=Canônico |first1=Leandro |title=Negociado com o Porto, Militão se despede; São Paulo lamenta saída precoce|trans-title=Signed by Porto, Militão says farewell; São Paulo lament untimely exit |url=https://globoesporte.globo.com/futebol/times/sao-paulo/noticia/negociado-com-o-porto-militao-se-despede-sao-paulo-lamenta-saida-precoce.ghtml |accessdate=16 October 2018 |publisher=Globo |date=5 August 2018 |language=Portuguese}}</ref>
+
+===Porto===
+[[File:Éder_Militão.jpg|thumb|left|upright|Militão playing for [[FC Porto|Porto]] in 2018]]
+
+On 7 August 2018, Militão signed a five-year contract with Portuguese defending champions [[FC Porto|Porto]].<ref>{{cite web|url=https://www.dn.pt/desportos/interior/fc-porto-oficializa-militao-que-admite-estar-feliz-por-estar-num-clube-vencedor-9691668.html|title=Militão feliz por estar "num clube vencedor"|trans-title=Militão happy to be "in a winning club"|work=[[Diário de Notícias]]|language=Portuguese|date=7 August 2018|accessdate=7 August 2018}}</ref> He made his [[Primeira Liga]] debut on 2 September, starting in a 3–0 home win over [[Moreirense F.C.|Moreirense]] and assisting Porto's first goal, scored by captain [[Héctor Herrera]].<ref>{{cite news|url=https://www.dn.pt/desportos/interior/eder-militao-em-estreia-no-fc-porto-frente-ao-moreirense-9793185.html|last1=Nogueira|first1=Carlos|title=Dragões marcaram cedo e depois tiveram medo dos seus fantasmas|trans-title=Dragons scored early and then were afraid of the ghosts of their past|work=Diário de Notícias|language=Portuguese|date=2 September 2018|accessdate=16 October 2018}}</ref> Over succeeding fixtures, Militão quickly cemented himself in the starting 11 as a [[centre-back]], forming a defensive partnership with teammate [[Felipe (footballer, born 1989)|Felipe]].<ref>{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/felipe-militao-absorve-tudo-muito-rapido|title=Felipe: "Militão absorve tudo muito rápido"|trans-title=Felipe: "Militão absorbs everything very fast"|work=[[Record (Portuguese newspaper)|Record]]|language=Portuguese|date=26 October 2018|accessdate=20 December 2018}}</ref>
+
+On 28 November, Militão scored his first goal for the club in a 3–1 home victory against [[FC Schalke 04|Schalke 04]] for the [[2018–19 UEFA Champions League group stage#Group D|2018–19 UEFA Champions League group stage]], heading the ball after a cross from [[Óliver Torres|Óliver]].<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/newsid=2584624.html|archive-url=https://web.archive.org/web/20181224022259/https://www.uefa.com/uefachampionsleague/news/newsid=2584624.html|url-status=dead|archive-date=24 December 2018|last1=Tavares|first1=Nuno|title=Porto brilha e sela apuramento|trans-title=Porto shines and seals clearance|publisher=[[UEFA]]|language=Portuguese|date=28 November 2018|accessdate=20 December 2018}}</ref> On 3 January 2019, Militão scored his first league goal, the match's only at [[C.D. Aves|Desportivo das Aves]].<ref>{{cite news|url=https://www.tsf.pt/desporto/interior/soares-regressa-ao-onze-do-fc-porto-na-visita-ao-desportivo-das-aves-10393298.html|last1=Teles|first1=Gonçalo|title=Valeu, Militão. FC Porto isola-se ainda mais no primeiro lugar do campeonato|trans-title=Thanks, Militão. FC Porto isolates even more in the first place of the championship|publisher=[[TSF (radio station)|TSF]]|language=Portuguese|date=3 January 2019|accessdate=4 January 2019}}</ref> He was named Primeira Liga's defender of the month on four consecutive occasions from September 2018 to January 2019.<ref name=fourth>{{cite web|url=https://www.ligaportugal.pt/pt/epocas/20182019/noticias/geral/premios/melhores-de-janeiro-joao-felix-e-pedro-henrique-em-destaque/|title=Melhores de janeiro: João Félix e Pedro Henrique em destaque|trans-title=Best of January: João Félix and Pedro Henrique highlighted|publisher=Liga Portugal|language=Portuguese|date=12 February 2019|access-date=28 February 2019}}</ref>
+
+===Real Madrid===
+====2019–2021====
+[[File:Éder Militão Real Madrid 2019.jpg|thumb|upright|Militão with [[Real Madrid CF|Real Madrid]] in 2019]]
+
+On 14 March 2019, [[La Liga]] club [[Real Madrid CF|Real Madrid]] announced that they had signed Militão to a six-year contract effective from 1 July 2019, after paying a €50&nbsp;million transfer fee to Porto.<ref>{{cite web |date=14 March 2019 |title=Official Announcement: Militão |url=https://www.realmadrid.com/en/news/2019/03/official-announcement-militao |url-status=dead |archive-url=https://web.archive.org/web/20230521111623/https://www.realmadrid.com/en/news/2019/03/official-announcement-militao |archive-date=21 May 2023 |accessdate=14 March 2019 |publisher=[[Real Madrid C.F.]]}}</ref> He made his debut on 14 September, coming on as a substitute for [[Sergio Ramos]] for the last half-hour in a 3–2 home victory over [[Levante UD|Levante]].<ref>{{Cite news|url=https://www.marca.com/en/football/real-madrid/2019/09/14/5d7cfe19268e3e1f5c8b45da.html|title=Militao makes his debut with Real Madrid's backs against the wall|work=Marca|date=14 September 2019|access-date=14 September 2019}}</ref> He made 15 appearances during the league season as Real Madrid won the [[2019–20 La Liga]].<ref name=Liga>{{cite web|url=https://www.marca.com/en/football/real-madrid/2020/07/17/5f10db2146163f3c2c8b45d7.html|title=Real Madrid win the longest LaLiga Santander season|date=17 July 2020|accessdate=17 July 2020|website=Marca}}</ref>
+
+Militão scored his debut goal for Madrid on 20 January 2021, heading in [[Marcelo (footballer, born 1988)|Marcelo]]'s cross to open a [[Copa del Rey]] last 32 match away to third-tier [[CD Alcoyano|Alcoyano]]; his team unexpectedly lost, 2–1.<ref>{{cite news |date=21 January 2021 |title=Real Madrid stunned by Alcoyano in Copa Del Rey – European round-up |publisher=Sky Sports |url=https://www.skysports.com/football/alcoyano-vs-r-madrid/440545 |url-status=live |access-date=22 January 2021 |archive-url=https://web.archive.org/web/20230630045841/https://www.skysports.com/football/alcoyano-vs-r-madrid/440545 |archive-date=30 June 2023}}</ref> His debut league goal came on 1 May in a 2–0 win over [[CA Osasuna|Osasuna]].<ref>{{cite web |date=2 May 2021 |title=Real Madrid win to keep pace in La Liga race |url=https://www.espn.in/football/report/_/gameId/581870 |url-status=live |archive-url=https://web.archive.org/web/20230630052113/https://www.espn.in/football/report/_/gameId/581870 |archive-date=30 June 2023 |access-date=23 May 2022 |publisher=ESPN}}</ref>
+
+==== 2021–2022: UEFA Champions League winner ====
+In [[2021–22 La Liga|2021–22]], Militão finally became a regular after the exits of veterans [[Sergio Ramos]] and [[Raphaël Varane]] from the Madrid defence. He partnered Austrian import [[David Alaba]], under the management of [[Carlo Ancelotti]].<ref>{{cite news |last1=Winterburn |first1=Chris |title=Alaba-Militao erase the memory of Ramos-Varane in just 100 days |url=https://www.marca.com/en/football/real-madrid/2021/12/06/61ae53a0268e3e68748b4586.html |access-date=24 May 2022 |work=Marca |date=6 December 2021}}</ref> He scored once in their league-winning campaign, securing a 2–2 home draw with [[Elche CF|Elche]] on 23 January.<ref>{{cite news |title=Militao rescues a point for Real Madrid at home to Elche |url=https://www.marca.com/en/football/spanish-football/liga/2022/01/23/61ed92d646163ff6748b457f.html |access-date=24 May 2022 |work=Marca |date=23 January 2022}}</ref> Days earlier, the team won the [[Supercopa de España]] with a [[2022 Supercopa de España Final|2–0 final win]] over [[Athletic Bilbao]] in Saudi Arabia, though he was sent off for giving away a penalty through handball.<ref name=super>{{cite news |title=Eder Militao gets suspension after red card during Super Cup final |url=https://www.football-espana.net/2022/01/19/eder-militao-red-super-suspension |access-date=24 May 2022 |publisher=Football España |date=19 January 2022}}</ref> He made 12 appearances in their victorious Champions League campaign, including the 1–0 final win over [[Liverpool F.C.|Liverpool]] at the [[Stade de France]].<ref>{{Cite web |last= |date=28 May 2022 |title=Liverpool-Real Madrid: UEFA Champions League 2021/22 Final |url=https://www.uefa.com/uefachampionsleague/match/2034586--liverpool-vs-real-madrid/ |url-status=live |archive-url=https://web.archive.org/web/20221028194905/https://www.uefa.com/uefachampionsleague/match/2034586/ |archive-date=28 October 2022 |access-date= |website=UEFA}}</ref><ref name=champ>{{cite news |last1=Carvalho |first1=Fabrício |title=Real Madrid vence Liverpool com gol de Vinícius Júnior e conquista sua 14ª Champions League|trans-title=Real Madrid defeat Liverpool with goal by Vinícius Junior and conquer their 14th Champions League |url=https://www.torcedores.com/noticias/2022/05/real-madrid-vence-liverpool-gol-vinicius-junior-conquista-14-champions-league |access-date=28 May 2022 |publisher=Torcedores |date=28 May 2022 |language=Portuguese}}</ref>
+
+==== 2022–2023: Major trophies ====
+During the 2022–23 season, Militão was a part of the squad won several tournaments. In the [[2022 FIFA Club World Cup final]], held on 11 February 2023, Real Madrid won 5–3 against [[Al Hilal SFC|Al Hilal]]. Nine days later against Liverpool at [[Anfield]] during the [[2022–23 UEFA Champions League knockout phase|knockout phase]] first-leg clash, Militão headed a goal as his team overcame a 2–0 deficit to win 5–2.<ref>{{Cite news |date=21 February 2023 |title=Liverpool thrashed by Real Madrid at Anfield |work=BBC Sport |url=https://www.bbc.com/sport/football/64708314 |access-date=13 December 2023}}</ref> This match was notable for Real Madrid's impressive performance, overturning a 2–0 deficit to secure a 5–2 victory over Liverpool.<ref>{{Cite web |last= |date=21 February 2023 |title=Liverpool-Real Madrid: UEFA Champions League 2022/23 Round of 16 |url=https://www.uefa.com/uefachampionsleague/match/2036586--liverpool-vs-real-madrid/ |access-date=13 December 2023 |website=UEFA }}</ref> On 6 May, Real Madrid won the [[Copa del Rey]] by defeating Osasuna 2–1 in the [[2023 Copa del Rey final|final]], which took place at the [[Estadio de La Cartuja]].<ref>{{Cite web |date=6 May 2023 |title=Real Madrid 2–1 Osasuna (May 6, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/668069 |access-date=13 December 2023 |website=ESPN }}</ref> On 10 August, in the [[UEFA Super Cup]], Real Madrid won against [[Eintracht Frankfurt]] at the [[Helsinki Olympic Stadium]], a 2–0 victory [[2022 UEFA Super Cup|title]].<ref>{{Cite web |last= |date=10 August 2022 |title=Real Madrid 2–0 Eintracht Frankfurt: Five-star Madrid triumph in Helsinki |url=https://www.uefa.com/uefasupercup/news/0278-15d6268709ab-38bef8ec34df-1000--real-madrid-2-0-eintracht-frankfurt-five-star-madrid-triu/ |access-date=13 December 2023 |website=UEFA }}</ref>
+
+==== 2023–2024: Injuries and contract extension ====
+On 12 August 2023, Militão suffered a [[Anterior cruciate ligament injury|torn Anterior cruciate ligament]] (ACL) in his left knee during the first La Liga game of the season against Athletic Bilbao.<ref>{{Cite web |date=13 August 2023 |title=Militão medical report |url=https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/militao-medical-report-13-08-2023 |url-status=live |archive-url=https://web.archive.org/web/20231213055439/https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/militao-medical-report-13-08-2023/ |archive-date=13 December 2023 |access-date=13 December 2023 |publisher=Real Madrid C.F.}}</ref> This injury led to him being sidelined for the [[2023–24 La Liga|entire season]], with a recovery period estimated at nine months.<ref>{{Cite news |date=13 August 2023 |title=Real's Militao joins Courtois in injuring ACL |work=BBC Sport |url=https://www.bbc.com/sport/football/66491071 |access-date=13 December 2023}}</ref><ref>{{Cite web |date=17 August 2023 |title=Militão latest medical report |url=https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/militao-latest-medical-report-17-08-2023 |access-date=13 December 2023 |publisher=Real Madrid CF}}</ref>
+
+On 23 January 2024, Militão signed a new contract, running until 2028.<ref>{{cite news |date=23 January 2024 |title=Official Announcement: Militão renews until 2028 |url=https://www.realmadrid.com/en-US/news/football/first-team/personalities/comunicado-oficial-militao-renovado-hasta-2028-23-01-2024 |archive-url=https://web.archive.org/web/20240203191036/https://www.realmadrid.com/en-US/news/football/first-team/personalities/comunicado-oficial-militao-renovado-hasta-2028-23-01-2024 |archive-date=3 February 2024 |access-date=23 January 2024 |publisher=Real Madrid CF}}</ref> His contract gave him a pay raise, as well as adding a €1 billion release clause, the maximum allowed under La Liga regulation.<ref>{{Cite web |last=Cortegana |first=Mario |date=23 January 2024 |title=Eder Militao signs new Real Madrid contract until 2028 |url=https://www.nytimes.com/athletic/5051174/2024/01/23/eder-militao-real-madrid-contract/ |archive-url=https://web.archive.org/web/20240206024644/https://theathletic.com/5051174/2024/01/23/eder-militao-real-madrid-contract/ |archive-date=6 February 2024 |access-date=23 January 2024 |url-status=live |publisher=[[The Athletic]]}}</ref> Later that year, on 9 November, he sustained an ACL rupture along with damaged [[Meniscus (anatomy)|meniscuses]] in his right leg which would sideline him for the rest of the 2024–25 season.<ref>{{cite web |last=Brennan |first=Feargal |url=https://www.football-espana.net/2024/11/09/real-season-ending-injury-eder-militao |title=Real confirm season-ending injury for Eder Militao |publisher=Football España |date=9 November 2024 }}</ref>
+
+==International career==
+[[File:2019 Final da Copa América 2019 - 48226654072.jpg|thumb|Militão (number 14) shakes hands with [[President of Brazil]] [[Jair Bolsonaro]] and President of [[CONMEBOL]] [[Alejandro Domínguez (football executive)|Alejandro Domínguez]] after winning the [[2019 Copa América]]]]
+
+In September 2018, Militão was called up by coach [[Tite (football manager)|Tite]] for [[Brazil national football team|Brazil]]'s friendlies in the United States against [[United States men's national soccer team|the hosts]] and [[El Salvador national football team|El Salvador]] after [[Fagner Conserva Lemos|Fagner]] withdrew with injury.<ref>{{cite news |title=Eder Militao joins Brazil squad |url=http://www.goal.com/en-ke/news/eder-militao-joins-brazil-squad/1f11qylzxsjkq1wt7qybqkgop5 |access-date=16 October 2018 |publisher=Goal.com |date=3 September 2018}}</ref> He made his debut on 11 September against the Salvadorans at [[FedExField]], playing the full 90 minutes of a 5–0 win.<ref>{{cite news |title=Brasil goleia El Salvador na estreia de Felipe e Éder Militão|trans-title=Brazil thrash El Salvador on Felipe and Éder Militão's debut|url=https://desporto.sapo.pt/futebol/amigaveis-selecoes/artigos/brasil-goleia-el-salvador-na-estreia-de-felipe-e-eder-militao|access-date=16 October 2018|publisher=Sapo|date=12 September 2018|language=Portuguese}}</ref>
+
+In May 2019, Militão was included in Brazil's 23-man squad for the [[2019 Copa América]].<ref>{{cite web |url=https://www.football-italia.net/138152/brazil-name-copa-america-squad |title=Brazil name Copa America squad |publisher=Football Italia |date=17 May 2019 |access-date=21 May 2019 }}</ref> In the [[2019 Copa América Final|final]] against [[Peru national football team|Peru]] on 7 July, held at the [[Maracanã Stadium]], he made a substitute appearance, coming on for [[Philippe Coutinho]] in the second half as his team won, 3–1.<ref>{{cite news |url=https://www.theguardian.com/football/live/2019/jul/06/copa-america-final-brazil-peru-live |title=Brazil 3–1 Peru |work=The Guardian |last1=Smyth |first1=Rob |date=7 July 2019 |access-date=8 July 2019 }}</ref>
+
+Militão was named for the [[2021 Copa América]], again on home soil.<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/selecao-brasileira-e-convocada-para-a-copa-america-2021|title=Tite define convocados da Seleção Brasileira para a Copa América 2021|trans-title=Tite names Brazilian national team squad for the 2021 Copa América|publisher=[[Brazilian Football Confederation]]|date=9 June 2021|access-date=9 June 2021|language=pt}}</ref> He started three group games, and in the last one against [[Ecuador national football team|Ecuador]] in [[Goiânia]] on 27 June, he scored his first international goal to open a 1–1 draw.<ref name=ecuador/> In the knockout rounds, as Brazil made the final, his spot next to [[Marquinhos]] was taken by [[Thiago Silva]].<ref>{{cite news |last1=Anand |first1=Abhinav |title=Copa America 2021: Team of the tournament |url=https://www.sportskeeda.com/football/copa-america-2021-team-tournament-messi-neymar/2 |access-date=24 May 2022 |publisher=Sportskeeda |date=11 July 2021}}</ref>
+
+On 7 November 2022, Militão was named in the squad for the [[2022 FIFA World Cup]].<ref>{{cite web|title=Seleção Brasileira está convocada para a Copa do Mundo FIFA Qatar 2022|trans-title=Brazilian national team is selected for the Qatar 2022 FIFA World Cup|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/selecao-brasileira-esta-convocada-para-a-copa-do-mundo-fifa-qatar-2022|publisher=[[Brazilian Football Confederation|CBF]]|access-date=7 November 2022|date=7 November 2022|language=pt}}</ref> Unused in the opener against [[Serbia national football team|Serbia]], he played at right-back in place of the injured [[Danilo (footballer, born July 1991)|Danilo]] in the 1–0 win over [[Switzerland national football team|Switzerland]] in the second group game,<ref>{{cite news |last1=Kallas |first1=Fernando |last2=O'Connor |first2=Philip |title=Fred and Militao named in Brazil team to play Switzerland |url=https://www.reuters.com/lifestyle/sports/fred-militao-named-brazil-team-play-switzerland-2022-11-28/ |access-date=20 January 2023 |publisher=Reuters |date=28 November 2022}}</ref> and retained his place for the rest of the run to the quarter-finals as the recovered Danilo was placed on the left flank.<ref>{{cite news |title=Brazil brush aside S. Korea 4–1 to reach World Cup quarters |url=https://www.dailysabah.com/sports/football/brazil-brush-aside-s-korea-4-1-to-reach-world-cup-quarters |access-date=20 January 2023 |work=Daily Sabah |date=6 December 2022}}</ref><ref>{{cite news |title=From dancing to desolation: Neymar's World Cup heartbreak with Brazil |url=https://www.telegraph.co.uk/football/2022/12/09/croatia-vs-brazil-world-cup-2022-live-score-quarter-final-neymar/ |access-date=20 January 2023 |work=The Daily Telegraph |date=10 December 2022}}</ref> With qualification already secured, he started in central defence alongside [[Gleison Bremer|Bremer]] in a 1–0 loss to [[Cameroon national football team|Cameroon]] in the last group game.<ref>{{cite news |title=Brazil to play reserve players against Cameroon |url=https://www.reuters.com/lifestyle/sports/brazil-play-reserve-players-against-cameroon-2022-12-02/ |access-date=20 January 2023 |publisher=Reuters |date=2 December 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 18 October 2026}}<ref>{{Soccerway|access-date=16 September 2025}}</ref><ref>{{cite web|url=https://www.sofascore.com/player/eder-militao/822519|title=Éder Militão|publisher=SofaScore|access-date=16 September 2025}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|State league{{efn|Includes [[Campeonato Paulista]]}}
+!colspan="2"|National cup{{efn|Includes [[Copa do Brasil]], [[Taça de Portugal]], [[Copa del Rey]]}}
+!colspan="2"|League cup{{efn|Includes [[Taça da Liga]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[São Paulo FC|São Paulo]]
+|[[2017 São Paulo FC season|2017]]
+|[[Campeonato Brasileiro Série A|Série A]]
+|22||2||0||0||colspan="2"|—|| colspan="2"|—||colspan="2"|—|| colspan="2"|—||22||2
+|-
+|[[2018 São Paulo FC season|2018]]
+|Série A
+|13||1||14||2||6||1||colspan="2"|—||2{{efn|name=CS|Appearances in [[Copa Sudamericana]]}}||0|| colspan="2"|—||35||2
+|-
+!colspan="2"|Total
+!35!!3!!14!!2!!6!!1!!0!!0!!2!!0!!0!!0!!57!!4
+|-
+|[[FC Porto|Porto]]
+|[[2018–19 FC Porto season|2018–19]]
+|[[Primeira Liga]]
+|29||3||colspan="2"|—||6||0||3||0||9{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||2||colspan="2"|—||47||5
+|-
+|rowspan="9"|[[Real Madrid CF|Real Madrid]]
+|[[2019–20 Real Madrid CF season|2019–20]]
+|[[La Liga]]
+|15||0||colspan="2"|—||2||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||20||0
+|-
+|[[2020–21 Real Madrid CF season|2020–21]]
+|La Liga
+|14||1||colspan="2"|—||1||1||colspan="2"|—||6{{efn|name=UCL}}||0||0||0||21||2
+|-
+|[[2021–22 Real Madrid CF season|2021–22]]
+|La Liga
+|34||1||colspan="2"|—||2||1||colspan="2"|—||12{{efn|name=UCL}}||0||2{{efn|Appearances in [[Supercopa de España]]}}||0||50||2
+|-
+|[[2022–23 Real Madrid CF season|2022–23]]
+|La Liga
+|33||5||colspan="2"|—||6||1||colspan="2"|—||9{{efn|name=UCL}}||1||3{{efn|One appearance in [[UEFA Super Cup]], two appearances in Supercopa de España}}||0||51||7
+|-
+|[[2023–24 Real Madrid CF season|2023–24]]
+|La Liga
+|10||0||colspan="2"|—||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||13||0
+|-
+|[[2024–25 Real Madrid CF season|2024–25]]
+|La Liga
+|12||1||colspan="2"|—||0||0||colspan="2"|—||4{{efn|name=UCL}}||0||2{{efn|One appearance in UEFA Super Cup, one appearance in [[FIFA Club World Cup]]}}||0||18||1
+|-
+|[[2025–26 Real Madrid CF season|2025–26]]
+|La Liga
+|16||2||colspan="2"|—||0||0||colspan="2"|—||5{{efn|name=UCL}}||0||0||0||21||2
+|-
+|[[2026–27 Real Madrid CF season|2026–27]]
+|La Liga
+|1||0||colspan="2"|—||0||0||colspan="2"|—||0||0||0||0||1||0
+|-
+!colspan="2"|Total
+!135||10||0||0||11||3||0||0||42||1||7||0||195||14
+|-
+!colspan="3"|Career total
+!199!!16!!14!!2!!23!!4!!3!!0!!53!!3!!7!!0!!299!!23
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2025}}<ref name="NFT">{{NFT|72011}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Brazil national football team|Brazil]]
+|2018||1||0
+|-
+|2019||7||0
+|-
+|2021||11||1
+|-
+|2022||8||0
+|-
+|2023||3||1
+|-
+|2024||5||0
+|-
+|2025||3||0
+|-
+!colspan="2"|Total!!38!!2
+|}
+
+{{updated|match played 18 November 2025}}
+:''Brazil score listed first, score column indicates score after each Militão goal''<ref name="NFT"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Éder Militão
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+| align=center | 1 || 27 June 2021 || [[Estádio Olímpico Pedro Ludovico]], Goiânia, Brazil || align=center | 13 || {{fb|ECU}} || align=center | 1–0 || align=center | 1–1 || [[2021 Copa América]] || align=center | <ref name=ecuador>{{cite web|date=27 June 2021|title=Brazil 1–1 Ecuador|url=https://www.bbc.com/sport/football/57633179|access-date=27 June 2021|work=BBC Sport}}</ref>
+|-
+| align=center | 2 || 17 June 2023 || [[RCDE Stadium]], Barcelona, Spain || align=center | 29 || {{fb|GUI}} || align=center | 3–1 || align=center | 4–1 || [[Friendly (association football)|Friendly]] || align=center | <ref>{{cite web|date=17 June 2023|title=Brazil 4–1 Guinea|url=https://www.bbc.com/sport/football/65941621|access-date=17 June 2023|work=BBC Sport}}</ref>
+|}
+
+==Honours==
+'''Real Madrid'''
+* [[La Liga]]: [[2019–20 La Liga|2019–20]],<ref name=Liga /> [[2021–22 La Liga|2021–22]],<ref>{{cite web |last=Westwood |first=James |date=30 April 2022 |title=Real Madrid clinch 35th La Liga title with four games to spare after victory over Espanyol |url=https://www.goal.com/en-us/news/real-madrid-35th-la-liga-title/bltb8dfbd27f32f5feb |access-date=30 April 2022 |website=Goal.com}}</ref> [[2023–24 La Liga|2023–24]]<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c0x05j54l8wo|title=Real Madrid crowned champions after Barca's defeat at Girona|website=BBC Sport|date=4 May 2024|access-date=4 May 2024}}</ref><ref>{{Cite web |title=El Real Madrid, campeón de LALIGA EA SPORTS |url=https://www.laliga.com/noticias/el-real-madrid-campeon-de-laliga-ea-sports |access-date=6 May 2024 |website=LALIGA |language=es}}</ref>
+* [[Copa del Rey]]: [[2022–23 Copa del Rey|2022–23]]<ref>{{cite web|title=Real Madrid 2–1 Osasuna: Rodrygo scores twice as Madrid win Copa del Rey |url=https://www.bbc.com/sport/football/65500297|publisher=BBC|date=6 May 2023|access-date=6 May 2023}}</ref>
+* [[Supercopa de España]]: [[2020 Supercopa de España|2020]],<ref>{{cite web|url=https://www.marca.com/en/football/real-madrid/cronica/2020/01/12/5e1b882ce2704e6d7a8b4598.html|title=Real Madrid win the Supercopa from the spot|date=12 January 2020|access-date=12 January 2020|website=Marca}}</ref> [[2022 Supercopa de España|2022]]<ref name=super/>
+* [[UEFA Champions League]]: [[2021–22 UEFA Champions League|2021–22]],<ref name=champ/> [[2023–24 UEFA Champions League|2023–24]]<ref>{{cite news|url=https://www.espn.co.uk/football/story/_/id/40257014/champions-league-real-madrid-beat-dortmund-15th-title|title=Champions League: Real Madrid beat Dortmund for 15th title|publisher=espn.co.uk|date=1 June 2024|access-date=1 June 2024}}</ref>
+* [[UEFA Super Cup]]: [[2022 UEFA Super Cup|2022]],<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0278-15d6268709ab-38bef8ec34df-1000--report-real-madrid-win-the-super-cup/ |title=Real Madrid 2–0 Eintracht Frankfurt: Five-star Madrid triumph in Helsinki |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 August 2022 |access-date=11 August 2022}}</ref> [[2024 UEFA Super Cup|2024]]<ref>{{cite web|url=https://www.bbc.com/sport/football/live/c77ljv4e5z5t|title=Real Madrid 2–0 Atalanta|publisher=BBC Sport|first=Steven|last=Sutcliffe|date=14 August 2024|access-date=15 August 2024}}</ref>
+* [[FIFA Club World Cup]]: [[2022 FIFA Club World Cup|2022]]<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/real-madrid-al-hilal-final-report-review-vinicius-junior-federico-valverde-club-world-cup-morocco-2022 |title=Vinicius and Valverde dazzle as five-star Madrid conquer |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref>
+
+'''Brazil'''
+* [[Copa América]]: [[2019 Copa América|2019]]<ref>{{cite web|url=https://www.publico.pt/2019/07/07/desporto/noticia/bresil-conquista-copa-america-1879089|first1=Augusto|last1=Bernardino|title=Brasil derrota Peru e conquista Copa América|trans-title=Brazil defeats Peru and conquers the Copa America|work=[[Público (Portugal)|Público]]|language=Portuguese|date=5 July 2019|access-date=8 July 2019}}</ref>
+* [[Superclásico de las Américas]]: [[2018 Superclásico de las Américas|2018]]<ref>{{cite web|url=https://globalsportsarchive.com/en/soccer/match/2018-10-16/brazil-vs-argentina/1455151|title=
+Brazil vs Argentina live score, lineups, live events, H2H and more|publisher=Global Sports Archive|language=English|access-date=23 April 2026}}</ref>
+
+'''Individual'''
+* Primeira Liga Team of the Year: [[2018–19 Primeira Liga#Annual awards|2018–19]]<ref>{{cite web|url=https://desporto.sapo.pt/futebol/primeira-liga/artigos/fc-porto-domina-no-onze-do-ano-da-primeira-liga|title=FC Porto domina Onze do Ano da Primeira Liga|trans-title=FC Porto dominates the Primeira Liga Team of the Year|publisher=SAPO|language=Portuguese|date=5 July 2019|access-date=8 July 2019}}</ref>
+* Primeira Liga Player Fair-Play Prize: [[2018–19 Primeira Liga#Annual awards|2018–19]]<ref>{{Cite web|url=https://www.ligaportugal.pt/pt/epocas/20192020/noticias/geral/kick-off-2019-20/vencedores-dos-premios-oficiais-da-liga-portugal-2018-2019/|title=Vencedores dos Prémios Oficiais da Liga Portugal 2018–19|trans-title=Liga Portugal Official Awards Winners 2018–19|publisher=Liga Portugal|language=Portuguese|date=5 July 2019|access-date=23 July 2019}}</ref>
+* La Liga Team of the Season: [[2021–22 La Liga|2021–22]],<ref>{{cite web|url=https://www.ea.com/games/fifa/fifa-22/ultimate-team/tots/laliga-santander|title=LaLiga Santader Team of the Season|website=EA|date=19 May 2022|access-date=21 August 2022}}</ref> [[2022–23 La Liga|2022–23]]<ref>{{cite news|title=Los Premios 'Team Of The Season' de EA SPORTSTM y LaLiga revelan a los mejores 15 jugadores de la temporada |trans-title=The EA SPORTSTM and LaLiga 'Team Of The Season' Awards reveal the best 15 players of the season|url=https://www.laliga.com/noticias/los-premios-team-of-the-season-de-ea-sportstm-y-laliga-revelan-a-los-mejores-15-jugadores-de-la-temporada|date=19 May 2023|access-date=21 May 2023|publisher=LaLiga}}</ref>
+* [[European Sports Media|ESM Team of the Season]]: 2022–23<ref>{{Cite web |last=Evans |first=Jamie |date=1 August 2023 |title=ESM Team of the 2022–23 Season |url=https://www.worldsoccer.com/world-soccer-latest/esm-team-of-the-2022-23-season-414771 |access-date=9 September 2023 |website=World Soccer |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.realmadrid.com/en/football/squad/eder-gabriel-militao Éder Militão] at the Real Madrid CF website
+* [https://www.laliga.com/en-GB/player/e-militao Éder Militão] at the La Liga website
+* {{ForaDeJogo|199801180012}}
+* {{Soccerway|425510}}
+
+{{Real Madrid CF squad}}
+{{Navboxes
+| title = Brazil squads
+| bg = #FEDF00
+| fg = #009B3A
+| bordercolor = #002776
+| list1 =
+{{Brazil squad 2019 Copa América}}
+{{Brazil squad 2021 Copa América}}
+{{Brazil squad 2022 FIFA World Cup}}
+{{Brazil squad 2024 Copa América}}
+}}
+
+{{DEFAULTSORT:Militao, Eder}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Sertãozinho]]
+[[Category:Footballers from São Paulo (state)]]
+[[Category:Brazilian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:São Paulo FC players]]
+[[Category:FC Porto players]]
+[[Category:Real Madrid CF players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Primeira Liga players]]
+[[Category:La Liga players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:Brazil men's youth international footballers]]
+[[Category:Brazil men's international footballers]]
+[[Category:2019 Copa América players]]
+[[Category:2021 Copa América players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:Copa América–winning players]]
+[[Category:Brazilian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Brazilian expatriate sportspeople in Portugal]]
+[[Category:Brazilian expatriate sportspeople in Spain]]
+[[Category:21st-century Brazilian sportsmen]]
+[[Category:Afro-Brazilian sportspeople]]
