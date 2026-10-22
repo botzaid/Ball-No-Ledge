@@ -1,12 +1,11 @@
 name: YouTube lookup
 
-# One-off research: finds official uploads for the stadium radio and checks
-# they can be embedded. Writes research/youtube.jsonl.
+# Checks that the stadium radio's YouTube videos exist and allow embedding. Writes research/youtube.jsonl.
 on:
   workflow_dispatch:
   push:
     paths:
-      - tools/youtube_queries.txt
+      - tools/youtube_ids.txt
       - tools/youtube_lookup.sh
 
 permissions:
@@ -21,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install yt-dlp
       - run: tools/youtube_lookup.sh
       - name: Commit
         run: |
