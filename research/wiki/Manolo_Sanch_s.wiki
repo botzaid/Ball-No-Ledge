@@ -1,0 +1,224 @@
+<!-- Manolo Sanchís | revision 2026-10-22T05:18:37Z -->
+{{short description|Spanish footballer}}
+{{family name hatnote|Sanchís|Hontiyuelo|lang=Spanish}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox football biography
+ | name = Manolo Sanchís
+ | image = Manuel Sanchís Hontiyuelo.jpg
+ | caption = Sanchís in 2009
+ | full_name = Manuel Sanchís Hontiyuelo<ref name=Bio>{{WorldFootball.net|sanchis}}</ref>
+ | birth_date = {{birth date and age|1965|5|23|df=yes}}<ref name=Bio/>
+ | birth_place = [[Madrid]], Spain
+ | height = 1.77 m<ref name=Bio/>
+ | position = [[Sweeper (association football)|Sweeper]]
+ | current_club =
+ | youth_years1 = 1979–1983
+ | youth_clubs1 = [[Real Madrid CF (youth)|Real Madrid]]
+ | years1 = 1983–1984
+ | clubs1 = [[Real Madrid Castilla|Castilla]]
+ | caps1 = 10
+ | goals1 = 2
+ | years2 = 1983–2001
+ | clubs2 = [[Real Madrid CF|Real Madrid]]
+ | caps2 = 523
+ | goals2 = 33
+ | total_caps = 533
+ | total_goals = 35
+ | national_years1 = 1983
+ | national_team1 = [[Spain national under-18 football team|Spain U18]]
+ | national_caps1 = 6
+ | national_goals1 = 1
+ | national_years2 = 1983–1986
+ | national_team2 = [[Spain national under-21 football team|Spain U21]]
+ | national_caps2 = 16
+ | national_goals2 = 0
+ | national_years3 = 1986–1987
+ | national_team3 = [[Spain national under-23 football team|Spain U23]]
+ | national_caps3 = 2
+ | national_goals3 = 0
+ | national_years4 = 1986–1992
+ | national_team4 = [[Spain national football team|Spain]]
+ | national_caps4 = 48
+ | national_goals4 = 1
+ | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{ESP}}}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|W|[[1986 UEFA European Under-21 Championship|1986]]|}}
+}}
+'''Manuel Sanchís Hontiyuelo''' ({{IPA|es|maˈnolo sanˈtʃis}}; born 23 May 1965) is a Spanish former professional [[association football|footballer]] who played as a [[sweeper (association football)|sweeper]].
+
+A part of the famous ''[[La Quinta del Buitre]]'' which stemmed from the [[Real Madrid CF|Real Madrid]] youth academy, he was the only one of its five members to spend his [[List of one-club men in association football|entire career]] with the club. His father [[Manuel Sanchís]] also played for Real Madrid, and both were [[Spain national football team|Spanish internationals]].<ref>{{cite news|url=http://www.mundodeportivo.com/20090529/los-busquets-hacen-historia_53711968607.html|title=Los Busquets hacen historia|trans-title=The Busquets make history|newspaper=[[Mundo Deportivo]]|language=es|date=29 May 2009|access-date=8 May 2017}}</ref><ref>{{cite news|url=https://www.elmundo.es/blogs/deportes/libredirecto/2013/03/23/la-quinta-entra-en-los-50.html|title=La Quinta entra en los 50|trans-title=The Cohort hits 50|newspaper=[[El Mundo (Spain)|El Mundo]]|first=Orfeo|last=Suárez|language=es|date=23 March 2013|access-date=5 October 2019}}</ref>
+
+Sanchís appeared in more than 700 competitive matches for his only club, and represented the national team in one [[FIFA World Cup|World Cup]] and one [[UEFA European Championship|European Championship]].
+
+==Club career==
+A product of [[Real Madrid CF|Real Madrid]]'s prolific youth system, [[Madrid]]-born Sanchís made his debut with the first team on 4 December 1983, scoring the only goal at [[Real Murcia CF]] and finishing his [[1983–84 La Liga|debut campaign]] with a further 17 appearances (and two goals) for the main squad.<ref>{{cite news|url=https://as.com/futbol/2008/12/05/mas_futbol/1228462063_850215.html|title="Cambiamos la ideología del fútbol español"|trans-title="We changed the ideology of Spanish football"|newspaper=[[Diario AS]]|first=Enrique|last=Ortego|language=es|date=5 December 2008|access-date=24 July 2026}}</ref>
+
+Sanchís only appeared in less than 30 matches in two of the following 15 seasons, and was instrumental in the team's several conquests, including six [[La Liga]] championships, two [[UEFA Champions League]]s and two [[UEFA Europa League|UEFA Cups]]. In [[1999–2000 La Liga|1999–2000]] he featured sparingly, but still helped them to their [[1999–2000 UEFA Champions League|eighth European Cup]], playing 11 minutes in [[2000 UEFA Champions League final|the final]] against fellow Spanish side [[Valencia CF]] in a 3–0 win.<ref>{{cite web|url=https://www.rsssf.org/players/realmadrid-in-ec.html|title=Real Madrid CF – All the players in European Cups|publisher=[[RSSSF]]|first=Emilio|last=Pla Díaz|access-date=6 May 2014}}</ref><ref>{{cite news|url=https://www.theguardian.com/football/2000/may/24/championsleague.sport1|title=Real Madrid 3–0 Valencia|newspaper=[[The Guardian]]|date=24 May 2000|access-date=29 June 2016}}</ref>
+
+Sanchís retired in 2001 at the age of 36, having played 710 official games for his only club – 523 of those in the league – while also [[Captain (association football)|captaining]] it for 13 years.<ref>{{cite news|url=https://www.lavanguardia.com/deportes/20171207/433474069953/ramos-entra-entre-los-diez-jugadores-con-mas-partidos-con-el-real-madrid.html|title=Ramos entra entre los diez jugadores con más partidos con el Real Madrid|trans-title=Ramos joins ten players with more matches with Real Madrid|newspaper=[[La Vanguardia]]|language=es|date=7 December 2017|access-date=4 June 2019}}</ref>
+
+==International career==
+After excelling with the [[Spain national under-21 football team|Spanish under-21s]], with which he won the [[1986 UEFA European Under-21 Championship|1986 UEFA European Championship]],<ref name=MD>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1986/10/30/pagina-3/1144661/pdf.html|title=¡¡¡Campeones!!!|trans-title=Champions!!!|newspaper=Mundo Deportivo|first=Francesc|last=Perearnau|language=es|date=30 October 1986|access-date=5 June 2014}}</ref> Sanchís made his [[Spain national football team|senior]] debut on 12 November of that year in a [[UEFA Euro 1988]] [[UEFA Euro 1988 qualifying|qualifier]] against [[Romania national football team|Romania]] (1–0 win).<ref name=AS>{{cite news|url=https://as.com/futbol/2020/05/01/reportajes/1588284569_032666.html|title=La 'Quinta del Buitre', de héroes a villanos|trans-title=The 'Vulture's Cohort', from heroes to villains|newspaper=Diario AS|first=Enrique|last=Ortego|language=es|date=1 May 2020|access-date=15 May 2023}}</ref> He went on to earn 48 full [[Cap (sport)|caps]], appearing at both Euro 1988 and the [[1990 FIFA World Cup]].<ref name=AS/>
+
+Sanchís scored his only international goal on 14 October 1987, Spain's second in a 2–0 home victory over [[Austria national football team|Austria]] also in a Euro 1988 qualifying match.<ref>{{cite news|url=https://as.com/futbol/2021/05/19/reportajes/1621435397_252332.html|title=España no necesitó repetir la gesta de Malta|trans-title=Spain did not to repeat the Malta exploit|newspaper=Diario AS|language=es|date=19 May 2021|access-date=20 October 2025}}</ref><ref>{{cite web|url=https://www.rsssf.org/miscellaneous/sanchis-intl.html|title=Manuel Sanchís – International Matches|publisher=RSSSF|first=Emilio|last=Pla Díaz|access-date=9 September 2025}}</ref> His last game, aged 27, was a 2–0 [[Exhibition game#International football|friendly]] defeat of the [[United States men's national soccer team|United States]] on 11 March 1992.<ref name=AS/>
+
+==Style of play==
+As a [[central defender]], Sanchís stood out for his defensive composure, placement and agility. He set a new standard within his club due to both his sporting and human skills.<ref name=RM>{{cite web|url=https://www.realmadrid.com/en/about-real-madrid/history/football-legends/manuel-sanchis-hontiyuelo|title=The saga continues|publisher=Real Madrid CF|access-date=27 November 2018}}</ref> An aggressive yet fair player,<ref>{{cite web|url=https://bleacherreport.com/articles/2229937-real-madrid-vs-barcelona-all-time-clasico-40-best-players|title=Real Madrid vs. Barcelona: All-Time Clasico 40 Best Players|publisher=[[Bleacher Report]]|first=Karl|last=Matchett|date=23 October 2014|access-date=21 February 2021}}</ref> he was also noted for his leadership, tactical intelligence, reading of the game and positional sense in addition to his passing, and usually played as a sweeper.<ref>{{cite web|url=https://www.espn.in/football/story/_/id/37444243/is-sergio-ramos-leader-real-madrid-need-be|title=Is captain Sergio Ramos the on-field leader Real Madrid need him to be?|publisher=[[ESPN]]|first=Eduardo|last=Alvarez|date=31 March 2016|access-date=16 June 2026}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/gallery/where-are-they-now-real-madrids-1998-champions-league-winners|title=Where are they now? Real Madrid's 1998 Champions League winners|publisher=[[FourFourTwo]]|first=Paul|last=Sarahs|date=24 May 2018|access-date=21 February 2021}}</ref><ref>{{cite web|url=https://www.sportskeeda.com/football/top-5-greatest-real-madrid-captains-of-all-time-sstl|title=Top 5 greatest Real Madrid captains of all time|publisher=Sportskeeda|first=Ninad|last=Singh|date=24 October 2018|access-date=16 June 2026}}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition<ref>{{cite web|url=https://www.elaguanis.com/jugadores-a.html?id=14974|title=Manuel Sanchís {{sic|nolink=y|Montiyuelo}}|publisher=El Aguanis|language=es|access-date=3 July 2019}}</ref><ref>{{BDFutbol|1851}}</ref>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Copa del Rey]]
+!colspan="2"|[[Copa de la Liga]]
+!colspan="2"|[[UEFA|Europe]]{{efn|Appearances [[UEFA Champions League]], [[UEFA Cup]], and [[UEFA Cup Winners' Cup]]}}
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+|-
+|[[Real Madrid Castilla|Castilla]]||[[1983–84 Segunda División|1983–84]]||[[Segunda División]]||10||2||0||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||10||2
+|-
+|rowspan="19"|[[Real Madrid CF|Real Madrid]]||[[1983–84 Real Madrid CF season|1983–84]]||rowspan="18"|[[La Liga]]||18||3||0||0||2||0||colspan="2"|–||colspan="2"|–||20||3
+|-
+|[[1984–85 Real Madrid CF season|1984–85]]||30||4||1||0||6||0||10||1||colspan="2"|–||47||1
+|-
+|[[1985–86 Real Madrid CF season|1985–86]]||28||1||6||2||colspan="2"|–||7||0||colspan="2"|–||41||3
+|-
+|[[1986–87 Real Madrid CF season|1986–87]]||36||2||6||0||colspan="2"|–||7||1||colspan="2"|–||49||3
+|-
+|[[1987–88 Real Madrid CF season|1987–88]]||33||9||8||0||colspan="2"|–||8||1||colspan="2"|–||49||10
+|-
+|[[1988–89 Real Madrid CF season|1988–89]]||33||3||9||0||colspan="2"|–||7||0||2<ref group="lower-alpha" name="SDE">Appearances in [[Supercopa de España]]</ref>||0||51||3
+|-
+|[[1989–90 Real Madrid CF season|1989–90]]||34||3||7||0||colspan="2"|–||4||0||colspan="2"|–||45||3
+|-
+|[[1990–91 Real Madrid CF season|1990–91]]||31||2||2||0||colspan="2"|–||1||0||2<ref group="lower-alpha" name="SDE">Appearances in [[Supercopa de España]]</ref>||0||36||2
+|-
+|[[1991–92 Real Madrid CF season|1991–92]]||37||1||6||1||colspan="2"|–||9||1||colspan="2"|–||52||3
+|-
+|[[1992–93 Real Madrid CF season|1992–93]]||37||1||6||0||colspan="2"|–||6||0||colspan="2"|–||49||1
+|-
+|[[1993–94 Real Madrid CF season|1993–94]]||32||1||4||0||colspan="2"|–||6||0||2<ref group="lower-alpha" name="SDE">Appearances in [[Supercopa de España]]</ref>||0||44||1
+|-
+|[[1994–95 Real Madrid CF season|1994–95]]||37||1||2||0||colspan="2"|–||3||0||colspan="2"|–||42||1
+|-
+|[[1995–96 Real Madrid CF season|1995–96]]||32||1||2||0||colspan="2"|–||6||0||1<ref group="lower-alpha" name="SDE">Appearances in [[Supercopa de España]]</ref>||0||41||1
+|-
+|[[1996–97 Real Madrid CF season|1996–97]]||22||0||0||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||22||0
+|-
+|[[1997–98 Real Madrid CF season|1997–98]]||31||1||1||0||colspan="2"|–||10||0||2<ref group="lower-alpha" name="SDE">Appearances in [[Supercopa de España]]</ref>||0||44||1
+|-
+|[[1998–99 Real Madrid CF season|1998–99]]||33||0||4||0||colspan="2"|–||7||0||1<ref group="lower-alpha" name="US">Appearances in [[UEFA Super Cup]]</ref> + 1<ref group="lower-alpha" name="IC">Appearances in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]</ref>||0||46||0
+|-
+|[[1999–2000 Real Madrid CF season|1999–00]]||14||0||2||0||colspan="2"|–||5||0||2<ref group="lower-alpha" name="IC">Appearances in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]</ref>||0||23||0
+|-
+|[[2000–01 Real Madrid CF season|2000–01]]||5||0||1||0||colspan="2"|–||3||0||colspan="2"|–||9||0
+|-
+!colspan="2"|Total
+!523||33||67||3||8||0||99||4||13||0||710||40
+|-
+!colspan="3"|Career total
+!533||35||67||3||8||0||99||4||13||0||720||42
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{EU-Football.info|18406}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Spain national football team|Spain]]
+|1986||2||0
+|-
+|1987||6||1
+|-
+|1988||12||0
+|-
+|1989||7||0
+|-
+|1990||11||0
+|-
+|1991||7||0
+|-
+|1992||3||0
+|-
+!colspan="2"|Total||48||1
+|}
+
+==Honours==
+'''Real Madrid Castilla'''
+*[[Segunda División]]: [[1983–84 Segunda División|1983–84]]<ref>{{cite news|url=https://www.elconfidencial.com/deportes/futbol/2022-10-01/real-madrid-amancio-presidente-de-honor-gento_3499314/|title="Yo tenía valentía". La historia de Amancio, el nuevo presidente de honor del Real Madrid|trans-title="I was brave". The story of Amancio, Real Madrid's new honorary president|newspaper=[[El Confidencial]]|first=Ulises|last=Sánchez-Flor|language=es|date=1 October 2022|access-date=15 May 2023}}</ref>
+
+'''Real Madrid'''
+*[[La Liga]]: [[1985–86 La Liga|1985–86]], [[1986–87 La Liga|1986–87]], [[1987–88 La Liga|1987–88]], [[1988–89 La Liga|1988–89]], [[1989–90 La Liga|1989–90]], [[1994–95 La Liga|1994–95]], [[1996–97 La Liga|1996–97]], [[2000–01 La Liga|2000–01]]<ref name=RM/>
+*[[Copa del Rey]]: [[1988–89 Copa del Rey|1988–89]], [[1992–93 Copa del Rey|1992–93]]<ref name=RM/>
+*[[Copa de la Liga]]: [[1985 Copa de la Liga|1985]]<ref name=RM/>
+*[[Supercopa de España]]: [[1988 Supercopa de España|1988]], 1989, [[1990 Supercopa de España|1990]], [[1993 Supercopa de España|1993]], [[1997 Supercopa de España|1997]]<ref name=RM/>
+*[[UEFA Champions League]]: [[1997–98 UEFA Champions League|1997–98]], [[1999–2000 UEFA Champions League|1999–2000]]<ref name=RM/>
+*[[UEFA Europa League|UEFA Cup]]: [[1984–85 UEFA Cup|1984–85]], [[1985–86 UEFA Cup|1985–86]]<ref name=RM/>
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: [[1998 Intercontinental Cup|1998]]<ref name=RM/>
+
+'''Spain'''
+*[[UEFA European Under-21 Championship]]: [[1986 UEFA European Under-21 Championship|1986]];<ref name=MD/> runner-up: [[1984 UEFA European Under-21 Championship|1984]]<ref>{{cite web|url=https://www.uefa.com/under21/match/71709--england-vs-spain/|title=England 2–0 Spain|publisher=UEFA|access-date=1 July 2025}}</ref>
+
+'''Individual'''
+*Spanish Footballer of the Year ([[El País]]): 1989–90<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/spanpoy.html|title=Spain – Footballer of the Year|publisher=RSSSF|first=Emilio|last=Pla Díaz|access-date=4 June 2019}}</ref>
+
+==See also==
+*[[List of La Liga players]] (400+ appearances)
+*[[List of one-club men in association football]]
+*[[List of Real Madrid CF records and statistics]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|1851}}
+*{{NFT player|14180}}
+*{{FIFA player|44598}}
+
+{{Navboxes
+|title=Spain squads
+|bg=#db000d
+|fg=#fbea0e
+|list1=
+{{Spain squad UEFA Euro 1988}}
+{{Spain squad 1990 FIFA World Cup}}
+}}
+{{European U21 Championship Golden Player}}
+
+{{DEFAULTSORT:Sanchis, Manolo}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:20th-century Spanish sportsmen]]
+[[Category:Spanish men's footballers]]
+[[Category:Footballers from Madrid]]
+[[Category:Men's association football central defenders]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Real Madrid Castilla footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Europa League–winning players]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's under-23 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:UEFA Euro 1988 players]]
+[[Category:1990 FIFA World Cup players]]
+[[Category:Spanish football commentators]]
