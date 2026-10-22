@@ -29,6 +29,12 @@ FACE_Y = 0.40
 # Photos where the detector picks the wrong thing: (x, y, w, h) in source pixels.
 OVERRIDES = {
     'benzema.jpg': (88, 18, 84, 84),  # detector latches on to his hand
+    # Action shots where the face is too small for the default detector settings
+    'carvalho.jpg': (157, 126, 129, 129),
+    'ceballos.jpg': (139, 109, 130, 130),
+    'mariano.jpg': (80, 42, 66, 66),
+    'helguera.jpg': (98, 12, 48, 48),
+    'van-der-vaart.jpg': (330, 58, 52, 52),
 }
 
 cascades = [cv2.CascadeClassifier(cv2.data.haarcascades + name) for name in (

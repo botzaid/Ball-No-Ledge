@@ -84,7 +84,10 @@ def commons_info(filename):
 
 
 def main():
-    manifest = {k: v for k, v in json.load(open(MANIFEST, encoding='utf-8')).items() if not k.startswith('_')}
+    raw = json.load(open(MANIFEST, encoding='utf-8'))
+    manifest = {k: v for k, v in raw.items() if not k.startswith('_')}
+    # Players whose Wikidata item has no image but Commons has a suitable free file
+    pinned = raw.get('_files', {})
     credits = json.load(open(CREDITS, encoding='utf-8')) if os.path.exists(CREDITS) else {}
     missing = []
     for pid, title in manifest.items():
@@ -92,9 +95,9 @@ def main():
         if os.path.exists(out):
             continue
         try:
-            p18, lead = wikidata_image(title)
+            p18, lead = (None, None) if pid in pinned else wikidata_image(title)
             info = None
-            for candidate in (p18, lead):
+            for candidate in (pinned.get(pid), p18, lead):
                 if candidate and not candidate.lower().endswith(('.svg', '.gif')):
                     info = commons_info(candidate)
                     if info:
