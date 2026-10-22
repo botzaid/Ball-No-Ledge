@@ -1,16 +1,15 @@
-// Real Madrid Player Lineage & Lore Dataset
-// Exhaustive information: Lineage, Debut, Matches, Peak Performances, Records, Facts, and Galleries.
+// Real Madrid player dataset: career route, debut, big games, records and stories.
 
 const RM_PLAYERS = [
   {
     id: "mbappe",
     name: "Kylian Mbappé",
     fullName: "Kylian Mbappé Lottin",
-    number: 9,
+    number: 10,
     position: "Forward",
     category: "forward",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "France",
     countryCode: "FR",
@@ -22,7 +21,7 @@ const RM_PLAYERS = [
     joinedRealMadrid: "2024",
     transferFee: "Free Transfer (Signing Bonus)",
     photo: "images/players/mbappe.jpg",
-    bio: "One of the most lethal and electrifying forwards in world football. After years of speculation, the French superstar fulfilled his childhood dream by joining Real Madrid in the summer of 2024.",
+    bio: "Took over the No. 10 from Luka Modrić in summer 2025. One of the most lethal and electrifying forwards in world football. After years of speculation, the French superstar fulfilled his childhood dream by joining Real Madrid in the summer of 2024.",
     quote: "A dream come true. Nobody can understand how excited I am right now. ¡Hala Madrid!",
     madridDebut: {
       date: "August 14, 2024",
@@ -129,16 +128,6 @@ const RM_PLAYERS = [
       "At age 14, Zinedine Zidane personally drove Kylian around Madrid's training ground in a car to convince him to join.",
       "His mother Fayza Lamari was a professional handball player in the French first division.",
       "His trademark celebration (folding arms under armpits) was invented by his younger brother Ethan while playing FIFA on PlayStation."
-    ],
-    gallery: [
-      {
-        url: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
-        caption: "Santiago Bernabéu stadium under the lights, home of Real Madrid"
-      },
-      {
-        url: "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=800&q=80",
-        caption: "UEFA Champions League nights in Madrid"
-      }
     ]
   },
   {
@@ -149,7 +138,7 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "forward",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Brazil",
     countryCode: "BR",
@@ -266,12 +255,6 @@ const RM_PLAYERS = [
       "His family was so poor when he was starting out in Rio that his uncle Ulisses drove him on a moped across the city because they couldn't afford bus fare.",
       "His relationship with Karim Benzema transformed from a difficult viral tunnel moment in 2020 into one of the deadliest striking duos in European history in 2021-22.",
       "He is a global ambassador for anti-racism in sports, leading UNESCO and FIFA campaigns."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vinicius_Junior_2021.jpg/440px-Vinicius_Junior_2021.jpg",
-        caption: "Vinícius Júnior wearing the iconic Real Madrid jersey"
-      }
     ]
   },
   {
@@ -282,7 +265,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "England",
     countryCode: "GB",
@@ -398,12 +381,6 @@ const RM_PLAYERS = [
       "His father Mark was a police sergeant and legendary non-league striker who scored over 700 amateur goals.",
       "Whenever he scores, the Bernabéu loudspeakers blast the Beatles classic 'Hey Jude', with 80,000 Madridistas singing along.",
       "His younger brother Jobe Bellingham also plays professional football in England."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jude_Bellingham_2024.jpg/440px-Jude_Bellingham_2024.jpg",
-        caption: "Jude Bellingham celebrating with open arms"
-      }
     ]
   },
   {
@@ -414,7 +391,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Uruguay",
     countryCode: "UY",
@@ -531,12 +508,6 @@ const RM_PLAYERS = [
       "His original nickname was 'El Pajarito' (Little Bird), but he asked fans to call him 'El Halcón' (The Falcon) because he felt he had grown stronger and fiercer.",
       "At the Cibeles celebrations in June 2024, Toni Kroos took the microphone and personally announced that Valverde would inherit his sacred shirt number 8.",
       "Diego Simeone famously praised Valverde after the 2020 Supercopa, saying: 'It was the most important play of the match. Anyone would have done the same in his position.'"
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Federico_Valverde_2021.jpg/440px-Federico_Valverde_2021.jpg",
-        caption: "Federico Valverde in Madrid white"
-      }
     ]
   },
   {
@@ -546,9 +517,12 @@ const RM_PLAYERS = [
     number: 10,
     position: "Midfielder",
     category: "midfielder",
-    status: "active",
-    statusLabel: "Current Squad (Captain)",
-    currentClub: "Real Madrid",
+    status: "departed",
+    statusLabel: "Left in 2025",
+    departureDetails: "Played his last games for Madrid at the 2025 Club World Cup after 13 seasons, then joined AC Milan on a free transfer. Signed a one-year extension at Milan in July 2026 that runs to June 2027.",
+    departureDestination: "AC Milan (Serie A)",
+    departureYear: "2025",
+    currentClub: "AC Milan (Italy)",
     nationality: "Croatia",
     countryCode: "HR",
     flag: "🇭🇷",
@@ -606,10 +580,19 @@ const RM_PLAYERS = [
         stage: "Eternal Legend & 6x UCL Champion",
         club: "Real Madrid",
         country: "Spain",
-        years: "2012–Present",
+        years: "2012–2025",
         badgeColor: "#e5b324",
         fee: "€35 Million",
         details: "Initially labeled 'Worst Signing of the Year' by Marca in Dec 2012; went on to win 6 Champions Leagues, the Ballon d'Or, and over 27 trophies."
+      },
+      {
+        stage: "Departure / Current Club",
+        club: "AC Milan",
+        country: "Italy",
+        years: "2025–Present",
+        badgeColor: "#b91c1c",
+        fee: "Free Transfer",
+        details: "Joined Milan after his Madrid contract ran out. 37 appearances and 2 goals in his first Serie A season; extended to June 2027."
       }
     ],
     stats: {
@@ -665,12 +648,6 @@ const RM_PLAYERS = [
       "In December 2012, Marca readers infamously voted him the 'Worst Signing of the Season' in La Liga.",
       "His iconic trivela pass is so natural that he says he feels more comfortable striking the ball with the outside of his right foot than with his left.",
       "He captained Croatia to the 2018 World Cup Final and the 2022 World Cup third place."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Luka_Modric_2018.jpg/440px-Luka_Modric_2018.jpg",
-        caption: "Luka Modrić with his Ballon d'Or year aura"
-      }
     ]
   },
   {
@@ -681,7 +658,7 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "forward",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Brazil",
     countryCode: "BR",
@@ -787,12 +764,6 @@ const RM_PLAYERS = [
       "Signed an endorsement contract with Nike at the age of 11, becoming the youngest athlete ever signed by Nike at the time (surpassing Neymar).",
       "He was originally nicknamed 'O Raio' (The Lightning Bolt) at Santos because of his rapid acceleration.",
       "Luka Modrić calls Rodrygo 'son' because Modrić is the same age as Rodrygo's father."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rodrygo_2021.jpg/440px-Rodrygo_2021.jpg",
-        caption: "Rodrygo Goes celebrating for Real Madrid"
-      }
     ]
   },
   {
@@ -803,7 +774,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "France",
     countryCode: "FR",
@@ -901,12 +872,6 @@ const RM_PLAYERS = [
       "He practiced judo for several years as a kid before focusing entirely on football, which he credits for his balance and flexibility in tackles.",
       "Known for his radiant smile, fashionable style, and infectious high energy in the Madrid locker room.",
       "Played left-back for several months in 2023 when Madrid suffered defensive injuries, excelling so much he started there in Champions League semi-finals."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eduardo_Camavinga_2022.jpg/440px-Eduardo_Camavinga_2022.jpg",
-        caption: "Eduardo Camavinga in action"
-      }
     ]
   },
   {
@@ -917,7 +882,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "France",
     countryCode: "FR",
@@ -1025,12 +990,6 @@ const RM_PLAYERS = [
       "Takes notes in a personal journal after every match and training session to review his positioning and decision-making.",
       "His father is a pharmacist and director of a vaccine production site, and his mother is an educational advisor.",
       "Kylian Mbappé actively tried to recruit him to PSG in 2022, but Tchouaméni told him his mind was already set on Real Madrid."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurelien_Tchouameni_2022.jpg/440px-Aurelien_Tchouameni_2022.jpg",
-        caption: "Aurélien Tchouaméni in midfield action"
-      }
     ]
   },
   {
@@ -1041,7 +1000,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Turkey",
     countryCode: "TR",
@@ -1135,23 +1094,17 @@ const RM_PLAYERS = [
       "Mesut Özil personally mentored Arda at Fenerbahçe and told Florentino Pérez: 'He is better than I was at that age.'",
       "His parents cried tears of joy at his Madrid unveiling presentation, and Arda gently wiped his mother's tears on stage.",
       "His favorite training routine is taking 50 free-kicks from outside the penalty box after regular sessions."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Arda_G%C3%BCler_2024.jpg/440px-Arda_G%C3%BCler_2024.jpg",
-        caption: "Arda Güler showcasing his technical quality"
-      }
     ]
   },
   {
     id: "endrick",
     name: "Endrick",
     fullName: "Endrick Felipe Moreira de Sousa",
-    number: 16,
+    number: 9,
     position: "Forward",
     category: "forward",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Brazil",
     countryCode: "BR",
@@ -1163,7 +1116,7 @@ const RM_PLAYERS = [
     joinedRealMadrid: "2024",
     transferFee: "€35 Million + €25M Add-ons",
     photo: "images/players/endrick.jpg",
-    bio: "Brazil's teenage phenomenon nicknamed 'Bobby' by Madrid teammates. An explosive, compact, powerhouse striker reminiscent of young Brazilian Ronaldo and Adriano. Debuted for Real Madrid in 2024 and scored on his La Liga and Champions League debuts.",
+    bio: "Moved from No. 16 to the No. 9 shirt for 2026-27. Brazil's teenage phenomenon nicknamed 'Bobby' by Madrid teammates. An explosive, compact, powerhouse striker reminiscent of young Brazilian Ronaldo and Adriano. Debuted for Real Madrid in 2024 and scored on his La Liga and Champions League debuts.",
     quote: "I always wanted to play here. God gave me this opportunity and I will give everything for the white shirt.",
     madridDebut: {
       date: "August 25, 2024",
@@ -1244,12 +1197,6 @@ const RM_PLAYERS = [
       "Teammates affectionately call him 'Bobby' because he named 1966 England World Cup hero Bobby Charlton as one of his football idols in an interview.",
       "His left quad circumference measures nearly 70 centimeters, giving him astonishing kicking power from standstill.",
       "He broke down in tears of gratitude during his official presentation at the Bernabéu next to Florentino Pérez."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Endrick_2023.jpg/440px-Endrick_2023.jpg",
-        caption: "Endrick representing Brazil"
-      }
     ]
   },
   {
@@ -1259,9 +1206,12 @@ const RM_PLAYERS = [
     number: 2,
     position: "Defender",
     category: "defender",
-    status: "active",
-    statusLabel: "Current Squad (Vice-Captain)",
-    currentClub: "Real Madrid",
+    status: "departed",
+    statusLabel: "Left in 2026",
+    departureDetails: "Left Real Madrid as a free agent in May 2026, after 13 seasons in the first team. Raúl Asencio took his No. 2 shirt. Signed for Getafe in October 2026, reportedly taking a big pay cut to stay in Madrid.",
+    departureDestination: "Getafe CF (La Liga)",
+    departureYear: "2026",
+    currentClub: "Getafe (Spain)",
     nationality: "Spain",
     countryCode: "ES",
     flag: "🇪🇸",
@@ -1318,10 +1268,19 @@ const RM_PLAYERS = [
         stage: "6x Champions League Kingpin",
         club: "Real Madrid",
         country: "Spain",
-        years: "2013–Present",
+        years: "2013–2026",
         badgeColor: "#e5b324",
         fee: "€6.5 Million",
         details: "Started and won 6 Champions League finals, won 4 La Liga titles, and scored the breakthrough header in the 2024 Wembley Final."
+      },
+      {
+        stage: "Departure / Current Club",
+        club: "Getafe CF",
+        country: "Spain",
+        years: "2026–Present",
+        badgeColor: "#1e40af",
+        fee: "Free Transfer",
+        details: "Signed on a free in October 2026 after leaving Madrid, staying in the city where he grew up."
       }
     ],
     stats: {
@@ -1367,12 +1326,6 @@ const RM_PLAYERS = [
       "On May 12, 2004, as a 12-year-old in Madrid's Infantil B team wearing a white kit, he laid the cornerstone of Ciudad Real Madrid alongside honorary president Alfredo Di Stéfano.",
       "His father is a member of the Spanish National Police equestrian escort and escorted the Real Madrid team bus to the Bernabéu during celebrations.",
       "He is married to Daphne Cañizares; her twin sister Melanie is married to former Madrid teammate Joselu Mato, making Carvajal and Joselu brothers-in-law!"
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Daniel_Carvajal_2018.jpg/440px-Daniel_Carvajal_2018.jpg",
-        caption: "Dani Carvajal in his Madrid gear"
-      }
     ]
   },
   {
@@ -1383,7 +1336,7 @@ const RM_PLAYERS = [
     position: "Defender",
     category: "defender",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Germany",
     countryCode: "DE",
@@ -1510,12 +1463,6 @@ const RM_PLAYERS = [
       "He funds surgeries for children with clubfoot in Sierra Leone through his charitable foundation and donated his entire 2022 World Cup earnings to the cause.",
       "Famous for his wild locker-room dancing, slap-celebrations with teammates, and eccentric mind-games on the pitch.",
       "His battle scars include 20 stitches across his forehead from the Shakhtar heroics in 2022."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Antonio_R%C3%BCdiger_2018.jpg/440px-Antonio_R%C3%BCdiger_2018.jpg",
-        caption: "Antonio Rüdiger's commanding presence"
-      }
     ]
   },
   {
@@ -1526,7 +1473,7 @@ const RM_PLAYERS = [
     position: "Goalkeeper",
     category: "goalkeeper",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Belgium",
     countryCode: "BE",
@@ -1644,12 +1591,6 @@ const RM_PLAYERS = [
       "His stunning header in the 95th minute against Valencia in Dec 2019 forced an assist for Karim Benzema to equalize 1-1.",
       "He speaks five languages fluently: Dutch, French, English, Spanish, and German.",
       "He is an avid sim racer and competed against Formula 1 drivers in virtual Grand Prix events during lockdowns."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Courtois_2018_%28cropped%29.jpg/440px-Courtois_2018_%28cropped%29.jpg",
-        caption: "Thibaut Courtois guarding the net"
-      }
     ]
   },
   {
@@ -1660,7 +1601,7 @@ const RM_PLAYERS = [
     position: "Goalkeeper",
     category: "goalkeeper",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Ukraine",
     countryCode: "UA",
@@ -1765,12 +1706,6 @@ const RM_PLAYERS = [
       "In the penalty shootout against Man City, he and goalkeeping coach Luis Llopis had studied that at least one City player would shoot down the middle; Lunin gambled on Bernardo Silva and stood rock-still.",
       "Got married in 2021 in a civil ceremony wearing a casual tracksuit because he had training that afternoon.",
       "Won the 2019 FIFA U-20 World Cup with Ukraine as starting goalkeeper."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Andriy_Lunin_2021.jpg/440px-Andriy_Lunin_2021.jpg",
-        caption: "Andriy Lunin between the posts"
-      }
     ]
   },
   {
@@ -1781,7 +1716,7 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "departed",
-    statusLabel: "Retired Legend (2024)",
+    statusLabel: "Retired in 2024",
     currentClub: "Retired (June 2024)",
     departureYear: "2024",
     departureDestination: "Retired after winning 15th UCL",
@@ -1900,12 +1835,6 @@ const RM_PLAYERS = [
       "His transfer from Bayern Munich in 2014 for only €25 million is considered by Bayern legend Karl-Heinz Rummenigge to be one of Bayern's biggest regrets.",
       "In his tearful Bernabéu farewell match against Real Betis in May 2024, his children ran onto the pitch to hug him, causing the usually stoic German to break down in tears.",
       "Now runs the Toni Kroos Academy in Madrid to train young boys and girls."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Toni_Kroos_2018.jpg/440px-Toni_Kroos_2018.jpg",
-        caption: "Toni Kroos, the German Maestro"
-      }
     ]
   },
   {
@@ -1916,7 +1845,7 @@ const RM_PLAYERS = [
     position: "Defender",
     category: "defender",
     status: "departed",
-    statusLabel: "Departed 2024 (To Saudi Arabia)",
+    statusLabel: "Left in 2024",
     currentClub: "Al-Qadsiah (Saudi Arabia)",
     departureYear: "2024",
     departureDestination: "Al-Qadsiah FC (Saudi Pro League)",
@@ -2016,12 +1945,6 @@ const RM_PLAYERS = [
       "His younger brother Álex Fernández is also a professional footballer who plays for Cádiz CF.",
       "Spent 23 consecutive years with Real Madrid, never leaving on loan or playing for any other club until age 34.",
       "He won UEFA Euro 2024 with Spain just weeks after winning the 2024 Champions League with Madrid."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nacho_Fernandez_2018.jpg/440px-Nacho_Fernandez_2018.jpg",
-        caption: "Nacho Fernández wearing the captain's armband"
-      }
     ]
   },
   {
@@ -2032,8 +1955,8 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "forward",
     status: "departed",
-    statusLabel: "Departed 2024 (To Qatar)",
-    currentClub: "Al-Gharafa SC (Qatar)",
+    statusLabel: "Left in 2024",
+    currentClub: "Left Al-Gharafa (2026)",
     departureYear: "2024",
     departureDestination: "Al-Gharafa SC (Qatar Stars League)",
     departureDetails: "After writing one of football's greatest fairy tales with his late 2-minute brace against Bayern Munich in the 2024 UCL semi-final, Real Madrid purchased him from Espanyol for €1.5M and facilitated his dream move to Qatar's Al-Gharafa.",
@@ -2102,7 +2025,7 @@ const RM_PLAYERS = [
         stage: "Departure / Current Club",
         club: "Al-Gharafa SC",
         country: "Qatar",
-        years: "2024–Present",
+        years: "2024–2026",
         badgeColor: "#ca8a04",
         fee: "€1.5 Million",
         details: "Signed a multi-year deal in Qatar after winning Euro 2024 with Spain."
@@ -2148,12 +2071,6 @@ const RM_PLAYERS = [
       "His wife Melanie Cañizares and Dani Carvajal's wife Daphne Cañizares are twin sisters.",
       "He was born in Stuttgart, Germany, and lived there until age 4 before his family returned to Galicia, Spain.",
       "Florentino Pérez helped facilitate his transfer to Qatar as a gesture of deep appreciation for his unforgettable service."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Joselu_2023.jpg/440px-Joselu_2023.jpg",
-        caption: "Joselu celebrating during the 2023-24 season"
-      }
     ]
   },
   {
@@ -2164,8 +2081,8 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "forward",
     status: "departed",
-    statusLabel: "Departed 2023 (To Saudi Arabia)",
-    currentClub: "Al-Ittihad (Saudi Arabia)",
+    statusLabel: "Left in 2023",
+    currentClub: "Free agent (left Al-Hilal, 2026)",
     departureYear: "2023",
     departureDestination: "Al-Ittihad Club (Saudi Pro League)",
     departureDetails: "Departed after 14 legendary seasons in June 2023 as the reigning Ballon d'Or winner and the second all-time top scorer in Real Madrid history. Scored in his final match against Athletic Club.",
@@ -2218,10 +2135,10 @@ const RM_PLAYERS = [
         stage: "Departure / Saudi League",
         club: "Al-Ittihad",
         country: "Saudi Arabia",
-        years: "2023–Present",
+        years: "2023–2026",
         badgeColor: "#eab308",
         fee: "Free Transfer",
-        details: "Signed a lucrative contract with Saudi champions Al-Ittihad in Jeddah."
+        details: "Won the Saudi Pro League with Al-Ittihad, then moved to Al-Hilal. That contract was ended early in 2026 and he is currently without a club."
       }
     ],
     stats: {
@@ -2277,12 +2194,6 @@ const RM_PLAYERS = [
       "He played with a wrapped right hand and wrist for over four years after breaking his little finger against Real Betis in 2019, delaying surgery because Madrid needed him on the pitch.",
       "Formed the legendary 'BBC' attacking trio alongside Gareth Bale and Cristiano Ronaldo, scoring hundreds of goals between 2013 and 2018.",
       "His 2021-22 campaign is widely regarded as one of the single greatest individual seasons in football history."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg/440px-Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg",
-        caption: "Karim Benzema in the 2021-22 Ballon d'Or season"
-      }
     ]
   },
   {
@@ -2293,8 +2204,8 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "midfielder",
     status: "departed",
-    statusLabel: "Departed 2022 (To Man United)",
-    currentClub: "Manchester United (England)",
+    statusLabel: "Left in 2022",
+    currentClub: "Free agent (left Manchester United, 2026)",
     departureYear: "2022",
     departureDestination: "Manchester United (Premier League)",
     departureDetails: "Departed in August 2022 for €70 million after winning his 5th Champions League in Paris. Bid an emotional, tear-filled farewell at the Santiago Bernabéu alongside Florentino Pérez.",
@@ -2358,10 +2269,10 @@ const RM_PLAYERS = [
         stage: "Departure / Premier League",
         club: "Manchester United",
         country: "England",
-        years: "2022–Present",
+        years: "2022–2026",
         badgeColor: "#b91c1c",
         fee: "€70 Million",
-        details: "Transferred to Old Trafford in summer 2022, winning the Carabao Cup and FA Cup."
+        details: "Transferred to Old Trafford in summer 2022, winning the Carabao Cup and FA Cup. Left when his contract expired in summer 2026."
       }
     ],
     stats: {
@@ -2407,12 +2318,6 @@ const RM_PLAYERS = [
       "His family couldn't afford a bed for him as a kid; when he first joined São Paulo's academy dorms, he said having his own bed and three meals a day felt like living in a palace.",
       "Carlo Ancelotti famously dubbed Casemiro, Kroos, and Modrić 'The Bermuda Triangle' because the ball would disappear into their midfield and never come out.",
       "In 2024, he became a co-owner of Spanish football club Marbella FC."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Casemiro_2018.jpg/440px-Casemiro_2018.jpg",
-        caption: "Casemiro fighting for the ball"
-      }
     ]
   },
   {
@@ -2423,7 +2328,7 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "legend",
     status: "legend",
-    statusLabel: "Eternal Club Legend",
+    statusLabel: "Club legend",
     currentClub: "Al Nassr (Saudi Arabia)",
     departureYear: "2018",
     departureDestination: "Juventus (€117M) -> Man United -> Al Nassr",
@@ -2555,12 +2460,6 @@ const RM_PLAYERS = [
       "He doesn't have any tattoos because he regularly donates blood and bone marrow.",
       "His vertical jump during headers was measured by sports scientists at 78 cm (higher than the average NBA basketball player).",
       "During his 9 years in Madrid, he scored against every single team he faced in La Liga."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/440px-Cristiano_Ronaldo_2018.jpg",
-        caption: "Cristiano Ronaldo, Madrid's all-time record goalscorer"
-      }
     ]
   },
   {
@@ -2571,8 +2470,8 @@ const RM_PLAYERS = [
     position: "Defender",
     category: "legend",
     status: "legend",
-    statusLabel: "Eternal Captain",
-    currentClub: "Free Agent (formerly Sevilla / PSG)",
+    statusLabel: "Club legend",
+    currentClub: "Free agent (last club: Monterrey)",
     departureYear: "2021",
     departureDestination: "Paris Saint-Germain -> Sevilla",
     departureDetails: "Departed in 2021 after 16 heroic seasons and 22 trophies. Left Madrid as the supreme captain, defender, and clutch goalscorer.",
@@ -2628,6 +2527,14 @@ const RM_PLAYERS = [
         years: "2021–2024",
         badgeColor: "#1e3a8a",
         details: "Won two Ligue 1 titles at PSG before returning to Sevilla for an emotional homecoming season."
+      },
+      {
+        stage: "Mexico",
+        club: "CF Monterrey",
+        country: "Mexico",
+        years: "2025–2026",
+        badgeColor: "#1e3a8a",
+        details: "Signed for Monterrey in February 2025 and captained them at the Club World Cup. Listed as a free agent going into 2026-27."
       }
     ],
     stats: {
@@ -2674,12 +2581,6 @@ const RM_PLAYERS = [
       "Florentino Pérez's first Spanish Galáctico signing in the summer of 2005.",
       "He owns an internationally recognized stud farm, Yeguada SR4, breeding championship Andalusian horses.",
       "He took and scored crucial Panenka penalties in high-pressure shootouts throughout his career."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sergio_Ramos_2018.jpg/440px-Sergio_Ramos_2018.jpg",
-        caption: "Sergio Ramos, the legendary Madrid captain"
-      }
     ]
   },
   {
@@ -2690,8 +2591,8 @@ const RM_PLAYERS = [
     position: "Defender",
     category: "legend",
     status: "legend",
-    statusLabel: "Eternal Captain & Legend",
-    currentClub: "Fluminense (Brazil)",
+    statusLabel: "Club legend",
+    currentClub: "Retired (2025)",
     departureYear: "2022",
     departureDestination: "Olympiacos -> Fluminense",
     departureDetails: "Departed in 2022 after lifting the 14th Champions League as first club captain. He wept tears of joy at his farewell ceremony as Madrid's then-most decorated player.",
@@ -2741,12 +2642,12 @@ const RM_PLAYERS = [
         details: "5 Champions Leagues, 6 La Liga titles, 25 total trophies. First foreign captain since 1904."
       },
       {
-        stage: "Homecoming & Copa Libertadores",
+        stage: "Homecoming & Retirement",
         club: "Fluminense FC",
         country: "Brazil",
-        years: "2023–Present",
+        years: "2023–2024",
         badgeColor: "#831843",
-        details: "Returned to boyhood club Fluminense and won their first-ever Copa Libertadores in 2023."
+        details: "Returned to boyhood club Fluminense and won their first-ever Copa Libertadores in 2023. Left in late 2024 and announced his retirement in February 2025."
       }
     ],
     stats: {
@@ -2793,12 +2694,6 @@ const RM_PLAYERS = [
       "His first touch was widely considered by teammates to be the best at the club, even rivaling Cristiano and Zidane.",
       "His son Enzo Alves plays as a striker in Real Madrid's academy and represents Spain's youth national teams.",
       "Never changed his shirt number 12 throughout his entire 16 years at Real Madrid."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Marcelo_2018.jpg/440px-Marcelo_2018.jpg",
-        caption: "Marcelo with the ball at his feet"
-      }
     ]
   },
   {
@@ -2809,7 +2704,7 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "forward",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Morocco",
     countryCode: "MA",
@@ -2916,12 +2811,6 @@ const RM_PLAYERS = [
       "Even coaches and teammates cannot tell which is his natural stronger foot; when asked, Brahim says: 'I prefer shooting with my right and dribbling with my left!'",
       "Eligible for both Spain and Morocco through his grandmother, he committed to Morocco in 2024 to enormous celebration in Casablanca.",
       "His celebration of spreading his arms mirrors Jude Bellingham, and the two share a close brotherly bond."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Brahim_D%C3%ADaz_2024.jpg/440px-Brahim_D%C3%ADaz_2024.jpg",
-        caption: "Brahim Díaz celebrating a goal"
-      }
     ]
   },
   {
@@ -2932,7 +2821,7 @@ const RM_PLAYERS = [
     position: "Defender",
     category: "defender",
     status: "active",
-    statusLabel: "Current Squad",
+    statusLabel: "First team",
     currentClub: "Real Madrid",
     nationality: "Brazil",
     countryCode: "BR",
@@ -3033,12 +2922,6 @@ const RM_PLAYERS = [
       "During his official Madrid unveiling in 2019, he felt so dizzy and overwhelmed from dehydration and emotion that the press conference had to be paused.",
       "His father Valdo was a professional footballer in Brazil who taught Éder the fundamentals of defending.",
       "Suffered a torn ACL on the first matchday of the 2023-24 season, underwent rigorous rehab, and returned in time to play in the Champions League final celebration at Wembley."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eder_Militao_2021.jpg/440px-Eder_Militao_2021.jpg",
-        caption: "Éder Militão in action"
-      }
     ]
   },
   {
@@ -3049,7 +2932,7 @@ const RM_PLAYERS = [
     position: "Forward",
     category: "legend",
     status: "legend",
-    statusLabel: "Eternal Legend (5x UCL Winner)",
+    statusLabel: "Club legend",
     currentClub: "Retired (2023)",
     departureYear: "2022",
     departureDestination: "Los Angeles FC -> Retired",
@@ -3168,12 +3051,6 @@ const RM_PLAYERS = [
       "At school in Cardiff, his PE teacher Gwyn Morris made a special rule that Gareth could only touch the ball with his right foot and with one touch because he was too dominant.",
       "His sprint against Barcelona in the 2014 Copa final covered 59.1 meters in 7.04 seconds, reaching a peak speed of 34.8 km/h while dribbling.",
       "Scored more goals for Real Madrid (106) than Brazilian Ronaldo (104) and Zinedine Zidane (49)."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gareth_Bale_2018.jpg/440px-Gareth_Bale_2018.jpg",
-        caption: "Gareth Bale celebrating"
-      }
     ]
   },
   {
@@ -3184,8 +3061,8 @@ const RM_PLAYERS = [
     position: "Midfielder",
     category: "legend",
     status: "legend",
-    statusLabel: "Eternal Club Icon & 3-Peat Coach",
-    currentClub: "Madrid Legend & Free Agent Coach",
+    statusLabel: "Club legend",
+    currentClub: "Head coach, France national team",
     departureYear: "2006 (Player) / 2021 (Coach)",
     departureDestination: "Retired at Real Madrid",
     departureDetails: "Retired as a player in 2006 wearing the Real Madrid jersey. Returned as manager to achieve the impossible: 3 consecutive UEFA Champions League titles (2016, 2017, 2018).",
@@ -3305,15 +3182,615 @@ const RM_PLAYERS = [
       "He chose the number 5 jersey because club legend Alfredo Di Stéfano wore No. 9 and Fernando Hierro had No. 4; Zidane made No. 5 iconic for midfielders, which Jude Bellingham now wears in his tribute.",
       "Grew up in La Castellane, a tough housing estate in Marseille, playing barefoot on concrete with Algerian immigrant friends.",
       "Coached both the Real Madrid Castilla reserve team and first team."
-    ],
-    gallery: [
-      {
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg/440px-Zinedine_Zidane_by_Tasnim_03.jpg",
-        caption: "Zinedine Zidane, Madrid legend and 3-peat coach"
-      }
     ]
+  },
+  {
+    id: "asencio",
+    name: "Raúl Asencio",
+    fullName: "Raúl Asencio del Rosario",
+    number: 2,
+    position: "Defender",
+    category: "defender",
+    nationality: "Spain",
+    countryCode: "ES",
+    birthDate: "February 13, 2003",
+    birthPlace: "Las Palmas, Spain",
+    joinedRealMadrid: "2024",
+    transferFee: "Academy graduate",
+    bio: "Centre-back from La Fábrica who broke into the first team during the 2024-25 injury crisis and stayed there. Took Dani Carvajal's No. 2 for 2026-27.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Real Madrid Castilla",
+        country: "Spain",
+        years: "2021–2024",
+        details: "Came through the academy and captained Castilla before his first-team call-up."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2024–Present",
+        fee: "Academy graduate",
+        details: "Promoted to the senior squad in 2024-25."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: false
+  },
+  {
+    id: "huijsen",
+    name: "Dean Huijsen",
+    fullName: "Dean Donny Huijsen",
+    number: 4,
+    position: "Defender",
+    category: "defender",
+    nationality: "Spain",
+    countryCode: "ES",
+    birthDate: "April 14, 2005",
+    birthPlace: "Amsterdam, Netherlands",
+    joinedRealMadrid: "2025",
+    transferFee: "£50M release clause",
+    bio: "Ball-playing centre-back, born in Amsterdam and raised on the Costa del Sol. Signed from Bournemouth in 2025 and moved from No. 24 to No. 4 for 2026-27, after David Alaba left.",
+    lineage: [
+      {
+        stage: "Youth",
+        club: "Málaga CF",
+        country: "Spain",
+        years: "2015–2021",
+        details: "Grew up in Marbella and joined Málaga's academy."
+      },
+      {
+        stage: "Senior Breakthrough",
+        club: "Juventus",
+        country: "Italy",
+        years: "2021–2024",
+        details: "Moved to Turin as a teenager and debuted in Serie A."
+      },
+      {
+        stage: "Loan",
+        club: "AS Roma",
+        country: "Italy",
+        years: "2024",
+        fee: "Loan",
+        details: "Loan spell in the second half of 2023-24."
+      },
+      {
+        stage: "Premier League",
+        club: "AFC Bournemouth",
+        country: "England",
+        years: "2024–2025",
+        details: "One standout Premier League season that earned a Spain call-up."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2025–Present",
+        fee: "£50M release clause",
+        details: "Signed in summer 2025."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "alexander-arnold",
+    name: "Trent Alexander-Arnold",
+    fullName: "Trent John Alexander-Arnold",
+    number: 12,
+    position: "Defender",
+    category: "defender",
+    nationality: "England",
+    countryCode: "GB",
+    birthDate: "October 7, 1998",
+    birthPlace: "Liverpool, England",
+    joinedRealMadrid: "2025",
+    transferFee: "~€10M (to leave a month early)",
+    bio: "Right-back with one of the best passing ranges in the game. Spent his whole career at Liverpool before joining Madrid in 2025; Madrid paid a small fee so he could play at the Club World Cup.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Liverpool FC Academy",
+        country: "England",
+        years: "2004–2016",
+        details: "Joined Liverpool's academy at six."
+      },
+      {
+        stage: "Senior Career",
+        club: "Liverpool FC",
+        country: "England",
+        years: "2016–2025",
+        details: "Won the Champions League (2019) and two Premier League titles."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2025–Present",
+        fee: "~€10M",
+        details: "Joined in June 2025."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "konate",
+    name: "Ibrahima Konaté",
+    fullName: "Ibrahima Konaté",
+    number: 16,
+    position: "Defender",
+    category: "defender",
+    nationality: "France",
+    countryCode: "FR",
+    birthDate: "May 25, 1999",
+    birthPlace: "Paris, France",
+    joinedRealMadrid: "2026",
+    transferFee: "Free transfer",
+    bio: "Quick, physical centre-back who joined on a free in June 2026 when his Liverpool contract ran out.",
+    lineage: [
+      {
+        stage: "Senior Debut",
+        club: "FC Sochaux",
+        country: "France",
+        years: "2016–2017",
+        details: "Started out in Ligue 2."
+      },
+      {
+        stage: "Bundesliga",
+        club: "RB Leipzig",
+        country: "Germany",
+        years: "2017–2021",
+        details: "Four seasons in Germany."
+      },
+      {
+        stage: "Premier League",
+        club: "Liverpool FC",
+        country: "England",
+        years: "2021–2026",
+        details: "Five seasons at Anfield."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "Free transfer",
+        details: "Signed a four-year deal in June 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "cucurella",
+    name: "Marc Cucurella",
+    fullName: "Marc Cucurella Saseta",
+    number: 17,
+    position: "Defender",
+    category: "defender",
+    nationality: "Spain",
+    countryCode: "ES",
+    birthDate: "July 22, 1998",
+    birthPlace: "Alella, Spain",
+    joinedRealMadrid: "2026",
+    transferFee: "~€55M (reported)",
+    bio: "Left-back and Euro 2024 winner with Spain. A product of Barcelona's La Masia, he joined Madrid from Chelsea in summer 2026.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "FC Barcelona (La Masia)",
+        country: "Spain",
+        years: "2012–2019",
+        details: "Came through Barcelona's youth system."
+      },
+      {
+        stage: "La Liga",
+        club: "Getafe CF",
+        country: "Spain",
+        years: "2019–2021",
+        details: "Made his name under José Bordalás."
+      },
+      {
+        stage: "Premier League",
+        club: "Brighton & Hove Albion",
+        country: "England",
+        years: "2021–2022",
+        details: "One season on the south coast."
+      },
+      {
+        stage: "Premier League",
+        club: "Chelsea FC",
+        country: "England",
+        years: "2022–2026",
+        details: "Four seasons at Stamford Bridge."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "~€55M (reported)",
+        details: "Joined in summer 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "carreras",
+    name: "Álvaro Carreras",
+    fullName: "Álvaro Fernández Carreras",
+    number: 18,
+    position: "Defender",
+    category: "defender",
+    nationality: "Spain",
+    countryCode: "ES",
+    birthDate: "March 23, 2003",
+    birthPlace: "Ferrol, Spain",
+    joinedRealMadrid: "2025",
+    transferFee: "~€50M",
+    bio: "Attacking left-back who left Madrid's academy as a teenager for Manchester United, made his name at Benfica and came back in 2025.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Real Madrid (La Fábrica)",
+        country: "Spain",
+        years: "2015–2020",
+        details: "Started in Madrid's youth teams."
+      },
+      {
+        stage: "Youth",
+        club: "Manchester United",
+        country: "England",
+        years: "2020–2024",
+        details: "Developed at United with loans at Preston and Granada."
+      },
+      {
+        stage: "Breakthrough",
+        club: "SL Benfica",
+        country: "Portugal",
+        years: "2024–2025",
+        details: "Became one of the best left-backs in Portugal."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2025–Present",
+        fee: "~€50M",
+        details: "Returned to Madrid in summer 2025."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "mendy",
+    name: "Ferland Mendy",
+    fullName: "Ferland Mendy",
+    number: 23,
+    position: "Defender",
+    category: "defender",
+    nationality: "France",
+    countryCode: "FR",
+    birthDate: "June 8, 1995",
+    birthPlace: "Meulan-en-Yvelines, France",
+    joinedRealMadrid: "2019",
+    transferFee: "€48M",
+    bio: "Defensive left-back who has been at the club since 2019 and won two Champions Leagues here.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Paris Saint-Germain",
+        country: "France",
+        years: "2008–2013",
+        details: "Came through PSG's youth teams."
+      },
+      {
+        stage: "Senior Debut",
+        club: "Le Havre AC",
+        country: "France",
+        years: "2013–2017",
+        details: "Broke through in Ligue 2."
+      },
+      {
+        stage: "Ligue 1",
+        club: "Olympique Lyonnais",
+        country: "France",
+        years: "2017–2019",
+        details: "Two seasons in Lyon earned him a France cap."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2019–Present",
+        fee: "€48M",
+        details: "Signed in summer 2019."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: false
+  },
+  {
+    id: "dumfries",
+    name: "Denzel Dumfries",
+    fullName: "Denzel Justus Morris Dumfries",
+    number: 24,
+    position: "Defender",
+    category: "defender",
+    nationality: "Netherlands",
+    countryCode: "NL",
+    birthDate: "April 18, 1996",
+    birthPlace: "Rotterdam, Netherlands",
+    joinedRealMadrid: "2026",
+    transferFee: "~€20M (reported)",
+    bio: "Powerful right-back who joined from Inter in July 2026 after five seasons in Serie A.",
+    lineage: [
+      {
+        stage: "Senior Debut",
+        club: "Sparta Rotterdam",
+        country: "Netherlands",
+        years: "2014–2017",
+        details: "Started out in his home city."
+      },
+      {
+        stage: "Eredivisie",
+        club: "SC Heerenveen",
+        country: "Netherlands",
+        years: "2017–2018",
+        details: "One season in Friesland."
+      },
+      {
+        stage: "Eredivisie",
+        club: "PSV Eindhoven",
+        country: "Netherlands",
+        years: "2018–2021",
+        details: "Became PSV captain."
+      },
+      {
+        stage: "Serie A",
+        club: "Inter Milan",
+        country: "Italy",
+        years: "2021–2026",
+        details: "Five seasons at Inter."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "~€20M (reported)",
+        details: "Signed a four-year deal in July 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "bernardo",
+    name: "Bernardo Silva",
+    fullName: "Bernardo Mota Veiga de Carvalho e Silva",
+    number: 20,
+    position: "Midfielder",
+    category: "midfielder",
+    nationality: "Portugal",
+    countryCode: "PT",
+    birthDate: "August 10, 1994",
+    birthPlace: "Lisbon, Portugal",
+    joinedRealMadrid: "2026",
+    transferFee: "Free transfer",
+    bio: "Two-footed playmaker who joined on a free from Manchester City in June 2026, where he won the Champions League in 2023.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "SL Benfica",
+        country: "Portugal",
+        years: "2002–2014",
+        details: "Grew up in Benfica's academy."
+      },
+      {
+        stage: "Ligue 1",
+        club: "AS Monaco",
+        country: "France",
+        years: "2014–2017",
+        details: "Won Ligue 1 in 2017 alongside a teenage Mbappé."
+      },
+      {
+        stage: "Premier League",
+        club: "Manchester City",
+        country: "England",
+        years: "2017–2026",
+        details: "Nine seasons under Pep Guardiola."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "Free transfer",
+        details: "Signed a two-year deal in June 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "pitarch",
+    name: "Thiago Pitarch",
+    fullName: "Thiago Pitarch",
+    number: 27,
+    position: "Midfielder",
+    category: "midfielder",
+    nationality: "Spain",
+    countryCode: "ES",
+    joinedRealMadrid: "2026",
+    transferFee: "Academy graduate",
+    bio: "Academy midfielder given a first-team number for 2026-27. Played for Spain at the 2025 U-20 World Cup.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Real Madrid Castilla",
+        country: "Spain",
+        years: "2025–2026",
+        details: "Appeared for Castilla and in the UEFA Youth League."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "Academy graduate",
+        details: "Given the No. 27 for 2026-27."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "espi",
+    name: "Carlos Espí",
+    fullName: "Carlos Espí",
+    number: 19,
+    position: "Forward",
+    category: "forward",
+    nationality: "Spain",
+    countryCode: "ES",
+    joinedRealMadrid: "2026",
+    transferFee: "€25M (reported)",
+    bio: "Tall centre-forward signed from Levante in July 2026 on a deal to 2031, after he was named La Liga's best under-23 player.",
+    lineage: [
+      {
+        stage: "Academy",
+        club: "Levante UD",
+        country: "Spain",
+        years: "to 2023",
+        details: "Came through Levante's academy."
+      },
+      {
+        stage: "Senior Breakthrough",
+        club: "Levante UD",
+        country: "Spain",
+        years: "2023–2026",
+        details: "Scored double figures in La Liga in 2025-26."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "€25M (reported)",
+        details: "Signed a five-year contract in July 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
+  },
+  {
+    id: "diomande",
+    name: "Yan Diomande",
+    fullName: "Yan Diomande",
+    number: 25,
+    position: "Forward",
+    category: "forward",
+    nationality: "Ivory Coast",
+    countryCode: "CI",
+    birthDate: "November 14, 2006",
+    joinedRealMadrid: "2026",
+    transferFee: "~€125M + bonuses (club record, reported)",
+    bio: "Teenage winger and Ivory Coast international. Leipzig signed him from Leganés for around €20M in 2025; a year later Madrid paid a reported club-record fee.",
+    lineage: [
+      {
+        stage: "Senior Debut",
+        club: "CD Leganés",
+        country: "Spain",
+        years: "2024–2025",
+        details: "Broke through in Spain."
+      },
+      {
+        stage: "Bundesliga",
+        club: "RB Leipzig",
+        country: "Germany",
+        years: "2025–2026",
+        fee: "~€20M",
+        details: "One season in Germany."
+      },
+      {
+        stage: "Real Madrid",
+        club: "Real Madrid",
+        country: "Spain",
+        years: "2026–Present",
+        fee: "~€125M (reported)",
+        details: "Signed a seven-year deal in August 2026."
+      }
+    ],
+    status: "active",
+    statusLabel: "First team",
+    currentClub: "Real Madrid",
+    photo: null,
+    isNew: true
   }
 ];
+
+// Squad list reflects the 2026-27 numbers announced in August 2026.
+// Per-player Madrid stats and trophy lists for older profiles were written in
+// late 2024 and have not been refreshed since; the UI labels them as such.
+const RM_SQUAD_SEASON = "2026-27";
+const RM_STATS_AS_OF = "late 2024";
+const RM_DATA_UPDATED = "October 2026";
+const RM_HEAD_COACH = "José Mourinho";
+
+const RM_COUNTRY_CODES = {
+  "Belgium": "BEL", "Brazil": "BRA", "Croatia": "CRO", "England": "ENG", "France": "FRA",
+  "Germany": "GER", "Ivory Coast": "CIV", "Mexico": "MEX", "Netherlands": "NED",
+  "Portugal": "POR", "Spain": "ESP", "Turkey": "TUR", "Türkiye": "TUR", "Ukraine": "UKR",
+  "Uruguay": "URU", "Wales": "WAL", "Morocco": "MAR", "Austria": "AUT"
+};
+
+RM_PLAYERS.forEach(p => {
+  p.headshot = p.photo ? p.photo.replace('images/players/', 'images/players/headshots/') : null;
+  p.code = RM_COUNTRY_CODES[p.nationality] || p.nationality.slice(0, 3).toUpperCase();
+  p.lineage = p.lineage || [];
+  p.stats = p.stats || null;
+  p.peakPerformances = p.peakPerformances || [];
+  p.records = p.records || [];
+  p.facts = p.facts || [];
+});
 
 // Helper lookup methods
 const RM_NATIONS = [...new Set(RM_PLAYERS.map(p => p.nationality))].sort();

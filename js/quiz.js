@@ -1,51 +1,93 @@
-// Madridista Memory Trainer & Lineage Quiz Engine
-// Designed specifically to help new fans memorize player names, countries, shirt numbers, and career origins.
+// Flashcards and quiz questions for learning the squad.
+
+const LEARNED_KEY = 'rm_learned_players';
+
+function shuffled(list) {
+  const out = [...list];
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
+function pickRandom(list) {
+  return list[Math.floor(Math.random() * list.length)];
+}
+
+// Clubs a player went through before Real Madrid signed them (academy and
+// reserve sides of Madrid itself are skipped).
+function routeToMadrid(player) {
+  const arrival = player.lineage.findIndex(l => l.club === 'Real Madrid');
+  const before = arrival === -1 ? player.lineage : player.lineage.slice(0, arrival);
+  return before.filter(l => !/Real Madrid|Castilla|La Fábrica/.test(l.club));
+}
+
+function signedFrom(player) {
+  const route = routeToMadrid(player);
+  return route.length ? route[route.length - 1] : null;
+}
+
+function loadLearned() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(LEARNED_KEY) || '[]'));
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function saveLearned(ids) {
+  try {
+    localStorage.setItem(LEARNED_KEY, JSON.stringify([...ids]));
+  } catch (e) {
+    // Private browsing or storage disabled: progress just won't persist.
+  }
+}
 
 class RM_MemoryTrainer {
-  constructor() {
-    this.currentMode = 'flashcards'; // 'flashcards' | 'quiz'
-    this.quizType = 'country'; // 'country' | 'lineage' | 'number'
+  constructor(players) {
+    this.allPlayers = players;
+    this.deckName = 'active';
+    this.deck = [];
     this.currentCardIndex = 0;
-    this.shuffledPlayers = [...RM_PLAYERS];
     this.isCardFlipped = false;
-    this.learnedIds = new Set(JSON.parse(localStorage.getItem('rm_learned_players') || '[]'));
+    this.learnedIds = loadLearned();
 
-    // Quiz state
+    this.quizType = 'country';
     this.quizScore = 0;
     this.quizTotal = 0;
     this.quizStreak = 0;
     this.currentQuestion = null;
 
-    this.init();
+    this.setDeck('active');
   }
 
-  init() {
-    this.shuffleDeck();
+  setDeck(name) {
+    this.deckName = name;
+    const pool = name === 'active' ? this.allPlayers.filter(p => p.status === 'active') : this.allPlayers;
+    this.deck = shuffled(pool);
+    this.currentCardIndex = 0;
+    this.isCardFlipped = false;
   }
 
   shuffleDeck() {
-    for (let i = this.shuffledPlayers.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [this.shuffledPlayers[i], this.shuffledPlayers[j]] = [this.shuffledPlayers[j], this.shuffledPlayers[i]];
-    }
+    this.deck = shuffled(this.deck);
     this.currentCardIndex = 0;
     this.isCardFlipped = false;
   }
 
   getCurrentPlayer() {
-    return this.shuffledPlayers[this.currentCardIndex] || this.shuffledPlayers[0];
+    return this.deck[this.currentCardIndex];
   }
 
   nextCard() {
-    this.currentCardIndex = (this.currentCardIndex + 1) % this.shuffledPlayers.length;
+    this.currentCardIndex = (this.currentCardIndex + 1) % this.deck.length;
     this.isCardFlipped = false;
-    return this.getCurrentPlayer();
   }
 
   prevCard() {
-    this.currentCardIndex = (this.currentCardIndex - 1 + this.shuffledPlayers.length) % this.shuffledPlayers.length;
+    this.currentCardIndex = (this.currentCardIndex - 1 + this.deck.length) % this.deck.length;
     this.isCardFlipped = false;
-    return this.getCurrentPlayer();
   }
 
   toggleFlip() {
@@ -54,12 +96,9 @@ class RM_MemoryTrainer {
   }
 
   toggleLearned(playerId) {
-    if (this.learnedIds.has(playerId)) {
-      this.learnedIds.delete(playerId);
-    } else {
-      this.learnedIds.add(playerId);
-    }
-    localStorage.setItem('rm_learned_players', JSON.stringify([...this.learnedIds]));
+    if (this.learnedIds.has(playerId)) this.learnedIds.delete(playerId);
+    else this.learnedIds.add(playerId);
+    saveLearned(this.learnedIds);
     return this.learnedIds.has(playerId);
   }
 
@@ -67,71 +106,57 @@ class RM_MemoryTrainer {
     return this.learnedIds.has(playerId);
   }
 
-  // Quiz generation
+  learnedInDeck() {
+    return this.deck.filter(p => this.learnedIds.has(p.id)).length;
+  }
+
   generateQuestion(type = this.quizType) {
     this.quizType = type;
-    const targetPlayer = RM_PLAYERS[Math.floor(Math.random() * RM_PLAYERS.length)];
-    const otherPlayers = RM_PLAYERS.filter(p => p.id !== targetPlayer.id);
-
-    // Shuffle distractors
-    const distractors = otherPlayers.sort(() => 0.5 - Math.random()).slice(0, 3);
-    const options = [targetPlayer, ...distractors].sort(() => 0.5 - Math.random());
+    const players = this.allPlayers;
 
     if (type === 'country') {
-      const otherNations = [...new Set(RM_PLAYERS.map(p => p.nationality))]
-        .filter(n => n !== targetPlayer.nationality)
-        .sort(() => 0.5 - Math.random())
-        .slice(0, 3);
-      const nationOptions = [targetPlayer.nationality, ...otherNations].sort(() => 0.5 - Math.random());
-
+      const target = pickRandom(players);
+      const others = shuffled([...new Set(players.map(p => p.nationality))].filter(n => n !== target.nationality)).slice(0, 3);
       this.currentQuestion = {
-        type: 'country',
-        player: targetPlayer,
-        question: `Which country does ${targetPlayer.name} play for?`,
-        prompt: `Player #${targetPlayer.number} • ${targetPlayer.position}`,
-        correctAnswer: targetPlayer.nationality,
-        options: nationOptions.map(nat => {
-          const sample = RM_PLAYERS.find(p => p.nationality === nat);
-          return {
-            text: `${sample?.flag || '🌐'} ${nat}`,
-            value: nat
-          };
-        }),
-        explanation: `${targetPlayer.name} represents ${targetPlayer.flag} ${targetPlayer.nationality}. He was born in ${targetPlayer.birthPlace}.`
+        type,
+        player: target,
+        showPhoto: true,
+        question: `Who does ${target.name} play for internationally?`,
+        prompt: `${target.position}${target.status === 'active' ? `, No. ${target.number}` : ''}`,
+        correctAnswer: target.nationality,
+        options: shuffled([target.nationality, ...others]).map(n => ({ text: n, value: n })),
+        explanation: `${target.name} plays for ${target.nationality}.${target.birthPlace ? ` Born in ${target.birthPlace}.` : ''}`
       };
     } else if (type === 'lineage') {
-      const lineageClubs = targetPlayer.lineage
-        .map(l => l.club)
-        .join(' ➔ ');
-
+      // Only players with at least one club before Madrid make a fair question.
+      const pool = players.filter(p => routeToMadrid(p).length > 0);
+      const target = pickRandom(pool);
+      const path = routeToMadrid(target).map(l => l.club).join(' → ');
+      const others = shuffled(pool.filter(p => p.id !== target.id)).slice(0, 3);
       this.currentQuestion = {
-        type: 'lineage',
-        player: targetPlayer,
-        question: `Which player has this career lineage?`,
-        prompt: `Lineage Path: ${lineageClubs}`,
-        correctAnswer: targetPlayer.id,
-        options: options.map(p => ({
-          text: `${p.flag} ${p.name} (#${p.number})`,
-          value: p.id
-        })),
-        explanation: `${targetPlayer.name}'s journey: ${lineageClubs}. He joined Madrid in ${targetPlayer.joinedRealMadrid} for ${targetPlayer.transferFee}.`
+        type,
+        player: target,
+        showPhoto: false, // the photo would give the answer away
+        question: 'Whose route to Madrid is this?',
+        prompt: `${path} → Real Madrid`,
+        correctAnswer: target.id,
+        options: shuffled([target, ...others]).map(p => ({ text: p.name, value: p.id })),
+        explanation: `That's ${target.name}, who joined in ${target.joinedRealMadrid}${target.transferFee ? ` (${target.transferFee})` : ''}.`
       };
     } else if (type === 'number') {
+      // Shirt numbers only mean something for the current squad, where they're unique.
+      const squad = players.filter(p => p.status === 'active');
+      const target = pickRandom(squad);
+      const otherNumbers = shuffled([...new Set(squad.map(p => p.number))].filter(n => n !== target.number)).slice(0, 3);
       this.currentQuestion = {
-        type: 'number',
-        player: targetPlayer,
-        question: `What shirt number does ${targetPlayer.name} wear?`,
-        prompt: `Position: ${targetPlayer.position} • ${targetPlayer.flag} ${targetPlayer.nationality}`,
-        correctAnswer: targetPlayer.number,
-        options: [
-          targetPlayer.number,
-          ...RM_PLAYERS.filter(p => p.number !== targetPlayer.number).map(p => p.number)
-            .sort(() => 0.5 - Math.random()).slice(0, 3)
-        ].sort((a, b) => a - b).map(num => ({
-          text: `No. ${num}`,
-          value: num
-        })),
-        explanation: `${targetPlayer.name} wears the iconic No. ${targetPlayer.number} for Real Madrid.`
+        type,
+        player: target,
+        showPhoto: true,
+        question: `What number does ${target.name} wear?`,
+        prompt: `${target.position}, ${target.nationality}`,
+        correctAnswer: target.number,
+        options: [target.number, ...otherNumbers].sort((a, b) => a - b).map(n => ({ text: `No. ${n}`, value: n })),
+        explanation: `${target.name} wears No. ${target.number} in ${RM_SQUAD_SEASON}.`
       };
     }
 
@@ -139,15 +164,14 @@ class RM_MemoryTrainer {
   }
 
   submitAnswer(selectedVal) {
-    if (!this.currentQuestion) return null;
-    const isCorrect = (String(selectedVal) === String(this.currentQuestion.correctAnswer));
+    if (!this.currentQuestion || this.currentQuestion.answered) return null;
+    this.currentQuestion.answered = true;
+    const isCorrect = String(selectedVal) === String(this.currentQuestion.correctAnswer);
 
     this.quizTotal++;
     if (isCorrect) {
       this.quizScore++;
       this.quizStreak++;
-      this.learnedIds.add(this.currentQuestion.player.id);
-      localStorage.setItem('rm_learned_players', JSON.stringify([...this.learnedIds]));
     } else {
       this.quizStreak = 0;
     }
@@ -161,12 +185,8 @@ class RM_MemoryTrainer {
       streak: this.quizStreak
     };
   }
-
-  resetStats() {
-    this.quizScore = 0;
-    this.quizTotal = 0;
-    this.quizStreak = 0;
-  }
 }
 
 window.RM_MemoryTrainer = RM_MemoryTrainer;
+window.routeToMadrid = routeToMadrid;
+window.signedFrom = signedFrom;

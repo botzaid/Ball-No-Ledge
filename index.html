@@ -3,360 +3,231 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Real Madrid Lineage & Football Intelligence | Madridista Hub</title>
+  <title>Ball No Ledge · Real Madrid, player by player</title>
+  <meta name="description" content="Who's who at Real Madrid: where every player came from, how they got here and where the ones who left went next.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" type="image/svg+xml" href="images/real-madrid-crest.svg">
 </head>
 <body>
 
-  <!-- Top Navigation Header -->
-  <header class="app-header">
-    <div class="header-inner">
-      <div class="brand-wrapper" onclick="switchView('grid')">
-        <div class="brand-emblem">
-          <img src="images/real-madrid-crest.svg" alt="Real Madrid CF Crest" class="brand-crest-img">
-        </div>
-        <div class="brand-text">
-          <h1>RM Lineage <span>&amp; Lore</span></h1>
-          <p>Real Madrid C.F. • Player Intelligence &amp; Mindmap</p>
-        </div>
-      </div>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="#squad">
+        <img src="images/real-madrid-crest.svg" alt="" width="34" height="34">
+        <span class="wordmark-text">
+          <strong>Ball No Ledge</strong>
+          <small>Real Madrid, player by player</small>
+        </span>
+      </a>
 
-      <!-- Main Navigation Views with Sleek SVG Icons -->
-      <nav class="view-nav" aria-label="Main Navigation">
-        <button class="nav-tab-btn active" data-view="grid">
-          <svg class="nav-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
-          <span>Squad Explorer</span>
-        </button>
-        <button class="nav-tab-btn" data-view="mindmap">
-          <svg class="nav-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
-          <span>Lineage Mindmap</span>
-        </button>
-        <button class="nav-tab-btn" data-view="trainer">
-          <svg class="nav-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-          <span>Memory Trainer</span>
-        </button>
-        <button class="nav-tab-btn" data-view="compare">
-          <svg class="nav-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></svg>
-          <span>Compare</span>
-        </button>
+      <nav class="view-nav" aria-label="Sections">
+        <a class="nav-link" href="#squad" data-view="squad">Squad</a>
+        <a class="nav-link" href="#map" data-view="map">Career map</a>
+        <a class="nav-link" href="#train" data-view="train">Learn</a>
+        <a class="nav-link" href="#compare" data-view="compare">Compare</a>
       </nav>
-
-      <div class="header-actions">
-        <button id="sound-toggle-btn" class="sound-btn" title="Toggle audio feedback">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
-          <span>Sound On</span>
-        </button>
-      </div>
     </div>
   </header>
 
-  <!-- Hero Welcome Banner for New Fans -->
-  <section class="hero-banner">
-    <div class="hero-card">
-      <div class="hero-text">
-        <h2>Welcome to <span>Real Madrid</span> Football Lineage</h2>
-        <p>
-          New to following <em>Los Blancos</em> in La Liga and the Champions League? Easily explore every player's career roots, which clubs they previously played for, their debut in white, peak match-winning performances, and where recent legends (like Toni Kroos, Nacho, and Benzema) went next.
-        </p>
-        <div class="hero-highlights">
-          <div class="hero-pill">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
-            <span>15x Champions League</span>
-          </div>
-          <div class="hero-pill">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-            <span>36x La Liga Champions</span>
-          </div>
-          <div class="hero-pill">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
-            <span>Global Scouting Pipeline</span>
-          </div>
+  <main>
+
+    <!-- Squad -->
+    <section id="view-squad" class="view" aria-labelledby="squad-title">
+      <div class="page-head">
+        <div>
+          <p class="kicker" id="squad-season"></p>
+          <h1 id="squad-title">The squad</h1>
+        </div>
+        <p class="page-intro" id="squad-intro"></p>
+      </div>
+
+      <div class="toolbar">
+        <label class="search">
+          <span class="visually-hidden">Search players</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input type="search" id="search-input" placeholder="Name, country, club or number" autocomplete="off">
+        </label>
+
+        <div class="toolbar-selects">
+          <label class="select">
+            <span>Country</span>
+            <select id="nation-select"></select>
+          </label>
+          <label class="select">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="number">Shirt number</option>
+              <option value="name">Name</option>
+              <option value="debut">Year joined</option>
+              <option value="trophies">Trophies with Madrid</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="segmented" role="group" aria-label="Position">
+          <button type="button" class="seg-btn is-active" data-position="all">All</button>
+          <button type="button" class="seg-btn" data-position="goalkeeper">Goalkeepers</button>
+          <button type="button" class="seg-btn" data-position="defender">Defenders</button>
+          <button type="button" class="seg-btn" data-position="midfielder">Midfielders</button>
+          <button type="button" class="seg-btn" data-position="forward">Forwards</button>
+        </div>
+
+        <div class="segmented" role="group" aria-label="Status">
+          <button type="button" class="seg-btn is-active" data-status="all">Everyone</button>
+          <button type="button" class="seg-btn" data-status="active">First team</button>
+          <button type="button" class="seg-btn" data-status="departed">Former players</button>
+          <button type="button" class="seg-btn" data-status="legend">Legends</button>
         </div>
       </div>
 
-      <div class="hero-trophy-summary">
-        <div class="hero-trophy-number">15</div>
-        <div class="hero-trophy-label">European Cups (La Decimoquinta)</div>
-      </div>
-    </div>
-  </section>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+      <div id="squad-grid"></div>
+    </section>
 
-  <!-- Filter & Search Toolbar (Only visible on Squad Explorer) -->
-  <section class="controls-bar" id="explorer-controls">
-    <div class="search-and-sort">
-      <div class="search-box-wrapper">
-        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-        <input 
-          type="text" 
-          id="search-input" 
-          class="search-input" 
-          placeholder="Search by player name, nationality, former club, or shirt # (e.g., Mbappé, Brazil, Dortmund, 7)..."
-          autocomplete="off"
-        >
+    <!-- Career map -->
+    <section id="view-map" class="view" aria-labelledby="map-title" hidden>
+      <div class="page-head">
+        <div>
+          <p class="kicker">Where they came from, where they went</p>
+          <h1 id="map-title">Career map</h1>
+        </div>
+        <p class="page-intro">Every player is linked to their country, the club Madrid signed them from and, for those who left, where they went next. Drag to move around, scroll or pinch to zoom, tap a player to open their profile.</p>
       </div>
 
-      <div class="dropdown-controls">
-        <select id="nation-select" class="custom-select" aria-label="Filter by nationality">
-          <option value="all">All Nationalities</option>
-        </select>
-
-        <select id="sort-select" class="custom-select" aria-label="Sort players by">
-          <option value="number">Sort: Shirt Number (#)</option>
-          <option value="name">Sort: Player Name (A-Z)</option>
-          <option value="debut">Sort: Year Joined Madrid</option>
-          <option value="trophies">Sort: Madrid Trophies Won</option>
-        </select>
-      </div>
-    </div>
-
-    <!-- Filter Buttons: Position & Squad Status -->
-    <div class="filter-button-groups">
-      <!-- Position Buttons -->
-      <div class="btn-group" role="group" aria-label="Position filter">
-        <button class="filter-btn filter-pos-btn active" data-position="all">All Positions</button>
-        <button class="filter-btn filter-pos-btn" data-position="forward">Forwards</button>
-        <button class="filter-btn filter-pos-btn" data-position="midfielder">Midfielders</button>
-        <button class="filter-btn filter-pos-btn" data-position="defender">Defenders</button>
-        <button class="filter-btn filter-pos-btn" data-position="goalkeeper">Goalkeepers</button>
-      </div>
-
-      <!-- Status Buttons (Active vs Departed vs Legend) -->
-      <div class="btn-group" role="group" aria-label="Status filter">
-        <button class="filter-btn filter-status-btn active" data-status="all">All Eras</button>
-        <button class="filter-btn filter-status-btn" data-status="active">Current Squad</button>
-        <button class="filter-btn filter-status-btn" data-status="departed">Departures (2022–24)</button>
-        <button class="filter-btn filter-status-btn" data-status="legends">Club Legends</button>
-      </div>
-
-      <div class="player-count-tag" id="player-count-badge">26 Madridistas</div>
-    </div>
-  </section>
-
-  <!-- Main View Containers -->
-  <main class="main-content">
-
-    <!-- 1. Squad Grid Explorer -->
-    <section id="view-grid" class="view-section active">
-      <div id="squad-grid" class="squad-grid">
-        <!-- Injected dynamically by app.js -->
+      <div class="map-frame" id="map-container">
+        <div class="map-toolbar">
+          <div class="segmented segmented-small" role="group" aria-label="Show on map">
+            <button type="button" class="seg-btn is-active" data-map-filter="all">Everyone</button>
+            <button type="button" class="seg-btn" data-map-filter="active">First team</button>
+            <button type="button" class="seg-btn" data-map-filter="departed">Former</button>
+            <button type="button" class="seg-btn" data-map-filter="legend">Legends</button>
+          </div>
+          <div class="map-zoom">
+            <button type="button" class="icon-btn" id="map-zoom-in" aria-label="Zoom in">+</button>
+            <button type="button" class="icon-btn" id="map-zoom-out" aria-label="Zoom out">&minus;</button>
+            <button type="button" class="text-btn" id="map-reset">Reset</button>
+          </div>
+        </div>
+        <canvas id="lineage-canvas" aria-label="Network of players, countries and clubs"></canvas>
+        <ul class="map-key">
+          <li><span class="key-dot key-player"></span>Player</li>
+          <li><span class="key-dot key-nation"></span>Country</li>
+          <li><span class="key-dot key-feeder"></span>Signed from</li>
+          <li><span class="key-dot key-dest"></span>Went to</li>
+        </ul>
       </div>
     </section>
 
-    <!-- 2. Interactive Lineage Mindmap -->
-    <section id="view-mindmap" class="view-section">
-      <div class="mindmap-wrapper" id="mindmap-container">
-        <!-- Floating Mindmap Header -->
-        <div class="mindmap-header-bar">
-          <div class="mindmap-title-badge">
-            <h3>Interactive Lineage Mindmap &amp; Constellation</h3>
-            <p>Drag nodes to rearrange • Scroll to zoom • Click any player node to inspect profile</p>
-          </div>
-
-          <div class="mindmap-floating-controls">
-            <button class="ctrl-btn" id="mindmap-zoom-in" title="Zoom In">+</button>
-            <button class="ctrl-btn" id="mindmap-zoom-out" title="Zoom Out">−</button>
-            <button class="ctrl-btn" id="mindmap-reset" title="Reset View">⟲ Reset</button>
-          </div>
+    <!-- Learn -->
+    <section id="view-train" class="view" aria-labelledby="train-title" hidden>
+      <div class="page-head">
+        <div>
+          <p class="kicker">Put names to faces</p>
+          <h1 id="train-title">Learn the squad</h1>
         </div>
-
-        <!-- HTML5 Canvas for Graph Rendering -->
-        <canvas id="lineage-canvas"></canvas>
-
-        <!-- Mindmap Legend -->
-        <div class="mindmap-legend">
-          <div class="legend-item"><span class="legend-dot dot-center"></span> Real Madrid Hub</div>
-          <div class="legend-item"><span class="legend-dot dot-nation"></span> Scouting Nations</div>
-          <div class="legend-item"><span class="legend-dot dot-feeder"></span> Previous / Feeder Clubs</div>
-          <div class="legend-item"><span class="legend-dot dot-departed"></span> Departure Destinations</div>
+        <div class="segmented" role="group" aria-label="Mode">
+          <button type="button" class="seg-btn is-active" data-mode="flashcards">Flashcards</button>
+          <button type="button" class="seg-btn" data-mode="quiz">Quiz</button>
         </div>
       </div>
-    </section>
 
-    <!-- 3. Memory Trainer (Flashcards & Quiz Engine) -->
-    <section id="view-trainer" class="view-section">
-      <div class="trainer-container">
-        <!-- Mode Switcher -->
-        <div class="trainer-mode-switch">
-          <button class="trainer-mode-btn active" data-mode="flashcards">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/><path d="M9 21V9"/></svg>
-            <span>Interactive Flashcards</span>
-          </button>
-          <button class="trainer-mode-btn" data-mode="quiz">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
-            <span>Speed Quiz Challenge</span>
+      <div id="flashcards-panel">
+        <div class="deck-options">
+          <label class="select">
+            <span>Deck</span>
+            <select id="deck-select">
+              <option value="active">First team only</option>
+              <option value="all">Everyone</option>
+            </select>
+          </label>
+          <p class="deck-progress" id="deck-progress"></p>
+        </div>
+
+        <div class="flashcard-scene">
+          <button type="button" class="flashcard" id="flashcard" aria-label="Flip card">
+            <span class="flashcard-face flashcard-front">
+              <span class="fc-photo" id="fc-photo"></span>
+              <span class="fc-name" id="fc-name"></span>
+              <span class="fc-meta" id="fc-meta"></span>
+              <span class="fc-hint">Tap to flip</span>
+            </span>
+            <span class="flashcard-face flashcard-back">
+              <span class="fc-back-name" id="fc-back-name"></span>
+              <span class="fc-row"><span class="fc-label">Country</span><span id="fc-back-nation"></span></span>
+              <span class="fc-row"><span class="fc-label">Signed from</span><span id="fc-back-from"></span></span>
+              <span class="fc-row"><span class="fc-label">Route to Madrid</span><span id="fc-back-path"></span></span>
+              <span class="fc-row"><span class="fc-label">Worth knowing</span><span id="fc-back-fact"></span></span>
+            </span>
           </button>
         </div>
 
-        <!-- Flashcard View -->
-        <div id="trainer-flashcards-section">
-          <div class="flashcard-3d-scene">
-            <div class="flashcard-card" id="flashcard-element" onclick="state.trainerInstance.toggleFlip(); updateFlashcardDisplay();">
-              <!-- Front Side -->
-              <div class="flashcard-face flashcard-front">
-                <div class="fc-hint-tag">Tap anywhere to flip &amp; reveal career roots</div>
-                <div class="fc-photo-circle">
-                  <img id="fc-front-photo" src="" alt="Player headshot">
-                </div>
-                <div class="fc-front-info">
-                  <h2 id="fc-front-name">Player Name</h2>
-                  <div class="fc-badges-row">
-                    <span id="fc-front-number">#9</span>
-                    <span id="fc-front-pos">Forward</span>
-                  </div>
-                </div>
-                <div class="fc-flip-instruction">
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6"/><path d="M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                  <span>Click to reveal country &amp; feeder clubs</span>
-                </div>
-              </div>
-
-              <!-- Back Side -->
-              <div class="flashcard-face flashcard-back">
-                <div class="fc-back-header">
-                  <h3 id="fc-back-name">Player Name</h3>
-                </div>
-                <div class="fc-back-grid">
-                  <div class="fc-back-item">
-                    <label>Country &amp; Nationality</label>
-                    <p id="fc-back-nation">France</p>
-                  </div>
-                  <div class="fc-back-item">
-                    <label>Youth Origin / First Academy</label>
-                    <p id="fc-back-origin">AS Bondy</p>
-                  </div>
-                  <div class="fc-back-item">
-                    <label>Full Career Path to Madrid</label>
-                    <p id="fc-back-prev">Monaco ➔ PSG ➔ Real Madrid</p>
-                  </div>
-                  <div class="fc-back-item">
-                    <label>Madridista Fact to Remember</label>
-                    <p id="fc-back-fact">Childhood bedroom covered in Real Madrid posters.</p>
-                  </div>
-                </div>
-                <div class="fc-flip-instruction">
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6"/><path d="M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
-                  <span>Click to flip back</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Flashcard Deck Controls -->
-          <div class="trainer-card-controls">
-            <button class="btn" id="card-prev-btn">◀ Previous</button>
-            <button class="btn btn-primary" id="card-flip-btn">Flip Card</button>
-            <button class="btn" id="card-next-btn">Next ▶</button>
-            <button class="btn btn-learned" id="card-learned-btn">Mark as Learned</button>
-            <button class="btn" id="card-shuffle-btn" title="Shuffle Deck">Shuffle</button>
-          </div>
-          <p id="card-counter" style="text-align: center; margin-top: 1rem; color: var(--text-muted); font-size: 0.85rem;"></p>
+        <div class="deck-controls">
+          <button type="button" class="btn" id="card-prev">Previous</button>
+          <button type="button" class="btn" id="card-learned">Mark as known</button>
+          <button type="button" class="btn" id="card-shuffle">Shuffle</button>
+          <button type="button" class="btn btn-primary" id="card-next">Next</button>
         </div>
+        <p class="deck-counter" id="card-counter"></p>
+      </div>
 
-        <!-- Quiz View -->
-        <div id="trainer-quiz-section" style="display: none;">
-          <div class="quiz-types-selector">
-            <button class="quiz-type-btn active" data-quiztype="country">Guess the Country</button>
-            <button class="quiz-type-btn" data-quiztype="lineage">Guess from Career Path</button>
-            <button class="quiz-type-btn" data-quiztype="number">Guess Shirt Number</button>
+      <div id="quiz-panel" hidden>
+        <div class="quiz-bar">
+          <div class="segmented segmented-small" role="group" aria-label="Quiz type">
+            <button type="button" class="seg-btn is-active" data-quiztype="country">Country</button>
+            <button type="button" class="seg-btn" data-quiztype="lineage">Career path</button>
+            <button type="button" class="seg-btn" data-quiztype="number">Shirt number</button>
           </div>
-
-          <div class="quiz-scoreboard">
-            <span id="quiz-score-display">Score: 0 / 0</span>
-            <span id="quiz-streak-display">Streak: 0</span>
-          </div>
-
-          <div id="quiz-question-container">
-            <!-- Injected dynamically by quiz.js -->
-          </div>
+          <p class="quiz-score"><span id="quiz-score">0 / 0</span> <span class="quiz-streak" id="quiz-streak"></span></p>
         </div>
+        <div id="quiz-question"></div>
       </div>
     </section>
 
-    <!-- 4. Player Comparison View -->
-    <section id="view-compare" class="view-section">
-      <div class="compare-container">
-        <div class="compare-selectors-bar">
-          <div class="compare-select-wrapper">
-            <label for="compare-select-a">Player A</label>
-            <select id="compare-select-a" class="custom-select" style="width: 100%;">
-              <!-- Injected by app.js -->
-            </select>
-          </div>
-          <div class="compare-select-wrapper">
-            <label for="compare-select-b">Player B</label>
-            <select id="compare-select-b" class="custom-select" style="width: 100%;">
-              <!-- Injected by app.js -->
-            </select>
-          </div>
-        </div>
-
-        <div id="compare-display-container">
-          <!-- Injected by app.js -->
+    <!-- Compare -->
+    <section id="view-compare" class="view" aria-labelledby="compare-title" hidden>
+      <div class="page-head">
+        <div>
+          <p class="kicker">Side by side</p>
+          <h1 id="compare-title">Compare two players</h1>
         </div>
       </div>
+      <div class="compare-pickers">
+        <label class="select select-wide"><span>Player one</span><select id="compare-a"></select></label>
+        <label class="select select-wide"><span>Player two</span><select id="compare-b"></select></label>
+      </div>
+      <div id="compare-output"></div>
     </section>
 
   </main>
 
-  <!-- Player Deep Dive Modal -->
-  <div id="modal-backdrop" class="modal-backdrop"></div>
-  <div id="player-modal" class="player-modal" role="dialog" aria-modal="true" aria-labelledby="modal-player-name">
-    <!-- Modal Hero Header -->
-    <div class="modal-header-hero">
-      <div class="modal-hero-profile">
-        <div class="modal-avatar-box">
-          <img id="modal-player-photo" src="" alt="Player photo">
-        </div>
-        <div class="modal-profile-text">
-          <h2>
-            <span id="modal-player-name">Player Name</span>
-            <span id="modal-player-number" style="color: var(--gold-primary);">#0</span>
-          </h2>
-          <p>
-            <span id="modal-player-flag"></span> 
-            <span id="modal-player-nation"></span> • 
-            <span id="modal-player-position"></span>
-          </p>
-        </div>
+  <footer class="site-footer">
+    <p id="footer-note"></p>
+  </footer>
+
+  <!-- Player profile -->
+  <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+  <aside class="drawer" id="player-drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-name" hidden>
+    <div class="drawer-head">
+      <div class="drawer-photo" id="drawer-photo"></div>
+      <div class="drawer-title">
+        <p class="kicker" id="drawer-status"></p>
+        <h2 id="drawer-name"></h2>
+        <p class="drawer-meta" id="drawer-meta"></p>
       </div>
-      <button id="modal-close-btn" class="modal-close-btn" title="Close dialog">✕</button>
+      <button type="button" class="icon-btn drawer-close" id="drawer-close" aria-label="Close profile">&times;</button>
     </div>
-
-    <!-- Modal Tabs Navigation with Crisp Icons -->
-    <div class="modal-tabs-bar">
-      <button class="modal-tab-btn active" data-tab="overview">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></svg>
-        <span>Overview &amp; Cabinet</span>
-      </button>
-      <button class="modal-tab-btn" data-tab="lineage">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>
-        <span>Career Lineage Flow</span>
-      </button>
-      <button class="modal-tab-btn" data-tab="matches">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="12 6 12 12 16 14"/></svg>
-        <span>Madrid Debut &amp; Matches</span>
-      </button>
-      <button class="modal-tab-btn" data-tab="records">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
-        <span>Records &amp; Lore</span>
-      </button>
-      <button class="modal-tab-btn" data-tab="gallery">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>
-        <span>Photo Gallery</span>
-      </button>
+    <div class="drawer-tabs" role="tablist">
+      <button type="button" role="tab" class="tab is-active" data-tab="overview" aria-selected="true">Overview</button>
+      <button type="button" role="tab" class="tab" data-tab="career" aria-selected="false">Career</button>
+      <button type="button" role="tab" class="tab" data-tab="matches" aria-selected="false">Matches</button>
+      <button type="button" role="tab" class="tab" data-tab="records" aria-selected="false">Stories</button>
     </div>
+    <div class="drawer-body" id="drawer-body" role="tabpanel"></div>
+  </aside>
 
-    <!-- Scrollable Content Pane -->
-    <div id="modal-tab-content" class="modal-scroll-body">
-      <!-- Injected dynamically by app.js -->
-    </div>
-  </div>
-
-  <!-- JavaScript Modules -->
   <script src="js/data.js"></script>
   <script src="js/mindmap.js"></script>
   <script src="js/quiz.js"></script>
