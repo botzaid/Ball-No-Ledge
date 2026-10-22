@@ -114,7 +114,6 @@ const Motion = (() => {
     const el = document.getElementById('curtain');
     if (firstNav || reduced || !el) { firstNav = false; swap(); return; }
     clearTimeout(curtainTimer);
-    if (window.Sound) Sound.whoosh();
     el.classList.remove('is-out');
     void el.offsetWidth;
     el.classList.add('is-in');

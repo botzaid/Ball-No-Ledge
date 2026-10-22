@@ -1,6 +1,6 @@
 // Ball No Ledge: main UI controller.
 
-const VIEWS = ['home', 'squad', 'seasons', 'map', 'play', 'compare'];
+const VIEWS = ['home', 'squad', 'seasons', 'map', 'play', 'train', 'compare'];
 
 const STATUS_TITLES = {
   active: `First team ${RM_SQUAD_SEASON}`,
@@ -117,7 +117,7 @@ function countUp(container) {
 document.addEventListener('DOMContentLoaded', () => {
   state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
   Motion.init();
-  Sound.init();
+  Radio.init();
   initTheme();
   initHero();
   initSquadControls();
@@ -140,7 +140,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function routeFromHash() {
   let view = location.hash.replace('#', '').split('/')[0];
-  if (view === 'train') view = 'play'; // old links
   view = VIEWS.includes(view) ? view : 'home';
   if (view === state.view) { if (view === 'play') Game.show(); return; }
   Motion.curtain(() => showView(view));
@@ -162,7 +161,7 @@ function showView(view) {
     }
   });
   document.querySelectorAll('.nav-link').forEach(a => {
-    const on = a.dataset.view === view;
+    const on = a.dataset.view === view || (view === 'train' && a.dataset.view === 'play');
     a.classList.toggle('is-active', on);
     if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
@@ -170,7 +169,8 @@ function showView(view) {
   if (view !== 'map') state.routes.stop();
   if (view === 'home') countUp($('home-stats'));
   if (view === 'map') state.routes.render();
-  if (view === 'play') { Game.show(); renderFlashcard(); }
+  if (view === 'play') Game.show();
+  if (view === 'train') renderFlashcard();
   if (view === 'compare') renderCompare();
   if (view === 'seasons') countUp($('season-now'));
 }
@@ -193,6 +193,8 @@ function initTheme() {
     try { localStorage.setItem('bnl_theme', next); } catch (e) { /* storage off */ }
     setTimeout(() => document.documentElement.classList.remove('theme-swap'), 400);
     if (state.view === 'map') state.routes.render();
+    state.setHeroPhoto?.();
+    state.syncMasthead?.();
   });
 }
 
@@ -202,33 +204,105 @@ function initHero() {
   const hero = document.querySelector('.view-home .hero');
   const img = $('hero-photo');
   const masthead = document.querySelector('.masthead');
-  const ready = () => hero.classList.add('has-photo');
-  if (img.complete && img.naturalWidth) ready();
-  else { img.addEventListener('load', ready); img.addEventListener('error', () => img.remove()); }
-  fetch('images/stadium/credit.json').then(r => (r.ok ? r.json() : null)).then(c => {
-    if (!c) return;
-    const credit = $('hero-credit');
-    credit.href = c.page;
-    credit.textContent = `Photo: ${c.artist}, ${c.license}, via Wikimedia Commons`;
-    credit.hidden = false;
-  }).catch(() => {});
+  const credit = $('hero-credit');
+  let credits = {};
+  fetch('images/media/credits.json').then(r => (r.ok ? r.json() : {})).then(c => { credits = c; setPhoto(); }).catch(() => {});
 
-  // Over the photo the masthead is transparent and uses the night palette in both themes
+  // A day game in the light theme, a night game in the dark one
+  function setPhoto() {
+    const key = document.documentElement.dataset.theme === 'light' ? 'bernabeu-day' : 'bernabeu-night';
+    if (img.dataset.key !== key) {
+      img.dataset.key = key;
+      hero.classList.remove('has-photo');
+      img.onload = () => hero.classList.add('has-photo');
+      img.srcset = `images/media/${key}-1920.jpg 1920w, images/media/${key}-3840.jpg 3840w`;
+      img.src = `images/media/${key}-1920.jpg`;
+      if (img.complete && img.naturalWidth) hero.classList.add('has-photo');
+    }
+    const c = credits[key];
+    credit.hidden = !c;
+    if (c) { credit.href = c.page; credit.textContent = `Photo: ${c.artist}, ${c.license}, via Wikimedia Commons`; }
+  }
+  setPhoto();
+  state.setHeroPhoto = setPhoto;
+
+  // Depth: the photo drifts slower than the page and leans away from the pointer,
+  // the match card leans the other way, so the layers separate a little.
+  const card = $('match-card');
+  let px = 0, py = 0, raf = null;
+  const paint = () => {
+    raf = null;
+    const y = Math.min(scrollY, hero.offsetHeight);
+    img.style.translate = `${px * -14}px ${y * 0.35 + py * -10}px`;
+    if (card) card.style.translate = `${px * 8}px ${py * 6}px`;
+  };
+  const queue = () => { if (!raf) raf = requestAnimationFrame(paint); };
+  if (!Motion.reduced) {
+    addEventListener('scroll', queue, { passive: true });
+    hero.addEventListener('pointermove', e => {
+      const r = hero.getBoundingClientRect();
+      px = (e.clientX - r.left) / r.width - 0.5;
+      py = (e.clientY - r.top) / r.height - 0.5;
+      queue();
+    });
+    hero.addEventListener('pointerleave', () => { px = 0; py = 0; queue(); });
+  }
+
+  // Over the photo the masthead is transparent; at night it takes the dark palette
   const sync = () => {
     document.documentElement.style.setProperty('--mast-h', `${masthead.offsetHeight}px`);
     const over = state.view === 'home' && scrollY < hero.offsetHeight - masthead.offsetHeight - 20;
     masthead.classList.toggle('is-over', over);
-    masthead.classList.toggle('theme-dark', over);
+    masthead.classList.toggle('theme-dark', over && document.documentElement.dataset.theme !== 'light');
   };
   addEventListener('scroll', sync, { passive: true });
   addEventListener('resize', sync);
   state.syncMasthead = sync;
+
+  let lastY = scrollY;
+  addEventListener('scroll', () => {
+    const y = scrollY;
+    if (innerWidth > 860 || y < 120) masthead.classList.remove('is-tucked');
+    else if (y > lastY + 6) masthead.classList.add('is-tucked');
+    else if (y < lastY - 6) masthead.classList.remove('is-tucked');
+    lastY = y;
+  }, { passive: true });
   sync();
 }
 
 // ---------- home ----------
 
+const EUROPEAN_CUPS = [
+  [1956, 'Reims'], [1957, 'Fiorentina'], [1958, 'Milan'], [1959, 'Reims'], [1960, 'Eintracht Frankfurt'],
+  [1966, 'Partizan'], [1998, 'Juventus'], [2000, 'Valencia'], [2002, 'Bayer Leverkusen'], [2014, 'Atlético Madrid'],
+  [2016, 'Atlético Madrid'], [2017, 'Juventus'], [2018, 'Liverpool'], [2022, 'Liverpool'], [2024, 'Borussia Dortmund']
+];
+
+function renderCups() {
+  $('cups-years').innerHTML = EUROPEAN_CUPS.map(([y, o], i) => `<li style="--i:${i}"><b>${y}</b><span>v ${esc(o)}</span></li>`).join('');
+  fetch('images/media/credits.json').then(r => (r.ok ? r.json() : {})).then(c => {
+    const t = c['ucl-trophy'];
+    if (!t) return;
+    const el = $('cups-credit');
+    el.href = t.page; el.textContent = `Trophy photo: ${t.artist}, ${t.license}`; el.hidden = false;
+  }).catch(() => {});
+  // The trophy turns a little as the section scrolls past
+  const stage = document.querySelector('.cups-trophy');
+  if (!stage || Motion.reduced) return;
+  let raf = null;
+  const paint = () => {
+    raf = null;
+    const r = stage.getBoundingClientRect();
+    const p = Math.max(-1, Math.min(1, (r.top + r.height / 2 - innerHeight / 2) / innerHeight));
+    stage.style.setProperty('--turn', `${p * -28}deg`);
+    stage.style.setProperty('--lift', `${p * 30}px`);
+  };
+  addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(paint); }, { passive: true });
+  paint();
+}
+
 function renderHome() {
+  if (!renderHome.cups) { renderHome.cups = true; renderCups(); }
   const results = RM_SEASON_MATCHES;
   const rec = matchRecord(results);
   const cleanSheets = results.filter(m => m.score[1] === 0).length;
@@ -713,6 +787,7 @@ function hasTab(p, tab) {
 function openPlayer(id) {
   const player = byId(id);
   if (!player) return;
+  if (id === 'cristiano') Radio.ronaldo();
   // Opening during a close animation: cancel the pending close
   clearTimeout(state.closeTimer);
   state.closeTimer = null;
@@ -931,7 +1006,7 @@ function initTrainer() {
   $('card-learned').addEventListener('click', () => { t.toggleLearned(t.getCurrentPlayer().id); renderFlashcard(); });
 
   document.addEventListener('keydown', e => {
-    if (state.view !== 'play' || !$('player-drawer').hidden) return;
+    if (state.view !== 'train' || !$('player-drawer').hidden) return;
     if (e.target.closest('input, select, textarea, .pitch-game')) return;
     if (e.key === 'ArrowRight') { t.nextCard(); renderFlashcard('next'); }
     if (e.key === 'ArrowLeft') { t.prevCard(); renderFlashcard('prev'); }
