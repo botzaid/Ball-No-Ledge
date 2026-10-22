@@ -150,7 +150,7 @@ function showView(view) {
   window.scrollTo(0, 0);
   state.view = view;
   document.body.dataset.view = view;
-  state.syncMasthead?.();
+  requestAnimationFrame(() => state.syncMasthead?.());
   VIEWS.forEach(v => {
     const el = $(`view-${v}`);
     el.hidden = v !== view;

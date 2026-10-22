@@ -4,7 +4,7 @@ Real Madrid, player by player. A small static site for getting to know the squad
 
 ## What's in it
 
-- **Home** – a floodlit-stadium hero, the next fixture with a live countdown (or the live score during a game), a ticker of this season's results, season numbers and the faces of the squad.
+- **Home** – a full-width photo of the Bernabéu (CC0, Wikimedia Commons; pick another with `tools/stadium.json`), the next fixture with a live countdown (or the live score during a game), a ticker of this season's results, season numbers and the faces of the squad.
 - **Players** – the 2026-27 first team, 14 legends and every player with 40+ games since 2000 (120 profiles), plus a sortable table of all 260 players since 2000-01.
 - **Seasons** – this season match by match with scorers, then every season since 2000-01: coach, finish, cup runs, trophies, top scorer.
 - **Transfers** – a flow diagram from the country each player was signed from, through Madrid, to where they went. Press play to watch 2000–2026 year by year.
@@ -57,7 +57,8 @@ index.html                 markup for all views and the profile panel
 css/styles.css             all styling and motion
 js/app.js                  routing, home, players, seasons, profile panel, compare
 js/game.js                 Bernabéu Nights quiz game, challenge links, story poster
-js/motion.js               hero canvas, split-text reveals, tilt, curtain, confetti
+js/motion.js               split-text reveals, tilt, trophy page transition, confetti
+js/sound.js                synthesised sound effects and stadium music (Web Audio, off by default)
 js/live.js                 live score polling and next-match countdown
 js/routes.js               transfer map and year-by-year playback
 js/quiz.js                 flashcard deck

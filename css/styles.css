@@ -990,7 +990,7 @@ body[data-view="home"] main { max-width: none; padding: 0 0 64px; }
   text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .hero-credit:hover { color: rgba(243, 240, 232, 0.9); }
 @media (max-width: 860px) {
-  .hero-shade { background: linear-gradient(to bottom, rgba(5, 6, 12, 0.7) 0%, rgba(5, 6, 12, 0.45) 35%, rgba(5, 6, 12, 0.85) 75%); }
+  .hero-shade { background: linear-gradient(to bottom, rgba(5, 6, 12, 0.82) 0%, rgba(5, 6, 12, 0.72) 40%, rgba(5, 6, 12, 0.88) 80%); }
   .hero-photo { object-position: 60% 50%; }
 }
 /* On the home page the masthead floats over the photo until you scroll past it */
@@ -1327,8 +1327,10 @@ body[data-view="home"] .view-home .hero { padding-top: calc(var(--mast-h, 80px) 
 .sound-toggle:hover { transform: none; }
 @media (max-width: 860px) {
   .masthead-inner { position: relative; }
-  .mast-tools { position: absolute; top: 10px; right: var(--gutter); }
+  .mast-tools { position: absolute; top: 10px; right: var(--gutter); gap: 6px; }
+  .mast-tools .theme-toggle { width: 34px; height: 34px; }
 }
+@media (max-width: 440px) { .wordmark-text small { display: none; } }
 
 
 /* themed dropdowns (js/select.js) */
