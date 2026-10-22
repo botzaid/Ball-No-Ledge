@@ -20,10 +20,14 @@ function pickRandom(list) {
 function routeToMadrid(player) {
   const arrival = player.lineage.findIndex(l => l.club === 'Real Madrid');
   const before = arrival === -1 ? player.lineage : player.lineage.slice(0, arrival);
-  return before.filter(l => !/Real Madrid|Castilla|La Fábrica/.test(l.club));
+  const clubs = before.filter(l => !/Real Madrid|Castilla|La Fábrica/.test(l.club));
+  // Generated careers list youth clubs separately; skip them when there's a senior career
+  const senior = clubs.filter(l => l.stage !== 'Youth');
+  return senior.length ? senior : clubs;
 }
 
 function signedFrom(player) {
+  if (player.route && player.route.from !== undefined) return player.route.from ? { club: player.route.from } : null;
   const route = routeToMadrid(player);
   return route.length ? route[route.length - 1] : null;
 }
@@ -122,7 +126,7 @@ class RM_MemoryTrainer {
         player: target,
         showPhoto: true,
         question: `Who does ${target.name} play for internationally?`,
-        prompt: `${target.position}${target.status === 'active' ? `, No. ${target.number}` : ''}`,
+        prompt: `${target.position}${target.status === 'active' ? `, No. ${target.number}` : `, at Madrid ${target.madridYears || ''}`}`,
         correctAnswer: target.nationality,
         options: shuffled([target.nationality, ...others]).map(n => ({ text: n, value: n })),
         explanation: `${target.name} plays for ${target.nationality}.${target.birthPlace ? ` Born in ${target.birthPlace}.` : ''}`
