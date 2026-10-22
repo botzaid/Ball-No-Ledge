@@ -2,15 +2,7 @@
   "_files": {
     "asencio": "Raul-Asencio-Real-Madrid-2025.jpg"
   },
-  "_search": {
-    "espi": ["Carlos Espí", ["espi"]],
-    "pitarch": ["Thiago Pitarch", ["pitarch"]],
-    "fran-garcia": ["Fran García Rayo Real Madrid", ["fran", "garcia"]],
-    "diego-lopez": ["Diego López goalkeeper", ["diego", "lopez"]],
-    "flavio-conceicao": ["Flávio Conceição", ["flavio", "concei"]],
-    "mejia": ["Álvaro Mejía", ["mejia"]],
-    "gravesen": ["Thomas Gravesen", ["gravesen"]]
-  },
+  "_search": {},
   "_comment": "player id -> English Wikipedia article. tools/fetch_photos.py downloads the article's Wikidata image (P18) from Wikimedia Commons for every id that has no images/players/<id>.jpg yet.",
 
   "asencio": "Raúl Asencio",

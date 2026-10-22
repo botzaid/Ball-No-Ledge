@@ -378,6 +378,12 @@ def build_matches(archive):
         date = parse_date(f.get('date', ''))
         score = re.search(r'(\d+)\s*[–-]\s*(\d+)', clean(f.get('score', '')))
         entry = {'date': date, 'comp': comp, 'opponent': opponent, 'venue': 'H' if home else 'A'}
+        # {{UTZ|21:00|2}} = 21:00 local at UTC+2 -> kickoff in UTC
+        t = re.search(r'(\d{1,2}):(\d{2})\s*\|\s*([+-]?\d+)', f.get('time', ''))
+        if t and date:
+            from datetime import datetime, timedelta
+            local = datetime.fromisoformat(f'{date}T{int(t.group(1)):02d}:{t.group(2)}:00')
+            entry['kickoff'] = (local - timedelta(hours=int(t.group(3)))).strftime('%Y-%m-%dT%H:%M:00Z')
         if score:
             a, b = int(score.group(1)), int(score.group(2))
             entry['score'] = [a, b] if home else [b, a]

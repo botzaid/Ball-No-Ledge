@@ -4,12 +4,22 @@ Real Madrid, player by player. A small static site for getting to know the squad
 
 ## What's in it
 
-- **Players** – the 2026-27 first team, 14 club legends and every other player with 40+ games since 2000 (120 profiles), plus a sortable table of all 260 players who have played for Madrid since 2000-01. Search, filter by position, status and country.
-- **Player profiles** – bio, Madrid games/goals/assists (all competitions, up to date), honours, caps, club-by-club career, and for the hand-written profiles the debut, big games, records and stories. Current players also show their 2026-27 numbers.
-- **Seasons** – this season match by match with scorers, goals and appearance leaders; then every season since 2000-01 with coach, league finish, cup runs, trophies and top scorer.
-- **Transfers** – a flow diagram from the country each player was signed from, through Madrid, to where they went next. Filter by decade and position, search a player, tap a country or band to list the players.
-- **Learn** – flashcards and a quiz (country, career path, shirt number).
+- **Home** – a floodlit-stadium hero, the next fixture with a live countdown (or the live score during a game), a ticker of this season's results, season numbers and the faces of the squad.
+- **Players** – the 2026-27 first team, 14 legends and every player with 40+ games since 2000 (120 profiles), plus a sortable table of all 260 players since 2000-01.
+- **Seasons** – this season match by match with scorers, then every season since 2000-01: coach, finish, cup runs, trophies, top scorer.
+- **Transfers** – a flow diagram from the country each player was signed from, through Madrid, to where they went. Press play to watch 2000–2026 year by year.
+- **Play: Miedo Escénico** – the quiz as a 90-minute match. Three tiers (Cantera, Galáctico, 92:48), ten mixed question types (faces, blurred photos, shirt numbers, transfers, arrival years, anagrams, missing letters, seasons, this season's scorers). Right answers are goals; misses are goals for Barça. Challenge a friend with a link that replays the same ten questions, and share a 1080×1920 story image. Plus flashcards in the Training ground.
 - **Compare** – any two players side by side.
+
+## Keeping it live
+
+| What | How | Needs |
+| --- | --- | --- |
+| Results, scorers, fixtures, appearances, career totals | *Refresh data* workflow runs every 2 hours, re-reads Wikipedia and rebuilds `js/history.js`; Vercel redeploys on each commit to `main` | nothing; runs once merged to `main` |
+| Live score during a match | `api/live.js` (Vercel function) asks football-data.org, cached 30 s at the edge; the site polls it every 30 s while a game is on | a free API key: register at football-data.org, then in Vercel → Project → Settings → Environment Variables add `FOOTBALL_DATA_TOKEN`, and redeploy |
+| Next-match countdown | from the fixture list in `js/history.js` | nothing |
+
+Without the key, everything works except the in-game live score; the home page shows the countdown instead.
 
 ## Data
 
@@ -17,18 +27,17 @@ Real Madrid, player by player. A small static site for getting to know the squad
 | --- | --- | --- |
 | `js/data.js` | 38 hand-written profiles (bio, debut, big games, stories) | written by hand |
 | `js/history.js` | all players since 2000, profiles, honours, seasons, 2026-27 stats | **generated** by `research/build_history.py` from Wikipedia |
-| `js/season.js` | 2026-27 results with scorers | updated by hand after each match |
+| `js/season.js` | short notes for this season's matches | by hand (optional) |
 | `js/players.js` | merges the above into one player list | |
 | `images/players/` | photos, `credits.json` (author + licence), `headshots/` crops | **generated** by GitHub Actions |
 
-### Updating after a match
+### After a match
 
-1. Add the match to `RM_SEASON_MATCHES` in `js/season.js` and bump `RM_SEASON_UPDATED`.
-2. Re-run the Wikipedia job for fresh totals: GitHub → Actions → *Wikipedia sources* → Run workflow (it commits to `research/wiki/`), pull, then `python3 research/build_history.py`.
+Nothing to do: the *Refresh data* workflow picks the result up from Wikipedia within a couple of hours of the page being updated. To force it: GitHub → Actions → *Refresh data* → Run workflow. Optionally add a one-line note for the match in `js/season.js`.
 
 ### Photos
 
-Photos are freely licensed images from Wikimedia Commons, fetched by the *Player photos* workflow (`.github/workflows/player-photos.yml`): add `"player-id": "Wikipedia article"` to `tools/photo_manifest.json` and push. The job downloads the image, records the author and licence in `images/players/credits.json` (shown on each profile, as the licences require), and crops a face-centred headshot with `tools/make_headshots.py`. If a crop misses the face, add a manual box to `OVERRIDES` in that script. Players with no free photo on Commons show their initials or shirt number.
+Photos are freely licensed images from Wikimedia Commons, fetched by the *Player photos* workflow (`.github/workflows/player-photos.yml`): add `"player-id": "Wikipedia article"` to `tools/photo_manifest.json` and push. The job downloads the image, records the author and licence in `images/players/credits.json` (shown on each profile, as the licences require), and crops a face-centred headshot with `tools/make_headshots.py`. If a crop misses the face, add a manual box to `OVERRIDES` in that script. Players with no free photo on Commons show an illustrated shirt with their number or initials. If you own a photo (or have permission), save it as `images/players/<id>.jpg` and push; the job crops it.
 
 ## Running it
 
@@ -46,9 +55,13 @@ Then open http://localhost:8000. Deploys to Vercel as-is (`vercel.json`).
 ```
 index.html                 markup for all views and the profile panel
 css/styles.css             all styling and motion
-js/app.js                  routing, players, seasons, profile panel, learn, compare
-js/routes.js               transfer map (SVG flow diagram)
-js/quiz.js                 flashcards and quiz questions
+js/app.js                  routing, home, players, seasons, profile panel, compare
+js/game.js                 Miedo Escénico quiz game, challenge links, story image
+js/motion.js               hero canvas, split-text reveals, tilt, curtain, confetti
+js/live.js                 live score polling and next-match countdown
+js/routes.js               transfer map and year-by-year playback
+js/quiz.js                 flashcard deck
+api/live.js                Vercel function proxying football-data.org
 js/clubs.js                club -> country lookup for the transfer map
 research/build_history.py  builds js/history.js from research/wiki/
 tools/                     photo fetching and cropping, Wikipedia source fetching

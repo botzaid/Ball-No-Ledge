@@ -1,6 +1,6 @@
 // Ball No Ledge: main UI controller.
 
-const VIEWS = ['squad', 'seasons', 'map', 'train', 'compare'];
+const VIEWS = ['home', 'squad', 'seasons', 'map', 'play', 'compare'];
 
 const STATUS_TITLES = {
   active: `First team ${RM_SQUAD_SEASON}`,
@@ -9,7 +9,7 @@ const STATUS_TITLES = {
 };
 
 const state = {
-  view: 'squad',
+  view: null,
   layout: 'cards',
   filterPosition: 'all',
   filterStatus: 'all',
@@ -50,12 +50,25 @@ function statValue(v) {
   return v === undefined || v === null ? '—' : v;
 }
 
+// Players with no freely licensed photo get an illustrated home shirt with their
+// number (current squad) or initials, instead of an empty box.
+function kitSvg(mark) {
+  const text = String(mark);
+  const size = text.length > 2 ? 30 : 40;
+  return `<svg class="kit" viewBox="0 0 120 120" aria-hidden="true">
+    <path class="kit-shirt" d="M38 14 L22 20 L6 44 L22 54 L28 46 L28 108 L92 108 L92 46 L98 54 L114 44 L98 20 L82 14 C78 24 70 28 60 28 C50 28 42 24 38 14 Z"/>
+    <path class="kit-trim" d="M38 14 C42 24 50 28 60 28 C70 28 78 24 82 14" fill="none"/>
+    <path class="kit-trim" d="M6 44 L22 54 M114 44 L98 54" fill="none"/>
+    <text x="60" y="${text.length > 2 ? 80 : 84}" text-anchor="middle" font-size="${size}">${esc(text)}</text>
+  </svg>`;
+}
+
 function photoMarkup(player, { label = true } = {}) {
   if (player.headshot) {
     return `<img src="${esc(player.headshot)}" alt="" loading="lazy" decoding="async" onload="this.classList.add('is-loaded')">`;
   }
   const mark = player.status === 'active' ? player.number : player.name.split(' ').map(w => w[0]).slice(0, 2).join('');
-  return `<span class="no-photo" aria-hidden="true"><b>${esc(mark)}</b>${label ? '<small>No free photo yet</small>' : ''}</span>`;
+  return `<span class="no-photo" aria-hidden="true">${kitSvg(mark)}${label ? '<small>No free photo yet</small>' : ''}</span>`;
 }
 
 function fmtDate(iso) {
@@ -103,27 +116,36 @@ function countUp(container) {
 
 document.addEventListener('DOMContentLoaded', () => {
   state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
+  Motion.init();
   initSquadControls();
   initDrawer();
   initRoutes();
   initTrainer();
   initCompare();
   renderIntro();
+  renderHome();
   renderSquad();
   renderSeasons();
+  Game.init($('game'));
+  Live.subscribe(renderLive);
+  Live.start();
 
   window.addEventListener('hashchange', routeFromHash);
   routeFromHash();
 });
 
 function routeFromHash() {
-  const view = location.hash.replace('#', '');
-  showView(VIEWS.includes(view) ? view : 'squad');
+  let view = location.hash.replace('#', '').split('/')[0];
+  if (view === 'train') view = 'play'; // old links
+  view = VIEWS.includes(view) ? view : 'home';
+  if (view === state.view) { if (view === 'play') Game.show(); return; }
+  Motion.curtain(() => showView(view));
 }
 
 function showView(view) {
-  if (state.view !== view) window.scrollTo(0, 0);
+  window.scrollTo(0, 0);
   state.view = view;
+  document.body.dataset.view = view;
   VIEWS.forEach(v => {
     const el = $(`view-${v}`);
     el.hidden = v !== view;
@@ -131,6 +153,7 @@ function showView(view) {
       el.classList.remove('view-enter');
       void el.offsetWidth; // restart the entrance animation
       el.classList.add('view-enter');
+      Motion.enter(el);
     }
   });
   document.querySelectorAll('.nav-link').forEach(a => {
@@ -139,10 +162,84 @@ function showView(view) {
     if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
 
+  if (view !== 'map') state.routes.stop();
+  if (view === 'home') countUp($('home-stats'));
   if (view === 'map') state.routes.render();
-  if (view === 'train') renderTrainer();
+  if (view === 'play') { Game.show(); renderFlashcard(); }
   if (view === 'compare') renderCompare();
   if (view === 'seasons') countUp($('season-now'));
+}
+
+// ---------- home ----------
+
+function renderHome() {
+  const results = RM_SEASON_MATCHES;
+  const rec = matchRecord(results);
+  const cleanSheets = results.filter(m => m.score[1] === 0).length;
+  const goals = seasonGoals();
+  const [topId, topGoals] = Object.entries(goals).sort((a, b) => b[1] - a[1])[0] || [];
+  const top = byId(topId);
+
+  $('hero-pill').textContent = `${RM_SQUAD_SEASON} · updated ${RM_SEASON_UPDATED}`;
+  $('hero-sub').textContent = `${RM_ARCHIVE.length} players since 2000-01, ${RM_SEASONS.length} seasons, and this one counted match by match. ` +
+    `Where every player came from, where they went, and a quiz to prove you were paying attention.`;
+
+  // Results ticker (duplicated for a seamless loop)
+  const items = [...results].reverse().map(m => {
+    const res = m.score[0] > m.score[1] ? 'w' : m.score[0] < m.score[1] ? 'l' : 'd';
+    const line = m.venue === 'H' ? `Real Madrid <b>${m.score[0]}–${m.score[1]}</b> ${esc(m.opponent)}` : `${esc(m.opponent)} <b>${m.score[1]}–${m.score[0]}</b> Real Madrid`;
+    const scorers = [...new Set(m.scorers.map(([id]) => id === 'og' ? 'og' : byId(id)?.name.split(' ').pop()))].filter(Boolean).join(', ');
+    return `<span class="tick res-${res}"><i>${fmtDate(m.date)}</i>${line}${scorers ? `<small>${esc(scorers)}</small>` : ''}</span>`;
+  }).join('');
+  $('ticker-track').innerHTML = items + items;
+
+  $('home-stats').innerHTML = [
+    [rec.p, 'games played'], [rec.w, 'wins'], [rec.gf, 'goals scored'], [cleanSheets, 'clean sheets'],
+    [topGoals || 0, `goals for ${top ? top.name.split(' ').pop() : '—'}`]
+  ].map(([n, label]) => `<div class="home-stat" data-reveal><b data-count="${n}">${n}</b><span>${esc(label)}</span></div>`).join('');
+
+  const face = p => `<button type="button" class="face" data-player="${esc(p.id)}"><span class="face-img">${photoMarkup(p, { label: false })}</span><span class="face-name">${esc(p.name)}</span></button>`;
+  const squad = RM_PLAYERS.filter(p => p.status === 'active' && p.headshot).sort((a, b) => a.number - b.number);
+  const legends = RM_PLAYERS.filter(p => p.status === 'legend' && p.headshot);
+  $('faces').innerHTML = `
+    <div class="faces-row"><div class="faces-track">${squad.map(face).join('')}${squad.map(face).join('')}</div></div>
+    <div class="faces-row faces-row-rev"><div class="faces-track">${legends.map(face).join('')}${legends.map(face).join('')}</div></div>`;
+  $('faces').addEventListener('click', e => { const b = e.target.closest('[data-player]'); if (b) openPlayer(b.dataset.player); });
+  reveal($('view-home'));
+}
+
+// Live bar in the masthead and the match card on the home hero
+let countdownTimer = null;
+function renderLive(st) {
+  const bar = $('live-bar');
+  const card = $('match-card');
+  clearInterval(countdownTimer);
+  if (st.mode === 'live' && st.live) {
+    const m = st.live;
+    bar.hidden = false;
+    bar.innerHTML = `<span class="live-dot"></span><b>Live${m.minute ? ` ${m.minute}'` : ''}</b> ${esc(m.home)} <b>${m.score.home ?? 0}–${m.score.away ?? 0}</b> ${esc(m.away)} <span class="muted">${esc(m.competition || '')}</span>`;
+    card.innerHTML = `
+      <span class="mc-tag"><span class="live-dot"></span>Live${m.minute ? ` · ${m.minute}'` : ''}</span>
+      <div class="mc-teams"><span>${esc(m.home)}</span><b>${m.score.home ?? 0}–${m.score.away ?? 0}</b><span>${esc(m.away)}</span></div>
+      <span class="mc-comp">${esc(m.competition || '')}</span>`;
+    return;
+  }
+  bar.hidden = true;
+  const n = st.next;
+  if (!n) { card.innerHTML = ''; return; }
+  const derby = Live.derby(n.opponent || '');
+  const kick = new Date(n.kickoff);
+  const paint = () => {
+    const c = Live.countdown(n.kickoff);
+    card.innerHTML = `
+      <span class="mc-tag">Next${derby ? ` · ${derby}` : ''}</span>
+      <div class="mc-teams"><span>${esc(n.home)}</span><b>v</b><span>${esc(n.away)}</span></div>
+      <span class="mc-comp">${esc(n.competition)} · ${kick.toLocaleDateString(undefined, { weekday: 'short', day: 'numeric', month: 'short' })}, ${kick.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' })} your time</span>
+      ${c ? `<div class="mc-count">${[['d', c.d], ['h', c.h], ['m', c.m], ['s', c.s]].map(([k, v]) => `<span><b>${String(v).padStart(2, '0')}</b><i>${k}</i></span>`).join('')}</div>` : '<div class="mc-count"><span><b>Kick-off</b></span></div>'}
+      ${st.last ? `<span class="mc-last">Last: ${esc(st.last.home)} ${st.last.score.home}–${st.last.score.away} ${esc(st.last.away)}</span>` : ''}`;
+  };
+  paint();
+  countdownTimer = setInterval(paint, 1000);
 }
 
 function renderIntro() {
@@ -154,10 +251,11 @@ function renderIntro() {
     `plus <span data-count="${RM_PLAYERS.length - squad.length}">${RM_PLAYERS.length - squad.length}</span> former players and legends from 2000 onwards. ` +
     `Switch to the table for all <span data-count="${RM_ARCHIVE.length}">${RM_ARCHIVE.length}</span> players who have played for Madrid since 2000.`;
   countUp($('squad-intro'));
+  const last = RM_SEASON_MATCHES[RM_SEASON_MATCHES.length - 1];
   $('footer-note').innerHTML =
-    `Appearances, goals and assists cover all official competitions and are up to date as of ${esc(RM_SEASON_UPDATED)} ` +
-    `(after Real Madrid 4-1 RB Leipzig). Player and season records come from Wikipedia's Real Madrid pages (CC BY-SA 4.0); ` +
-    `this season's results were checked against ESPN, the club and other match reports. ` +
+    `Appearances, goals and assists cover all official competitions and are up to date as of ${esc(RM_SEASON_UPDATED)}` +
+    `${last ? ` (after ${last.venue === 'H' ? `Real Madrid ${last.score[0]}-${last.score[1]} ${esc(last.opponent)}` : `${esc(last.opponent)} ${last.score[1]}-${last.score[0]} Real Madrid`})` : ''}. ` +
+    `Player and season records come from Wikipedia's Real Madrid pages (CC BY-SA 4.0) and refresh automatically every two hours. ` +
     `Photos are from Wikimedia Commons, credited on each profile. Not affiliated with Real Madrid C.F.`;
 }
 
@@ -746,10 +844,12 @@ function initRoutes() {
     frame: $('routes-frame'),
     summary: $('routes-summary'),
     panel: $('routes-panel'),
+    timeline: $('routes-timeline'),
     players: RM_PLAYERS,
     onPlayer: openPlayer
   });
-  bindSegmented('[data-era]', btn => state.routes.setFilter({ era: btn.dataset.era }));
+  bindSegmented('[data-era]', btn => { state.routes.stop(); state.routes.year = null; state.routes.setYear(null); state.routes.setFilter({ era: btn.dataset.era }); });
+  state.routes.onYear = year => { if (year !== null) setSegmented('[data-era]', 'all', 'era'); };
   bindSegmented('[data-route-pos]', btn => state.routes.setFilter({ position: btn.dataset.routePos }));
   $('route-players').innerHTML = state.routes.allPlayers.map(p => `<option value="${esc(p.name)}"></option>`).join('');
   $('route-search').addEventListener('change', e => {
@@ -761,17 +861,10 @@ function initRoutes() {
   });
 }
 
-// ---------- learn: flashcards & quiz ----------
+// ---------- training ground: flashcards ----------
 
 function initTrainer() {
   const t = state.trainer;
-  bindSegmented('[data-mode]', btn => {
-    const quiz = btn.dataset.mode === 'quiz';
-    $('flashcards-panel').hidden = quiz;
-    $('quiz-panel').hidden = !quiz;
-    renderTrainer();
-  });
-
   $('deck-select').addEventListener('change', e => { t.setDeck(e.target.value); renderFlashcard(); });
   $('flashcard').addEventListener('click', () => { t.toggleFlip(); renderFlashcard(); });
   $('card-next').addEventListener('click', () => { t.nextCard(); renderFlashcard('next'); });
@@ -780,23 +873,11 @@ function initTrainer() {
   $('card-learned').addEventListener('click', () => { t.toggleLearned(t.getCurrentPlayer().id); renderFlashcard(); });
 
   document.addEventListener('keydown', e => {
-    if (state.view !== 'train' || $('flashcards-panel').hidden || !$('player-drawer').hidden) return;
-    if (e.target.closest('input, select, textarea')) return;
+    if (state.view !== 'play' || !$('player-drawer').hidden) return;
+    if (e.target.closest('input, select, textarea, .pitch-game')) return;
     if (e.key === 'ArrowRight') { t.nextCard(); renderFlashcard('next'); }
     if (e.key === 'ArrowLeft') { t.prevCard(); renderFlashcard('prev'); }
   });
-
-  bindSegmented('[data-quiztype]', btn => renderQuestion(btn.dataset.quiztype));
-  $('quiz-question').addEventListener('click', e => {
-    const opt = e.target.closest('[data-answer]');
-    if (opt) answerQuestion(opt.dataset.answer);
-    if (e.target.closest('[data-next]')) renderQuestion(state.trainer.quizType);
-  });
-}
-
-function renderTrainer() {
-  if ($('quiz-panel').hidden) renderFlashcard();
-  else if (!state.trainer.currentQuestion) renderQuestion(state.trainer.quizType);
 }
 
 function renderFlashcard(direction) {
@@ -830,55 +911,6 @@ function renderFlashcard(direction) {
   $('card-counter').textContent = `Card ${t.currentCardIndex + 1} of ${t.deck.length} · use ← → keys`;
   $('deck-progress').innerHTML = `You know <b>${t.learnedInDeck()}</b> of ${t.deck.length}
     <span class="progress"><span style="--w:${(t.learnedInDeck() / t.deck.length) * 100}%"></span></span>`;
-}
-
-function renderQuestion(type) {
-  const q = state.trainer.generateQuestion(type);
-  updateScore();
-  $('quiz-question').innerHTML = `
-    <div class="quiz-card">
-      <div class="quiz-head">
-        <div>
-          <h2 class="quiz-q">${esc(q.question)}</h2>
-          <p class="quiz-prompt">${esc(q.prompt)}</p>
-        </div>
-        ${q.showPhoto ? `<div class="quiz-photo">${photoMarkup(q.player, { label: false })}</div>` : ''}
-      </div>
-      <div class="quiz-options">
-        ${q.options.map((o, i) => `<button type="button" class="quiz-option" style="--i:${i}" data-answer="${esc(o.value)}">${esc(o.text)}</button>`).join('')}
-      </div>
-      <div id="quiz-feedback"></div>
-    </div>`;
-}
-
-function answerQuestion(value) {
-  const result = state.trainer.submitAnswer(value);
-  if (!result) return;
-  document.querySelectorAll('.quiz-option').forEach(btn => {
-    btn.disabled = true;
-    if (btn.dataset.answer === String(result.correctAnswer)) btn.classList.add('is-right');
-    else if (btn.dataset.answer === String(value)) btn.classList.add('is-wrong');
-  });
-  const fb = $('quiz-feedback');
-  fb.className = `quiz-feedback ${result.isCorrect ? 'right' : 'wrong'}`;
-  fb.innerHTML = `
-    <h3>${result.isCorrect ? 'Correct' : 'Not quite'}</h3>
-    <p>${esc(result.explanation)}</p>
-    <button type="button" class="btn btn-primary" data-next>Next question</button>`;
-  fb.querySelector('[data-next]').focus();
-  updateScore(result.isCorrect);
-}
-
-function updateScore(bump) {
-  const t = state.trainer;
-  $('quiz-score').textContent = `${t.quizScore} / ${t.quizTotal}`;
-  $('quiz-streak').textContent = t.quizStreak > 1 ? `${t.quizStreak} in a row` : '';
-  if (bump && !reduceMotion) {
-    const el = $('quiz-score');
-    el.classList.remove('pop');
-    void el.offsetWidth;
-    el.classList.add('pop');
-  }
 }
 
 // ---------- compare ----------

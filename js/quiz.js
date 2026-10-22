@@ -1,4 +1,4 @@
-// Flashcards and quiz questions for learning the squad.
+// Flashcard deck for the Training ground, plus career-route helpers shared with the game.
 
 const LEARNED_KEY = 'rm_learned_players';
 
@@ -9,10 +9,6 @@ function shuffled(list) {
     [out[i], out[j]] = [out[j], out[i]];
   }
   return out;
-}
-
-function pickRandom(list) {
-  return list[Math.floor(Math.random() * list.length)];
 }
 
 // Clubs a player went through before Real Madrid signed them (academy and
@@ -57,11 +53,6 @@ class RM_MemoryTrainer {
     this.isCardFlipped = false;
     this.learnedIds = loadLearned();
 
-    this.quizType = 'country';
-    this.quizScore = 0;
-    this.quizTotal = 0;
-    this.quizStreak = 0;
-    this.currentQuestion = null;
 
     this.setDeck('active');
   }
@@ -112,82 +103,6 @@ class RM_MemoryTrainer {
 
   learnedInDeck() {
     return this.deck.filter(p => this.learnedIds.has(p.id)).length;
-  }
-
-  generateQuestion(type = this.quizType) {
-    this.quizType = type;
-    const players = this.allPlayers;
-
-    if (type === 'country') {
-      const target = pickRandom(players);
-      const others = shuffled([...new Set(players.map(p => p.nationality))].filter(n => n !== target.nationality)).slice(0, 3);
-      this.currentQuestion = {
-        type,
-        player: target,
-        showPhoto: true,
-        question: `Who does ${target.name} play for internationally?`,
-        prompt: `${target.position}${target.status === 'active' ? `, No. ${target.number}` : `, at Madrid ${target.madridYears || ''}`}`,
-        correctAnswer: target.nationality,
-        options: shuffled([target.nationality, ...others]).map(n => ({ text: n, value: n })),
-        explanation: `${target.name} plays for ${target.nationality}.${target.birthPlace ? ` Born in ${target.birthPlace}.` : ''}`
-      };
-    } else if (type === 'lineage') {
-      // Only players with at least one club before Madrid make a fair question.
-      const pool = players.filter(p => routeToMadrid(p).length > 0);
-      const target = pickRandom(pool);
-      const path = routeToMadrid(target).map(l => l.club).join(' → ');
-      const others = shuffled(pool.filter(p => p.id !== target.id)).slice(0, 3);
-      this.currentQuestion = {
-        type,
-        player: target,
-        showPhoto: false, // the photo would give the answer away
-        question: 'Whose route to Madrid is this?',
-        prompt: `${path} → Real Madrid`,
-        correctAnswer: target.id,
-        options: shuffled([target, ...others]).map(p => ({ text: p.name, value: p.id })),
-        explanation: `That's ${target.name}, who joined in ${target.joinedRealMadrid}${target.transferFee ? ` (${target.transferFee})` : ''}.`
-      };
-    } else if (type === 'number') {
-      // Shirt numbers only mean something for the current squad, where they're unique.
-      const squad = players.filter(p => p.status === 'active');
-      const target = pickRandom(squad);
-      const otherNumbers = shuffled([...new Set(squad.map(p => p.number))].filter(n => n !== target.number)).slice(0, 3);
-      this.currentQuestion = {
-        type,
-        player: target,
-        showPhoto: true,
-        question: `What number does ${target.name} wear?`,
-        prompt: `${target.position}, ${target.nationality}`,
-        correctAnswer: target.number,
-        options: [target.number, ...otherNumbers].sort((a, b) => a - b).map(n => ({ text: `No. ${n}`, value: n })),
-        explanation: `${target.name} wears No. ${target.number} in ${RM_SQUAD_SEASON}.`
-      };
-    }
-
-    return this.currentQuestion;
-  }
-
-  submitAnswer(selectedVal) {
-    if (!this.currentQuestion || this.currentQuestion.answered) return null;
-    this.currentQuestion.answered = true;
-    const isCorrect = String(selectedVal) === String(this.currentQuestion.correctAnswer);
-
-    this.quizTotal++;
-    if (isCorrect) {
-      this.quizScore++;
-      this.quizStreak++;
-    } else {
-      this.quizStreak = 0;
-    }
-
-    return {
-      isCorrect,
-      correctAnswer: this.currentQuestion.correctAnswer,
-      explanation: this.currentQuestion.explanation,
-      score: this.quizScore,
-      total: this.quizTotal,
-      streak: this.quizStreak
-    };
   }
 }
 
