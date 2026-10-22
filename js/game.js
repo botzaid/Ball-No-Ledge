@@ -1,50 +1,60 @@
-// Miedo Escénico: the Bernabéu quiz.
-// Ten questions = ninety minutes. A right answer is a goal for you; a miss is a goal
-// for the other side (Barça by default, or a friend's ghost in a challenge, who
-// "scores" whenever they got that question right). Seeded, so a challenge link
-// replays the exact same ten questions.
+// Bernabéu Nights: the Real Madrid quiz.
+// Ten questions = ten shots at goal across ninety minutes. Solo, you're chasing
+// goals and points. Open a friend's challenge link and you get their exact ten
+// questions, with their answers playing as the opposition: every question they
+// got right is a goal for them. Seeded, so links replay the same questions.
 
 const Game = (() => {
   const STORE = 'bnl_game_v1';
   const NAME_KEY = 'bnl_name';
 
   const TIERS = {
-    cantera: { name: 'Cantera', tag: 'Easy', time: 20, blurb: 'Academy level. Faces, shirt numbers and countries of the current squad.' },
-    galactico: { name: 'Galáctico', tag: 'Medium', time: 18, blurb: 'Legends, transfers, arrival years and scrambled names.' },
-    lisbon: { name: '92:48', tag: 'Hard', time: 15, blurb: 'Named after Ramos in Lisbon. Seasons, records and spelling names from a few letters.' }
+    cantera: { name: 'Academy', tag: 'Easy', time: 20, blurb: 'Faces, shirt numbers and countries of the current squad. Warm-up level.' },
+    galactico: { name: 'Galáctico', tag: 'Medium', time: 18, blurb: 'Legends, big transfers, arrival years and scrambled names.' },
+    lisbon: { name: '92:48', tag: 'Hard', time: 15, blurb: 'Named after the minute Ramos equalised in the 2014 final. Seasons, records, names from a few letters.' }
   };
 
-  // Verdicts by goals scored out of 10
+  // Verdicts by goals out of 10
   const VERDICTS = [
-    [0, 'Relegated', 'Pañuelos out. The whole Bernabéu is waving white handkerchiefs.'],
+    [0, 'Relegated', 'Even VAR could not find a goal in there.'],
     [2, 'Relegation scrap', "Survived on the last day. Nobody's printing the shirts."],
-    [4, 'Mid-table', 'Europa League if a few results go your way.'],
+    [4, 'Mid-table', 'Solid. Forgettable. Europa League if results go your way.'],
     [6, 'Top four', 'Champions League football next season. The board is cautiously pleased.'],
     [8, 'Title race', 'Went down to the final day. Respectable, but this is Madrid.'],
-    [9, 'Liga champions', 'Parade at Cibeles. Bring a scarf.'],
-    [10, 'La Decimosexta', 'Sixteenth European Cup. Florentino is already planning the next Galáctico.']
+    [9, 'League champions', 'Open-top bus. Bring a scarf.'],
+    [10, 'Champions of Europe', "Ten from ten. That's the sixteenth. Frame it."]
+  ];
+
+  // Meme sticker + caption for the story image, by goals
+  const MEMES = [
+    [0, 'WE GO AGAIN', 'My quiz went like a 0-0 in February.'],
+    [2, 'COOKED', 'Bro thinks Raúl played for Barça.'],
+    [4, 'MID', 'Group chat said mid. Group chat was right.'],
+    [6, 'CALMA', 'Calm down, calm down. Just a decent night at the Bernabéu.'],
+    [8, 'COLD', "Ballon d'Or speech: drafted."],
+    [10, 'GOATED', 'Somebody call the Champions League anthem guy.']
   ];
 
   // Our own lines, written in the spirit of the football internet.
   const REACT = {
     right: [
-      'Siuuu.', 'Ancelotti raised one eyebrow. That is the highest honour available.', 'Hala Madrid y nada más.',
+      'Siuuu.', 'Ancelotti raised one eyebrow. That is the highest honour available.', 'Hala Madrid.',
       'Trivela-level answer. Modrić approves.', 'Clinical. Benzema would have passed it, then scored the rebound.',
-      'The Bernabéu stands up. Pañuelos stay in pockets.', 'That one went in off the crossbar and into the history books.',
+      'The whole stadium is on its feet.', 'That one went in off the crossbar and into the history books.',
       'Somewhere, a Barça fan just closed this tab.', 'Galáctico behaviour.', 'You knew that before the commentator did.',
       'That answer has Champions League DNA.', 'Cold. Mbappé-celebration cold.'
     ],
     wrong: [
-      'VAR checked. Still wrong.', 'Pañuelos out.', 'Florentino has called an emergency board meeting.',
-      'That one is going in the blooper reel.', 'The ball is round, but that answer is not.', 'Even the Castilla bench knew that one.',
-      'Straight into Row Z of the Fondo Sur.', 'That is a Clásico-losing kind of answer.', 'The ultras have started a chant, and not a nice one.',
-      'Back to the Training ground with you.'
+      'VAR checked. Still wrong.', 'White hankies out. The crowd is not happy.', 'Florentino has called an emergency board meeting.',
+      'That one is going in the blooper reel.', 'The ball is round, but that answer is not.', 'Even the B team bench knew that one.',
+      'Straight into the top tier of the stand.', 'That is a lose-the-derby kind of answer.', 'The ultras have started a chant, and not a nice one.',
+      'Back to the training ground with you.'
     ],
     slow: [
       'Too slow. Courtois already played it out from the back.', 'Final whistle on that one.', 'The fourth official held up the board and you were still thinking.'
     ],
     streak: [
-      'Remontada mode: on.', 'Juanito said ninety minutes at the Bernabéu are very long. You are proving it.', 'Hat-trick of right answers. Take the match ball home.',
+      'Comeback mode: on.', 'They say ninety minutes at the Bernabéu are very long. You are proving it.', 'Hat-trick of right answers. Take the match ball home.',
       'This is getting Lisbon-2014 levels of dramatic.', 'Unstoppable. Like Ronaldo in April.'
     ]
   };
@@ -56,10 +66,10 @@ const Game = (() => {
     'ronaldo-nazario': 'Ronaldo arrived in 2002 fresh from winning the World Cup. Which club did he come from?',
     beckham: 'Beckham became the latest Galáctico in 2003. Who sold him?',
     kaka: "Kaká arrived the same summer as Cristiano. Where had he won the Ballon d'Or?",
-    modric: "Marca once called him the worst signing of the season. Where did Modrić come from?",
+    modric: 'A Spanish newspaper once called him the worst signing of the season. Where did Modrić come from?',
     bellingham: 'Bellingham scored on his Madrid debut and kept going. Which club sold him?',
     mbappe: 'After years of saga, Mbappé finally arrived on a free in 2024. From where?',
-    zidane: 'Zidane signed after Florentino passed him a napkin asking if he wanted to play for Madrid. Which club did he leave?',
+    zidane: 'Zidane signed after the Madrid president passed him a napkin asking if he wanted to join. Which club did he leave?',
     bale: 'Bale arrived in 2013 for a world-record fee. Which club sold him?'
   };
 
@@ -271,14 +281,15 @@ const Game = (() => {
     clearInterval(timerRaf);
     const stats = load();
     const challenge = readChallenge();
+    const played = stats.played || 0;
     root.innerHTML = `
       <div class="lobby">
         ${challenge ? `
           <div class="challenge-banner" data-blur-in>
             <span class="pill"><span class="pill-dot pill-dot-live"></span>Challenge</span>
             <h2><b>${esc(challenge.n)}</b> scored ${challenge.r.split('').filter(x => x === '1').length} out of 10 on ${esc(TIERS[challenge.t].name)} (${challenge.p} points).</h2>
-            <p>Same ten questions. Their answers play as the opposition: every one they got right is a goal against you. Beat them.</p>
-            <button type="button" class="btn btn-primary btn-big magnetic" data-start="${challenge.t}" data-challenge="1">Kick off against ${esc(challenge.n)}</button>
+            <p>You get the same ten questions. Every one they got right is a goal for them; every one you get right is a goal for you. Beat their score.</p>
+            <button type="button" class="btn btn-primary btn-big magnetic" data-start="${challenge.t}" data-challenge="1">Take on ${esc(challenge.n)}</button>
             <button type="button" class="text-btn" data-clear-challenge>Play your own game instead</button>
           </div>` : ''}
         <div class="lobby-tiers">
@@ -290,12 +301,12 @@ const Game = (() => {
               <span class="tier-meta">${t.time}s a question${stats.best?.[key] ? ` · your best ${stats.best[key]} pts` : ''}</span>
             </button>`).join('')}
         </div>
-        ${stats.played ? `
+        ${played ? `
           <div class="record" data-reveal>
-            <div><b>${stats.played}</b><span>matches</span></div>
-            <div><b>${stats.won || 0}–${stats.drawn || 0}–${stats.lost || 0}</b><span>won, drawn, lost</span></div>
+            <div><b>${played}</b><span>games played</span></div>
             <div><b>${stats.goalsFor || 0}</b><span>goals scored</span></div>
             <div><b>${stats.bestStreak || 0}</b><span>best streak</span></div>
+            <div><b>${stats.won || 0}–${stats.lost || 0}</b><span>challenges won–lost</span></div>
           </div>` : ''}
       </div>`;
     Motion.enter(root);
@@ -307,15 +318,15 @@ const Game = (() => {
     const seed = challenge ? challenge.s : Math.floor(Math.random() * 2 ** 31);
     match = {
       tier, seed, questions: buildQuestions(seed, tier), i: 0, results: [], points: 0, streak: 0, bestStreak: 0,
-      us: 0, them: 0, rival: challenge ? challenge.n : 'Barça', ghost: challenge ? challenge.r.split('').map(x => x === '1') : null,
+      us: 0, them: 0, rival: challenge ? challenge.n : null, ghost: challenge ? challenge.r.split('').map(x => x === '1') : null,
       name: getName()
     };
     root.innerHTML = `
       <div class="pitch-game">
         <div class="scoreboard">
-          <div class="sb-team"><span class="sb-name">${esc(match.name || 'You')}</span><b class="sb-score" id="sb-us">0</b></div>
+          <div class="sb-team"><span class="sb-name">${match.rival ? esc(match.name || 'You') : 'Goals'}</span><b class="sb-score" id="sb-us">0</b></div>
           <div class="sb-clock"><span id="sb-min">0'</span><small>${esc(TIERS[tier].name)}</small></div>
-          <div class="sb-team sb-away"><b class="sb-score" id="sb-them">0</b><span class="sb-name">${esc(match.rival)}</span></div>
+          <div class="sb-team sb-away"><b class="sb-score" id="sb-them">0</b><span class="sb-name">${match.rival ? esc(match.rival) : 'Shots'}</span></div>
         </div>
         <div class="sb-dots" id="sb-dots">${match.questions.map(() => '<span></span>').join('')}</div>
         <div class="q-stage" id="q-stage"></div>
@@ -429,9 +440,9 @@ const Game = (() => {
     } else {
       match.streak = 0;
     }
-    // Opposition: Barça scores on your misses; a challenger scores on their own right answers.
+    // In a challenge the friend scores on the questions they got right; solo, the right-hand number counts shots taken.
     const ghostRight = match.ghost ? match.ghost[match.i] : null;
-    if (match.ghost ? ghostRight : !right) match.them++;
+    if (match.ghost) { if (ghostRight) match.them++; } else match.them = match.i + 1;
 
     // Mark the options
     root.querySelectorAll('.q-option').forEach(b => {
@@ -447,12 +458,12 @@ const Game = (() => {
     const dot = root.querySelectorAll('#sb-dots span')[match.i];
     dot.classList.add(right ? 'is-goal' : 'is-miss');
     bumpScore('#sb-us', match.us, right);
-    bumpScore('#sb-them', match.them, match.ghost ? ghostRight : !right);
+    bumpScore('#sb-them', match.them, Boolean(match.ghost && ghostRight));
 
     if (right) {
       const r = (btn || root.querySelector('.q-card')).getBoundingClientRect();
       Motion.confetti(r.left + r.width / 2, r.top + r.height / 2, match.streak >= 3 ? 180 : 110);
-      goalFlash(match.streak >= 3 ? 'Golazo' : 'Gol');
+      goalFlash(match.streak >= 3 ? 'Worldie' : 'Goal');
     }
 
     const line = timedOut ? pickLine(REACT.slow) : right ? (match.streak >= 3 ? pickLine(REACT.streak) : pickLine(REACT.right)) : pickLine(REACT.wrong);
@@ -487,7 +498,9 @@ const Game = (() => {
   function verdict(goals) {
     let v = VERDICTS[0];
     for (const row of VERDICTS) if (goals >= row[0]) v = row;
-    return { title: v[1], line: v[2] };
+    let m = MEMES[0];
+    for (const row of MEMES) if (goals >= row[0]) m = row;
+    return { title: v[1], line: v[2], sticker: m[1], meme: m[2] };
   }
 
   function fullTime() {
@@ -498,56 +511,77 @@ const Game = (() => {
     stats.best = stats.best || {};
     const newBest = match.points > (stats.best[match.tier] || 0);
     if (newBest) stats.best[match.tier] = match.points;
-    if (match.us > match.them) stats.won = (stats.won || 0) + 1;
-    else if (match.us < match.them) stats.lost = (stats.lost || 0) + 1;
-    else stats.drawn = (stats.drawn || 0) + 1;
+    const challenge = Boolean(match.ghost);
+    if (challenge) {
+      if (match.us > match.them) stats.won = (stats.won || 0) + 1;
+      else if (match.us < match.them) stats.lost = (stats.lost || 0) + 1;
+    }
     save(stats);
 
     const v = verdict(match.us);
-    const result = match.us > match.them ? 'win' : match.us < match.them ? 'loss' : 'draw';
-    if (result === 'win') Motion.confetti(innerWidth / 2, innerHeight / 3, 240);
+    match.verdict = v;
+    const result = !challenge ? null : match.us > match.them ? `You beat ${match.rival}` : match.us < match.them ? `${match.rival} wins this one` : 'Honours even';
+    if (match.us >= 6 && (!challenge || match.us > match.them)) Motion.confetti(innerWidth / 2, innerHeight / 3, 240);
     root.innerHTML = `
       <div class="full-time">
         <p class="pill" data-blur-in><span class="pill-dot"></span>Full time · ${esc(TIERS[match.tier].name)}</p>
-        <div class="ft-score" data-blur-in>
-          <span class="ft-team">${esc(match.name || 'You')}</span>
-          <b>${match.us}<i>–</i>${match.them}</b>
-          <span class="ft-team">${esc(match.rival)}</span>
-        </div>
+        ${challenge ? `
+          <div class="ft-score" data-blur-in>
+            <span class="ft-team">${esc(match.name || 'You')}</span>
+            <b>${match.us}<i>–</i>${match.them}</b>
+            <span class="ft-team">${esc(match.rival)}</span>
+          </div>
+          <p class="ft-result" data-blur-in>${esc(result)}</p>` : `
+          <div class="ft-score ft-solo" data-blur-in>
+            <b>${match.us}<i>/</i>10</b>
+            <span class="ft-team">goals from ten shots</span>
+          </div>`}
         <h2 class="ft-verdict" data-split>${esc(v.title)}</h2>
         <p class="ft-line" data-blur-in>${esc(v.line)}</p>
         <div class="ft-stats" data-blur-in>
           <div><b>${match.points}</b><span>points${newBest ? ' · new best' : ''}</span></div>
-          <div><b>${match.us}/10</b><span>right</span></div>
           <div><b>${match.bestStreak}</b><span>best streak</span></div>
+          <div><b>${Math.round((match.us / 10) * 100)}%</b><span>on target</span></div>
         </div>
         <form class="ft-name" data-blur-in>
-          <label for="ft-name-input">Your name on the challenge</label>
-          <input id="ft-name-input" maxlength="18" value="${esc(match.name)}" placeholder="e.g. Ankit">
+          <label for="ft-name-input">Your name on the poster and challenge</label>
+          <input id="ft-name-input" maxlength="18" value="${esc(match.name)}" placeholder="e.g. Zaid">
         </form>
         <div class="ft-actions" data-blur-in>
-          <button type="button" class="btn btn-primary btn-big magnetic" data-share-story>Share to your story</button>
+          <button type="button" class="btn btn-insta btn-big magnetic" data-share-story>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+            Share to Instagram Story
+          </button>
           <button type="button" class="btn btn-ghost btn-big magnetic" data-share-link>Challenge a friend</button>
           <button type="button" class="btn btn-ghost btn-big" data-again>Play again</button>
         </div>
         <p class="ft-note" id="ft-note"></p>
+        <div class="story-preview" id="story-preview" hidden></div>
       </div>`;
     Motion.enter(root);
     scrollToGame();
     const nameInput = root.querySelector('#ft-name-input');
-    const syncName = () => { match.name = nameInput.value.trim(); setName(match.name); };
-    nameInput.addEventListener('input', syncName);
-    root.querySelector('.ft-name').addEventListener('submit', e => e.preventDefault());
+    let redraw = null;
+    nameInput.addEventListener('input', () => {
+      match.name = nameInput.value.trim();
+      setName(match.name);
+      match.storyFile = null;
+      clearTimeout(redraw);
+      redraw = setTimeout(prepareStory, 350);
+    });
+    root.querySelector('.ft-name').addEventListener('submit', e => { e.preventDefault(); prepareStory(); });
     root.querySelector('[data-again]').addEventListener('click', () => { history.replaceState(null, '', '#play'); lobby(); });
-    root.querySelector('[data-share-link]').addEventListener('click', () => { syncName(); shareLink(); });
-    root.querySelector('[data-share-story]').addEventListener('click', () => { syncName(); shareStory(v); });
+    root.querySelector('[data-share-link]').addEventListener('click', () => shareLink());
+    root.querySelector('[data-share-story]').addEventListener('click', () => shareStory());
+    // Draw the story now, so the tap on "Share" can open the share sheet immediately
+    prepareStory();
   }
 
   async function shareLink() {
     const url = challengeUrl(match);
-    const text = `I beat the Bernabéu quiz ${match.us}–${match.them} on ${TIERS[match.tier].name} (${match.points} pts). Same ten questions. Your turn:`;
+    const text = `I scored ${match.us}/10 (${match.points} pts) on the ${TIERS[match.tier].name} Real Madrid quiz. Same ten questions, think you can beat me?`;
     try {
-      if (navigator.share) { await navigator.share({ title: 'Miedo Escénico · Ball No Ledge', text, url }); return; }
+      if (navigator.share) { await navigator.share({ title: 'Bernabéu Nights · Ball No Ledge', text, url }); return; }
       await navigator.clipboard.writeText(`${text} ${url}`);
       note('Challenge link copied. Paste it to a friend.');
     } catch (e) {
@@ -557,99 +591,257 @@ const Game = (() => {
 
   function note(text) { const n = root.querySelector('#ft-note'); if (n) n.textContent = text; }
 
-  // 1080x1920 story image with Ball No Ledge branding
+  // ---------- Story poster (1080x1920) ----------
+
+  const STICKER_COLORS = {
+    'GOATED': ['#e6bd5f', '#14110a'], 'COLD': ['#bfe3ff', '#08131f'], 'CALMA': ['#ffffff', '#15141b'],
+    'MID': ['#c9c5bb', '#15141b'], 'COOKED': ['#ff6b4a', '#1a0804'], 'WE GO AGAIN': ['#9db2ff', '#0a0f2a']
+  };
+
+  function rr(ctx, x, y, w, h, r) {
+    ctx.beginPath();
+    ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+    ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+  }
+
+  function loadImage(src) {
+    return new Promise(res => {
+      const img = new Image();
+      img.onload = () => res(img);
+      img.onerror = () => res(null);
+      img.src = src;
+    });
+  }
+
   async function storyImage(v) {
-    try { await document.fonts.load('800 200px "Barlow Condensed"'); await document.fonts.load('italic 80px "Instrument Serif"'); } catch (e) { /* fall back to system fonts */ }
+    try {
+      await Promise.all([document.fonts.load('800 200px "Barlow Condensed"'), document.fonts.load('italic 80px "Instrument Serif"'), document.fonts.load('600 40px "Barlow"')]);
+    } catch (e) { /* fall back to system fonts */ }
+    const W = 1080, H = 1920;
     const c = document.createElement('canvas');
-    c.width = 1080; c.height = 1920;
+    c.width = W; c.height = H;
     const ctx = c.getContext('2d');
-    const g = ctx.createLinearGradient(0, 0, 0, 1920);
-    g.addColorStop(0, '#08080d'); g.addColorStop(0.6, '#0e0d18'); g.addColorStop(1, '#0c2416');
-    ctx.fillStyle = g; ctx.fillRect(0, 0, 1080, 1920);
-    // floodlights
+    const challenge = Boolean(match.ghost);
+
+    // Night sky to pitch
+    const g = ctx.createLinearGradient(0, 0, 0, H);
+    g.addColorStop(0, '#07070c'); g.addColorStop(0.55, '#0f0e1c'); g.addColorStop(1, '#0b2a18');
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+    // Diagonal kit stripes
+    ctx.save();
+    ctx.globalAlpha = 0.05; ctx.fillStyle = '#ffffff';
+    ctx.translate(W / 2, H / 2); ctx.rotate(-0.42);
+    for (let x = -1600; x < 1600; x += 180) ctx.fillRect(x, -1600, 70, 3200);
+    ctx.restore();
+    // Floodlights
     ctx.globalCompositeOperation = 'lighter';
-    for (const [x, dir] of [[90, 1], [990, -1]]) {
-      const cone = ctx.createLinearGradient(x, 80, x + dir * 600, 1700);
-      cone.addColorStop(0, 'rgba(225,232,255,0.28)'); cone.addColorStop(1, 'rgba(225,232,255,0)');
+    for (const [x, dir] of [[70, 1], [1010, -1]]) {
+      const cone = ctx.createLinearGradient(x, 60, x + dir * 500, 1500);
+      cone.addColorStop(0, 'rgba(225,232,255,0.22)'); cone.addColorStop(1, 'rgba(225,232,255,0)');
       ctx.fillStyle = cone;
-      ctx.beginPath(); ctx.moveTo(x, 80); ctx.lineTo(x + dir * 300, 1800); ctx.lineTo(x + dir * 900, 1800); ctx.closePath(); ctx.fill();
-      const bulb = ctx.createRadialGradient(x, 80, 0, x, 80, 160);
-      bulb.addColorStop(0, 'rgba(255,255,255,0.95)'); bulb.addColorStop(1, 'rgba(210,222,255,0)');
-      ctx.fillStyle = bulb; ctx.fillRect(x - 160, -80, 320, 320);
+      ctx.beginPath(); ctx.moveTo(x, 60); ctx.lineTo(x + dir * 260, 1700); ctx.lineTo(x + dir * 820, 1700); ctx.closePath(); ctx.fill();
+      const bulb = ctx.createRadialGradient(x, 60, 0, x, 60, 150);
+      bulb.addColorStop(0, 'rgba(255,255,255,0.9)'); bulb.addColorStop(1, 'rgba(210,222,255,0)');
+      ctx.fillStyle = bulb; ctx.fillRect(x - 150, -90, 300, 300);
     }
     ctx.globalCompositeOperation = 'source-over';
-    // pitch lines
-    ctx.strokeStyle = 'rgba(255,255,255,0.12)'; ctx.lineWidth = 3;
-    ctx.beginPath(); ctx.moveTo(0, 1560); ctx.lineTo(1080, 1560); ctx.ellipse(540, 1560, 260, 70, 0, 0, Math.PI * 2); ctx.stroke();
+    // Centre circle
+    ctx.strokeStyle = 'rgba(255,255,255,0.10)'; ctx.lineWidth = 4;
+    ctx.beginPath(); ctx.moveTo(0, 1640); ctx.lineTo(W, 1640); ctx.stroke();
+    ctx.beginPath(); ctx.ellipse(540, 1640, 280, 76, 0, 0, Math.PI * 2); ctx.stroke();
 
-    ctx.textAlign = 'center';
+    ctx.textAlign = 'center'; ctx.textBaseline = 'alphabetic';
+
+    // Branding
     ctx.fillStyle = '#f3f0e8';
-    ctx.font = '800 64px "Barlow Condensed", sans-serif';
-    ctx.fillText('BALL NO LEDGE', 540, 250);
-    ctx.font = '600 34px "Barlow Condensed", sans-serif';
-    ctx.fillStyle = '#9db2ff';
-    ctx.fillText(`MIEDO ESCÉNICO · ${TIERS[match.tier].name.toUpperCase()}`, 540, 310);
+    ctx.font = '800 68px "Barlow Condensed", sans-serif';
+    ctx.fillText('BALL NO LEDGE', 540, 215);
+    const chip = `BERNABÉU NIGHTS  ·  ${TIERS[match.tier].name.toUpperCase()} (${TIERS[match.tier].tag.toUpperCase()})`;
+    ctx.font = '700 30px "Barlow Condensed", sans-serif';
+    const cw = ctx.measureText(chip).width + 56;
+    rr(ctx, 540 - cw / 2, 245, cw, 54, 27);
+    ctx.fillStyle = 'rgba(157,178,255,0.16)'; ctx.fill();
+    ctx.strokeStyle = 'rgba(157,178,255,0.5)'; ctx.lineWidth = 2; ctx.stroke();
+    ctx.fillStyle = '#c9d4ff';
+    ctx.fillText(chip, 540, 283);
 
+    // Meme sticker, slapped on at an angle with two bits of tape
+    const [stickerBg, stickerFg] = STICKER_COLORS[v.sticker] || ['#ffffff', '#15141b'];
+    ctx.save();
+    ctx.translate(540, 470); ctx.rotate(-0.12);
+    ctx.font = '800 150px "Barlow Condensed", sans-serif';
+    const sw = Math.min(900, ctx.measureText(v.sticker).width + 110);
+    ctx.shadowColor = 'rgba(0,0,0,0.55)'; ctx.shadowBlur = 40; ctx.shadowOffsetY = 18;
+    rr(ctx, -sw / 2, -100, sw, 200, 26);
+    ctx.fillStyle = stickerBg; ctx.fill();
+    ctx.shadowColor = 'transparent';
+    ctx.fillStyle = stickerFg;
+    ctx.fillText(v.sticker, 0, 55, sw - 60);
+    ctx.fillStyle = 'rgba(255,255,255,0.45)';
+    for (const sx of [-sw / 2 + 20, sw / 2 - 20]) {
+      ctx.save(); ctx.translate(sx, -96); ctx.rotate(sx < 0 ? -0.6 : 0.6); ctx.fillRect(-60, -18, 120, 36); ctx.restore();
+    }
+    ctx.restore();
+
+    // The score
     ctx.fillStyle = '#f3f0e8';
     ctx.font = '800 330px "Barlow Condensed", sans-serif';
-    ctx.fillText(`${match.us}–${match.them}`, 540, 800);
-    ctx.font = '700 54px "Barlow Condensed", sans-serif';
+    ctx.fillText(challenge ? `${match.us}–${match.them}` : `${match.us}/10`, 540, 900);
+    ctx.font = '700 46px "Barlow Condensed", sans-serif';
     ctx.fillStyle = '#c4c0b6';
-    ctx.fillText(`${(match.name || 'ME').toUpperCase()}   ·   ${match.rival.toUpperCase()}`, 540, 880);
+    ctx.fillText(challenge ? `${(match.name || 'ME').toUpperCase()}  VS  ${match.rival.toUpperCase()}` : 'GOALS FROM TEN SHOTS', 540, 975);
 
+    // Verdict
     ctx.fillStyle = '#e6bd5f';
-    ctx.font = 'italic 110px "Instrument Serif", Georgia, serif';
-    ctx.fillText(v.title, 540, 1060);
-    ctx.fillStyle = '#c4c0b6';
-    ctx.font = '400 40px "Barlow", sans-serif';
-    wrap(ctx, v.line, 540, 1140, 860, 52);
+    ctx.font = 'italic 104px "Instrument Serif", Georgia, serif';
+    ctx.fillText(v.title, 540, 1110, 960);
 
-    ctx.fillStyle = '#f3f0e8';
-    ctx.font = '800 72px "Barlow Condensed", sans-serif';
-    ctx.fillText(`${match.points} PTS   ·   STREAK ${match.bestStreak}`, 540, 1340);
+    // Meme caption as a post card, sized to the caption
+    const name = match.name || 'Madridista';
+    ctx.font = '500 42px "Barlow", sans-serif';
+    const lines = wrapLines(ctx, v.meme, 840);
+    const cardH = 120 + lines.length * 54;
+    rr(ctx, 90, 1160, 900, cardH, 28);
+    ctx.fillStyle = 'rgba(255,255,255,0.07)'; ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.14)'; ctx.lineWidth = 2; ctx.stroke();
+    ctx.beginPath(); ctx.arc(150, 1220, 32, 0, Math.PI * 2); ctx.fillStyle = '#2443c7'; ctx.fill();
+    ctx.fillStyle = '#ffffff'; ctx.font = '800 34px "Barlow Condensed", sans-serif';
+    ctx.fillText(name[0].toUpperCase(), 150, 1232);
+    ctx.textAlign = 'left';
+    ctx.font = '700 32px "Barlow", sans-serif'; ctx.fillStyle = '#f3f0e8';
+    ctx.fillText(name, 200, 1213);
+    const nw = ctx.measureText(name).width;
+    ctx.font = '400 28px "Barlow", sans-serif'; ctx.fillStyle = '#8f8b84';
+    ctx.fillText(`@ballnoledge · 90+'`, 214 + nw, 1213);
+    ctx.font = '500 42px "Barlow", sans-serif'; ctx.fillStyle = '#e9e6de';
+    lines.forEach((l, i) => ctx.fillText(l, 120, 1300 + i * 54));
+    ctx.textAlign = 'center';
 
-    ctx.fillStyle = '#f3f0e8';
-    ctx.font = '800 80px "Barlow Condensed", sans-serif';
-    ctx.fillText('CAN YOU BEAT THIS?', 540, 1700);
-    ctx.font = '500 36px "Barlow", sans-serif';
+    // The players from the ten questions: scored on in colour, missed faded with a cross
+    const seen = new Set();
+    const faces = [];
+    match.questions.forEach((q, i) => {
+      if (!q.photo || !q.player || seen.has(q.player.id)) return;
+      seen.add(q.player.id);
+      faces.push({ src: q.photo, right: match.results[i] });
+    });
+    faces.sort((a, b) => b.right - a.right);
+    const shown = faces.slice(0, 7);
+    if (shown.length) {
+      const imgs = await Promise.all(shown.map(f => loadImage(f.src)));
+      const size = 104, gap = 18;
+      const total = shown.length * size + (shown.length - 1) * gap;
+      ctx.font = '700 26px "Barlow Condensed", sans-serif'; ctx.fillStyle = '#8f8b84';
+      ctx.fillText('WHO I KNEW (AND WHO I DIDN’T)', 540, 1440);
+      shown.forEach((f, i) => {
+        const cx = 540 - total / 2 + size / 2 + i * (size + gap), cy = 1520;
+        ctx.save();
+        ctx.beginPath(); ctx.arc(cx, cy, size / 2, 0, Math.PI * 2); ctx.closePath();
+        ctx.fillStyle = '#1b1a26'; ctx.fill();
+        ctx.clip();
+        ctx.globalAlpha = f.right ? 1 : 0.3;
+        if (imgs[i]) ctx.drawImage(imgs[i], cx - size / 2, cy - size / 2 * 1.1, size, size * 1.25);
+        ctx.restore();
+        ctx.beginPath(); ctx.arc(cx, cy, size / 2, 0, Math.PI * 2);
+        ctx.strokeStyle = f.right ? '#e6bd5f' : 'rgba(255,107,74,0.7)'; ctx.lineWidth = 5; ctx.stroke();
+        if (!f.right) {
+          ctx.strokeStyle = 'rgba(255,107,74,0.85)'; ctx.lineWidth = 6;
+          ctx.beginPath(); ctx.moveTo(cx - 22, cy - 22); ctx.lineTo(cx + 22, cy + 22); ctx.moveTo(cx + 22, cy - 22); ctx.lineTo(cx - 22, cy + 22); ctx.stroke();
+        }
+      });
+    }
+
+    // Stat chips
+    const chips = [`${match.points} PTS`, `STREAK ${match.bestStreak}`, `${match.us * 10}% ON TARGET`];
+    ctx.font = '700 34px "Barlow Condensed", sans-serif';
+    const widths = chips.map(t => ctx.measureText(t).width + 48);
+    let x = 540 - (widths.reduce((a, b) => a + b, 0) + 20 * (chips.length - 1)) / 2;
+    chips.forEach((t, i) => {
+      rr(ctx, x, 1610, widths[i], 60, 30);
+      ctx.fillStyle = 'rgba(0,0,0,0.35)'; ctx.fill();
+      ctx.strokeStyle = 'rgba(255,255,255,0.18)'; ctx.lineWidth = 2; ctx.stroke();
+      ctx.fillStyle = '#f3f0e8'; ctx.fillText(t, x + widths[i] / 2, 1652);
+      x += widths[i] + 20;
+    });
+
+    // Call to action
+    ctx.fillStyle = '#ffffff';
+    ctx.font = '800 66px "Barlow Condensed", sans-serif';
+    ctx.fillText(challenge ? 'YOUR TURN. BEAT US BOTH.' : 'THINK YOU KNOW MADRID? BEAT ME.', 540, 1750, 960);
+    ctx.font = '600 34px "Barlow", sans-serif';
     ctx.fillStyle = '#9db2ff';
-    ctx.fillText(`${location.host || 'ball-no-ledge.vercel.app'} · Play`, 540, 1770);
+    ctx.fillText(`${location.host || 'ball-no-ledge.vercel.app'}  ·  link in the sticker`, 540, 1800);
     return new Promise(res => c.toBlob(res, 'image/png'));
   }
 
-  function wrap(ctx, text, x, y, max, lh) {
-    const words = text.split(' ');
+  function wrapLines(ctx, text, max) {
+    const out = [];
     let line = '';
-    for (const w of words) {
+    for (const w of text.split(' ')) {
       const test = line ? `${line} ${w}` : w;
-      if (ctx.measureText(test).width > max && line) { ctx.fillText(line, x, y); line = w; y += lh; } else line = test;
+      if (ctx.measureText(test).width > max && line) { out.push(line); line = w; } else line = test;
     }
-    ctx.fillText(line, x, y);
+    out.push(line);
+    return out;
   }
 
-  async function shareStory(v) {
-    note('Making your story…');
-    const blob = await storyImage(v);
-    const file = new File([blob], 'ball-no-ledge-story.png', { type: 'image/png' });
+  // Draw the poster ahead of the tap: browsers only open the share sheet straight
+  // from a tap, so the file has to be ready by then.
+  function prepareStory() {
+    const m = match;
+    m.storyFile = null;
+    m.story = storyImage(m.verdict).then(blob => {
+      const file = new File([blob], 'ball-no-ledge-story.png', { type: 'image/png' });
+      if (match === m) m.storyFile = file;
+      return file;
+    });
+    return m.story;
+  }
+
+  // Websites can't open Instagram's story camera directly; the phone's share sheet
+  // with just the image is the shortest route: Share → Instagram → Stories.
+  function shareStory() {
     const url = challengeUrl(match);
-    try {
-      if (navigator.canShare && navigator.canShare({ files: [file] })) {
-        await navigator.share({ files: [file], title: 'Miedo Escénico', text: `Beat my ${match.us}–${match.them}: ${url}` });
-        note('Pick Instagram and Stories. Add a link sticker with your challenge link, it is copied below.');
-        try { await navigator.clipboard.writeText(url); } catch (e) { /* not allowed without focus */ }
-        return;
-      }
-    } catch (e) {
-      if (e.name === 'AbortError') { note(''); return; }
+    const file = match.storyFile;
+    if (!file) {
+      note('Drawing your poster…');
+      (match.story || prepareStory()).then(() => note('Poster ready. Tap “Share to Instagram Story” again.'));
+      return;
     }
-    // Desktop fallback: download the image and copy the link
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = 'ball-no-ledge-story.png';
-    a.click();
-    setTimeout(() => URL.revokeObjectURL(a.href), 5000);
-    try { await navigator.clipboard.writeText(url); note('Story image downloaded and challenge link copied. Post the image to your story and add the link as a sticker.'); }
-    catch (e) { note(`Story image downloaded. Challenge link: ${url}`); }
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      // Copy the link for the story's link sticker. Not awaited, so the share sheet still counts as a tap.
+      navigator.clipboard?.writeText(url).catch(() => {});
+      navigator.share({ files: [file] })
+        .then(() => note('Posted? Add a Link sticker and paste: your challenge link is copied.'))
+        .catch(e => {
+          if (e.name === 'AbortError') return;
+          storyPreview(file, url);
+        });
+      note('Choose Instagram, then Stories. Your challenge link is copied for the link sticker.');
+      return;
+    }
+    storyPreview(file, url);
+  }
+
+  // Desktop (or browsers without file sharing): show the poster with download and copy buttons
+  function storyPreview(file, url) {
+    const box = root.querySelector('#story-preview');
+    if (!box) return;
+    if (box.dataset.src) URL.revokeObjectURL(box.dataset.src);
+    const src = URL.createObjectURL(file);
+    box.dataset.src = src;
+    box.hidden = false;
+    box.innerHTML = `
+      <img src="${src}" alt="Your Bernabéu Nights story poster">
+      <div class="story-preview-side">
+        <p><b>Instagram Stories can only be posted from the phone app.</b> Open this page on your phone and tap Share again, or save the poster and send it to yourself.</p>
+        <a class="btn btn-primary" href="${src}" download="ball-no-ledge-story.png">Save poster</a>
+        <button type="button" class="btn btn-ghost" data-copy-link>Copy challenge link</button>
+      </div>`;
+    box.querySelector('[data-copy-link]').addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(url); note('Challenge link copied.'); } catch (e) { note(`Challenge link: ${url}`); }
+    });
+    box.scrollIntoView({ block: 'nearest', behavior: Motion.reduced ? 'auto' : 'smooth' });
   }
 
   function init(el) {
