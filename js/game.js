@@ -332,6 +332,7 @@ const Game = (() => {
         <div class="q-stage" id="q-stage"></div>
       </div>`;
     kickoffFlash();
+    Sound.whistle([0.45]);
     scrollToGame();
     question();
   }
@@ -414,6 +415,8 @@ const Game = (() => {
         bar.style.transform = `scaleX(${left / (seconds * 1000)})`;
         bar.classList.toggle('is-low', left < 5000);
       }
+      const secs = Math.ceil(left / 1000);
+      if (secs <= 3 && secs > 0 && secs !== match.beeped) { match.beeped = secs; Sound.beep(); }
       if (left <= 0) { clearInterval(timerRaf); answer(null); }
     }, 100);
     match.clockStart = startT;
@@ -464,6 +467,9 @@ const Game = (() => {
       const r = (btn || root.querySelector('.q-card')).getBoundingClientRect();
       Motion.confetti(r.left + r.width / 2, r.top + r.height / 2, match.streak >= 3 ? 180 : 110);
       goalFlash(match.streak >= 3 ? 'Worldie' : 'Goal');
+      Sound.roar(match.streak >= 3);
+    } else {
+      Sound.groan();
     }
 
     const line = timedOut ? pickLine(REACT.slow) : right ? (match.streak >= 3 ? pickLine(REACT.streak) : pickLine(REACT.right)) : pickLine(REACT.wrong);
@@ -521,6 +527,7 @@ const Game = (() => {
     const v = verdict(match.us);
     match.verdict = v;
     const result = !challenge ? null : match.us > match.them ? `You beat ${match.rival}` : match.us < match.them ? `${match.rival} wins this one` : 'Honours even';
+    Sound.whistle([0.3, 0.3, 0.8]);
     if (match.us >= 6 && (!challenge || match.us > match.them)) Motion.confetti(innerWidth / 2, innerHeight / 3, 240);
     root.innerHTML = `
       <div class="full-time">

@@ -909,16 +909,21 @@ h1 em, .hero-title em, .section-kicker em { font-family: "Instrument Serif", var
 }
 .curtain {
   position: fixed; inset: 0; z-index: 70; pointer-events: none;
-  display: grid; place-items: center;
-  background: var(--ink); color: var(--paper);
-  transform: translateY(100%);
+  display: grid; place-content: center; justify-items: center; gap: 14px;
+  background: rgba(var(--bg-rgb), 0.9); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  opacity: 0; visibility: hidden;
 }
-.curtain span { font: 800 clamp(40px, 8vw, 96px)/1 var(--display); text-transform: uppercase; opacity: 0; }
-.curtain.is-in { animation: curtain-in 0.26s cubic-bezier(.7,0,.3,1) forwards; }
-.curtain.is-in span { animation: fade 0.2s 0.06s both; opacity: 1; }
-.curtain.is-out { animation: curtain-out 0.42s cubic-bezier(.7,0,.3,1) forwards; }
-@keyframes curtain-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
-@keyframes curtain-out { from { transform: translateY(0); } to { transform: translateY(-100%); } }
+.curtain.is-in { visibility: visible; animation: curtain-fade 0.2s ease forwards; }
+.curtain.is-out { visibility: visible; animation: curtain-fade 0.32s ease reverse forwards; }
+@keyframes curtain-fade { from { opacity: 0; } to { opacity: 1; } }
+.cup-stage { perspective: 600px; display: grid; justify-items: center; }
+.cup { filter: drop-shadow(0 10px 24px rgba(0, 0, 0, 0.35)); }
+.curtain.is-in .cup, .curtain.is-out .cup { animation: cup-spin 0.9s cubic-bezier(.4,0,.2,1) infinite; }
+.curtain.is-in .cup { animation-name: cup-spin, cup-rise; animation-duration: 0.9s, 0.35s; animation-iteration-count: infinite, 1; }
+@keyframes cup-spin { from { transform: rotateY(0deg); } to { transform: rotateY(360deg); } }
+@keyframes cup-rise { from { translate: 0 18px; scale: 0.85; } }
+.cup-shadow { width: 70px; height: 10px; margin-top: 4px; border-radius: 50%; background: radial-gradient(rgba(0, 0, 0, 0.35), transparent 70%); }
+.curtain-word { margin: 0; font: 700 13px/1 var(--display); letter-spacing: 0.22em; text-transform: uppercase; color: var(--gold); }
 
 /* split text + blur in */
 [data-split].is-split .w { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: 0.08em; margin-bottom: -0.08em; }
@@ -1292,9 +1297,16 @@ body[data-view="home"] main { max-width: none; padding: 0 0 64px; }
 :root[data-theme="light"] .theme-toggle .i-sun { display: none; }
 .theme-swap, .theme-swap * { transition: background-color 0.35s ease, color 0.35s ease, border-color 0.35s ease, fill 0.35s ease !important; }
 .masthead-inner { gap: 16px; }
+.mast-tools { display: flex; gap: 8px; flex-shrink: 0; }
+.sound-toggle { color: var(--muted); }
+.sound-toggle.is-on { color: var(--accent); border-color: rgba(var(--accent-rgb), 0.5); background: rgba(var(--accent-rgb), 0.1); }
+.sound-toggle .i-on { display: none; }
+.sound-toggle.is-on .i-on { display: block; }
+.sound-toggle.is-on .i-off { display: none; }
+.sound-toggle:hover { transform: none; }
 @media (max-width: 860px) {
   .masthead-inner { position: relative; }
-  .theme-toggle { position: absolute; top: 10px; right: var(--gutter); }
+  .mast-tools { position: absolute; top: 10px; right: var(--gutter); }
 }
 
 

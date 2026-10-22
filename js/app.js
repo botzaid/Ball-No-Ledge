@@ -117,6 +117,7 @@ function countUp(container) {
 document.addEventListener('DOMContentLoaded', () => {
   state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
   Motion.init();
+  Sound.init();
   initTheme();
   initSquadControls();
   initDrawer();
