@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: player-photos-${{ github.ref }}
+  group: commit-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -45,5 +45,5 @@ jobs:
             echo "No new photos"
           else
             git commit -m "Add player photos from Wikimedia Commons"
-            git push
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
           fi
