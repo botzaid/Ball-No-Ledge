@@ -1,4 +1,4 @@
-<!-- Arda Güler | revision 2026-10-22T09:43:11Z -->
+<!-- Arda Güler | revision 2026-10-22T15:12:33Z -->
 {{Short description|Turkish footballer (born 2005)}}
 {{distinguish|Ara Güler}}
 {{Use dmy dates|date=July 2024}}
@@ -97,7 +97,7 @@ Considered by various media outlets and commentators to be one of the best young
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref name="Club Stats 1">{{cite news|title=Arda Güler @ Fenerbahçe SK|url=http://arsiv.mackolik.com/Player/Default.aspx?id=620781|publisher=mackolik.com|access-date=5 October 2022|language=Tr|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627030442/http://arsiv.mackolik.com/Player/Default.aspx?id=620781|url-status=live}}</ref><ref name="Club Stats 2">{{cite web|title=Turkey – A.Guler – Profile|url=https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|website=Soccerbase|access-date=23 September 2025|archive-date=19 October 2022|archive-url=https://web.archive.org/web/20221019074240/https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|url-status=live}}</ref>
+{{updated|match played 21 October 2026}}<ref name="Club Stats 1">{{cite news|title=Arda Güler @ Fenerbahçe SK|url=http://arsiv.mackolik.com/Player/Default.aspx?id=620781|publisher=mackolik.com|access-date=5 October 2022|language=Tr|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627030442/http://arsiv.mackolik.com/Player/Default.aspx?id=620781|url-status=live}}</ref><ref name="Club Stats 2">{{cite web|title=Turkey – A.Guler – Profile|url=https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|website=Soccerbase|access-date=23 September 2025|archive-date=19 October 2022|archive-url=https://web.archive.org/web/20221019074240/https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|url-status=live}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -138,13 +138,13 @@ Considered by various media outlets and commentators to be one of the best young
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|9||2||0||0||1{{efn|name=UCL}}||0||0||0||10||2
+|9||2||0||0||2{{efn|name=UCL}}||1||0||0||11||3
 |-
 !colspan="2"|Total
-!80!!15!!9!!2!!22!!2!!11!!1!!122!!20
+!80!!15!!9!!2!!23!!3!!11!!1!!123!!21
 |-
 !colspan="3"|Career total
-!112!!22!!14!!3!!36!!3!!11!!1!!173!!29
+!112!!22!!14!!3!!37!!4!!11!!1!!174!!30
 |}
 {{notelist}}
 

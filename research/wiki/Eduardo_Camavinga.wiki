@@ -1,4 +1,4 @@
-<!-- Eduardo Camavinga | revision 2026-10-18T21:09:11Z -->
+<!-- Eduardo Camavinga | revision 2026-10-22T15:08:06Z -->
 {{Short description|Footballer (born 2002)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -91,7 +91,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 18 October 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
+{{Updated|match played 21 October 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -154,13 +154,13 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|8||0||0||0||colspan="2"|—||0||0||0||0||8||0
+|8||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||9||0
 |-
 !colspan="2"|Total
-!150!!4!!16!!1!!colspan="2"|—!!52!!1!!13!!0!!231!!6
+!150!!4!!16!!1!!colspan="2"|—!!53!!1!!13!!0!!232!!6
 |-
 !colspan="3"|Career total
-!234!!10!!21!!1!!1!!0!!62!!1!!14!!0!!332!!12
+!234!!10!!21!!1!!1!!0!!63!!1!!14!!0!!333!!12
 |}
 {{notelist}}
 

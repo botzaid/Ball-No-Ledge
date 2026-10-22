@@ -1,4 +1,4 @@
-<!-- Brahim Díaz | revision 2026-10-20T15:24:01Z -->
+<!-- Brahim Díaz | revision 2026-10-22T15:18:51Z -->
 {{Short description|Morocco international footballer (born 1999)}}
 {{family name hatnote|Abdelkader|Díaz|lang=Spanish}}
 {{Use British English|date=March 2025}}
@@ -125,7 +125,7 @@ Brahim is an ambidextrous and technically gifted [[attacking midfielder]], known
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref name=Soccerway>{{cite web |url=https://int.soccerway.com/players/brahim-diaz/426785/ |title=Brahim Díaz: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2019 |archive-date=3 June 2022 |archive-url=https://web.archive.org/web/20220603220820/https://int.soccerway.com/players/brahim-diaz/426785/ |url-status=live }}</ref>
+{{updated|match played 21 October 2026}}<ref name=Soccerway>{{cite web |url=https://int.soccerway.com/players/brahim-diaz/426785/ |title=Brahim Díaz: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2019 |archive-date=3 June 2022 |archive-url=https://web.archive.org/web/20220603220820/https://int.soccerway.com/players/brahim-diaz/426785/ |url-status=live }}</ref>
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -179,10 +179,10 @@ Brahim is an ambidextrous and technically gifted [[attacking midfielder]], known
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|4||0||0||0||colspan=2|—||1{{efn|name=UCL}}||0||0||0||5||0
+|4||0||0||0||colspan=2|—||2{{efn|name=UCL}}||0||0||0||6||0
 |-
 !colspan=2|Total
-!111||14||13||2||colspan=2|—||34||5||10||1||168||22
+!111||14||13||2||colspan=2|—||35||5||10||1||169||22
 |-
 |rowspan=4|[[AC Milan]] (loan)
 |[[2020–21 AC Milan season|2020–21]]
@@ -201,7 +201,7 @@ Brahim is an ambidextrous and technically gifted [[attacking midfielder]], known
 !91||13||7||0||colspan=2|—||25||5||1||0||124||18
 |-
 !colspan=3|Career total
-!207||27||21||2||5||2||62||10||12||1||307||42
+!207||27||21||2||5||2||63||10||12||1||308||42
 |}
 {{notelist}}
 

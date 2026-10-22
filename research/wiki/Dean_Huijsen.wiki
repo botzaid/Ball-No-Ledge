@@ -1,4 +1,4 @@
-<!-- Dean Huijsen | revision 2026-10-22T14:24:39Z -->
+<!-- Dean Huijsen | revision 2026-10-22T15:07:25Z -->
 {{Short description|Footballer (born 2005)}}
 {{Redirect|Huijsen|the historian|Coos Huijsen}}
 {{family name hatnote|Huijsen|lang=Spanish|Wijsmuller}}
@@ -120,7 +120,7 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
+{{updated|match played 21 October 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,13 +173,13 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|171180|2026|access-date=9 August 2026}}</ref>
 |La Liga
-|7||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||8||0
+|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||9||0
 |-
 !colspan="2"|Total
-!35!!2!!2!!0!!colspan="2"|—!!10!!0!!6!!0!!53!!2
+!35!!2!!2!!0!!colspan="2"|—!!11!!0!!6!!0!!54!!2
 |-
 !colspan="3"|Career total
-!108!!8!!6!!0!!1!!0!!10!!0!!9!!2!!134!!10
+!108!!8!!6!!0!!1!!0!!11!!0!!9!!2!!135!!10
 |}
 {{notelist}}
 

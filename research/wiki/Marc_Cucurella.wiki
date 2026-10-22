@@ -1,4 +1,4 @@
-<!-- Marc Cucurella | revision 2026-10-18T21:07:56Z -->
+<!-- Marc Cucurella | revision 2026-10-22T15:13:06Z -->
 {{short description|Spanish footballer (born 1998)}}
 {{pp-blp|small=yes}}
 {{Distinguish|Mark Cucuzzella}}
@@ -152,7 +152,7 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
+{{updated|match played 21 October 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -234,10 +234,10 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|105483|2026|access-date=15 June 2026}}</ref>
 |La Liga
-|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||11||0
+|9||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||12||0
 |-
 !colspan="3"|Career total
-!313!!13!!15!!2!!10!!0!!36!!2!!11!!0!!385!!17
+!313!!13!!15!!2!!10!!0!!37!!2!!11!!0!!386!!17
 |}
 {{notelist}}
 

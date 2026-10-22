@@ -1,4 +1,4 @@
-<!-- Antonio Rüdiger | revision 2026-10-20T21:41:58Z -->
+<!-- Antonio Rüdiger | revision 2026-10-22T15:07:11Z -->
 {{Short description|German footballer (born 1993)}}
 {{Use dmy dates|date=April 2025}}
 {{Infobox football biography
@@ -142,7 +142,7 @@ Former editor-in-chief of the  [[Bild|''Bild Zeitung'']], a German tabloid, [[Ju
 
 ==Career statistics==
 ===Club===
-{{updated|match played 14 October 2026}}<ref name="SW">{{Soccerway}}</ref>
+{{updated|match played 21 October 2026}}<ref name="SW">{{Soccerway}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -249,13 +249,13 @@ Former editor-in-chief of the  [[Bild|''Bild Zeitung'']], a German tabloid, [[Ju
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|4||1||0||0||colspan="2"|—||1{{efn|name=UCL}}||1||0||0||5||2
+|4||1||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||6||2
 |-
 !colspan="2"|Total
-!117!!4!!10!!1!!colspan="2"|—!!43!!4!!17!!1!!187!!10
+!117!!4!!10!!1!!colspan="2"|—!!44!!4!!17!!1!!188!!10
 |-
 !colspan="3"|Career total
-!394!!20!!42!!1!!12!!2!!94!!5!!22!!1!!564!!29
+!394!!20!!42!!1!!12!!2!!95!!5!!22!!1!!565!!29
 |}
 {{notelist}}
 

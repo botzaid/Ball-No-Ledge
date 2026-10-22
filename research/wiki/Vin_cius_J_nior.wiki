@@ -1,4 +1,4 @@
-<!-- Vinícius Júnior | revision 2026-10-22T04:36:44Z -->
+<!-- Vinícius Júnior | revision 2026-10-22T15:08:24Z -->
 {{Short description|Brazilian footballer (born 2000)}}
 {{Portuguese name|Paixão|de Oliveira|Júnior}}
 {{pp-vandalism|small=yes}}
@@ -189,7 +189,7 @@ Vinícius underwent a non-surgical cosmetic chin procedure at a clinic in [[Goi�
 
 ==Career statistics==
 ===Club===
-{{updated|match played 14 October 2026}}<ref>{{Soccerway|access-date=21 April 2026}}</ref>
+{{updated|match played 21 October 2026}}<ref>{{Soccerway|access-date=21 April 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season, and competition
@@ -256,13 +256,13 @@ Vinícius underwent a non-surgical cosmetic chin procedure at a clinic in [[Goi�
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|8||1||0||0||2{{efn|name=UCL}}||0||0||0||10||1
+|8||1||0||0||3{{efn|name=UCL}}||0||0||0||11||1
 |-
 !colspan="2"|Total
-!250||78||27||7||84||34||24||10||386||129
+!250||78||27||7||85||34||24||10||387||129
 |-
 !colspan="3"|Career total
-!292!!89!!33!!7!!96!!37!!38!!14!!460!!147
+!292!!89!!33!!7!!97!!37!!38!!14!!461!!147
 |}
 
 {{notelist}}
