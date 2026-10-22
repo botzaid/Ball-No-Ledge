@@ -1,4 +1,4 @@
-<!-- Endrick | revision 2026-10-18T21:08:53Z -->
+<!-- Endrick | revision 2026-10-22T15:12:55Z -->
 {{Short description|Brazilian footballer (born 2006)}}
 {{Other uses}}
 {{Portuguese name|Moreira|de Sousa Pessoa}}
@@ -110,7 +110,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref name="soccerway">{{Soccerway|endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
+{{updated|match played 21 October 2026}}<ref name="soccerway">{{Soccerway|endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -152,10 +152,10 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|2||0||colspan="2"|—||0||0||1{{efn|name=UCL}}||1||0||0||3||1
+|2||0||colspan="2"|—||0||0||2{{efn|name=UCL}}||1||0||0||4||1
 |-
 !colspan="2"|Total
-!25!!1!!colspan="2"|—!!7!!5!!11!!2!!0!!0!!43!!8
+!25!!1!!colspan="2"|—!!7!!5!!12!!2!!0!!0!!44!!8
 |-
 |[[Olympique Lyonnais|Lyon]] (loan)
 |[[2025–26 Olympique Lyonnais season|2025–26]]
@@ -163,7 +163,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |16||5||colspan="2"|—||3||2||2{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||21||8
 |-
 !colspan="3"|Career total
-!84!!20!!22!!4!!15!!7!!23!!6!!1!!0!!145!!35
+!84!!20!!22!!4!!15!!7!!24!!6!!1!!0!!146!!35
 |}
 {{notelist}}
 

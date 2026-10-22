@@ -1,4 +1,4 @@
-<!-- Thibaut Courtois | revision 2026-10-19T13:27:06Z -->
+<!-- Thibaut Courtois | revision 2026-10-22T15:06:31Z -->
 {{short description|Belgian footballer (born 1992)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -208,7 +208,7 @@ In February 2026, Courtois invested in the Brazilian fund Outfield through his i
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026|<ref name=Soccerway>{{Soccerway|access-date=23 September 2025}}</ref><ref>{{cite news |title=Thibaut Courtois Premier League Player Profile |url=http://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |publisher=Premier League |access-date=10 February 2015 |archive-date=12 April 2020 |archive-url=https://web.archive.org/web/20200412162842/https://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |url-status=dead }}</ref>}}
+{{updated|match played 21 October 2026|<ref name=Soccerway>{{Soccerway|access-date=23 September 2025}}</ref><ref>{{cite news |title=Thibaut Courtois Premier League Player Profile |url=http://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |publisher=Premier League |access-date=10 February 2015 |archive-date=12 April 2020 |archive-url=https://web.archive.org/web/20200412162842/https://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |url-status=dead }}</ref>}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -310,13 +310,13 @@ In February 2026, Courtois invested in the Brazilian fund Outfield through his i
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||11||0
+|9||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||12||0
 |-
 !colspan="2"|Total
-!241!!0!!8!!0!!colspan="2"|—!!73!!0!!22!!0!!344!!0
+!241!!0!!8!!0!!colspan="2"|—!!74!!0!!22!!0!!345!!0
 |-
 !colspan="3"|Career total
-!519!!0!!29!!0!!3!!0!!119!!0!!27!!0!!700!!0
+!519!!0!!29!!0!!3!!0!!120!!0!!27!!0!!701!!0
 |}
 {{notelist}}
 

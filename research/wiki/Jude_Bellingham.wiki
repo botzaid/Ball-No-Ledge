@@ -1,4 +1,4 @@
-<!-- Jude Bellingham | revision 2026-10-19T18:05:22Z -->
+<!-- Jude Bellingham | revision 2026-10-22T15:08:44Z -->
 {{short description|English footballer (born 2003)}}
 {{for|the New Zealand opera singer|Judy Bellingham}}
 {{distinguish|text=his brother, [[Jobe Bellingham]]}}
@@ -166,7 +166,7 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}
+{{updated|match played 21 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -217,13 +217,13 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|123255|2026|access-date=30 August 2026}}</ref>
 |La Liga
-|9||3||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||11||3
+|9||3||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||12||3
 |-
 !colspan="2"|Total
-!96||37||6||1||colspan="2"|—||35||9||14||2||151||49
+!96||37||6||1||colspan="2"|—||36||9||14||2||152||49
 |-
 !colspan="3"|Career total
-!229||53||21||5||1||0||60||17||16||2||327||77
+!229||53||21||5||1||0||61||17||16||2||328||77
 |}
 
 {{notelist}}

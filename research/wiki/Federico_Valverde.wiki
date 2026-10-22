@@ -1,4 +1,4 @@
-<!-- Federico Valverde | revision 2026-10-20T07:47:07Z -->
+<!-- Federico Valverde | revision 2026-10-22T15:06:51Z -->
 {{short description|Uruguayan footballer (born 1998)}}
 {{pp-blp|small=yes}} 
 {{Use dmy dates|date=July 2024}}
@@ -134,7 +134,7 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref>{{Soccerway|access-date=14 March 2026}}</ref>
+{{updated|match played 21 October 2026}}<ref>{{Soccerway|access-date=14 March 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -198,13 +198,13 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|9||0||0||0||2{{efn|name=UCL}}||1||0||0||11||1
+|9||0||0||0||3{{efn|name=UCL}}||1||0||0||12||1
 |-
 !colspan="2"|Total
-!253||25||26||2||81||7||24||8||384||42
+!253||25||26||2||82||7||24||8||385||42
 |-
 !colspan="3"|Career total
-!319!!28!!26!!2!!82!!7!!24!!8!!451!!45
+!319!!28!!26!!2!!83!!7!!24!!8!!452!!45
 |}
 {{noteslist}}
 
