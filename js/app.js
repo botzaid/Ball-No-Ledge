@@ -409,7 +409,7 @@ function renderSeasons() {
     <div class="now-columns">
       <section class="results" aria-labelledby="results-title">
         <h2 class="section-head" id="results-title">Results</h2>
-        <p class="next-match" data-reveal>Next: <b>${esc(RM_NEXT_MATCH.opponent)}</b> (${RM_NEXT_MATCH.venue === 'H' ? 'home' : 'away'}), ${esc(RM_NEXT_MATCH.comp)}, ${fmtDate(RM_NEXT_MATCH.date)}</p>
+        ${RM_NEXT_MATCH ? `<p class="next-match" data-reveal>Next: <b>${esc(RM_NEXT_MATCH.opponent)}</b> (${RM_NEXT_MATCH.venue === 'H' ? 'home' : 'away'}), ${esc(RM_NEXT_MATCH.comp)}, ${fmtDate(RM_NEXT_MATCH.date)}</p>` : ''}
         <ol class="match-list">
           ${[...RM_SEASON_MATCHES].reverse().map(m => {
             const res = m.score[0] > m.score[1] ? 'w' : m.score[0] < m.score[1] ? 'l' : 'd';
@@ -420,7 +420,7 @@ function renderSeasons() {
               : `${playerLink(id)}${mins.some(Boolean) ? ` <span class="mins">${mins.filter(Boolean).map(x => x > 90 ? `90+${x - 90}'` : `${x}'`).join(', ')}</span>` : mins.length > 1 ? ` ×${mins.length}` : ''}`).join(', ');
             return `
               <li class="match-row res-${res}" data-reveal>
-                <span class="match-date">${fmtDate(m.date)}<small>${m.comp === 'La Liga' ? 'Liga' : 'UCL'}</small></span>
+                <span class="match-date">${fmtDate(m.date)}<small>${{ 'La Liga': 'Liga', 'Champions League': 'UCL', 'Copa del Rey': 'Copa', 'Supercopa': 'Super' }[m.comp] || esc(m.comp)}</small></span>
                 <span class="match-main">
                   <span class="match-teams">${m.venue === 'H' ? `Real Madrid <b>${m.score[0]}–${m.score[1]}</b> ${esc(m.opponent)}` : `${esc(m.opponent)} <b>${m.score[1]}–${m.score[0]}</b> Real Madrid`}</span>
                   ${scorerText ? `<span class="match-scorers">${scorerText}</span>` : ''}
