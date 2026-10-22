@@ -1115,7 +1115,19 @@ body[data-view="home"] .view-home .hero { padding-top: calc(var(--mast-h, 80px) 
 .sb-dots span.is-goal { background: var(--good); border-color: var(--good); transform: scale(1.2); }
 .sb-dots span.is-miss { background: var(--bad); border-color: var(--bad); }
 
-.q-card { padding: 22px; border-radius: 18px; border: 1px solid var(--rule); background: var(--card); animation: q-in 0.45s cubic-bezier(.2,.8,.2,1) both; }
+.q-card { padding: 22px; border-radius: 22px; border: 1px solid var(--rule); background: var(--card); animation: q-in 0.45s cubic-bezier(.2,.8,.2,1) both;
+  /* One fixed frame for every question, so nothing below it moves */
+  display: flex; flex-direction: column; height: 600px;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 30px 60px -40px rgba(0, 0, 0, 0.6); }
+.q-top { flex: 0 0 auto; min-height: 140px; }
+.q-answer { flex: 1 1 auto; min-height: 0; overflow-y: auto; display: flex; flex-direction: column; justify-content: center; }
+.q-foot { flex: 0 0 132px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: end;
+  margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.q-feedback { align-self: stretch; overflow: hidden; }
+.q-next { min-width: 170px; }
+.q-next:disabled { opacity: 0.35; cursor: default; box-shadow: none; transform: none; }
+.fb-hint { margin: 0; color: var(--muted); font: 400 22px/1.2 "Instrument Serif", var(--serif); font-style: italic; }
+.q-prompt { overflow-wrap: anywhere; }
 @keyframes q-in { from { opacity: 0; transform: translateX(30px) rotate(0.6deg); } }
 .q-top { display: grid; grid-template-columns: 1fr auto; gap: 18px; align-items: start; }
 .q-count { font: 600 12px/1 var(--display); text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); }
@@ -1156,12 +1168,12 @@ body[data-view="home"] .view-home .hero { padding-top: calc(var(--mast-h, 80px) 
 .type-input.is-right { border-color: var(--good); color: var(--good); }
 .type-input.is-wrong { border-color: var(--bad); color: var(--bad); animation: shake 0.4s ease; }
 
-.q-feedback:empty { display: none; }
-.fb { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--rule); animation: fade-up 0.35s ease both; }
-.fb-react { margin: 0 0 6px; font: 400 26px/1.15 "Instrument Serif", var(--serif); font-style: italic; }
+.fb { animation: fade-up 0.35s ease both; }
+.fb-explain { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.fb-react { margin: 0 0 6px; font: 400 24px/1.15 "Instrument Serif", var(--serif); font-style: italic; }
 .fb-right .fb-react { color: var(--good); }
 .fb-wrong .fb-react { color: var(--bad); }
-.fb-explain, .ghost-line { margin: 0 0 12px; color: var(--ink-2); }
+.fb-explain, .ghost-line { margin: 0 0 4px; color: var(--ink-2); font-size: 15px; line-height: 1.4; }
 .ghost-line { font-size: 14px; color: var(--muted); }
 
 .flash-word {
@@ -1196,9 +1208,6 @@ body[data-view="home"] .view-home .hero { padding-top: calc(var(--mast-h, 80px) 
 .ft-score.ft-solo { grid-template-columns: 1fr; gap: 4px; }
 .ft-score.ft-solo .ft-team { text-align: center; }
 .ft-result { margin: 0 0 4px; font: 700 20px/1.2 var(--display); text-transform: uppercase; letter-spacing: 0.04em; }
-.btn-insta { display: inline-flex; align-items: center; gap: 10px; color: #fff; border: 0;
-  background: linear-gradient(45deg, #f9b234 0%, #ee2a7b 45%, #8a3ab9 75%, #4c68d7 100%); box-shadow: 0 10px 30px -12px rgba(238, 42, 123, 0.7); }
-.btn-insta:hover { filter: brightness(1.08); }
 .story-preview { display: grid; grid-template-columns: minmax(0, 220px) minmax(0, 1fr); gap: 22px; align-items: center; margin: 22px auto 0; max-width: 620px; text-align: left;
   padding: 18px; border-radius: 18px; background: var(--card); border: 1px solid var(--rule); }
 .story-preview[hidden] { display: none; }
@@ -1370,3 +1379,43 @@ body[data-view="home"] .view-home .hero { padding-top: calc(var(--mast-h, 80px) 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+@media (max-width: 640px) {
+  .q-card { height: max(540px, calc(100svh - var(--mast-h, 120px) - 150px)); padding: 16px; }
+  .q-top { min-height: 120px; gap: 12px; }
+  .q-photo { width: 84px; }
+  .q-prompt { font-size: 22px; }
+  .q-options { grid-template-columns: 1fr; gap: 8px; }
+  .q-option { padding: 12px 14px; font-size: 16px; }
+  .q-foot { flex-basis: 168px; grid-template-columns: 1fr; gap: 10px; align-items: stretch; }
+  .q-next { width: 100%; }
+  .fb-react { font-size: 20px; }
+  .fb-explain { -webkit-line-clamp: 2; font-size: 14px; }
+}
+
+/* ---------- Buttons: raised pills ---------- */
+.btn {
+  border-radius: 999px; padding: 11px 20px; border: 1px solid rgba(var(--fg-rgb), 0.16);
+  background: rgba(var(--fg-rgb), 0.05); color: var(--ink);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08), 0 6px 16px -10px rgba(0, 0, 0, 0.55);
+  transition: transform 0.2s cubic-bezier(.2,.7,.2,1), box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+.btn:hover { background: rgba(var(--fg-rgb), 0.09); border-color: rgba(var(--fg-rgb), 0.28); transform: translateY(-1px);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 12px 24px -12px rgba(0, 0, 0, 0.6); }
+.btn:active { transform: translateY(1px); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 2px 6px -4px rgba(0, 0, 0, 0.6); }
+.btn-primary { border-color: transparent; color: var(--accent-ink);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 55%), var(--accent);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 10px 24px -10px rgba(var(--accent-rgb), 0.75); }
+.btn-primary:hover { background: linear-gradient(180deg, rgba(255, 255, 255, 0.26), rgba(255, 255, 255, 0) 55%), var(--accent-hover); border-color: transparent;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 16px 32px -12px rgba(var(--accent-rgb), 0.85); }
+.btn-ghost { background: rgba(var(--fg-rgb), 0.04); }
+.btn-big { padding: 15px 26px; font-size: 16px; }
+.hero .btn-ghost { background: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.25); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+
+/* Share to Instagram: a calm ink pill; the brand gradient lives only in the icon */
+.btn-insta { display: inline-flex; align-items: center; gap: 12px; padding-left: 10px; border-color: transparent;
+  background: var(--ink); color: var(--paper);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18), 0 14px 30px -14px rgba(0, 0, 0, 0.7); }
+.btn-insta:hover { background: var(--ink); border-color: transparent; }
+.ig-icon { width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; color: #fff;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%); }
