@@ -301,6 +301,7 @@ const Game = (() => {
               <span class="tier-meta">${t.time}s a question${stats.best?.[key] ? ` · your best ${stats.best[key]} pts` : ''}</span>
             </button>`).join('')}
         </div>
+        <p class="lobby-warmup"><a class="text-link" href="#train">Warm up in the training ground first →</a></p>
         ${played ? `
           <div class="record" data-reveal>
             <div><b>${played}</b><span>games played</span></div>
@@ -332,13 +333,12 @@ const Game = (() => {
         <div class="q-stage" id="q-stage"></div>
       </div>`;
     kickoffFlash();
-    Sound.whistle([0.45]);
     scrollToGame();
     question();
   }
 
   function scrollToGame() {
-    const top = root.getBoundingClientRect().top + scrollY - 90;
+    const top = root.getBoundingClientRect().top + scrollY - (innerWidth <= 860 ? 10 : 90);
     if (Math.abs(scrollY - top) > 40) scrollTo({ top, behavior: Motion.reduced ? 'auto' : 'smooth' });
   }
 
@@ -368,8 +368,12 @@ const Game = (() => {
         </div>
         <div class="shot-clock"><span id="shot-clock"></span></div>
         <div class="q-answer" id="q-answer"></div>
-        <div class="q-feedback" id="q-feedback"></div>
+        <div class="q-foot">
+          <div class="q-feedback" id="q-feedback"><p class="fb-hint">${q.kind === 'mcq' ? 'Pick your shot.' : q.kind === 'anagram' ? 'Tap the letters in order.' : 'Type it and shoot.'}</p></div>
+          <button type="button" class="btn btn-primary q-next" data-next disabled>${match.i === 9 ? 'Final whistle' : 'Next question'}</button>
+        </div>
       </div>`;
+    $q('[data-next]').addEventListener('click', () => { match.i++; if (match.i < 10) question(); else fullTime(); });
     const ans = $q('#q-answer');
     if (q.kind === 'mcq') {
       ans.innerHTML = `<div class="q-options">${q.options.map((o, i) => `<button type="button" class="q-option" style="--i:${i}" data-value="${esc(o.value)}">${esc(o.label)}</button>`).join('')}</div>`;
@@ -415,8 +419,6 @@ const Game = (() => {
         bar.style.transform = `scaleX(${left / (seconds * 1000)})`;
         bar.classList.toggle('is-low', left < 5000);
       }
-      const secs = Math.ceil(left / 1000);
-      if (secs <= 3 && secs > 0 && secs !== match.beeped) { match.beeped = secs; Sound.beep(); }
       if (left <= 0) { clearInterval(timerRaf); answer(null); }
     }, 100);
     match.clockStart = startT;
@@ -467,9 +469,6 @@ const Game = (() => {
       const r = (btn || root.querySelector('.q-card')).getBoundingClientRect();
       Motion.confetti(r.left + r.width / 2, r.top + r.height / 2, match.streak >= 3 ? 180 : 110);
       goalFlash(match.streak >= 3 ? 'Worldie' : 'Goal');
-      Sound.roar(match.streak >= 3);
-    } else {
-      Sound.groan();
     }
 
     const line = timedOut ? pickLine(REACT.slow) : right ? (match.streak >= 3 ? pickLine(REACT.streak) : pickLine(REACT.right)) : pickLine(REACT.wrong);
@@ -479,10 +478,9 @@ const Game = (() => {
         <p class="fb-react">${esc(line)}</p>
         <p class="fb-explain">${right ? `+${gained} points. ` : timedOut ? `Time's up. The answer was ${esc(q.answer)}. ` : ''}${esc(q.explain)}</p>
         ${ghostLine}
-        <button type="button" class="btn btn-primary" data-next>${match.i === 9 ? 'Final whistle' : 'Next question'}</button>
       </div>`;
     const next = $q('[data-next]');
-    next.addEventListener('click', () => { match.i++; if (match.i < 10) question(); else fullTime(); });
+    next.disabled = false;
     next.focus({ preventScroll: true });
   }
 
@@ -527,7 +525,6 @@ const Game = (() => {
     const v = verdict(match.us);
     match.verdict = v;
     const result = !challenge ? null : match.us > match.them ? `You beat ${match.rival}` : match.us < match.them ? `${match.rival} wins this one` : 'Honours even';
-    Sound.whistle([0.3, 0.3, 0.8]);
     if (match.us >= 6 && (!challenge || match.us > match.them)) Motion.confetti(innerWidth / 2, innerHeight / 3, 240);
     root.innerHTML = `
       <div class="full-time">
@@ -556,7 +553,7 @@ const Game = (() => {
         </form>
         <div class="ft-actions" data-blur-in>
           <button type="button" class="btn btn-insta btn-big magnetic" data-share-story>
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>
+            <span class="ig-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></span>
             Share to Instagram Story
           </button>
           <button type="button" class="btn btn-ghost btn-big magnetic" data-share-link>Challenge a friend</button>

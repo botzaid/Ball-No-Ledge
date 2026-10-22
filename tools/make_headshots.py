@@ -15,7 +15,7 @@ import glob
 import os
 
 import cv2
-from PIL import Image
+from PIL import Image, ImageFilter
 
 ROOT = os.path.join(os.path.dirname(__file__), '..', 'images', 'players')
 OUT = os.path.join(ROOT, 'headshots')
@@ -23,8 +23,12 @@ OUT_W, OUT_H = 400, 500
 
 # Face width as a share of the crop width, and where the face centre sits
 # vertically (0 = top, 1 = bottom). Gives head-and-shoulders framing.
-FACE_SHARE = 0.36
-FACE_Y = 0.40
+FACE_SHARE = 0.34
+FACE_Y = 0.42
+# How far a crop may reach above the top of the photo (as a share of crop
+# height) when the head sits right at the top edge. The gap is filled with a
+# blurred stretch of the photo's top strip, so every head gets some headroom.
+MAX_PAD = 0.16
 
 # Photos where the detector picks the wrong thing: (x, y, w, h) in source pixels.
 OVERRIDES = {
@@ -73,11 +77,25 @@ def crop_box(img_w, img_h, face):
     ch = cw / aspect
     # Close-ups can't be zoomed out past the edges of the photo: shrink the
     # crop until it fits, keeping the aspect ratio.
-    scale = min(1, img_w / cw, img_h / ch)
+    scale = min(1, img_w / cw, img_h * (1 + MAX_PAD) / ch)
     cw, ch = cw * scale, ch * scale
     left = min(max(cx - cw / 2, 0), img_w - cw)
-    top = min(max(cy - ch * FACE_Y, 0), img_h - ch)
+    top = min(max(cy - ch * FACE_Y, -ch * MAX_PAD), img_h - ch)
     return int(left), int(top), int(left + cw), int(top + ch)
+
+
+def with_headroom(img, box):
+    """Crop, filling any part above the photo with a soft continuation of its top edge."""
+    left, top, right, bottom = box
+    if top >= 0:
+        return img.crop(box)
+    pad = -top
+    strip = img.crop((0, 0, img.width, max(4, img.height // 25)))
+    fill = strip.resize((img.width, pad + 8), Image.BILINEAR).filter(ImageFilter.GaussianBlur(10))
+    canvas = Image.new('RGB', (img.width, img.height + pad))
+    canvas.paste(fill, (0, 0))
+    canvas.paste(img, (0, pad))
+    return canvas.crop((left, 0, right, bottom + pad))
 
 
 def main():
@@ -90,7 +108,7 @@ def main():
             print(f'{name}: no face found, centre crop')
             face = (img.width * 0.3, img.height * 0.1, img.width * 0.4, img.width * 0.4)
         box = crop_box(img.width, img.height, face)
-        img.crop(box).resize((OUT_W, OUT_H), Image.LANCZOS).save(
+        with_headroom(img, box).resize((OUT_W, OUT_H), Image.LANCZOS).save(
             os.path.join(OUT, name), 'JPEG', quality=86, optimize=True, progressive=True)
         print(f'{name}: face {tuple(int(v) for v in face)} -> crop {box}')
 
