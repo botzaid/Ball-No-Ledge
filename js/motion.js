@@ -108,17 +108,22 @@ const Motion = (() => {
 
   // ---------- page curtain ----------
 
-  let firstNav = true;
+  // A quick fade over a spinning Champions League trophy while the view swaps.
+  let firstNav = true, curtainTimer = null;
   function curtain(swap) {
     const el = document.getElementById('curtain');
     if (firstNav || reduced || !el) { firstNav = false; swap(); return; }
+    clearTimeout(curtainTimer);
+    if (window.Sound) Sound.whoosh();
     el.classList.remove('is-out');
+    void el.offsetWidth;
     el.classList.add('is-in');
-    setTimeout(() => {
+    curtainTimer = setTimeout(() => {
       swap();
       el.classList.remove('is-in');
       el.classList.add('is-out');
-    }, 260);
+      curtainTimer = setTimeout(() => el.classList.remove('is-out'), 340);
+    }, 420);
   }
 
   // ---------- hero canvas: a floodlit stadium at night ----------

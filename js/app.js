@@ -117,7 +117,9 @@ function countUp(container) {
 document.addEventListener('DOMContentLoaded', () => {
   state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
   Motion.init();
+  Sound.init();
   initTheme();
+  initHero();
   initSquadControls();
   initDrawer();
   initRoutes();
@@ -148,6 +150,7 @@ function showView(view) {
   window.scrollTo(0, 0);
   state.view = view;
   document.body.dataset.view = view;
+  requestAnimationFrame(() => state.syncMasthead?.());
   VIEWS.forEach(v => {
     const el = $(`view-${v}`);
     el.hidden = v !== view;
@@ -191,6 +194,36 @@ function initTheme() {
     setTimeout(() => document.documentElement.classList.remove('theme-swap'), 400);
     if (state.view === 'map') state.routes.render();
   });
+}
+
+// ---------- hero photo + floating masthead ----------
+
+function initHero() {
+  const hero = document.querySelector('.view-home .hero');
+  const img = $('hero-photo');
+  const masthead = document.querySelector('.masthead');
+  const ready = () => hero.classList.add('has-photo');
+  if (img.complete && img.naturalWidth) ready();
+  else { img.addEventListener('load', ready); img.addEventListener('error', () => img.remove()); }
+  fetch('images/stadium/credit.json').then(r => (r.ok ? r.json() : null)).then(c => {
+    if (!c) return;
+    const credit = $('hero-credit');
+    credit.href = c.page;
+    credit.textContent = `Photo: ${c.artist}, ${c.license}, via Wikimedia Commons`;
+    credit.hidden = false;
+  }).catch(() => {});
+
+  // Over the photo the masthead is transparent and uses the night palette in both themes
+  const sync = () => {
+    document.documentElement.style.setProperty('--mast-h', `${masthead.offsetHeight}px`);
+    const over = state.view === 'home' && scrollY < hero.offsetHeight - masthead.offsetHeight - 20;
+    masthead.classList.toggle('is-over', over);
+    masthead.classList.toggle('theme-dark', over);
+  };
+  addEventListener('scroll', sync, { passive: true });
+  addEventListener('resize', sync);
+  state.syncMasthead = sync;
+  sync();
 }
 
 // ---------- home ----------
