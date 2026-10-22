@@ -1,0 +1,709 @@
+<!-- List of Real Madrid CF managers | revision 2026-09-16T21:28:23Z -->
+{{Short description|none}} 
+{{Use dmy dates|date=December 2023}}
+[[File:Fenerbahce manager Jose Mourinho and Ali Koç, June 2024 (cropped).jpg|thumb|300x300px|[[José Mourinho]] is the current head coach of Real Madrid]]
+[[Real Madrid CF|Real Madrid Club de Fútbol]] is a professional [[Association football|football]] club based in [[Madrid]], Spain, which plays in [[La Liga]]. This chronological list comprises all those who have held the position of [[coach (sport)|manager]] of the first team of Real Madrid from 1910, when the first professional manager was appointed, to the present day. Each manager's entry includes his dates of tenure and the club's overall competitive record (in terms of matches won, drawn and lost), major honours won and significant achievements under his leadership. [[Caretaker manager]]s are included, where known. As of the end of the [[2024–25 Real Madrid CF season|2024–25]] season, Real Madrid have had 50 full-time managers.
+
+The first full-time manager for Real Madrid was [[Arthur Johnson (footballer, born 1879)|Arthur Johnson]].<ref name="Arthur Johnson">{{cite web |title=Johnson |url=http://www.realmadrid.com/cs/Satellite/en/1193041516841/1193040969580/contenido/Entrenador/Arthur_Jonhson.htm |publisher=Real Madrid CF |access-date=4 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120303021604/http://www.realmadrid.com/cs/Satellite/en/1193041516841/1193040969580/contenido/Entrenador/Arthur_Jonhson.htm |archive-date=3 March 2012}}</ref> He was signed by one of the founders of Real Madrid, and then director, [[Adolfo Meléndez]], and coached the team for ten seasons, gaining one [[Copa del Rey|Spanish Cup]].
+
+The most successful coach with Real Madrid is [[Carlo Ancelotti]], as he has won 15 titles with the team. Ancelotti, in two spells, won [[La Liga]] twice, [[Copa del Rey]] twice, [[UEFA Champions League]] three times, [[Supercopa de España|Spanish Super Cup]] twice, [[UEFA Super Cup]] three times, [[FIFA Club World Cup]] twice, and one [[FIFA Intercontinental Cup]].
+
+==List of managers==
+The complete list of Real Madrid managers is shown in the following table:<ref name="Coaches">{{cite web|title=Coaches|url=http://www.realmadrid.com/cs/Satellite/en/Club/1193041516841/Entrenadores/Coaches.htm|publisher=Real Madrid CF| access-date=4 May 2013}}</ref>{{Dead link|date=January 2026}}
+
+''Information correct as of the match played 16 September 2026. Only competitive matches are counted.''
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!Manager
+!{{Tooltip|Nat.|Manager's nationality}}
+!From
+!class="unsortable"|To
+!{{Tooltip|G|Games managed}}{{ref label|note01|A|^}}
+!{{Tooltip|W|Wins}}
+!{{Tooltip|D|Draws}}
+!{{Tooltip|L|Losses}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Win%|Winning percentage}}{{ref label|note02|B|^}}
+!class="unsortable"|Honours
+!class="unsortable"|Notes
+|-
+|align=left|{{sortname|Arthur|Johnson|dab=footballer, born 1879}}
+|align=center|{{flagicon|Ireland|1783}}
+|align=left|1910
+|align=left|1920
+{{WDL|23|11|3|9|for=48|against=39|align=right}}
+|align=left|<small>1 [[Copa del Rey]]</small>
+|{{ref label|player|C|a}}{{ref label|Arthur|D|}}
+|-
+|align=left|{{sortname|Juan de|Cárcer}}
+|align=center|{{flagicon|ESP|1874}}
+|align=left|1920
+|align=left|1926
+{{WDL|22|10|2|10|for=38|against=45|align=right}}
+|
+|{{ref label|player|C|b}}
+|-
+|align=left|{{sortname|Pedro|Llorente}}
+|align=center|{{flagicon|ESP|1874}}
+|align=left|1926
+|align=left|1927
+{{WDL|8|5|0|3|for=31|against=15|align=right}}
+|
+|{{ref label|player|C|c}}{{ref label|Llorente and Bernabéu|E|a}}
+|-
+|align=left|{{sortname|Santiago|Bernabéu}}
+|align=center|{{flagicon|ESP|1874}}
+|align=left|1926
+|align=left|1927
+{{WDL|8|5|0|3|for=31|against=15|align=right}}
+|
+|{{ref label|player|C|d}}{{ref label|Llorente and Bernabéu|E|b}}
+|-
+|align=left|{{sortname|José|Berraondo}}
+|align=center|{{flagicon|ESP|1874}}
+|align=left|1927
+|align=left|1929
+{{WDL|41|27|4|10|for=115|against=58|align=right}}
+|
+|{{ref label|player|C|e}}
+|-
+|align=left|{{sortname|José|Quirante}}
+|align=center|{{flagicon|ESP|1874}}
+|align=left|1929
+|align=left|1930
+{{WDL|18|7|3|8|for=45|against=42|align=right}}
+|
+|{{ref label|player|C|f}}
+|-
+|align=left|{{sortname|Lippo|Hertzka}}
+|align=center|{{flagicon|HUN|1920}}
+|align=left|1930
+|align=left|1932
+{{WDL|52|26|15|11|for=95|against=58|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Robert|Firth|dab=footballer}}
+|align=center|{{flagicon|ENG}}
+|align=left|1932
+|align=left|1934
+{{WDL|45|30|5|10|for=126|against=52|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Francisco|Bru}}
+|align=center|{{flagicon|ESP|1931}}
+|align=left|1934
+|align=left|1941
+{{WDL|118|71|13|34|for=290|against=152|align=right}}
+|align=left|<small>2 [[Copa del Rey]]</small>
+|
+|-
+|align=left|{{sortname|Juan|Armet}}
+|align=center|{{flagicon|ESP|1938}}
+|align=left|1941
+|align=left|September 1943
+{{WDL|46|23|7|16|for=96|against=72|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Ramón|Encinas}}
+|align=center|{{flagicon|ESP|1938}}
+|align=left|September 1943
+|align=left|May 1945
+{{WDL|84|45|15|24|for=199|against=126|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Jacinto|Quincoces}}
+|align=center|{{flagicon|ESP|1938}}
+|align=left|May 1945
+|align=left|March 1946
+{{WDL|35|18|10|7|for=70|against=37|align=right}}
+|align=left|<small>1 [[Copa del Rey]]</small>
+|{{ref label|player|C|g}}
+|-
+|align=left|{{sortname|Baltasar|Albéniz}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|March 1946
+|align=left|April 1947
+{{WDL|35|18|5|12|for=82|against=66|align=right}}
+|align=left|<small>1 [[Copa del Rey]]</small>
+|
+|-
+|align=left|{{sortname|Jacinto|Quincoces|nolink=1}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|April 1947
+|align=left|January 1948
+{{WDL|17|5|4|8|for=32|against=41|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Michael|Keeping}}
+|align=center|{{flagicon|ENG}}
+|align=left|January 1948
+|align=left|October 1950
+{{WDL|82|37|20|25|for=192|against=153|align=right}}
+|align=left|<small>1 [[Copa Eva Duarte]]</small>
+|
+|-
+|align=left|{{sortname|Baltasar|Albéniz|nolink=1}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|October 1950
+|align=left|March 1951
+{{WDL|16|7|2|7|for=41|against=37|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Héctor|Scarone}}
+|align=center|{{flagicon|URU}}
+|align=left|March 1951
+|align=left|April 1952
+{{WDL|48|25|10|13|for=113|against=73|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Juan Antonio|Ipiña}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|April 1952
+|align=left|May 1953
+{{WDL|34|21|2|11|for=82|against=57|align=right}}
+|
+|{{ref label|player|C|h}}
+|-
+|align=left|{{sortname|Enrique|Fernández|dab=footballer, born 1912}}
+|align=center|{{flagicon|URU}}
+|align=left|May 1953
+|align=left|10 December 1954
+{{WDL|50|31|8|11|for=126|against=60|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|José|Villalonga}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|10 December 1954
+|align=left|June 1957
+{{WDL|105|66|14|25|for=269|against=141|align=right}}
+|align=left|<small>2 [[La Liga]]<br />2 [[UEFA Champions League]]</small>
+|{{ref label|Villalonga|F|}}
+|-
+|align=left|{{sortname|Luis|Carniglia}}
+|align=center|{{flagicon|ARG}}
+|align=left|June 1957
+|align=left|19 February 1959
+{{WDL|68|48|11|9|for=178|against=58|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[UEFA Champions League]]</small>
+|
+|-
+|align=left|{{sortname|Miguel|Muñoz}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|21 February 1959
+|align=left|13 April 1959
+{{WDL|9|5|2|2|for=31|against=9|align=right}}
+|
+|{{ref label|player|C|i}}{{ref label|Muñoz|G|a}}
+|-
+|align=left|{{sortname|Luis|Carniglia|nolink=1}}
+|align=center|{{flagicon|ARG}}
+|align=left|13 April 1959
+|align=left|July 1959
+{{WDL|13|8|1|4|for=28|against=16|align=right}}
+|align=left|<small>1 [[UEFA Champions League]]</small>
+|
+|-
+|align=left|{{sortname|Manuel|Fleitas|Manuel Fleitas Solich}}
+|align=center|{{flagicon|PAR|1954}}
+|align=left|July 1959
+|align=left|12 April 1960
+{{WDL|33|23|4|6|for=109|against=42|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Miguel|Muñoz|nolink=1}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|13 April 1960
+|align=left|15 January 1974
+{{WDL|595|352|126|117||for=1194|against=553|align=right}}
+|align=left|<small>9 [[La Liga]]<br />2 [[Copa del Rey]]<br />2 [[UEFA Champions League]]<br />1 [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]</small>
+|{{ref label|Muñoz|G|b}}
+|-
+|align=left|{{sortname|Luis|Molowny}}
+|align=center|{{flagicon|ESP|1945}}
+|align=left|15 January 1974
+|align=left|May 1974
+{{WDL|23|13|2|8|for=49|against=26|align=right}}
+|align=left|<small>1 [[Copa del Rey]]</small>
+|{{ref label|player|C|j}}
+|-
+|align=left|{{sortname|Miljan|Miljanić}}
+|align=center|{{flagicon|YUG}} 
+|align=left|May 1974
+|align=left|7 September 1977
+{{WDL|134|67|36|31|for=231|against=150|align=right}}
+|align=left|<small>2 [[La Liga]]<br />1 [[Copa del Rey]]</small>
+|
+|-
+|align=left|{{sortname|Luis|Molowny|nolink=1}}
+|align=center|{{flagicon|ESP|1977}}
+|align=left|7 September 1977
+|align=left|June 1979
+{{WDL|90|51|24|15|for=196|against=94|align=right}}
+|align=left|<small>2 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Vujadin|Boškov}}
+|align=center|{{flagicon|YUG}} 
+|align=left|June 1979
+|align=left|29 March 1982
+{{WDL|139|80|31|28|for=249|against=136|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Copa del Rey]]</small>
+|
+|-
+|align=left|{{sortname|Luis|Molowny|nolink=1}}
+|align=center|{{flagicon|ESP}}
+|align=left|29 March 1982
+|align=left|30 June 1982
+{{WDL|6|4|1|1|for=11|against=7|align=right}}
+|align=left|<small>1 [[Copa del Rey]]</small>
+|
+|-
+|align=left|{{sortname|Alfredo|Di Stéfano}}
+|align=center|{{flagicon|ARG}}
+|align=left|1 July 1982
+|align=left|22 May 1984
+{{WDL|108|63|23|22|for=192|against=113|align=right}}
+|
+|{{ref label|player|C|k}}
+|-
+|align=left|{{sortname|Amancio|Amaro}}
+|align=center|{{flagicon|ESP}}
+|align=left|22 May 1984
+|align=left|16 April 1985
+{{WDL|47|19|13|15|for=69|against=52|align=right}}
+|
+|{{ref label|player|C|l}}
+|-
+|align=left|{{sortname|Luis|Molowny|nolink=1}}
+|align=center|{{flagicon|ESP}}
+|align=left|16 April 1985
+|align=left|30 June 1986
+{{WDL|61|39|7|15|for=137|against=67|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Copa de la Liga]]<br />2 [[UEFA Europa League]]</small>
+|
+|-
+|align=left|{{sortname|Leo|Beenhakker}}
+|align=center|{{flagicon|NED}}
+|align=left|1 July 1986
+|align=left|30 June 1989
+{{WDL|169|107|40|22|for=357|against=158|align=right}}
+|align=left|<small>3 [[La Liga]]<br />1 [[Copa del Rey]]<br />2 [[Supercopa de España]]</small>
+|
+|-
+|align=left|{{sortname|John|Toshack}}
+|align=center|{{flagicon|WAL}}
+|align=left|1 July 1989
+|align=left|19 November 1990
+{{WDL|64|41|15|8|for=161|against=56|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Alfredo|Di Stéfano|nolink=1}}
+|align=center|{{flagicon|ARG}}
+|align=left|21 November 1990
+|align=left|22 March 1991
+{{WDL|21|9|3|9|for=32|against=22|align=right}}
+|align=left|<small>1 [[Supercopa de España]]</small>
+|
+|-
+|align=left|{{sortname|Radomir|Antić}}
+|align=center|{{flagicon|YUG}} 
+|align=left|22 March 1991
+|align=left|27 January 1992
+{{WDL|39|27|6|6|for=84|against=32|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Leo|Beenhakker|nolink=1}}
+|align=center|{{flagicon|NED}}
+|align=left|27 January 1992
+|align=left|29 June 1992
+{{WDL|28|14|7|7|for=47|against=27|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Benito|Floro}}
+|align=center|{{flagicon|ESP}}
+|align=left|1 July 1992
+|align=left|7 March 1994
+{{WDL|92|52|21|19|for=165|against=90|align=right}}
+|align=left|<small>1 [[Copa del Rey]]<br />1 [[Supercopa de España]]</small>
+|
+|-
+|align=left|{{sortname|Vicente del|Bosque}}
+|align=center|{{flagicon|ESP}}
+|align=left|7 March 1994
+|align=left|30 June 1994
+{{WDL|12|5|2|5|for=24|against=23|align=right}}
+|
+|{{ref label|player|C|m}}
+|-
+|align=left|{{sortname|Jorge|Valdano}}
+|align=center|{{flagicon|ARG}}
+|align=left|1 July 1994
+|align=left|21 January 1996
+{{WDL|78|39|17|22|for=142|against=87|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|{{ref label|player|C|n}}
+|-
+|align=left|{{sortname|Vicente del|Bosque|nolink=1}}
+|align=center|{{flagicon|ESP}}
+|align=left|21 January 1996
+|align=left|24 January 1996
+{{WDL|1|1|0|0|for=5|against=0|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Arsenio|Iglesias}}
+|align=center|{{flagicon|ESP}}
+|align=left|24 January 1996
+|align=left|29 May 1996
+{{WDL|21|11|4|6|for=33|against=22|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Fabio|Capello}}
+|align=center|{{flagicon|ITA}}
+|align=left|1 July 1996
+|align=left|24 June 1997
+{{WDL|48|31|12|5|for=96|against=41|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Jupp|Heynckes}}
+|align=center|{{flagicon|GER}}
+|align=left|25 June 1997
+|align=left|28 May 1998
+{{WDL|53|26|15|12|for=92|against=55|align=right}}
+|align=left|<small>1 [[Supercopa de España]]<br />1 [[UEFA Champions League]]</small>
+|
+|-
+|align=left|{{sortname|José Antonio|Camacho}}
+|align=center|{{flagicon|ESP}}
+|align=left|17 June 1998
+|align=left|9 July 1998
+{{WDL|0|0|0|0|for=0|against=0|align=right}}
+|
+|{{ref label|player|C|o}}
+|-
+|align=left|{{sortname|Guus|Hiddink}}
+|align=center|{{flagicon|NED}}
+|align=left|15 July 1998
+|align=left|23 February 1999
+{{WDL|34|19|4|11|for=73|against=48|align=right}}
+|align=left|<small>1 [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]</small>
+|
+|-
+|align=left|{{sortname|John|Toshack|nolink=1}}
+|align=center|{{flagicon|WAL}}
+|align=left|24 February 1999
+|align=left|17 November 1999
+{{WDL|37|19|9|9|for=73|against=62|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Vicente del|Bosque|nolink=1}}
+|align=center|{{flagicon|ESP}}
+|align=left|17 November 1999
+|align=left|23 June 2003
+{{WDL|233|127|56|50|for=461|against=267|align=right}}
+|align=left|<small>2 [[La Liga]]<br />1 [[Supercopa de España]]<br />2 [[UEFA Champions League]]<br />1 [[UEFA Super Cup]]<br />1 [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]</small>
+|
+|-
+|align=left|{{sortname|Carlos|Queiroz}}
+|align=center|{{flagicon|POR}}
+|align=left|25 June 2003
+|align=left|24 May 2004
+{{WDL|59|34|11|14|for=113|against=76|align=right}}
+|align=left|<small>1 [[Supercopa de España]]</small>
+|
+|-
+|align=left|{{sortname|José Antonio|Camacho|nolink=1}}
+|align=center|{{flagicon|ESP}}
+|align=left|25 May 2004
+|align=left|20 September 2004
+{{WDL|6|4|0|2|for=7|against=5|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Mariano|García Remón}}
+|align=center|{{flagicon|ESP}}
+|align=left|20 September 2004
+|align=left|30 December 2004
+{{WDL|20|12|4|4|for=37|against=18|align=right}}{{ref label|Remón and Luxemburgo|H|a}}
+|
+|{{ref label|player|C|p}}
+|-
+|align=left|{{sortname|Vanderlei|Luxemburgo}}
+|align=center|{{flagicon|BRA}}
+|align=left|30 December 2004
+|align=left|4 December 2005
+{{WDL|45|28|7|10|for=83|against=45|align=right}}{{ref label|Remón and Luxemburgo|H|b}}
+|
+|
+|-
+|align=left|{{sortname|Juan Ramón|López Caro}}
+|align=center|{{flagicon|ESP}}
+|align=left|4 December 2005
+|align=left|1 June 2006
+{{WDL|24|12|9|3|for=41|against=25|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Fabio|Capello|nolink=1}}
+|align=center|{{flagicon|ITA}}
+|align=left|5 July 2006
+|align=left|28 June 2007
+{{WDL|50|28|12|10|for=91|against=55|align=right}}
+|align=left|<small>1 [[La Liga]]</small>
+|
+|-
+|align=left|{{sortname|Bernd|Schuster}}
+|align=center|{{flagicon|GER}}
+|align=left|9 July 2007
+|align=left|9 December 2008
+{{WDL|75|44|9|22|for=156|against=100|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Supercopa de España]]</small>
+|{{ref label|player|C|q}}
+|-
+|align=left|{{sortname|Juande|Ramos}}
+|align=center|{{flagicon|ESP}}
+|align=left|9 December 2008
+|align=left|1 June 2009
+{{WDL|27|18|1|8|for=53|against=34|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Manuel|Pellegrini}}
+|align=center|{{flagicon|CHI}}
+|align=left|2 June 2009
+|align=left|26 May 2010
+{{WDL|48|36|5|7|for=119|against=48|align=right}}
+|
+|
+|-
+|align=left|{{sortname|José|Mourinho}}
+|align=center|{{flagicon|POR}}
+|align=left|31 May 2010
+|align=left|1 June 2013
+{{WDL|178|128|28|22|for=475|against=168|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Copa del Rey]]<br />1 [[Supercopa de España]]</small>
+|{{ref label|fifa|FIFA|a}}
+|-
+|align=left|{{sortname|Carlo|Ancelotti}}
+|align=center|{{flagicon|ITA}}
+|align=left|25 June 2013
+|align=left|25 May 2015
+{{WDL|119|89|14|16|for=323|against=103|align=right}}
+|align=left|<small>1 [[Copa del Rey]]<br />1 [[UEFA Champions League]]<br />1 [[UEFA Super Cup]]<br />1 [[FIFA Club World Cup]]</small>
+|{{ref label|Ancelotti|I|a}}
+|-
+|align=left|{{sortname|Rafael|Benítez}}
+|align=center|{{flagicon|ESP}}
+|align=left|3 June 2015
+|align=left|4 January 2016
+{{WDL|25|17|5|3|for=69|against=22|align=right}}
+|
+|
+|-
+|align=left|{{sortname|Zinedine|Zidane}}
+|align=center|{{flagicon|FRA|1974}}
+|align=left|4 January 2016
+|align=left|31 May 2018
+{{WDL|149|104|29|16|for=393|against=160|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Supercopa de España]]<br />3 [[UEFA Champions League]]<br />2 [[UEFA Super Cup]]<br />2 [[FIFA Club World Cup]]</small>
+|{{ref label|player|C|r}}{{ref label|fifa|FIFA|b}}
+|-
+|align=left|{{sortname|Julen|Lopetegui}}
+|align=center|{{flagicon|ESP}}
+|align=left|12 June 2018<ref name="LopeteguiRM">{{cite news|url=https://www.bbc.com/sport/football/44459380|title=Julen Lopetegui: Real Madrid name Spain manager as new head coach|publisher=BBC Sport|date=12 June 2018|access-date=12 June 2018}}</ref>
+|align=left|29 October 2018
+{{WDL|14|6|2|6|for=21|against=20|align=right}}
+|
+|{{ref label|player|C|s}}
+|-
+|align=left|{{sortname|Santiago|Solari}}
+|align=center|{{flagicon|ARG}}
+|align=left|30 October 2018
+|align=left|11 March 2019
+{{WDL|32|22|2|8|for=71|against=37|align=right}}
+|align=left|<small>1 [[FIFA Club World Cup]]</small>
+|{{ref label|player|C|t}}
+|-
+|align=left|{{sortname|Zinedine|Zidane|nolink=1}}
+|align=center|{{flagicon|FRA}}
+|align=left|11 March 2019<ref>{{Cite news|url=https://www.realmadrid.com/noticias/2019/03/zidane-regresa-al-real-madrid|title=Zidane regresa al real madrid|date=11 March 2019|publisher=Real Madrid CF|access-date=11 March 2019|language=es}}</ref>
+|align=left|27 May 2021<ref>{{cite news |url=https://www.realmadrid.com/en/news/2021/05/27/official-announcement-zinedine-zidane |title=Official Announcement: Zinedine Zidane |date=27 May 2021 |access-date=30 May 2025 |archive-url=https://web.archive.org/web/20210527102043/https://www.realmadrid.com/en/news/2021/05/27/official-announcement-zinedine-zidane |archive-date=27 May 2021 |publisher=Real Madrid CF}}</ref>
+{{WDL|114|69|25|20|for=207|against=104|align=right}}
+|align=left|<small>1 [[La Liga]]<br />1 [[Supercopa de España]]<br /></small>
+|{{ref label|player|C|t}}
+|-
+|align=left|{{sortname|Carlo|Ancelotti|nolink=1}}
+|align=center|{{flagicon|ITA}}
+|align=left|1 June 2021<ref>{{Cite news|url=https://www.realmadrid.com/noticias/2021/06/01/comunicado-oficial-ancelotti|title=Comunicado Oficial: Ancelotti|date=1 June 2021|publisher=Real Madrid CF|access-date=1 June 2021|language=es}}</ref>
+|align=left|31 May 2025<ref>{{cite news |url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/comunicado-oficial-ancelotti-23-05-2025 |title=Official Announcement: Ancelotti |publisher=Real Madrid CF |date=23 May 2025 |accessdate=23 May 2025}}</ref>
+{{WDL|234|161|36|37|for=512|against=238|align=right}}
+|align=left|<small>2 [[La Liga]]<br />1 [[Copa del Rey]]<br />2 [[Supercopa de España]]<br />2 [[UEFA Champions League]]<br />2 [[UEFA Super Cup]]<br />1 [[FIFA Club World Cup]]<br />1 [[FIFA Intercontinental Cup]]</small>
+|{{ref label|Ancelotti|I|b}}<br>{{ref label|fifa|FIFA|c}}
+|-
+|align=left|{{sortname|Xabi|Alonso}}
+|align=center|{{flagicon|ESP}}
+|align=left|1 June 2025<ref>{{cite news |url=https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-xabi-alonso-25-05-2025 |title=Official Announcement: Xabi Alonso |date=25 May 2025 |publisher=Real Madrid CF |access-date=25 May 2025}}</ref>
+|align=left|12 January 2026
+{{WDL|34|24|4|6|for=72|against=38|align=right}}
+|align=left|
+|{{ref label|player|C|u}}
+|-
+|align=left|{{sortname|Álvaro|Arbeloa}}
+|align=center|{{flagicon|ESP}}
+|align=left|12 January 2026<ref>{{cite news |title=Official Announcement – Álvaro Arbeloa |url=https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-alvaro-arbeloa-12-01-2026 |date=12 January 2026 |publisher=Real Madrid CF |access-date=12 January 2026}}</ref>
+|align=left|9 June 2026
+{{WDL|28|18|2|8|for=58|against=34|align=right}}
+|align=left|
+|{{ref label|player|C|v}}
+|-
+|align=left|{{sortname|José|Mourinho|nolink=1}}
+|align=center|{{flagicon|POR}}
+|align=left|11 June 2026
+|align=left|''Present''
+{{WDL|7|6|0|1|for=19|against=7|align=right}}
+|align=left|
+|
+|-
+!Manager
+!{{Tooltip|Nat.|Manager's nationality}}
+!From
+!class="unsortable"|To
+!{{Tooltip|G|Games managed}}{{ref label|note01|A|^}}
+!{{Tooltip|W|Wins}}
+!{{Tooltip|D|Draws}}
+!{{Tooltip|L|Losses}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Win%|Winning percentage}}{{ref label|note02|B|^}}
+!class="unsortable"|Honours
+!class="unsortable"|Notes
+|}
+
+==Trophies==
+{| class="wikitable sortable"
+|-
+!Rank
+!Manager
+![[La Liga|LL]]
+![[Copa del Rey|CdR]]
+![[Supercopa de España|SdE]]
+![[Copa Eva Duarte|CED]]
+![[Copa de la Liga|CdlL]]
+![[UEFA Champions League|UCL]]
+![[UEFA Europa League|UEL]] 
+![[UEFA Super Cup|USC]]
+![[Latin Cup|LC]]
+![[Intercontinental Cup (1960–2004)|IC]]
+![[Copa Iberoamericana|CI]]
+![[FIFA Club World Cup|FCWC]]
+![[FIFA Intercontinental Cup|FIC]]
+!Total
+|-
+| align=center|1
+|{{flagicon|ITA}} [[Carlo Ancelotti]] || align=center|2 || align=center|'''2''' || align=center|'''2''' || align=center|– || align=center|– || align=center|'''3'''|| align="center" |– || align=center|'''3''' || align=center|– || align=center|– || align="center" |– || align=center|'''2''' || align=center|'''1''' || align=center|'''15'''
+|-
+| align=center|2
+|{{flagicon|ESP|1945}} [[Miguel Muñoz]] || align=center|'''9''' || align=center|'''2''' || align=center|– || align=center|– || align=center|– || align=center|2 || align=center|– || align=center|– || align=center|– || align=center|'''1'''|| align="center" |– || align=center|– || align=center|– || align=center|'''14'''
+|-
+| align=center|3
+|{{flagicon|FRA}} [[Zinedine Zidane]] || align=center|2 || align=center|– || align=center|'''2''' || align=center|– || align=center|– || align=center|'''3''' || align=center|– || align=center|2 || align=center|– || align=center|– || align="center" |– || align=center|'''2''' || align=center|– || align=center|'''11'''
+|-
+|rowspan=2 align=center|4
+|{{flagicon|ESP}} [[Luis Molowny]] || align=center|3 || align=center|'''2''' || align=center|– || align=center|– || align=center|'''1''' || align=center|– || align=center|'''2''' || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || rowspan=2 align=center|'''8'''
+|-
+|{{flagicon|ESP}} [[Vicente del Bosque]] || align=center|2 || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|2 || align=center|– || align=center|1 || align=center|– || align=center|'''1''' || align=center|'''1''' || align=center|– || align=center|– 
+|-
+|rowspan=2 align=center|6
+|{{flagicon|NED}} [[Leo Beenhakker]] || align=center|3 || align=center|1 || align=center|'''2''' || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || rowspan=2 align=center|'''6'''
+|-
+|{{flagicon|ESP|1945}} [[José Villalonga]] || align=center|2 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|2 || align=center|– || align=center|– || align=center|'''2''' || align=center|– || align="center" |– || align=center|– || align=center|– 
+|-
+|rowspan=3 align=center|8
+|{{flagicon|ARG}} [[Luis Carniglia]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|2 || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|– || rowspan=3 align=center|'''3'''
+|-
+|{{flagicon|YUG}}  [[Miljan Miljanić]]|| align=center|2 || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|POR}} [[José Mourinho]] || align=center|1 || align=center|1 || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|rowspan=6 align=center|11
+|{{flagicon|ESP|1931}} [[Francisco Bru]] || align=center|– || align=center|'''2''' || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|– || rowspan=6 align=center|'''2'''
+|-
+|{{flagicon|YUG}}  [[Vujadin Boškov]]|| align="center" |1 || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ESP}} [[Benito Floro]] || align=center|– || align=center|1 || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ITA}} [[Fabio Capello]] || align=center|2 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|GER}} [[Jupp Heynckes]] || align=center|– || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|1 || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|GER}} [[Bernd Schuster]] || align=center|1 || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|rowspan=13 align=center|17
+|{{flagicon|Ireland|1783}} [[Arthur Johnson (footballer, born 1879)|Arthur Johnson]] || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|–  || align=center|–|| rowspan=13 align=center|'''1'''
+|-
+|{{flagicon|HUN|1920}} [[Lippo Hertzka]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ENG}} [[Robert Firth (footballer)|Robert Firth]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ESP|1938}} [[Jacinto Quincoces]] || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ESP|1945}} [[Baltasar Albéniz]] || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ENG}} [[Michael Keeping]] || align=center|– || align=center|– || align=center|– || align=center|'''1''' || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|URU}} [[Enrique Fernández (footballer, born 1912)|Enrique Fernández]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|WAL}} [[John Toshack]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ARG}} [[Alfredo Di Stéfano]] || align=center|– || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ARG}} [[Jorge Valdano]] || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|NED}} [[Guus Hiddink]] || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|'''1'''|| align=center|–  || align=center|– || align=center|–
+|-
+|{{flagicon|POR}} [[Carlos Queiroz]] || align=center|– || align=center|– || align=center|1 || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|– || align=center|–
+|-
+|{{flagicon|ARG}} [[Santiago Solari]] || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align=center|– || align="center" |– || align=center|– || align=center|– || align=center|1 || align=center|–
+|}
+
+==Notes==
+*<small>A</small>. {{note label|note01|A|^}} [[Campeonato Regional Centro|Campeonato Centro]] matches are not counted because it was a regional championship.<ref>{{cite web|url=https://www.rsssf.org/tabless/span-centrchamp.html|title=Spain – List of Champions of Centro|publisher=Rec.Sport.Soccer Statistics Foundation|access-date=23 September 2009}}</ref>
+*<small>B</small>. {{note label|note02|B|^}} Win % is [[Rounding|rounded]] to [[Decimal|two decimal places]].
+*<small>C</small>. {{note label|player|C|a}}{{note label|player|C|b}}{{note label|player|C|c}}{{note label|player|C|d}}{{note label|player|C|e}}{{note label|player|C|f}}{{note label|player|C|g}}{{note label|player|C|h}}{{note label|player|C|i}}{{note label|player|C|j}}{{note label|player|C|k}}{{note label|player|C|l}}{{note label|player|C|m}}{{note label|player|C|n}}{{note label|player|C|o}}{{note label|player|C|p}}{{note label|player|C|q}}{{note label|player|C|r}}{{note label|player|C|s}}{{note label|player|C|t}}{{note label|player|C|u}}{{note label|player|C|v}} Formerly played for the club.
+*<small>D</small>. {{note|Arthur}} [[Arthur Johnson (footballer, born 1879)|Arthur Johnson]] is the club's first full-time manager.
+*<small>E</small>. {{note label|Llorente and Bernabéu|E|a}}{{note label|Llorente and Bernabéu|E|b}} [[Pedro Llorente]] and [[Santiago Bernabéu]] jointly managed the team from the dismissal of [[Juan de Cárcer]] until the appointment of [[José Ángel Berraondo]], so they share the same statistics.
+*<small>F</small>. {{note|Villalonga}} [[José Villalonga]] is the first manager to manage a Spanish club side in European competition and to win a European trophy ([[1955–56 European Cup]]).
+*<small>G</small>. {{note label|Muñoz|G|a}}{{note label|Muñoz|G|b}} [[Miguel Muñoz]] is the longest-serving manager in club history.
+*<small>H</small>. {{note label|Remón and Luxemburgo|H|a}}{{note label|Remón and Luxemburgo|H|b}} [[Mariano García Remón]] and [[Vanderlei Luxemburgo]] share a victory against [[Real Sociedad]] in the [[La Liga]]. The match was suspended due to a [[bomb threat]] on 12 December 2004, with seven minutes remaining and the score at 1–1. It was resumed on 5 January 2005, and ended with a final score of 2–1.
+*<small>I</small>. {{note label|Ancelotti|I|a}}{{note label|Ancelotti|I|b}} [[Carlo Ancelotti]] is the manager with most honours won in club history.
+*<small>FIFA</small>. {{note label|fifa|FIFA|a}}{{note label|fifa|FIFA|b}}{{note label|fifa|FIFA|c}} Won [[FIFA World Coach of the Year]]/[[The Best FIFA Football Coach]] while at Real Madrid.
+
+==References==
+{{reflist}}
+
+{{Real Madrid}}
+{{Real Madrid C.F. managers}}
+{{Lists of Spanish football club managers}}
+
+{{DEFAULTSORT:Real Madrid C.F. Managers}}
+[[Category:Real Madrid CF managers| ]]
+[[Category:Real Madrid CF-related lists|Managers]]
+[[Category:Lists of football managers in Spain by club]]
+[[Category:Real Madrid CF|Managers]]

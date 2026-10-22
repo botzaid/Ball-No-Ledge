@@ -1,0 +1,682 @@
+<!-- Álvaro Morata | revision 2026-10-17T15:26:25Z -->
+{{Short description|Spanish footballer (born 1992)}}
+{{Family name hatnote|Morata|Martín|lang=Spanish}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox football biography
+| name = Álvaro Morata
+| image = Álvaro Morata in 2025.jpg
+| upright = 
+| caption = Morata with [[Spain national football team|Spain]] in 2025
+| full_name = Álvaro Borja Morata Martín<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=57217 |title=Acta del Partido celebrado el 12 de mayo de 2019, en Madrid |trans-title=Minutes of the Match held on 12 May 2019, in Madrid |publisher=Royal Spanish Football Federation |access-date=17 June 2019 |language=es |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922170202/http://actas.rfef.es/actas/NLogin |url-status=dead }}</ref>
+| birth_date = {{Birth date and age|1992|10|23|df=y}}<ref name="PremProfile">{{cite web|url=https://www.premierleague.com/players/5804/%C3%81lvaro-Morata/overview|title=Álvaro Morata: Overview|publisher=Premier League|access-date=10 February 2020}}</ref>
+| birth_place = [[Madrid]], Spain
+| height = 1.90 m<ref name="PremProfile"/>
+| position = [[Striker (association football)|Striker]]
+| currentclub = [[CD Leganés|Leganés]]<br/>(on loan from [[Como 1907|Como]])
+| clubnumber = 21
+| youthyears1 = 2005–2007
+| youthclubs1 = [[Atlético Madrid (youth)|Atlético Madrid]]
+| youthyears2 = 2007–2008
+| youthclubs2 = [[Getafe CF|Getafe]]
+| youthyears3 = 2008–2010
+| youthclubs3 = [[Real Madrid CF (youth)|Real Madrid]]
+| years1 = 2010–2013
+| clubs1 = [[Real Madrid Castilla|Real Madrid B]]
+| caps1 = 83
+| goals1 = 45
+| years2 = 2010–2014
+| clubs2 = [[Real Madrid CF|Real Madrid]]
+| caps2 = 37
+| goals2 = 10
+| years3 = 2014–2016
+| clubs3 = [[Juventus FC|Juventus]]
+| caps3 = 64
+| goals3 = 15
+| years4 = 2016–2017
+| clubs4 = [[Real Madrid CF|Real Madrid]]
+| caps4 = 26
+| goals4 = 15
+| years5 = 2017–2020
+| clubs5 = [[Chelsea F.C.|Chelsea]]
+| caps5 = 47
+| goals5 = 16
+| years6 = 2019–2020
+| clubs6 = → [[Atlético Madrid]] (loan)
+| caps6 = 49
+| goals6 = 18
+| years7 = 2020–2024
+| clubs7 = [[Atlético Madrid]]
+| caps7 = 68
+| goals7 = 28
+| years8 = 2020–2022
+| clubs8 = → [[Juventus FC|Juventus]] (loan)
+| caps8 = 67
+| goals8 = 20
+| years9 = 2024–2026
+| clubs9 = [[AC Milan]]
+| caps9 = 16
+| goals9 = 5
+| years10 = 2025
+| clubs10 = → [[Galatasaray S.K. (football)|Galatasaray]] (loan)
+| caps10 = 12
+| goals10 = 6
+| years11 = 2025–2026
+| clubs11 = → [[Como 1907|Como]] (loan)
+| caps11 = 26
+| goals11 = 0
+| years12 = 2026–
+| clubs12 = [[Como 1907|Como]]
+| caps12 = 0
+| goals12 = 0
+| years13 = 2026–
+| clubs13 = → [[CD Leganés|Leganés]] (loan)
+| caps13 = 7
+| goals13 = 0
+| nationalyears1 = 2009
+| nationalteam1 = [[Spain national under-17 football team|Spain U17]]
+| nationalcaps1 = 6
+| nationalgoals1 = 2
+| nationalyears2 = 2010
+| nationalteam2 = [[Spain national under-18 football team|Spain U18]]
+| nationalcaps2 = 2
+| nationalgoals2 = 3
+| nationalyears3 = 2010–2012
+| nationalteam3 = [[Spain national under-19 football team|Spain U19]]
+| nationalcaps3 = 13
+| nationalgoals3 = 11
+| nationalyears4 = 2013–2014
+| nationalteam4 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps4 = 13
+| nationalgoals4 = 13
+| nationalyears5 = 2014–2025
+| nationalteam5 = [[Spain national football team|Spain]]
+| nationalcaps5 = 87
+| nationalgoals5 = 37
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|ESP}}}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|W|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Spain|Team]]}}
+{{Medal|Bronze|[[UEFA Euro 2020|2020 Europe]]|[[UEFA Euro 2020 squads#Spain|Team]]}}
+{{Medal|Competition|[[UEFA Nations League]]}}
+{{Medal|Winner|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Spain|Team]]}}
+{{Medal|Runner-up|[[2025 UEFA Nations League Finals|2025 Germany]]|[[2025 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|Winner|[[2013 UEFA European Under-21 Championship|2013 Israel]]| [[2013 UEFA European Under-21 Championship squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA European Under-19 Championship]]}}
+{{Medal|Winner|[[2011 UEFA European Under-19 Championship|2011 Romania]]|[[2011 UEFA European Under-19 Championship squads#Spain|Team]]}}
+{{MedalCompetition|[[FIFA U-17 World Cup]]}}
+{{Medal|3rd|[[2009 FIFA U-17 World Cup|2009 Nigeria]]|[[2009 FIFA U-17 World Cup squads#Spain|Team]]}}
+| club-update = 
+| nationalteam-update = 23:49, 16 October 2025 (UTC)
+}}
+
+'''Álvaro Borja Morata Martín''' (born 23 October 1992) is a Spanish professional [[Football player|footballer]] who plays as a [[Striker (association football)|striker]] for {{Spanish football updater|Leganés}} club [[CD Leganés|Leganés]], on loan from {{Italian football updater|Como}} club [[Como 1907|Como]].
+
+Morata began his career at [[La Liga]] club [[Real Madrid CF|Real Madrid]], making his debut with the senior team in late 2010. After winning the [[2013–14 UEFA Champions League]], he moved to [[Serie A]] club [[Juventus FC|Juventus]] for €20 million in 2014, winning [[Double (association football)#Italy|the double]] of the domestic league and the [[Coppa Italia]] in both of his seasons with the club. After being bought back by Real Madrid for €30 million, he won a [[2016–17 La Liga|La Liga]] title and the [[2016–17 UEFA Champions League|UEFA Champions League]] in 2016–17, before joining [[Premier League]] club [[Chelsea F.C.|Chelsea]] in 2017 for a club record fee of around £60 million. In January 2019, Morata returned to Spain to join [[Atlético Madrid]] on loan, and joined the club permanently on 1 July 2020. From 2020 to 2022, Morata had another spell at Juventus on loan, winning the [[Supercoppa Italiana]] before continuing at Atlético Madrid. In 2024, Morata joined Serie A club AC Milan for a fee of €13 million. Subsequently in 2025, he joined [[Süper Lig]] club [[Galatasaray S.K. (football)|Galatasaray]] on loan, winning a domestic double.
+
+Morata earned 34 [[Cap (sport)|caps]] for [[Spain national youth football team (disambiguation)|Spain at youth level]], helping his country win the [[2013 UEFA European Under-21 Championship]]. He made his senior debut for the [[Spain national football team|Spain national team]] in 2014, and has represented his country at [[UEFA Euro 2016]], [[UEFA Euro 2020]], the [[2022 FIFA World Cup]] and captained his team to victory at [[UEFA Euro 2024]]. With 37 goals, he is Spain's fourth top goalscorer of all time.
+
+==Club career==
+===Real Madrid===
+Morata signed for [[Real Madrid CF|Real Madrid]] in 2008 from neighbouring [[Getafe CF|Getafe]] after starting out at [[Atlético Madrid]],<ref>{{cite web |date=20 July 2017 |title=El traspaso de Morata deja dinero al Atlético y al Getafe |trans-title=Morata's transfer brings money to Atlético and Getafe |url=https://as.com/futbol/2017/07/20/primera/1500558934_178540.html |access-date=10 October 2017 |website=[[Diario AS]] |language=es}}</ref><ref>{{cite news|url=https://www.elconfidencial.com/deportes/futbol/2019-01-29/alvaro-morata-atletico-fichaje-real-madrid_1791018/|title=El esfuerzo del Atlético y Morata por demostrar su pedigrí rojiblanco|trans-title=Atlético and Morata's effort to show his red-and-white pedigree|newspaper=[[El Confidencial]]|language=es|date=29 January 2019|access-date=2 February 2019}}</ref> and appeared for [[Real Madrid C]] while still a junior.<ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/es/1202806535516/noticia/Noticia/Un_ano_inolvidable_para_Morata.htm|title=Un año inolvidable para Morata|trans-title=An unforgettable year for Morata|publisher=Real Madrid CF|language=es|date=7 December 2009|access-date=11 August 2010|url-status=dead|archive-url=https://web.archive.org/web/20131212184841/http://www.realmadrid.com/cs/Satellite/es/1202806535516/noticia/Noticia/Un_ano_inolvidable_para_Morata.htm|archive-date=12 December 2013}}</ref> In July 2010, after a successful season with the [[Real Madrid CF (youth)|Juvenil A]] team, where he won two youth titles and scored 34 goals,<ref>{{cite news|url=http://www.marca.com/2010/06/26/futbol/mas_futbol/1277538276.html|title=Una generación para la historia|trans-title=A generation to make history|newspaper=[[Marca (newspaper)|Marca]]|location=Madrid|first=Hugo|last=Cerezo|language=es|date=26 June 2010|access-date=11 August 2010}}</ref> he was promoted to [[Real Madrid Castilla]], Real's reserve team. Later that month, first-team manager [[José Mourinho]] took Morata and four of his teammates on a preseason tour in the United States.<ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/en/1330010213058/noticia/Noticia/At_the_gates_of_the_first_team.htm|title=At the gates of the first team|publisher=Real Madrid CF|date=30 July 2010|access-date=11 August 2010|url-status=dead|archive-url=https://web.archive.org/web/20131212183318/http://www.realmadrid.com/cs/Satellite/en/1330010213058/noticia/Noticia/At_the_gates_of_the_first_team.htm|archive-date=12 December 2013}}</ref>
+
+[[File:Alvaro Moratatraining with Real Madrid in LA.png|thumb|left|upright|Morata training with [[Real Madrid CF|Real Madrid]] in 2010]]
+
+On 15 August 2010, Morata made his debut with Castilla in a [[Exhibition game|friendly match]] with [[AD Alcorcón|Alcorcón]], scoring the only goal of the game.<ref>{{cite news|url=http://www.marca.com/2010/08/15/futbol/equipos/alcorcon/1281892191.html|title=El Alcorcón cae ante un buen Real Madrid Castilla|trans-title=Alcorcón fall to good Real Madrid Castilla|newspaper=Marca|location=Madrid|language=es|date=15 August 2010|access-date=25 September 2017}}</ref> His [[Segunda División B]] debut came on 29 August in a 3–2 win against [[Coruxo FC|Coruxo]],<ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/es/1193040620635/1330013072890/noticia/Cronica/3-2:_Primeros_tres_puntos_para_el_Castilla.htm|title=3–2 Primeros tres puntos para el Castilla|trans-title=3–2: First three points for Castilla|publisher=Real Madrid CF|language=es|date=29 August 2010|access-date=29 August 2010|url-status=dead|archive-url=https://web.archive.org/web/20140110135848/http://www.realmadrid.com/cs/Satellite/es/1193040620635/1330013072890/noticia/Cronica/3-2:_Primeros_tres_puntos_para_el_Castilla.htm|archive-date=10 January 2014}}</ref> and he scored his first competitive goal in a 1–1 draw against [[RSD Alcalá|Alcalá]] on 31 October.<ref>{{cite news|url=http://www.mundodeportivo.com/20101101/morata-salvo-un-punto-para-el-filial-blanco-en-el-ultimo-suspiro-del-choque_54063281653.html|title=Morata salvó un punto para el filial blanco en el último suspiro del choque|trans-title=Morata rescued one point for the white reserves as clash drew to a close|newspaper=[[Mundo Deportivo]]|location=Barcelona|language=es|date=1 November 2010|access-date=10 October 2017}}</ref>
+
+On 12 December 2010, Morata made his debut for the first team when he was brought on as a [[Substitute (association football)|substitute]] for [[Ángel Di María]] in the 88th minute of a 3–1 [[La Liga]] win at [[Real Zaragoza]].<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=301855&cc=5739|title=Madrid claim Zaragoza triumph|website=[[ESPN Soccernet]]|date=12 December 2010|access-date=4 July 2011|url-status=dead|archive-url=https://web.archive.org/web/20121026102610/http://soccernet.espn.go.com/report?id=301855&cc=5739|archive-date=26 October 2012}}</ref> Ten days later he made his first appearance in the [[Copa del Rey]], again coming off the bench in the last few minutes. In January 2011, after [[Gonzalo Higuaín]]'s injury, the Spanish media expected Morata to be his replacement in the main squad. Mourinho, however, rejected this, saying that "Morata is not yet ready to be a starter at Madrid. He trains with us, but he has to continue learning with Castilla".<ref>{{cite news|url=https://as.com/futbol/2011/01/06/mas_futbol/1294298821_850215.html|title=No tengo esperanzas de que se fiche un delantero|trans-title=I have no hopes about signing a new striker|newspaper=Diario AS|location=Madrid|first=Manu|last=Sainz|language=es|date=15 January 2011|access-date=25 September 2017}}</ref> In this period Morata scored five goals in four matches with the reserves,<ref>{{cite web|url=http://i.goal.com/es/news/21/fichajes/2011/02/05/2337771/especial-real-madrid-estas-son-las-joyas-de-la-f%C3%A1brica-que|title=Especial Real Madrid: Estas son las joyas de La Fábrica que persigue la Premier|trans-title=Real Madrid special: These are the jewels of The Factory chased by the Premier League|website=[[Goal (website)|Goal.com]]|first1=Alberto|last1=Piñero|first2=Tom|last2=Bellwood|language=es|date=5 February 2011|access-date=25 September 2017}}</ref> while [[Emmanuel Adebayor]] was signed to replace Higuaín in the first team.<ref>{{cite news|url=https://www.elconfidencial.com/deportes/futbol/2011-04-01/para-esto-queria-mourinho-a-adebayor-la-plaga-de-lesiones-de-la-delantera-le-da-la-razon_397775/|title=Para esto quería Mourinho a Adebayor: la plaga de lesiones de la delantera le da la razón|trans-title=This is why Mourinho wanted Adebayor: forward injury plague has proven him right|newspaper=El Confidencial|first=Esther|last=Arroyo|language=es|date=1 April 2011|access-date=10 October 2017}}</ref>
+
+On 13 February 2011, Morata scored the first [[hat-trick]] of his career, in a 7–1 victory against [[Deportivo Fabril]].<ref>{{cite web |title=Morata hace un 'hat trick' en el 7–1 del Castilla |trans-title=Morata does a hat trick in Castilla's 7–1 |url=https://www.marca.com/2011/02/13/futbol/mas_futbol/1297620874.html |date=13 February 2011 |access-date=25 September 2017 |website=[[Marca (newspaper)|Marca]]}}</ref> He finished [[2010–11 Segunda División B|his first season]] as a senior with 14 league goals – joint top scorer in the squad with [[Joselu]] – but Castilla failed to gain promotion in [[2010–11 Segunda División Play-Off|the play-offs]].<ref>{{cite web|url=http://www.defensacentral.com/la_fabrica/57259-morata-sarabia-y-joselu-el-tridente-de-oro-del-castilla|title=Morata, Sarabia y Joselu, el tridente de oro del Castilla|trans-title=Morata, Sarabia and Joselu, Castilla's golden trio|publisher=Defensa Central|language=es|date=5 May 2011|access-date=10 October 2017}}</ref>
+
+[[File:Morata - Alcorcón.jpg|thumb|upright|Morata celebrates winning the [[2013 Puskás Cup]] with [[Real Madrid Castilla]]]]
+
+Morata scored his first competitive goal with Real's first team on 11 November 2012, coming on in the 83rd minute and scoring the winner after just 60 seconds in a 2–1 away win against [[Levante UD|Levante]].<ref>{{cite web|url=http://espnfc.com/uk/en/report/348412/report.html?soccernet=true&cc=5739|title=Morata earns Madrid the win|website=ESPN Soccernet|date=11 November 2012|access-date=11 November 2012|url-status=dead|archive-url=https://web.archive.org/web/20131027201423/http://espnfc.com/uk/en/report/348412/report.html?soccernet=true&cc=5739|archive-date=27 October 2013}}</ref> In his first official start, at home against [[Rayo Vallecano]] on 17 February of the following year, he scored the opener after just three minutes, but was substituted before the half-hour mark to make room for [[Raúl Albiol]], after [[Sergio Ramos]] was [[Ejection (sports)|sent off]] in a 2–0 home victory.<ref>{{cite web|url=http://espnfc.com/uk/en/report/348295/report.html?soccernet=true&cc=5739|title=Real claim derby spoils|website=ESPN FC|date=17 February 2013|access-date=18 February 2013|archive-url=https://web.archive.org/web/20140225192235/http://espnfc.com/uk/en/report/348295/report.html?soccernet=true&cc=5739|archive-date=25 February 2014|url-status=dead}}</ref>
+
+On 2 March 2013, Morata played the full 90 minutes of ''[[El Clásico]]'' against [[FC Barcelona|Barcelona]], [[Assist (football)|assisting]] [[Karim Benzema]] to score the opener in an eventual 2–1 home win.<ref>{{cite news |title=Real win Clasico ahead of United decider |url=http://en.espn.co.uk/football/sport/story/195666.html |archive-url=https://web.archive.org/web/20250306090705/http://en.espn.co.uk/football/sport/story/195666.html |archive-date=6 March 2025 |date=2 March 2013 |access-date=10 October 2017 |work=ESPN FC}}</ref> In [[2013–14 Real Madrid CF season|the following season]], he became a regular member of the first-team squad under new coach [[Carlo Ancelotti]], but expressed a desire for more minutes during the January transfer window.<ref>{{cite news|url=http://www.20minutos.es/deportes/noticia/carlo-ancelotti-cierra-puertas-salida-alvaro-morata-2026501/0/|title=Ancelotti cierras las puertas a la salida de Morata en enero|trans-title=Ancelotti closes door on Morata January exit|newspaper=[[20 minutos]]|location=Madrid|language=es|date=11 January 2014|access-date=10 October 2017}}</ref>
+
+On 18 March 2014, Morata scored his first goal in the [[UEFA Champions League]], the third goal in a 3–1 win over [[FC Schalke 04|Schalke 04]] at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] in the [[2013–14 UEFA Champions League knockout phase|round of 16]].<ref>{{cite news|url=https://www.theguardian.com/football/2014/mar/18/real-madrid-schalke-champions-league-match-report|title=Cristiano Ronaldo double completes Real Madrid's thrashing of Schalke|newspaper=[[The Guardian]]|location=London|date=18 March 2014|access-date=31 March 2014|archive-url=https://web.archive.org/web/20140407094527/https://www.theguardian.com/football/2014/mar/18/real-madrid-schalke-champions-league-match-report|archive-date=7 April 2014|url-status=dead}}</ref> On 17 May, in the last game of [[2013–14 La Liga|the league campaign]], he scored two late goals against [[RCD Espanyol|Espanyol]] to help Real to a 3–1 home win, and finish with eight goals in the competition.<ref>{{cite news |date=17 May 2014 |title=Real Madrid 3–1 Espanyol |url=https://www.bbc.co.uk/sport/football/27422375 |access-date=25 September 2017 |work=[[BBC Sport]] |language=en-GB}}</ref> He also featured in the club's victory in the [[2014 UEFA Champions League Final|UEFA Champions League Final]] against Atlético Madrid, playing the last ten minutes of regular time and [[Overtime (sports)|extra time]] after replacing Benzema.<ref name="2014ChampionsLeagueFinal">{{cite news |last=McNulty |first=Phil |date=25 May 2014 |title=Real Madrid 4–1 Atletico Madrid |url=https://www.bbc.co.uk/sport/football/27383593 |access-date=10 February 2020 |work=BBC Sport |language=en-GB}}</ref>
+
+===Juventus===
+[[File:Álvaro Morata - Juventus' MVP of October 2014 (edited).jpg|thumb|upright|Morata with [[Juventus FC|Juventus]] in 2014]]
+
+On 19 July 2014, [[Juventus FC|Juventus]] announced that they had reached an agreement for the fee of €20&nbsp;million for the transfer of Morata, who signed a five-year deal,<ref>{{cite web |title=Morata signs for Juventus |url=http://www.juventus.com/juve/en/news/morata-completes-juventus-switch |archive-url=https://web.archive.org/web/20150109161313/http://www.juventus.com/juve/en/news/morata-completes-juventus-switch |archive-date=9 January 2015 |date=19 July 2014 |access-date=19 July 2014 |work=Juventus F.C.}}</ref><ref>{{cite web|url=http://www.juventus.com/wps/wcm/connect/06baf795-883a-4ca9-80e9-beba5def3cfd/comunicato+19072014+morata+eng.pdf?MOD=AJPERES|title=Agreement with Real Madrid for the definitive acquisition of the player Alvaro Morata|publisher=Juventus F.C.|date=19 July 2014|access-date=19 July 2014}}{{Dead link|date=April 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> with Real Madrid having the option to buy him back in the future.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2014/07/official-announcement-morata|title=Official announcement: Morata|publisher=Real Madrid CF|date=19 July 2014|access-date=19 July 2014}}</ref> He made his debut in [[Serie A]] on 13 September, replacing [[Fernando Llorente]] for the final minute of a 2–0 home win against [[Udinese Calcio|Udinese]];<ref>{{Cite web |title=Juventus 2 - 0 Udinese Match report - 9/13/14 Serie A - Goal.com |url=http://www.goal.com/en/match/juventus-vs-udinese/1836129/report?ICID=MP_MS_5 |archive-url=https://web.archive.org/web/20160318102820/http://www.goal.com/en/match/juventus-vs-udinese/1836129/report?ICID=MP_MS_5 |archive-date=2016-03-18 |access-date=2026-06-10 |website=www.goal.com |language=en}}</ref> two weeks later he again came on in place of his compatriot, and headed his first goal for his new club as they won 3–0 at [[Atalanta B.C.|Atalanta]].<ref>{{cite news |date=27 September 2014 |title=Atalanta 0–3 Juventus |url=https://www.bbc.co.uk/sport/football/29311911 |access-date=25 September 2017 |work=[[BBC Sport]] |language=en-GB}}</ref>
+
+On 5 October 2014, in a 3–2 home win against [[A.S. Roma|Roma]], Morata came on as a substitute and was sent off for a foul on [[Kostas Manolas]], who was ordered off for retaliating.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/29476538|title=Juventus 3–2 Roma|website=BBC Sport|first=Sam|last=Sheringham|date=5 October 2014|access-date=25 September 2017}}</ref> On 9 November, he scored twice in a 7–0 home demolition of [[Parma F.C.|Parma]], with Llorente – whom he replaced after 71 minutes – adding a further two.<ref>{{cite web|url=http://www.espnfc.com/italian-serie-a/match/403734/juventus-parma/report|title=Juventus put seven past Parma as Llorente, Tevez, Morata net braces|website=ESPN FC|date=9 November 2014|access-date=9 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20160304105526/http://www.espnfc.com/italian-serie-a/match/403734/juventus-parma/report|archive-date=4 March 2016}}</ref> Morata came on for the final ten minutes of the [[Supercoppa Italiana]] against [[S.S.C. Napoli|Napoli]] in [[Doha]], Qatar on 22 December, and scored in the [[Penalty shoot-out (association football)|penalty shoot-out]] which Juventus [[2014 Supercoppa Italiana|lost 5–6]].<ref>{{cite news |date=22 December 2014 |title=Juventus 2–2 Napoli (5–6 on pens) |url=https://www.bbc.co.uk/sport/football/30582475 |access-date=25 September 2017 |work=BBC Sport |language=en-GB}}</ref>
+
+On 28 January 2015, Morata played the last 13 minutes of the [[Coppa Italia]] fixture against Parma, and scored the game's only goal at the [[Stadio Ennio Tardini]] to qualify for [[2014–15 Coppa Italia|the semi-finals]].<ref>{{cite news|url=http://www.marca.com/2015/01/28/futbol/futbol_internacional/calcio/1422482409.html|title=A la salud de Morata|trans-title=Raising a cup for Morata|newspaper=Marca|location=Madrid|language=es|date=28 January 2015|access-date=29 January 2015}}</ref> The following month, at home against [[Borussia Dortmund]] in the [[2014–15 UEFA Champions League|UEFA Champions League round of 16]], he scored the winner in the 43rd minute of the first leg;<ref>{{cite web |title=First-half goals give Juve victory over Dortmund |url=https://www.uefa.com/uefachampionsleague/news/021e-0e8f72c05d85-cc01c3b53778-1000--first-half-goals-give-juve-victory-over-dortmund/ |date=24 February 2015 |access-date=25 February 2015 |website=UEFA}}</ref> he also started and found the net in the return match, helping Juve to a 3–0 win at the [[Westfalenstadion]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/021f-0e9afa448e38-eba39d3f8475-1000--tevez-leads-juventus-to-dortmund-stroll/|title=Tévez leads Juventus to Dortmund stroll|publisher=UEFA|date=18 March 2015|access-date=18 March 2015}}</ref>
+
+On 7 April 2015, Morata was sent off for a foul on [[Alessandro Diamanti]] as Juventus defeated [[ACF Fiorentina|Fiorentina]] in the cup semi-final, thus missing [[2015 Coppa Italia Final|the final]].<ref>{{cite web|url=http://www.goal.com/en-gb/match/fiorentina-vs-juventus/1998269/report|title=Fiorentina 0–3 Juventus (agg. 2–4): Bianconeri brush Viola aside to reach Coppa Italia final|website=Goal.com|date=7 April 2015|access-date=7 April 2015}}</ref> One week later, he won a [[Penalty kick (association football)|penalty]] in the first leg of the Champions League quarter-final against [[AS Monaco FC|Monaco]], which was converted by [[Arturo Vidal]] in a 1–0 home win.<ref>{{cite news|url=http://www.gazzetta.it/Calcio/Champions-League/Juventus/14-04-2015/champions-juventus-monaco-1-0-vidal-rigore-fa-godere-allegri-stadium-110454988856.shtml|title=Juventus-Monaco 1–0: Vidal su rigore fa godere Allegri e lo Stadium|trans-title=Juventus-Monaco 1–0: Allegri and stadium rejoice through Vidal penalty|newspaper=[[La Gazzetta dello Sport]]|location=Milan|first=Jacopo|last=Gerna|language=it|date=14 April 2015|access-date=14 April 2015}}</ref> In the first leg of the semi-final, against Real Madrid, he put the hosts ahead with a tap-in in the eighth minute, as the match ended in a 2–1 home victory,<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0221-0e908d4a6138-0d200bf0b0d9-1000--tevez-gives-juventus-the-edge-against-real-madrid/|title=Tévez gives Juventus the edge against Real Madrid|publisher=UEFA|date=5 May 2015|access-date=5 May 2015}}</ref> and he repeated the feat in the return match, on both occasions not celebrating scoring against his former club.<ref>{{cite news |last=Johnston |first=Neil |date=13 May 2015 |title=Real Madrid 1–1 Juventus |url=https://www.bbc.co.uk/sport/football/32683303 |access-date=25 September 2017 |work=BBC Sport |language=en-GB}}</ref> On 6 June, in [[2015 UEFA Champions League Final|the final]] against Barcelona in [[Berlin]], he scored the equaliser early in the second half of a 1–3 loss.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0252-0cd2c6a4864d-8c8d00efd1bd-1000--barcelona-see-off-juventus-to-claim-fifth-title/|title=Barcelona see off Juventus to claim fifth title|publisher=UEFA|date=6 June 2015|access-date=6 June 2015}}</ref>
+
+In early August 2015, Morata was ruled out for a month due to a [[soleus muscle]] tear in his left calf during training, and was sidelined for the [[2015 Supercoppa Italiana]].<ref>{{Cite news |title=Alvaro Morata ruled out for a month {{!}} Goal.com |url=https://www.goal.com/en/news/10/italy/2015/08/05/14175912/morata-ruled-out-for-a-month |archive-url=https://web.archive.org/web/20201114225411/https://www.goal.com/en/news/10/italy/2015/08/05/14175912/morata-ruled-out-for-a-month |archive-date=2020-11-14 |access-date=2026-06-10 |language=en}}</ref> In his second appearance after returning to action, on 15 September, he featured for 85 minutes and scored the winner in a 2–1 win at [[Manchester City F.C.|Manchester City]] in the [[2015–16 UEFA Champions League|UEFA Champions League group phase]].<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/0225-0e91a9eed49e-6150a7e606a5-1000--morata-earns-juventus-victory-at-manchester-city/ |title=Morata earns Juventus victory at Manchester City |publisher=UEFA |date=15 September 2015 |access-date=15 September 2015}}</ref> On 30 September, he scored to help defeat [[Sevilla FC|Sevilla]] 2–0 at the [[Juventus Stadium]], his fifth goal in as many appearances in the competition to equal [[Alessandro Del Piero]]'s record.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0226-0e91f9b2c763-36d20312caba-1000--morata-on-equalling-del-piero-s-juventus-record/|title=Morata on equalling Del Piero's Juventus record|publisher=UEFA|date=1 October 2015|access-date=1 October 2015}}</ref> On 24 November, he was nominated for the UEFA Team of the Year.<ref>{{cite news|url=http://gazzettaworld.gazzetta.it/news/serie-a/juventus/six-nominees-team-of-year/|title=Six Juventus stars nominated for UEFA Team of the Year|newspaper=La Gazzetta dello Sport|location=Milan|first=Paul|last=Sumeet|date=24 November 2015|access-date=26 November 2015|url-status=dead|archive-url=https://web.archive.org/web/20160219224914/http://gazzettaworld.gazzetta.it/news/serie-a/juventus/six-nominees-team-of-year/|archive-date=19 February 2016}}</ref>
+
+On 10 December 2015, Morata signed a contract extension until 2020.<ref>{{cite web |last=Campanale |first=Susy |date=10 December 2015 |title=Official: Morata extends Juve deal |url=https://football-italia.net/official-morata-extends-juve-deal/ |access-date=10 December 2015 |website=Football Italia}}</ref> On 20 March 2016, in the [[Derby della Mole]] away to neighbours [[Torino F.C.|Torino]], he came off the bench in the first half and scored twice in a 4–1 victory.<ref>{{cite news |title=Torino 1-4 Juventus |url=https://www.bbc.com/sport/football/35803805 |access-date=25 August 2020 |work=BBC Sport |date=20 March 2016}}</ref> On 21 May, he again came off the bench to score the winning goal in the 20th minute of extra time to win the [[2016 Coppa Italia Final|Coppa Italia final]] 1–0 against [[AC Milan]] in Rome's [[Stadio Olimpico]].<ref>{{cite web|url=http://www.football-italia.net/84739/coppa-italia-morata-extra-time|title=Coppa Italia: Morata in extra time|website=Football Italia|date=21 May 2016|access-date=21 May 2016}}</ref>
+
+===Return to Real Madrid===
+On 21 June 2016, Real Madrid exercised their buy-back clause to re-sign Morata from Juventus for €30&nbsp;million.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2016/06/official-announcement-morata|title=Official announcement: Morata|publisher=Real Madrid CF|date=21 June 2016|access-date=21 June 2016}}</ref><ref>{{cite news |last=Aarons |first=Ed |date=21 June 2016 |title=Real Madrid to activate buy-back clause for Álvaro Morata from Juventus |url=https://www.theguardian.com/football/2016/jun/21/real-madrid-alvaro-morata-juventus-buy-back |access-date=15 April 2025 |work=[[The Guardian]] |language=en-GB |issn=0261-3077}}</ref> His first competitive appearance was on 9 August, as he started in a 3–2 win over fellow Spaniards Sevilla in the [[2016 UEFA Super Cup]], being replaced by Benzema after 62 minutes.<ref>{{cite web|url=http://www.espnfc.co.uk/report?gameId=450351|title=Dani Carvajal's late goal in ET helps Real Madrid win UEFA Super Cup|website=ESPN FC|date=9 August 2016|access-date=9 August 2016}}</ref> His first goal came in a 2–1 home win over [[RC Celta de Vigo|Celta]] on 27 August.<ref>{{cite news |date=27 August 2016 |title=Real Madrid 2–1 Celta Vigo |url=https://www.bbc.co.uk/sport/football/37179134 |access-date=27 August 2016 |work=[[BBC Sport]] |language=en-GB}}</ref>
+
+On 5 April 2017, Morata profited from manager [[Zinedine Zidane]]'s rotations and scored three times in a 4–2 away win against [[CD Leganés|Leganés]] to keep his team two points clear of Barcelona with a game in hand.<ref>{{cite web |last=Jiménez |first=Rubén |date=5 April 2017 |title=Leganés vs Real Madrid: Asensio es un pepino |url=https://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_30/leg_rma/ |access-date=25 September 2017 |website=[[Marca (newspaper)|Marca]] |language=es|trans-title=Leganés vs Real Madrid: Asensio is a cucumber}}</ref> In spite of spending the vast majority of [[2016–17 La Liga|the season]] as backup to Benzema, he scored 15 league goals<ref>{{cite web|url=http://ovaciondeportes.com/futbol/futbol_internacional/ligas-de-europa/morata-es-suplente-pero-supera-a-benzema-en-los-registros-de-goleo/|title=Morata; un goleador letal siendo suplente|trans-title=Morata; lethal scorer even as backup|publisher=Ovación|language=es|date=6 May 2017|access-date=22 May 2017}}</ref> as the club was crowned champions for the first time in five years.<ref>{{cite web|url=http://www.laliga.es/noticias/real-madrid-campeon-de-laliga-santander-2016-17|title=El Real Madrid, campeón de LaLiga Santander 2016/17|trans-title=Real Madrid, LaLiga Santander champions 2016/17|publisher=[[La Liga]]|language=es|date=21 May 2017|access-date=22 May 2017}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/39926301|title=Malaga 0–2 Real Madrid|website=BBC Sport|date=21 May 2017|access-date=25 September 2017}}</ref> He added three goals in nine appearances in the [[2016–17 UEFA Champions League|UEFA Champions League]],<ref>{{cite web|url=https://www.rtp.pt/noticias/liga-dos-campeoes/real-madrid-2-1-sporting_e947220|title=Real Madrid 2–1 Sporting|publisher=[[Rádio e Televisão de Portugal]]|language=pt|date=14 September 2016|access-date=6 June 2017}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/37671862|title=Real Madrid 5–1 Legia Warsaw|website=BBC Sport|first=Luke|last=Reddy|date=18 October 2016|access-date=25 September 2017}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/39152659|title=Napoli 1–3 Real Madrid|website=BBC Sport|first=Louise|last=Gwilliam|date=7 March 2017|access-date=25 September 2017}}</ref> which Real Madrid won for the second successive year.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0250-0c5117c008df-de0901ea6dae-1000--majestic-real-madrid-win-champions-league-in-cardiff/|title=Majestic Real Madrid win Champions League in Cardiff|publisher=UEFA|date=3 June 2017|access-date=4 June 2017}}</ref>
+
+===Chelsea===
+====2017–18 season====
+[[File:Morata 20170812.jpg|thumb|upright|Morata playing for [[Chelsea F.C.|Chelsea]] in 2017]]
+
+On 19 July 2017, [[Chelsea F.C.|Chelsea]] announced that they had agreed terms with Real Madrid for the transfer of Morata, for a reported club-record fee of around £60&nbsp;million.<ref>{{cite news |date=19 July 2017 |title=Alvaro Morata: Chelsea agree £60m deal to sign Real Madrid striker |url=https://www.bbc.co.uk/sport/football/40662659 |access-date=30 March 2018 |work=[[BBC Sport]] |language=en-GB}}</ref> On 21 July, he passed his medical and officially became a Chelsea player.<ref>{{cite news |date=21 July 2017 |title=Alvaro Morata: Chelsea sign Real Madrid striker for club record £60m |url=https://www.bbc.co.uk/sport/football/40667600 |access-date=25 September 2017 |work=BBC Sport |language=en-GB}}</ref><ref>{{cite web|url=http://www.chelseafc.com/news/latest-news/2017/07/morata-is-a-blue.html|title=Morata is a Blue|publisher=Chelsea F.C.|date=21 July 2017|access-date=21 July 2017}}</ref>
+
+Morata made his competitive debut in the [[2017 FA Community Shield]] match against [[Arsenal F.C.|Arsenal]], coming on as a substitute in the 74th minute as his team lost on penalties after drawing 1–1 in normal time, with Morata missing in the shoot-out.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/40766983|title=Arsenal 1–1 Chelsea (Arsenal win 4–1 on penalties)|website=BBC Sport|first=Tom|last=Rostance|date=6 August 2017|access-date=25 September 2017}}</ref> On 12 August 2017, he scored and provided an assist for [[David Luiz]] in his first appearance in the [[Premier League]], a 2–3 defeat at home to [[Burnley F.C.|Burnley]] – his goal was a header in the 69th minute of the game to cut the deficit to 3–1.<ref>{{cite news |first=Phil |last=Dawkes |date=12 August 2017 |title=Chelsea 2–3 Burnley |url=https://www.bbc.co.uk/sport/football/40835426 |access-date=25 September 2017 |work=BBC Sport |language=en-GB}}</ref> On 23 September, he scored his first hat-trick for Chelsea in a 4–0 away win against [[Stoke City F.C.|Stoke City]];<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/41290319|title=Stoke City 0–4 Chelsea|website=BBC Sport|first=Kal|last=Sajad|date=23 September 2017|access-date=25 September 2017}}</ref> this made him the 17th Chelsea player to score a hat-trick in the Premier League.<ref>{{Cite news|url=http://metro.co.uk/2017/09/23/alvaro-morata-scores-chelseas-17th-premier-league-hat-trick-closing-in-on-arsenals-record-of-19-6951079/|title=Alvaro Morata scores Chelsea's 17th Premier League hat-trick, closing in on Arsenal's record of 19|newspaper=[[Metro (British newspaper)|Metro]]|first=Mark|last=Brus|date=23 September 2017|access-date=25 September 2017}}</ref>
+
+On 5 November 2017, Morata scored in the 1–0 home win against [[Manchester United F.C.|Manchester United]], coached by his former boss Mourinho.<ref>{{cite web|url=https://www.bbc.com/sport/football/41792809|title=Chelsea 1–0 Manchester United|website=BBC Sport|date=5 November 2017|access-date=5 November 2017}}</ref> He took his league tally to ten goals on 26 December, helping Chelsea to a 2–0 win over [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], also at [[Stamford Bridge (stadium)|Stamford Bridge]].<ref>{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/chelsea-2-brighton-0-blues-manchester-united-win-albion-alvaro-morata-a8128996.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/premier-league/chelsea-2-brighton-0-blues-manchester-united-win-albion-alvaro-morata-a8128996.html |archive-date=7 May 2022 |url-access=subscription |url-status=live|title=Chelsea 2 Brighton 0: Blues close on Manchester United after stylish win over sloppy Albion|newspaper=[[The Independent]]|first=Jack|last=Pitt-Brooke|date=27 December 2017|access-date=27 December 2017}}{{cbignore}}</ref>
+
+On 17 January 2018, Morata was sent off after picking up a [[Penalty card#Yellow card|booking]] for diving, then another seconds later for dissent, in a third round [[FA Cup]] [[2017–18 FA Cup|replay win]] over [[Norwich City F.C.|Norwich City]].<ref>{{cite news |last=Sealey |first=Louis |date=18 January 2018 |title=Antonio Conte admits he is 'not happy' with Alvaro Morata after FA Cup win |url=https://metro.co.uk/2018/01/18/antonio-conte-admits-not-happy-alvaro-moratas-reaction-led-fa-cup-red-card-7238282/ |access-date=18 January 2018 |newspaper=Metro}}</ref> He finished his first year with 15 goals in all competitions, and the Blues finished fifth in the [[2017–18 Premier League|league table]].<ref>{{cite web|url=https://talksport.com/football/389837/chelsea-transfer-news-borussia-dortmund-alvaro-morata-move/|title=BVB BLOW Chelsea transfer news: Borussia Dortmund rule out Alvaro Morata move as misfiring forward is 'too expensive'|publisher=[[Talksport]]|first=Billy|last=Hawkins|date=25 June 2018|access-date=19 August 2018}}</ref>
+
+====2018–19 season====
+Morata opened his account for [[2018–19 Premier League|the following campaign]] on 18 August 2018, scoring the second goal in a 3–2 home victory against Arsenal.<ref>{{cite web|url=http://www.goal.com/en-ke/news/morata-makes-his-mark-but-hazard-still-the-difference-maker/4c15hchg8vvg1r0ndvgmzg9uv|title=Morata makes his mark but Sarri's hopes of success hinge on Hazard|website=Goal.com|date=18 August 2018|access-date=19 August 2018}}</ref> On 4 October, he scored the winner in a 1–0 win over [[MOL Vidi FC|MOL Vidi]] in [[2018–19 UEFA Europa League|the group stage]] of the [[UEFA Europa League]].<ref>{{cite web|url=https://www.fourfourtwo.com/sg/news/chelsea-1-vidi-0-morata-ends-drought-earn-group-l-win|title=Chelsea 1 Vidi 0: Morata ends drought to earn Group L win|website=[[FourFourTwo]]|date=4 October 2018|access-date=5 October 2018|archive-date=5 October 2018|archive-url=https://web.archive.org/web/20181005071929/https://www.fourfourtwo.com/sg/news/chelsea-1-vidi-0-morata-ends-drought-earn-group-l-win|url-status=dead}}</ref> A month later, he scored twice to help beat [[Crystal Palace F.C.|Crystal Palace]] 3–1 in a league fixture at home.<ref>{{cite web|url=https://www.fourfourtwo.com/my/news/chelsea-3-crystal-palace-1-morata-double-maintains-momentum|title=Chelsea 3 Crystal Palace 1: Morata double maintains momentum|website=FourFourTwo|date=5 November 2018|access-date=5 November 2018|archive-date=5 November 2018|archive-url=https://web.archive.org/web/20181105012157/https://www.fourfourtwo.com/my/news/chelsea-3-crystal-palace-1-morata-double-maintains-momentum|url-status=dead}}</ref>
+
+===Atlético Madrid===
+[[File:Alvaro Morata 2019-cropped (cropped).jpg|thumb|upright|Morata playing for [[Atlético Madrid]] in 2019]]
+On 27 January 2019, Morata was transferred to Atlético Madrid on an 18-month [[Loan (sports)|loan]] deal.<ref>{{Cite news |title=Alvaro Morata joins Atletico Madrid from Chelsea on loan |url=https://www.skysports.com/football/news/11668/11620554/alvaro-morata-joins-atletico-madrid-from-chelsea-on-loan |archive-url=https://web.archive.org/web/20260517163115/https://www.skysports.com/football/news/11668/11620554/alvaro-morata-joins-atletico-madrid-from-chelsea-on-loan |archive-date=2026-05-17 |access-date=2026-06-10 |work=Sky Sports |language=en-GB}}</ref><ref>{{cite news |date=27 January 2019 |title=Alvaro Morata: Chelsea striker says he is close to joining Atletico Madrid on loan |url=https://www.bbc.com/sport/football/46984512 |access-date=16 April 2025 |work=[[BBC Sport]] |language=en-GB}}</ref><ref>{{cite web |date=27 January 2019 |title=Morata passes medical, closes in on Atletico loan |url=https://www.espn.com/soccer/story/37569134/ |access-date=16 April 2025 |website=[[ESPN]]}}</ref> He made his league debut on 3 February, in a 0–1 away loss against [[Real Betis]].<ref>{{cite web|url=https://www.bbc.com/sport/football/47110070|title=Real Betis 1–0 Atlético Madrid|website=BBC Sport|date=3 February 2019|access-date=4 February 2019}}</ref> He scored his first goal on 24 February, in a 2–0 home win over [[Villarreal CF|Villarreal]].<ref>{{cite news |date=24 February 2019 |title=Atletico Madrid 2–0 Villarreal |url=https://www.bbc.com/sport/football/47336163 |access-date=24 February 2019 |work=BBC Sport |language=en-GB}}</ref> On 6 July 2019, Atlético Madrid confirmed the permanent signing of Morata from Chelsea and he would officially join the club on 1 July 2020,<ref>{{cite web|url=https://en.atleticodemadrid.com/noticias/agreement-with-chelsea-fc-over-the-transfer-of-morata|title=Agreement with Chelsea FC over the transfer of Morata|date=6 July 2019|access-date=6 July 2019}}</ref> for a fee around £58 million.<ref>{{cite web |date=6 July 2019 |title=Chelsea confirm Morata sale to Atletico |url=https://www.espn.com/soccer/story/_/id/37574114/chelsea-confirm-morata-sale-atletico |access-date=6 July 2019 |website=ESPN}}</ref>
+
+On 18 August 2019, Morata scored the only goal in Atlético Madrid's [[La Liga]] opener win against [[Getafe CF|Getafe]].<ref>{{cite web |date=19 August 2019 |title=Atletico Madrid start the season in typical fashion |url=https://www.marca.com/en/football/spanish-football/cronica/2019/08/19/5d59d500268e3e1b448b45c2.html |access-date=19 August 2019 |website=[[Marca (newspaper)|Marca]]}}</ref> On 1 October 2019, Morata marked his 300th professional game with an assist for the game's opening goal in a 2–0 away win against Russian side [[FC Lokomotiv Moscow|Lokomotiv Moscow]].<ref>{{Cite web|url=https://www.marca.com/en/football/spanish-football/2019/10/03/5d95d561ca47415f7b8b4568.html|title=Morata reaches 300 matches|date=3 October 2019|website=Marca|access-date=3 October 2019}}</ref> On 22 October, he scored his first [[2019–20 UEFA Champions League|Champions League]] goal for Atlético by heading home [[Renan Lodi]]'s cross for the only goal of the game in a home win against German side [[Bayer 04 Leverkusen|Bayer Leverkusen]]. This also made him the first player to score for both Real Madrid and Atlético in the Champions League.<ref>{{Cite web|url=https://www.newindianexpress.com/sport/football/2019/oct/23/alvaro-morata-makes-his-point-by-scoring-winner-for-atletico-madrid-2051832.html|title=Alvaro Morata makes his point by scoring winner for Atletico Madrid|website=The New Indian Express|date=23 October 2019 |access-date=23 October 2019}}</ref>
+
+On 11 March 2020, in the [[2019–20 UEFA Champions League knockout phase|Champions League last 16]] second leg away to defending champions [[Liverpool F.C.|Liverpool]], Morata came on as a late substitute in [[extra time]] and scored the final goal of the game in a 3–2 away win, thus winning the tie 4–2 on aggregate, ensuring his team's qualification to the quarter-finals of the competition.<ref>{{cite web |date=11 March 2020 |title=Rio Ferdinand trolls Chelsea flop Alvaro Morata after Liverpool's CL exit |url=https://metro.co.uk/2020/03/11/rio-ferdinand-trolls-alvaro-morata-liverpool-champions-league-defeat-atletico-madrid-chelsea-12384917/ |access-date=12 March 2020 |website=Metro}}</ref>
+
+===Return to Juventus===
+[[File:FC Zenit Saint Petersburg vs. Juventus, 20 October 2021 19 - Álvaro Morata (cropped).jpg|thumb|313x313px|Morata playing for [[Juventus FC|Juventus]] in 2021]]
+Morata returned to Juventus on 22 September 2020, on a one-year loan worth €10 million, with an option for purchase at €45 million.<ref name="auto">{{cite web|title=Welcome home, Alvaro!|url=https://www.juventus.com/en/news/articles/welcome-home-alvaro|access-date=22 September 2020|website=Juventus F.C.}}</ref> Juventus also reserved the right to extend the loan for a further year for another €10 million; in this case, the option for purchase was worth €35 million.<ref name="auto"/>
+
+He made his first appearance for the club since his return on 27 September, in a 2–2 away draw against Roma in Serie A.<ref>{{cite web |url=https://www.espn.com/soccer/report?gameId=583144 |title=AS Roma vs. Juventus - Football Match Report |work=ESPN.com |date=27 September 2020 |access-date=27 September 2020 }}</ref><ref>{{cite news |url=https://www.corrieredellosport.it/news/calcio/serie-a/2020/09/27-74234236/roma-juve_2-2_doppiette_di_veretout_e_ronaldo/ |title=Roma-Juve 2–2: doppiette di Veretout e Ronaldo |work=Il Corriere dello Sport |language=it |date=27 September 2020 |access-date=27 September 2020 |trans-title=Roma-Juve 2–2: braces for Veretout and Ronaldo}}</ref> He scored his first goal for the club since his return on 17 October, in a 1–1 away draw to [[F.C. Crotone|Crotone]].<ref>{{cite web|url=https://www.football-italia.net/160703/crotone-1-1-juventus-chiesa-hero-and-villain|title=Crotone 1–1 Juventus: Chiesa hero and villain|publisher=Football Italia|date=17 October 2020|access-date=2026-06-10}}</ref> Morata scored a brace on 20 October, to help Juventus win 2–0 in the [[2020–21 UEFA Champions League|UEFA Champions League]] group stage match against [[FC Dynamo Kyiv|Dynamo Kyiv]] away from home.<ref>{{Cite news|title=Morata double as Juve beat Dynamo Kyiv|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/54559665|access-date=20 October 2020}}</ref> On 28 October, he had three goals disallowed for offside against Barcelona in a Champions League group stage game, which Juventus lost 2–0 at home.<ref>{{cite web|date=28 October 2020|title=Alvaro Morata scores hat-trick of offside goals as Barcelona beat Juventus|url=https://talksport.com/football/780971/alvaro-morata-juventus-vs-barcelona-chelsea/|access-date=29 October 2020|website=talkSPORT|language=en-US}}</ref> On 20 January 2021, Morata won the [[2020 Supercoppa Italiana|Supercoppa Italiana]], beating 2–0 Napoli in a match where he scored the second goal.<ref>{{cite web |date=20 January 2021 |title=Supercoppa, Juventus-Napoli 2–0: Ronaldo e Morata gol. Insigne, rigore fatale |url=https://www.repubblica.it/sport/calcio/serie-a/2021/01/20/news/supercoppa_juventus-napoli_2-0_ronaldo_e_morata_regalano_il_primo_titolo_a_pirlo-283528610/ |access-date=17 June 2021 |website=la Repubblica |language=it}}</ref>
+
+On 15 June 2021, Morata's loan with Juventus was extended until 30 June 2022.<ref>{{cite web|date=15 June 2021|title=Ufficiale - Morata: è rinnovo!| trans-title= Official - Morata: renewal!|url=https://www.juventus.com/it/news/articoli/ufficiale-morata-e-rinnovo|access-date=15 June 2021|website=Juventus F.C.|language=it}}</ref> In the 2021–22 season, he scored nine goals in 35 Serie A appearances, as Juventus decided not to activate the buy option of €35m.<ref>{{cite web |date=14 June 2022 |title=Morata prepares for Atletico return after Juventus decision |url=https://football-italia.net/morata-prepares-for-atletico-return-after-juventus-decision/ |access-date=29 August 2023 |website=Football Italia}}</ref>
+
+===Return to Atlético Madrid===
+In July 2022, Atlético Madrid confirmed that Morata would return to Madrid at the end of his loan spell at Juventus.<ref>{{cite web|url=https://en.atleticodemadrid.com/noticias/morata-i-m-very-motivated-i-can-t-wait-to-start-training|title=Morata: "I'm very motivated, I can't wait to start training"|publisher=Atlético Madrid|date=7 July 2022|access-date=23 November 2022}}</ref> In the [[2022–23 UEFA Champions League|2022–23 Champions League]] season, Atlético were eliminated from all European competitions as they finished last in the group,<ref>{{Cite news |title=Atletico Madrid knocked out of Europe: Diego Simeone under pressure after 'darkest night' of his reign |url=https://www.skysports.com/football/news/11095/12736369/atletico-madrid-knocked-out-of-europe-diego-simeone-under-pressure-after-darkest-night-of-his-reign |archive-url=https://web.archive.org/web/20250831210046/https://www.skysports.com/football/news/11095/12736369/atletico-madrid-knocked-out-of-europe-diego-simeone-under-pressure-after-darkest-night-of-his-reign |archive-date=2025-08-31 |access-date=2026-06-10 |work=Sky Sports |language=en-GB}}</ref> in which Morata failed to score in his five matches in the competition. However, he scored 13 goals in the league,<ref>{{cite web |url=https://www.goal.com/en/news/la-liga-top-scorers-2022-23/blt9ea523e8d70138b5 |title=La Liga top scorers 2022-23: Benzema, Lewandowski & players in Pichichi race |publisher=Goal.com |date=4 June 2023 }}</ref> his highest total goals at Atlético in La Liga.
+
+On 28 August 2023, he scored a brace in a 7–0 win over Rayo Vallecano, contributing to Atlético's biggest away win in La Liga history.<ref>{{cite web |title=Atlético 7–0 Rayo (28 Aug, 2023) Game Analysis |url=https://www.espn.co.uk/football/report/_/gameId/674037 |date=29 August 2023 |access-date=29 August 2023 |website=ESPN}}</ref> On 24 September 2023, he scored a brace in a 3–1 victory over Real Madrid, his first La Liga goals against his former club.<ref>{{cite web |url=https://sportsbrief.com/football/49533-atleticos-alvaro-morata-reaches-goalscoring-milestone-brace-real-madrid/ |title=Atletico's Alvaro Morata Reaches New Goalscoring Milestone After His Brace vs. Real Madrid |publisher=Sports Brief |date=25 September 2023 }}</ref> On 3 January 2024, Morata scored his first hat-trick with the club against [[Girona FC|Girona]] in a 4–3 loss.<ref>{{Cite news |date=2024-01-03 |title=Girona snatch thrilling 4–3 win over Atletico |work=Sports Brief |url=https://sportsbrief.com/football/55854-girona-snatch-thrilling-4-3-win-atletico/ |access-date=2024-01-03}}</ref> In the [[2023–24 La Liga|2023–24 season]], he set a new personal best in La Liga by scoring 15 goals, making him the second top scorer for his club behind [[Antoine Griezmann]].<ref>{{cite web |last=Sharma |first=Abhinav |url=https://www.goal.com/en/lists/la-liga-top-scorers-2023-24/bltc1315b7e4f725363#csea879fcd6919475e |title=La Liga top scorers 2023-24: Jude Bellingham, Robert Lewandowski & players with the most goals in Spain this season |publisher=Goal.com |date=27 May 2024 |access-date=2026-06-10}}</ref>
+
+===AC Milan===
+On 19 July 2024, Morata joined [[Serie A]] club AC Milan on a four-year contract with the option for a further season if he registers at least 20 goal contributions in the [[2024–25 AC Milan season|2024–25 season]].<ref>{{cite web |date=2024-07-19 |title=OFFICIAL STATEMENT: ÁLVARO MORATA |url=https://www.acmilan.com/en/news/articles/media/2024-07-19/official-statement-alvaro-morata |url-status=live |archive-url=https://web.archive.org/web/20240720164144/https://www.acmilan.com/en/news/articles/media/2024-07-19/official-statement-alvaro-morata |archive-date=2024-07-20 |accessdate=2024-07-19 |publisher=[[AC Milan]]}}</ref><ref>{{Cite web |date=2024-07-19 |title=Alvaro Morata joins AC Milan from Atletico Madrid |url=https://www.bbc.com/sport/football/articles/cgrl8yn285eo |access-date=2024-07-19 |publisher=BBC Sport}}</ref> Before settling on a number 7 shirt, the same number he usually plays with in the national team, he considered choosing number 22 and even asked for permission from [[Kaká]], although the number had been in use since his transfer to Real Madrid in 2009.<ref>{{cite web |date=4 November 2024 |title=Kaká rivela: "In estate Morata mi ha chiamato perché voleva la 22 del Milan" |url=https://www.milannews.it/news/kaka-rivela-in-estate-morata-mi-ha-chiamato-perche-voleva-la-22-del-milan-555025 |publisher=Milan News |language=it|access-date=2026-06-10}}</ref> He made his debut for Milan on 17 August, coming on as a substitute and scoring in a 2–2 draw against Torino.<ref>{{cite web |date=17 August 2024 |title=Morata: 'Milan comeback sent a message, this team was dead ' at 0–2 |first=Susy |last=Campanale |url=https://football-italia.net/morata-milan-comeback-message-team-was-dead/ |access-date=18 August 2024 |website=Football Italia}}</ref> Later that year, on 5 November, he scored his first Champions League goal with Milan in a 3–1 away victory over his former club Real Madrid.<ref>{{Cite news |last=Lowe |first=Sid |date=2024-11-05 |title=Álvaro Morata silences Bernabéu as Milan capitalise on Real Madrid malaise |url=https://www.theguardian.com/football/2024/nov/05/real-madrid-milan-champions-league-match-report |access-date=2026-06-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+====Loan to Galatasaray====
+
+On 2 February 2025, Morata joined [[Süper Lig]] club [[Galatasaray S.K. (football)|Galatasaray]] on a loan deal from AC Milan, with an option to buy set at €10 million.<ref>{{cite web |date=2 February 2025 |title=Alvaro Morata'nın geçici transferi hakkında |url=https://www.galatasaray.org/haber/gs-sportif-a-s/alvaro-moratanin-gecici-transferi-hakkinda/57114 |access-date=2 February 2025 |publisher=Galatasaray S.K.}}</ref><ref>{{cite web |date=2 February 2025 |title=Transfer görüşmelerine başladığımız Álvaro Morata İstanbul'da! |url=https://www.galatasaray.org/haber/futbol/transfer-gorusmelerine-basladigimiz-alvaro-morata-istanbul-da/57119 |access-date=2 February 2025 |publisher=Galatasaray S.K.}}</ref><ref>{{cite web|url=https://www.galatasaray.org/haber/gs-sportif-a-s/alvaro-morata-galatasarayda/57123|title=Alvaro Morata Galatasaray'da!|publisher=Galatasaray S.K.|date=2 February 2025|access-date=2 February 2025}}</ref><ref>{{cite web |date=2 February 2025 |title=Galatasaray'a hoş geldin Álvaro Morata! |url=https://www.galatasaray.org/haber/futbol/galatasaray-a-hos-geldin-alvaro-morata/57124 |access-date=2 February 2025 |publisher=Galatasaray S.K.}}</ref> The transfer was prompted by a significant injury to Galatasaray's primary striker, [[Mauro Icardi]]. Morata made his Süper Lig debut for Galatasaray on 3 February 2025, coming on as a substitute in the 69th minute during a 1–0 away victory against [[Gaziantep F.K.|Gaziantep]]. He scored his first goal for the club on 6 February in a [[Turkish Cup]] match against [[Boluspor]], netting in the 21st minute to level the score, contributing to a 4–1 win. Throughout his initial months with Galatasaray, Morata's performances were mixed. 
+
+He faced challenges in consistently filling the void left by Icardi, managing to score three goals in ten appearances over his first three months. His playing time was also affected by a muscle injury in February, which sidelined him for several matches.<ref>{{cite web |last1=Cordovilla |first1=Iván |title=Chasco con Morata |url=https://as.com/futbol/internacional/chasco-con-morata-n/ |website=Diario AS |access-date=28 April 2025 |language=es |date=23 April 2025}}</ref> Despite these setbacks, Morata delivered a standout performance on 27 April, in a league match against [[Eyüpspor]]. Entering the game in the 67th minute, he assisted [[Victor Osimhen]] for Galatasaray's third goal and subsequently scored two goals himself in the 87th and 89th minutes, contributing to a 5–1 victory.<ref>{{cite web |last1=Prat |first1=Irati |title=Doblete de Morata en dos minutos en la goleada de un Galatasaray más líder |url=http://marca.com/futbol/futbol-internacional/cronica/2025/04/27/doblete-morata-dos-minutos-goleada-galatasaray-lider.html |website=MARCA |access-date=28 April 2025 |language=es |date=27 April 2025}}</ref> On 11 August, AC Milan terminated the loan agreement by paying a fee of €5 million to Galatasaray.<ref>{{Cite news |last=Bradshaw |first=Peter |date=2026-06-09 |title=AO88 |url=https://sao88.in/ |access-date=2026-06-10 |language=en-GB}}</ref><ref>{{cite web|url=https://www.galatasaray.org/haber/gs-sportif-a-s/profesyonel-futbolcu-alvaro-borja-morata-martin-sozlesme-feshi-hakkinda/58278|title=Profesyonel futbolcu Alvaro Borja Morata Martin Sözleşme Feshi Hakkında|publisher=Galatasaray S.K.|date=11 August 2025|language=Turkish|access-date=2026-06-10}}</ref>
+
+====Loan to Como====
+On 12 August 2025, Morata joined Serie A club [[Como 1907|Como]] on a season-long loan, with a conditional obligation to make the move permanent at the end of the [[2025–26 Como 1907 season|2025–26 season]].<ref>{{cite web|url=https://www.tuttomercatoweb.com/serie-a/ecco-il-colpo-morata-per-il-como-trasferimento-dal-milan-a-titolo-temporaneo-2134105|title=Ecco il colpo Morata per il Como! Trasferimento dal Milan a titolo temporaneo|publisher=tuttomercadoweb.com|date=12 August 2025|access-date=12 August 2025|language=Italian}}</ref><ref>{{cite web|publisher=Como 1907|url=https://comofootball.com/il-lago-da-il-benvenuto-a-un-campione-alvaro-morata-e-un-giocatore-del-como/|title=IL LAGO DÀ IL BENVENUTO A UN CAMPIONE: ÁLVARO MORATA È UN GIOCATORE DEL COMO|date=12 August 2025|access-date=12 August 2025|language=it}}</ref> He was sent off in a 2–1 defeat to [[ACF Fiorentina|Fiorentina]] on 14 February 2026 after receiving two yellow cards in two minutes. Manager [[Cesc Fabregas]] said afterwards: "Provocation is part of football. Those who don't tolerate provocation have to change careers."<ref>{{Cite web|url=https://www.goal.com/en-gb/lists/cesc-fabregas-alvaro-morata-change-careers-chelsea-flop-sent-off-como/blt68325874518c1102|title=Cesc Fabregas tells Alvaro Morata to 'change careers' after Chelsea flop sent off for Como &#124; Goal.com UK|date=15 February 2026|website=www.goal.com}}</ref> Though Como finished the season in fourth place, thus qualifying for [[UEFA competitions]] for the first time in their history, Morata scored just once all season, netting the final goal in a 3–1 win over Fiorentina in the quarter-final of the [[Coppa Italia]].<ref>{{Cite web|url=https://football-italia.net/coppa-italia-fiorentina-1-3-como-back-napoli/|title=Coppa Italia &#124; Fiorentina 1-3 Como: Fiery comeback sets up Napoli quarter final|date=27 January 2026|access-date=2026-06-10}}</ref>
+
+===Como===
+On 16 June 2026, Como activated Morata's buy option and signed him permanently ahead of the 2026–27 season.<ref>{{cite web|url=https://www.tuttomercatoweb.com/serie-a/como-scatta-riscatto-morata-opzioni-posizione-2244643|title=Como, quando scatta il riscatto di Morata. Le opzioni per il futuro e la sua posizione|date=16 June 2026|website=tuttomercatoweb.com|language=Italian|trans-title=Como, when Morata will be bought out}}</ref>
+
+====Loan to Leganés====
+On 28 August 2026, Morata returned to Spain, signing for second-tier club [[CD Leganés|Leganés]] on a season-long deal.<ref>{{cite web |date=28 August 2026 |title=C.D. Leganés signs Álvaro Morata to bolster its offense |url=https://www.cdleganes.com/player-transfer/alvaro-morata-signs-for-cd-leganes |access-date=28 August 2026 |publisher=CD Leganés}}</ref>
+
+[[File:MorataLeganes.jpg|thumb|Álvaro Morata's first appereance with [[Club Deportivo Leganés|C. D. Leganés]] on 4th September 2026, [[Estadio de Gran Canaria]], against [[Unión Deportiva Las Palmas|U. D. Las Palmas]] (0:0)]]
+
+==International career==
+===Youth===
+[[File:Álvaro Morata, Spain U-19, SBS Cup 2010 in Fujieda, Japan (cropped).jpg|thumb|upright|Morata playing for [[Spain national under-19 football team|Spain U19]] in 2010]]
+
+Morata was selected to the [[Spain national under-17 football team|Spain under-17 team]] for the [[2009 FIFA U-17 World Cup|2009 U-17 World Cup]] in Nigeria, playing four matches and scoring two goals as Spain finished third.<ref>{{cite news|url=https://www.marca.com/2009/11/01/futbol/seleccion/1257094427.html|title=Goleada antes de lo serio|trans-title=Routing before the real deal|newspaper=Marca|location=Madrid|language=es|date=1 November 2009|access-date=9 January 2019}}</ref><ref>{{cite news|url=https://www.elmundo.es/elmundodeporte/2009/11/15/futbol/1258305443.html|title=Consuelo de bronce|trans-title=Bronze consolation|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|date=15 November 2009|access-date=9 January 2019}}</ref> Subsequently, he represented the [[Spain national under-19 football team|under-19s]] at the Japan International Tournament,<ref>{{cite web|url=http://www.rfef.es/index.jsp?nodo=39&ID=2383|title=Convocatoria Torneo Internacional de Japón Sub-19|trans-title=Japan Under-19 International Tournament callup|publisher=[[Royal Spanish Football Federation]]|language=es|date=7 August 2010|access-date=17 August 2010|archive-url=https://web.archive.org/web/20120308185025/http://www.rfef.es/index.jsp?nodo=39&ID=2383|archive-date=8 March 2012|url-status=dead}}</ref> helping Spain finish second behind the hosts.<ref>{{cite web|url=http://www.rfef.es/index.jsp?nodo=39&ID=2423|title=La Sub-19 gana y se adjudica el segundo puesto|trans-title=Under-19 win and finish second|publisher=Royal Spanish Football Federation|date=24 August 2010|access-date=26 August 2010|language=es|archive-url=https://web.archive.org/web/20120308185049/http://www.rfef.es/index.jsp?nodo=39&ID=2423|archive-date=8 March 2012|url-status=dead}}</ref>
+
+Morata was selected by Spain for the [[2011 UEFA European Under-19 Championship]] in Romania, helping the national team win the tournament with six goals, the highest in the competition.<ref>{{cite web|url=https://www.uefa.com/under19/news/0257-0deb36f1f988-ea4d362b7792-1000--spain-s-morata-takes-u19-scoring-plaudits/|title=Spain's Morata takes U19 scoring plaudits|publisher=UEFA|first=Andrew|last=Haslam|date=1 August 2011|access-date=25 September 2017}}</ref> He made his debut with the [[Spain national under-21 football team|under-21s]] at the [[2013 UEFA European Under-21 Championship]] in Israel, scoring the only goal in each of the first two group games against [[Russia national under-21 football team|Russia]] and [[Germany national under-21 football team|Germany]], in the 82nd and 86th minutes respectively.<ref>{{cite web|url=https://www.uefa.com/under21/news/0257-0dec9e4a76ed-28fcde69102a-1000--morata-late-show-gives-spain-winning-start/|title=Morata late show gives Spain winning start|publisher=UEFA|first=Simon|last=Hart|date=6 June 2013|access-date=25 September 2017}}</ref><ref>{{cite web|url=https://www.uefa.com/under21/match/2010951--germany-vs-spain/|title=Morata sends Spain through as Germany crash out|publisher=UEFA|date=9 June 2013|access-date=25 September 2017}}</ref> He closed out a perfect group stage with his third goal, against the [[Netherlands national under-21 football team|Netherlands]] in a 3–0 win.<ref>{{cite web|url=https://www.uefa.com/under21/news/0257-0decb84da2f4-4c763a4c7387-1000--spain-beat-netherlands-to-top-group-b/|title=Spain beat Netherlands to top Group B|publisher=UEFA|first=Simon|last=Hart|date=12 June 2013|access-date=25 September 2017}}</ref> 
+
+In the semi-final against [[Norway national under-21 football team|Norway]], after appearing as 58th minute substitute for [[Rodrigo (footballer, born 1991)|Rodrigo Moreno]], Morata scored his fourth goal in four matches and assisted a goal for [[Isco]].<ref>{{cite web|url=https://www.uefa.com/under21/match/2010958--spain-vs-norway/|title=Spain 3–0 Norway|date=15 June 2013|access-date=9 April 2024|website=UEFA}}</ref> He returned to the starting line-up for [[2013 UEFA European Under-21 Championship final|the final]] and assisted captain [[Thiago Alcântara]]'s sixth minute opening goal in a 4–2 win over [[Italy national under-21 football team|Italy]].<ref>{{cite web|url=https://www.uefa.com/under21/match/2010959--italy-vs-spain/|title=Italy 2–4 Spain|date=19 June 2013|access-date=9 April 2024|website=UEFA}}</ref> Morata's four goals in five matches won him the Golden Boot award for top goalscorer.<ref>{{cite web|url=https://www.uefa.com/under21/news/0257-0deccecab816-02cd0af34df4-1000--morata-wins-golden-boot-in-spanish-clean-sweep/|title=Morata wins Golden Boot in Spanish clean sweep|publisher=UEFA|first=Sam|last=Adams|date=18 June 2013|access-date=25 September 2017}}</ref> He was also named in UEFA's Squad of the Tournament.<ref>{{cite web|url=https://www.uefa.com/under21/news/0283-1876f534fb25-e069a027749d-1000--2023-under-21-euro-team-of-the-tournament/|title=2023 Under-21 EURO Team of the Tournament|date=11 July 2023|access-date=9 April 2024|website=UEFA}}</ref>
+
+===Senior===
+On 7 November 2014, Morata was called up to manager [[Vicente del Bosque]]'s [[Spain national football team|senior squad]] for matches against [[Belarus national football team|Belarus]] and [[Germany national football team|Germany]].<ref>{{Cite news |date=2014-11-07 |title=Chelsea’s Diego Costa left out of Spain squad due to groin concerns |url=https://www.theguardian.com/football/2014/nov/07/diego-costa-spain-squad-chelsea-left-out |access-date=2026-06-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> He made his debut against Belarus on the 15 November, replacing Isco for the last ten minutes of a 3–0 win in [[Huelva]] for the [[UEFA Euro 2016 qualifying|UEFA Euro 2016 qualifiers]].<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f8d20415a-6e68168eeaec-1000--much-changed-spain-dominate-belarus/|title=Much-changed Spain dominate Belarus|publisher=UEFA|first=Graham|last=Hunter|date=15 November 2014|access-date=15 November 2014}}</ref> In the same competition, on 27 March 2015, he scored his first senior international goal, the only goal in a victory over [[Ukraine national football team|Ukraine]] in [[Seville]].<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d8002fb88ae-b26ef874c052-1000--morata-ensures-spain-beat-ukraine/|title=Morata ensures Spain beat Ukraine|publisher=UEFA|first=Graham|last=Hunter|date=27 March 2015|access-date=28 March 2015}}</ref>
+
+Selected for [[UEFA Euro 2016|the finals in France]],<ref>{{cite news|url=https://elpais.com/deportes/2016/05/31/actualidad/1464710610_277737.html?rel=cx_articulo|title=Isco y Saúl fuera de la lista de Del Bosque para la Eurocopa 2016|trans-title=Isco and Saúl out of Del Bosque's list for 2016 European Championship|newspaper=[[El País]]|location=Madrid|first=Luis|last=Martín|language=es|date=1 June 2016|access-date=25 September 2017}}</ref> Morata started and scored a brace in a 3–0 group win against [[Turkey national football team|Turkey]] in Nice.<ref>{{cite web|url=http://www.espnfc.co.uk/report?gameId=438184|title=Spain cruise past Turkey to advance to knockout stage|website=ESPN FC|date=17 June 2016|access-date=17 June 2016}}</ref> On 2 September 2017, coming off the bench in the 77th minute, he scored once to help the hosts defeat [[Italy national football team|Italy]] 3–0 in the [[2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualifiers]].<ref>{{Cite news|url=http://metro.co.uk/2017/09/03/alvaro-morata-displays-sublime-pace-and-movement-to-finish-off-spain-goal-against-italy-6899406/|title=Watching, Conte? Morata shows UNREAL pace and movement to finish off Spain goal|newspaper=Metro|date=3 September 2017|access-date=25 September 2017}}</ref> He was left out of Spain's 23-man squad for the World Cup finals in Russia, following what was described by ''[[The Guardian]]'' as "an indifferent season at Chelsea."<ref>{{Cite news |date=2018-05-21 |title=Chelsea forward Álvaro Morata left out of Spain’s World Cup squad |url=https://www.theguardian.com/football/2018/may/21/chelsea-forward-alvaro-morata-out-spain-world-cup-squad |access-date=2026-06-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+On 24 May 2021, he was included in [[Luis Enrique]]'s [[UEFA Euro 2020 squads#Spain|24-man squad]] for [[UEFA Euro 2020]].<ref>{{cite news |last1=Braidwood |first1=Jamie |title=Euro 2020 news LIVE: Sergio Ramos left out of Spain squad plus latest before England announcement |url=https://www.independent.co.uk/sport/football/euro-2020-news-live-england-squad-b1852654.html |archive-url=https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/sport/football/euro-2020-news-live-england-squad-b1852654.html |archive-date=7 May 2022 |url-access=subscription |url-status=live |access-date=24 May 2021 |work=The Independent |date=24 May 2021}}{{cbignore}}</ref> On 19 June, In Spain's second group match of the tournament against [[Poland national football team|Poland]], Morata scored the opening goal in an eventual 1–1 draw.<ref>{{cite news |url=https://www.bbc.com/sport/football/51197624 |title=Lewandowski scores as Poland hold Spain |work=BBC Sport |date=19 June 2021 |access-date=19 June 2021 }}</ref> Morata scored Spain's fourth goal of the Euro 2020 round of 16 in the 100th minute of the game against [[Croatia national football team|Croatia]], resulting in a 5–3 victory on 28 June.<ref>{{Cite news|title=Spain beat Croatia in eight-goal thriller|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/51198542|access-date=28 June 2021}}</ref> In the semi-finals against [[Italy national football team|Italy]], he came off the bench to score an equalising goal, which sent the match to extra-time and eventually to a penalty-shootout. Spain were eliminated after losing the shootout by 4–2,<ref>{{cite web |url=https://footballexpress.co.uk/euro-2020-italy-1-1-spain-post-match-analysis/|title=Euro 2020: Italy 1–1 Spain Post-match analysis|website=Football Express.co.uk|date=7 July 2021 |access-date=2026-06-10}}</ref> in which his penalty was saved by [[Gianluigi Donnarumma]]. His goal against Italy was his sixth in the [[UEFA European Championship|European Championship]], overtaking [[Fernando Torres]]' Spanish record of five goals in the competition.<ref>{{cite web |url=https://www.bbc.com/sport/football/51198738 |title=Italy 1–1 Spain |website=BBC Sport |date=6 July 2021 |access-date=2026-06-10}}</ref>
+
+On 27 September 2022, he scored a goal in the 88th minute to secure a 1–0 victory over [[Portugal national football team|Portugal]], which helped Spain to clinch top spot of their group in the [[2022–23 UEFA Nations League A|Nations League A]], and qualify to the competition's finals.<ref>{{cite web |url=https://www.skysports.com/football/news/11095/12706661/nations-league-round-up-alvaro-morata-strikes-late-to-send-spain-into-finals-at-expense-of-old-foes-portugal |title=Nations League round-up: Alvaro Morata strikes late to send Spain into finals at expense of old foes Portugal |publisher=Sky Sports |date=27 September 2022 |access-date=2026-06-10}}</ref> In November 2022, he was named in the final squad for the [[2022 FIFA World Cup]] in Qatar.<ref>{{cite web |date=11 November 2022 |title=OFICIAL {{!}} Lista de convocados para la Copa Mundial de Fútbol de la FIFA Catar 2022 |url=https://rfef.es/es/noticias/oficial-lista-de-convocados-para-la-copa-mundial-de-futbol-de-la-fifa-catar-2022 |website=sefutbol |language=es|access-date=2026-06-10}}</ref> During the group stage, he scored a goal each in all three matches against [[Costa Rica national football team|Costa Rica]], Germany and [[Japan national football team|Japan]], equaling the same record for Spain by [[Telmo Zarra]] in [[1950 FIFA World Cup|1950]].<ref>{{cite web |url=https://www.foxsports.com/watch/play-61017fc37001519 |title=Japan vs. Spain Highlights {{!}} 2022 FIFA World Cup |website=Fox Sports |date=1 December 2022 |access-date=2026-06-10}}</ref>
+
+In March 2023, Morata was named as [[Captain (association football)|captain]] of the Spain national team by head coach [[Luis de la Fuente (footballer, born 1961)|Luis de la Fuente]] for the upcoming [[UEFA Euro 2024 qualifying|Euro 2024 qualifying]] matches.<ref>{{cite web |date=21 March 2023 |title=Rubiales y el fuera de juego semiautomático: "Se le ofreció a LaLiga desde el primer momento..." |url=https://as.com/futbol/seleccion/rubiales-y-el-fuera-de-juego-semiautomatico-se-le-ofrecio-a-laliga-desde-el-primer-momento-n/?omnil=resrelrecomv |publisher=as.com |language=es|access-date=2026-06-10}}</ref> In June 2023, he was selected in the final squad for the [[2023 UEFA Nations League Finals|Nations League Finals]],<ref>{{cite web |date=2 June 2023 |title=OFICIAL {{!}} Lista de convocados para la fase final de la UEFA Nations League |url=https://rfef.es/es/noticias/oficial-lista-de-convocados-para-la-fase-final-de-la-uefa-nations-league |publisher=Royal Spanish Football Federation |language=es|access-date=2026-06-10}}</ref> which Spain won for the first time after defeating Croatia 5–4 on penalties following a goalless draw.<ref>{{cite web |url=https://www.bbc.com/sport/football/65944659 |title=Croatia 0–0 Spain |publisher=BBC Sport |date=18 June 2023 |access-date=2026-06-10}}</ref> On 8 September, he scored his first international hat-trick in a 7–1 win away to [[Georgia national football team|Georgia]] in [[UEFA Euro 2024]] qualification.<ref>{{cite news |title=Morata scores hat-trick as Spain thrash Georgia 7–1 |url=https://www.espn.co.uk/football/report/_/gameId/655348 |access-date=27 May 2024 |publisher=ESPN |date=8 September 2022}}</ref>
+
+Morata was confirmed as Spain's captain for [[UEFA Euro 2024]].<ref>{{cite web |last1=Dabbs |first1=Ryan |last2=Hancock |first2=Tom |last3=Murray |first3=Andrew |last4=Matthew |first4=Ketchell |last5=Chicken |first5=Steven |title=Spain Euro 2024 squad: Luis de la Fuente's full team |url=https://www.fourfourtwo.com/features/spain-euro-2024-squad-team-line-up-players-germany |publisher=fourfourtwo.com |access-date=10 July 2024 |date=21 September 2023}}</ref> He scored the opening goal in a 3–0 win over Croatia in Spain's first game of the tournament.<ref>{{cite web |title=The official website for European football |url=https://www.uefa.com/euro2024/news/028e-1b23c263c4b9-a508bf38bd27-1000--spain-3-0-croatia-impressive-la-roja-make-convincing-stat/ |publisher=[[UEFA]] |access-date=10 July 2024 |language=en |date=15 June 2024}}</ref> He recorded an assist on [[Lamine Yamal]]'s goal as Spain came from behind to achieve a 2–1 win over [[France national football team|France]] in the semi-final.<ref>{{cite news |title=Spain 2–1 France: Lamine Yamal makes history as Spain reach Euro 2024 final |url=https://www.bbc.com/sport/football/live/cd1derpyngmt?page=13 |access-date=10 July 2024 |work=BBC Sport |date=9 July 2024}}</ref> With Spain's 2–1 victory against [[England national football team|England]] in the [[UEFA Euro 2024 final|final]], Morata joined 12 other players in having won both youth and senior Euro titles, alongside his teammates [[Mikel Merino]], [[Ferran Torres]], [[Nacho (footballer, born 1990)|Nacho]] and [[Rodri (footballer, born 1996)|Rodri]].<ref>{{Cite web |last= |title=Junior-senior EURO double roll of honour: Rodri, Morata, Merino, Nacho, Ferran Torres join Chiellini, Iniesta, Henry |url=https://www.uefa.com/under19/news/026b-12bc7e4aa14d-013db974f3a0-1000--junior-senior-euro-double-roll-of-honour-rodri-morata-merin/ |date=14 July 2024 |access-date=15 July 2024 |website=[[UEFA]] |language=en}}</ref> Morata lifted Spain's tournament trophy as captain.<ref>{{Cite web |last=Eastick |first=Jane |date=15 July 2024 |title=How Spain won Euro 2024: Decisive De la Fuente, Morata's leadership, Yamal and Williams' bond |url=https://www.naturahoy.com/2024/07/how-spain-won-euro-2024-decisive-de-la-fuente-moratas-leadership-yamal-and-williams-bond/ |access-date=15 July 2024 |website=Natura Hoy |language=en-GB}}</ref>
+
+After an unimpressive season at Como, and having not been called up since September 2025, Morata was not included in Spain's squad for the [[2026 FIFA World Cup]].<ref>{{Cite news |date=2026-05-25 |title=Zero Real Madrid players in Spain World Cup squad as injured Lamine Yamal makes cut |url=https://www.theguardian.com/football/2026/may/25/spain-world-cup-squad-2026-lamine-yamal-injury |access-date=2026-06-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+==Style of play==
+A striker,<ref>{{cite news |url=https://www.marca.com/en/football/spanish-football/2017/08/31/59a82981ca4741fb158b4593.html |title=Morata: I hate to say it, but playing with a false nine against Italy is a good idea |work=Marca |date=31 August 2017 |access-date=10 July 2024 }}</ref> in his younger days, Morata was compared to Real Madrid and Spain's [[Fernando Morientes]] due to his playing style.<ref>{{cite news|url=https://elpais.com/diario/2010/12/13/deportes/1292194807_850215.html|title=Morata, el recogepelotas atlético que admiraba a Raúl|trans-title=Morata, the Atlético ball boy who admired Raúl|newspaper=El País|location=Madrid|first=Eleonora|last=Giovio|language=es|date=13 December 2010|access-date=25 September 2017}}</ref> During his first season at Juventus he stood out for his pace, energy, physicality and work-rate on the pitch, while his technique, opportunism, heading ability and positional sense saw him score several crucial goals.<ref>{{cite web|url=http://www.football-italia.net/62304/case-morata|title=The case for Morata|website=Football Italia|access-date=15 March 2016|date=6 February 2015}}</ref><ref>{{cite web|url=http://www.sportsnet.ca/soccer/alvaro-morata-uefa-champions-league-final-juventus-barcelona/|title=Morata an unsung hero for Juventus this season|publisher=[[Sportsnet]]|first=Craig|last=Battle|date=3 June 2015|access-date=15 March 2016}}</ref><ref>{{cite web|url=http://sport.sky.it/sport/champions_league/2015/06/06/juventus_barcellona_finale_champions_league_berlino.html|title=Triplete Barcellona: E' campione d'Europa. Peccato, Juve|trans-title=Barcelona treble: They're Champions of Europe. What a shame, Juve|website=[[Sky Sport (Italy)|Sky Sport]]|language=it|date=6 June 2015|access-date=15 March 2016|archive-date=14 May 2016|archive-url=https://web.archive.org/web/20160514022956/http://sport.sky.it/sport/champions_league/2015/06/06/juventus_barcellona_finale_champions_league_berlino.html|url-status=dead}}</ref><ref>{{cite news|url=http://sport.ilmessaggero.it/calcio/pagelle_juventus_barcellona-1078498.html|title=Buffon non-molla mai, Morata una rete Real, Pogba e Tevez non-lasciano il segno|trans-title=Buffon never gives up, Morata a "Real" goal, Pogba and Tevez don't leave their mark|newspaper=[[Il Messaggero]]|location=Rome|first=Luciano|last=Danza|language=it|date=7 June 2015|access-date=25 September 2017}}</ref> Despite this, Morata has been criticised for his inconsistency in front of goal and perceived poor mentality, most notably during his time at Chelsea.<ref>{{Cite news |last=Sharland |first=Pete |date=31 December 2021 |title='A good striker' with a bad perception: The curious career of Alvaro Morata |work=[[Eurosport]] |url=https://www.tntsports.co.uk/football/transfers/2021-2022/inside-europe-the-curious-career-of-alvaro-morata_sto8688549/story.shtml|access-date=2026-06-10}}</ref> He has also been praised for his leadership.<ref>{{cite web |last1=Ranney |first1=Julia |title=Euro 2024 Takeaways: Lamine Yamal leads silky Spain to semifinal win |url=https://www.sportsnet.ca/euro-2024/article/euro-2024-takeaways-lamine-yamal-leads-silky-spain-to-semifinal-win/ |publisher=Sportsnet.ca |access-date=10 July 2024 |language=en |date=9 July 2024}}</ref>
+
+==Personal life==
+Morata was born in [[Madrid]]<ref>{{cite web |url=https://www.worldfootball.net/person/pe234920/alvaro-morata/ |title=Álvaro Morata: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=30 July 2020}}</ref> to Susana Martín and Alfonso Morata. His father is heavily involved in transfer negotiations alongside Morata's agent, [[Juanma López (footballer)|Juanma López]].<ref>{{Cite web|url=https://en.as.com/en/2017/07/03/football/1499077447_396483.html|title=Morata agent, father hold Real Madrid exit talks at Bernabéu|last=AS|first=Diario|date=3 July 2017|website=AS.com|language=en|access-date=16 April 2020|archive-date=2 August 2019|archive-url=https://web.archive.org/web/20190802235552/https://en.as.com/en/2017/07/03/football/1499077447_396483.html|url-status=dead}}</ref>
+
+In March 2014, Morata shaved off all of his hair in solidarity with sick children, saying "kids with cancer wanted to have my haircut but they couldn't, so I gave myself theirs."<ref>{{cite news|url=http://www.20minutos.es/deportes/noticia/alvaro-morata-rapa-cabeza-solidaridad-ninos-enfermos-cancer-2099971/0/|title=Álvaro Morata se rapa la cabeza por solidaridad con los niños enfermos de cáncer|trans-title=Álvaro Morata shaves his head in solidarity with children ill with cancer|newspaper=20 minutos|location=Madrid|language=es|date=30 March 2014|access-date=27 October 2015}}</ref>
+
+Morata married his Italian girlfriend Alice Campello in [[Venice]] on 17 June 2017.<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/news/alvaro-morata-marries-alice-campello-10642164|title=Alvaro Morata marries Alice Campello in stunning Venice ceremony as striker considers Manchester United move|newspaper=[[Daily Mirror]]|location=London|first=Martin|last=Domin|date=18 June 2017|access-date=18 June 2017}}</ref> They have four children: three sons, including twins Alessandro and Leonardo (born 2018), Edoardo (born 2020),<ref>{{Cite web |date=29 September 2020 |title=Alice Campello e Alvaro Morata: è nato Edoardo, il terzo figlio |url=https://www.vanityfair.it/people/italia/2020/09/29/alice-campello-alvaro-morata-nato-edoardo-terzo-figlio-foto-gossip |access-date=29 September 2020 |website=VanityFair.it |language=it}}</ref> and a daughter, Bella (born 2023).<ref>{{Cite web |date=10 January 2023 |title=Morata shock: nasce la quarta figlia, la moglie è in terapia intensiva |trans-title=Morata shock: fourth child is born, wife is in intensive care. |url=https://www.gazzetta.it/Calcio/Liga/10-01-2023/morata-moglie-alice-campello-terapia-intensiva-il-parto-4501902661849.shtml |access-date=2023-01-11 |website=La Gazzetta dello Sport |language=it}}</ref> In 2018, Morata changed his shirt number at Chelsea from 9 to 29 in honour of the 29 July birthday of his twin sons.<ref>{{cite news |title=Alvaro Morata will wear the No 29 shirt for Chelsea this season |url=https://www.skysports.com/football/news/11668/11459810/alvaro-morata-will-wear-the-no-29-shirt-for-chelsea-this-season |access-date=27 May 2024 |publisher=Sky Sports |date=3 August 2018}}</ref> Morata announced the couple's separation on August 12, 2024 through an Instagram story.<ref>{{cite news |last1=Ferrazzi |first1=Enrico |date=12 August 2024 |title=Morata annuncia la separazione dalla moglie: "Ma non inventate storie, non c'è stata nessuna mancanza di rispetto" |url=https://www.milannews.it/primo-piano/morata-annuncia-la-separazione-dalla-moglie-ma-non-inventate-storie-non-c-e-stata-nessuna-mancanza-di-rispetto-545336 |access-date=18 August 2024 |website=milannews.it |language=it}}</ref> The couple reconciled in January 2025.<ref>{{cite magazine|magazine=Goal |first=Richie|last=Mills|title=Alvaro Morata & Alice Campello back together! AC Milan & Spain star reconciles with model wife five months after shock split as they share loved-up image on Instagram|url=https://www.goal.com/en-in/lists/alvaro-morata-alice-campello-back-together-ac-milan-spain-star-reconciles-model-wife-five-months-after-split-share-loved-up-image-instagram/bltf8049aa32305376b#cs7ecdae70dd284410|archive-url=https://web.archive.org/web/20250226105124/https://www.goal.com/en-in/lists/alvaro-morata-alice-campello-back-together-ac-milan-spain-star-reconciles-model-wife-five-months-after-split-share-loved-up-image-instagram/bltf8049aa32305376b#cs7ecdae70dd284410|date=28 January 2025|access-date=26 February 2025|archive-date=26 February 2025|url-status=live}}</ref>
+
+During Spain's celebrations of their [[UEFA Euro 2024 final|Euro 2024]] victory over England, Morata and teammate [[Rodri (footballer, born 1996)|Rodri]] were filmed chanting "Gibraltar is Spanish". The chants were labelled "rancid", "discriminatory" and "hugely offensive to Gibraltarians" by the [[Government of Gibraltar]], and led to an official complaint to [[UEFA]] by the Gibraltar Government and [[Gibraltar Football Association]].<ref>{{Cite news |last=Jones |first=Sam |date=2024-07-16 |title=Gibraltar’s government and FA criticise Spain players’ chants at Euro 2024 party |url=https://www.theguardian.com/football/article/2024/jul/16/gibraltar-fa-criticise-spain-players-chants-euro-2024-party-morata-rodri-gibraltar-is-spanish |access-date=2026-06-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{cite news |last1=Keeley |first1=Graham |title=Watch: Rodri sings 'Gibraltar is Spanish' in Euro 2024 celebrations |url=https://www.telegraph.co.uk/football/2024/07/16/rodri-sings-gibraltar-spanish-watch-euro-2024-celebrations/ |access-date=16 July 2024 |work=The Daily Telegraph |date=16 July 2024}}</ref><ref>{{cite news |last1=Ignacio |first1=Stephen |title=Gibraltar FA to make formal complaint after Spanish national team chants 'Gibraltar Español' |url=https://www.chronicle.gi/gibraltar-fa-to-make-formal-complaint-after-spanish-national-team-chants-gibraltar-espanol/ |access-date=16 July 2024 |work=Gibraltar Chronicle |date=16 July 2024}}</ref> After an investigation was opened on 19 July, Morata and Rodri were formally charged under Article 11 of UEFA on 23 July.<ref>{{Cite web |title=Manchester City star Rodri charged by UEFA over 'deeply offensive' Gibraltar chant after Spain's Euros win |url=https://news.sky.com/story/manchester-city-star-rodri-charged-by-uefa-over-deeply-offensive-gibraltar-chant-after-spains-euros-win-13183919 |access-date=2024-07-24 |website=Sky News |language=en}}</ref> The pair were given a one match ban.<ref>{{Cite web |title=THE GIBRALTAR FA WELCOMES UEFA'S DECISION TO BAN RODRIGO HERNÁNDEZ CASCANTE (RODRI) AND ÁLVARO MORATA |url=https://www.gibraltarfa.com/news/the-gibraltar-fa-welcomes-uefa-s-decision-to-ban-rodrigo-hernandez-cascante-rodri-and-alvaro-morata-671 |access-date=2024-08-08 |publisher=Gibraltar Football Association |language=en}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 16 October 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa del Rey]], [[Coppa Italia]], [[FA Cup]], [[Turkish Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Real Madrid Castilla]]
+|[[2010–11 Segunda División B|2010–11]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2010-11&equip=61&rival=-|title=Real Madrid Castilla matches 10/11|website=BDFutbol|access-date=11 June 2017}}</ref>
+|rowspan="2"|[[Segunda División B]]
+|26||14||colspan="2"|—||colspan="2"|—||colspan="2"|—||2{{efn|name=Play-offs|Appearance(s) in [[Segunda División B play-offs]]}}||1||28||15
+|-
+|{{nobr|[[2011–12 Segunda División B|2011–12]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2011-12&equip=61&rival=-|title=Real Madrid Castilla matches 11/12|website=BDFutbol|access-date=11 June 2017}}</ref>}}
+|33||15||colspan="2"|—||colspan="2"|—||colspan="2"|—||4{{efn|name=Play-offs}}||3||37||18
+|-
+|[[2012–13 Segunda División|2012–13]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2012-13&equip=61&rival=-|title=Real Madrid Castilla matches 12/13|website=BDFutbol|access-date=11 June 2017}}</ref>
+|[[Segunda División]]
+|18||12||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||12
+|-
+!colspan="2"|Total
+!77||41||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||4||83||45
+|-
+|rowspan="5"|[[Real Madrid CF|Real Madrid]]
+|[[2010–11 Real Madrid CF season|2010–11]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2010-11&equip=2&rival=-|title=Real Madrid matches 10/11|website=BDFutbol|access-date=11 June 2017}}</ref>
+|[[La Liga]]
+|1||0||1||0||colspan="2"|—||0||0||colspan="2"|—||2||0
+|-
+|[[2011–12 Real Madrid CF season|2011–12]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2011-12&equip=2&rival=-|title=Real Madrid matches 11/12|website=BDFutbol|access-date=11 June 2017}}</ref>
+|La Liga
+|1||0||0||0||colspan="2"|—||0||0||0||0||1||0
+|-
+|[[2012–13 Real Madrid CF season|2012–13]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2012-13&equip=2&rival=-|title=Real Madrid matches 12/13|website=BDFutbol|access-date=11 June 2017}}</ref>
+|La Liga
+|12||2||2||0||colspan="2"|—||1{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||0||0||15||2
+|-
+|[[2013–14 Real Madrid CF season|2013–14]]<ref>{{cite web|url=http://www.bdfutbol.com/en/p/j8571.html?cat=-&temp=2013-14&equip=2&rival=-|title=Real Madrid matches 13/14|website=BDFutbol|access-date=11 June 2017}}</ref>
+|La Liga
+|23||8||6||0||colspan="2"|—||5{{efn|name=UCL}}||1||colspan="2"|—||34||9
+|-
+!colspan="2"|Total
+!37||10||9||0||colspan="2"|—||6||1||0||0||52||11
+|-
+|rowspan="3"|[[Juventus FC|Juventus]]
+|[[2014–15 Juventus FC season|2014–15]]<ref>{{Soccerbase season|id=58023|season=2014|access-date=11 June 2017}}</ref>
+|[[Serie A]]
+|29||8||4||2||colspan="2"|—||12{{efn|name=UCL}}||5||1{{efn|name=SCI|Appearance(s) in [[Supercoppa Italiana]]}}||0||46||15
+|-
+|[[2015–16 Juventus FC season|2015–16]]<ref>{{Soccerbase season|id=58023|season=2015|access-date=11 June 2017}}</ref>
+|Serie A
+|34||7||5||3||colspan="2"|—||8{{efn|name=UCL}}||2||0||0||47||12
+|-
+!colspan="2"|Total
+!63||15||9||5||colspan="2"|—||20||7||1||0||93||27
+|-
+|Real Madrid
+|[[2016–17 Real Madrid CF season|2016–17]]<ref>{{Soccerbase season|id=58023|season=2016|access-date=11 June 2017}}</ref>
+|La Liga
+|26||15||5||2||colspan="2"|—||9{{efn|name=UCL}}||3||3{{efn|One appearance in [[UEFA Super Cup]], two appearances in [[FIFA Club World Cup]]}}||0||43||20
+|-
+|rowspan="3"|[[Chelsea F.C.|Chelsea]]
+|[[2017–18 Chelsea F.C. season|2017–18]]<ref name="sb1718">{{Soccerbase season|id=58023|season=2017|access-date=27 September 2017}}</ref>
+|[[Premier League]]
+|31||11||6||2||3||1||7{{efn|name=UCL}}||1||1{{efn|name=FCS|Appearance in [[FA Community Shield]]}}||0||48||15
+|-
+|[[2018–19 Chelsea F.C. season|2018–19]]<ref name="sb1819">{{Soccerbase season|id=58023|season=2018|access-date=8 August 2018}}</ref>
+|Premier League
+|16||5||1||2||2||0||4{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||2||1{{efn|name=FCS}}||0||24||9
+|-
+!colspan="2"|Total
+!47||16||7||4||5||1||11||3||2||0||72||24
+|-
+|rowspan="3"|[[Atlético Madrid]] (loan)
+|[[2018–19 Atlético Madrid season|2018–19]]<ref>{{Soccerbase season|id=58023|season=2018|access-date=29 January 2019}}</ref>
+|La Liga
+|15||6||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—|||17||6
+|-
+|[[2019–20 Atlético Madrid season|2019–20]]<ref>{{Soccerbase season|id=58023|season=2019|access-date=15 August 2019}}</ref>
+|La Liga
+|34||12||0||0||colspan="2"|—||8{{efn|name=UCL}}||3||2{{efn|name=SDE|Appearance(s) in [[Supercopa de España]]}}||1||44||16
+|-
+!colspan="2"|Total
+!49||18||0||0||colspan="2"|—||10||3||2||1||61||22
+|-
+|rowspan="3"|Juventus (loan)
+|[[2020–21 Juventus FC season|2020–21]]<ref>{{Soccerbase season|id=58023|season=2020|access-date=22 August 2021}}</ref>
+|Serie A
+|32||11||3||2||colspan="2"|—||8{{efn|name=UCL}}||6||1{{efn|name=SCI}}||1||44||20
+|-
+|[[2021–22 Juventus FC season|2021–22]]<ref>{{Soccerbase season|id=58023|season=2021|access-date=22 August 2021}}</ref>
+|Serie A
+|35||9||5||1||colspan="2"|—||7{{efn|name=UCL}}||2||1{{efn|name=SCI}}||0||48||12
+|-
+!colspan="2"|Total
+!67||20||8||3||colspan="2"|—||15||8||2||1||92||32
+|-
+|rowspan="3"|Atlético Madrid
+|[[2022–23 Atlético Madrid season|2022–23]]<ref>{{Soccerbase season|id=58023|season=2022|access-date=15 August 2022}}</ref>
+|La Liga
+|36||13||4||2||colspan="2"|—||5{{efn|name=UCL}}||0||colspan="2"|—||45||15
+|-
+|[[2023–24 Atlético Madrid season|2023–24]]<ref>{{Soccerbase season|id=58023|season=2023|access-date=14 August 2023}}</ref>
+|La Liga
+|32||15||5||1||colspan="2"|—||10{{efn|name=UCL}}||5||1{{efn|name=SDE}}||0||48||21
+|-
+!colspan="2"|Total
+!68||28||9||3||colspan="2"|—||15||5||1||0||93||36
+|-
+|[[AC Milan]]
+|[[2024–25 AC Milan season|2024–25]]<ref name="double">{{Soccerbase season|id=58023|season=2024|access-date=19 July 2024}}</ref>
+|Serie A
+|16||5||colspan="2"|—||colspan="2"|—||7{{efn|name=UCL}}||1||2{{efn|name=SCI}}||0||25||6
+|-
+|[[Galatasaray S.K. (football)|Galatasaray]] (loan)
+|[[2024–25 Galatasaray S.K. season|2024–25]]<ref name="double"/>
+|[[Süper Lig]]
+|12||6||3||1||colspan="2"|—||1{{efn|name=UEL}}||0||colspan="2"|—||16||7
+|-
+|[[Como 1907|Como]] (loan)
+|[[2025–26 Como 1907 season|2025–26]]<ref>{{Soccerbase season|id=58023|season=2025|access-date=3 December 2025}}</ref>
+|Serie A
+|26||0||4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||30||1
+|-
+|[[CD Leganés|Leganés]] (loan)
+|[[2026–27 Segunda División|2026–27]]<ref>{{Soccerbase season|id=58023|season=2026|access-date=28 August 2026}}</ref>
+|Segunda División
+|7||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||0
+|-
+!colspan="3"|Career total
+!495||173||54||19||5||1||94||31||19||6||667||231
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 7 September 2025}}<ref name=EU>{{cite web|url=http://eu-football.info/_player.php?id=28880|title=Álvaro Morata|website=EU-Football.info|access-date=14 June 2021}}</ref>
+
+{|class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=12 style="vertical-align:center"|[[Spain national football team|Spain]]
+|2014||2||0
+|-
+|2015||4||1
+|-
+|2016||12||7
+|-
+|2017||5||5
+|-
+|2018||4||0
+|-
+|2019||6||4
+|-
+|2020||3||1
+|-
+|2021||14||5
+|-
+|2022||11||7
+|-
+|2023||8||4
+|-
+|2024||15||3
+|-
+|2025||3||0
+|-
+!colspan=2|Total||87||37
+|}
+
+:''Spain score listed first, score column indicates score after each Morata goal.''<ref name=EU/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Álvaro Morata
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+! align=center | 1
+|27 March 2015 || [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]], Spain || align=center | 3 || {{fb|UKR}} || align=center | 1–0 || align=center | 1–0 || [[UEFA Euro 2016 qualifying Group C|UEFA Euro 2016 qualifying]]
+|-
+! align=center | 2
+|rowspan=2 | 1 June 2016 || rowspan=2 | [[Red Bull Arena (Salzburg)|Red Bull Arena]], [[Salzburg]], Austria || rowspan=2 align=center | 9 || rowspan=2 | {{fb|KOR}} || align=center | 4–0 || rowspan=2 align=center | 6–1 || rowspan=2 | [[Friendly (association football)|Friendly]]
+|-
+! align=center | 3
+|align=center | 6–1
+|-
+! align=center | 4
+|rowspan=2 | 17 June 2016 || rowspan=2 | [[Allianz Riviera]], [[Nice]], France || rowspan=2 align=center | 11 || rowspan=2 | {{fb|TUR}} || align=center | 1–0 || rowspan=2 align=center | 3–0 || rowspan="2" | [[UEFA Euro 2016 Group D|UEFA Euro 2016]]
+|-
+! align=center | 5
+| align=center | 3–0
+|-
+! align=center | 6
+| 21 June 2016 || [[Nouveau Stade de Bordeaux|Nouveau Stade]], [[Bordeaux]], France || align=center | 12 || {{fb|CRO}} || align=center | 1–0 || align=center | 1–2
+|UEFA Euro 2016
+|-
+! align=center | 7
+| rowspan=2 | 5 September 2016 || rowspan=2 | [[Estadio Reino de León|Reino de León]], [[León, Spain|León]], Spain || rowspan=2 align=center | 15 || rowspan=2 | {{fb|LIE}} || align=center | 6–0 || rowspan=2 align=center | 8–0 || rowspan=2 | [[2018 FIFA World Cup qualification – UEFA Group G|2018 FIFA World Cup qualification]]
+|-
+! align=center | 8
+| align=center | 7–0
+|-
+! align=center | 9
+| 7 June 2017 || [[Estadio Nueva Condomina|Nueva Condomina]], [[Murcia]], Spain || align=center | 20 || {{fb|COL}} || align=center | 2–2 || align=center | 2–2 || Friendly
+|-
+! align=center | 10
+| 2 September 2017 || [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]], Spain || align=center | 21 || {{fb|ITA}} || align=center | 3–0 || align=center | 3–0 || 2018 FIFA World Cup qualification
+|-
+! align=center | 11
+| rowspan=2 | 5 September 2017 || rowspan=2 | [[Rheinpark Stadion]], [[Vaduz]], Liechtenstein || rowspan=2 align=center | 22 || rowspan=2 | {{fb|LIE}} || align=center | 2–0 || rowspan=2 align=center | 8–0
+| rowspan="2" |2018 FIFA World Cup qualification
+|-
+! align=center | 12
+| align=center | 6–0
+|-
+! align=center | 13
+| 11 November 2017 || [[La Rosaleda Stadium|La Rosaleda]], [[Málaga]], Spain || align=center | 23 || {{fb|CRC}} || align=center | 2–0 || align=center | 5–0 || Friendly
+|-
+! align=center | 14
+| rowspan=2 | 26 March 2019 || rowspan=2 | [[National Stadium, Ta' Qali|National Stadium]], [[Ta' Qali]], Malta || rowspan=2 align=center | 29 || rowspan=2 | {{fb|MLT}} || align=center | 1–0 || rowspan=2 align=center | 2–0 || rowspan="2" | [[UEFA Euro 2020 qualifying Group F|UEFA Euro 2020 qualifying]]
+|-
+! align=center | 15
+| align=center | 2–0
+|-
+! align=center | 16
+|10 June 2019 || Santiago Bernabéu, Madrid, Spain || align=center | 31 || {{fb|SWE}} || align=center | 2–0 || align=center | 3–0
+|UEFA Euro 2020 qualifying
+|-
+! align=center | 17
+| 15 November 2019 || [[Estadio Ramón de Carranza|Ramón de Carranza]], [[Cádiz]], Spain || align=center | 32 || {{fb|MLT}} || align=center | 1–0 || align=center | 7–0
+|UEFA Euro 2020 qualifying
+|-
+! align=center | 18
+| 17 November 2020 || [[Estadio de La Cartuja|La Cartuja]], Seville, Spain || align=center | 36 || {{fb|GER}} || align=center | 1–0 || align=center | 6–0 || [[2020–21 UEFA Nations League A]]
+|-
+! align=center | 19
+| 25 March 2021 || [[Nuevo Estadio de Los Cármenes|Nuevo Los Cármenes]], [[Granada]], Spain || align=center | 37 || {{fb|GRE}} || align=center | 1–0 || align=center | 1–1 || [[2022 FIFA World Cup qualification – UEFA Group B|2022 FIFA World Cup qualification]]
+|-
+! align=center | 20
+| 19 June 2021 || La Cartuja, Seville, Spain || align=center | 42 || {{fb|POL}} || align=center | 1–0 || align=center | 1–1 ||[[UEFA Euro 2020 Group E|UEFA Euro 2020]]
+|-
+! align=center | 21
+| 28 June 2021 || [[Parken Stadium]], [[Copenhagen]], Denmark|| align=center | 44 || {{fb|CRO}} || align=center | 4–3 || align=center | 5–3 {{aet}}||[[UEFA Euro 2020 knockout stage|UEFA Euro 2020]]
+|-
+! align=center | 22
+| 6 July 2021 || [[Wembley Stadium]], [[London]], England || align=center | 46 || {{fb|ITA}} || align=center | 1–1 || align=center| 1–1 {{aet}}<br />2–4 {{pen.}}||UEFA Euro 2020
+|-
+! align=center | 23
+| 14 November 2021 || La Cartuja, Seville, Spain || align=center | 50 || {{fb|SWE}} || align=center | 1–0 || align=center | 1–0 || 2022 FIFA World Cup qualification
+|-
+! align=center | 24
+| rowspan=2 | 29 March 2022 || rowspan=2 | [[Estadio Riazor|Riazor]], [[A Coruña]], Spain || rowspan=2 align=center | 52 || rowspan=2 | {{fb|ISL}} || align=center | 1–0 || rowspan=2 align=center | 5–0 || rowspan=2 | Friendly
+|-
+! align=center | 25
+| align=center | 2–0
+|-
+! align=center | 26
+| 2 June 2022 || [[Estadio Benito Villamarín|Benito Villamarín]], Seville, Spain || align=center | 53 || {{fb|POR}} || align=center | 1–0 || align=center | 1–1 || [[2022–23 UEFA Nations League A]]
+|-
+! align=center | 27
+| 27 September 2022 || [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]], Portugal || align=center | 57 || {{fb|POR}} || align=center | 1–0 || align=center | 1–0 || 2022–23 UEFA Nations League A
+|-
+! align=center | 28
+| 23 November 2022 || [[Al Thumama Stadium]], [[Doha]], Qatar || align=center | 58 || {{fb|CRC}} || align=center | 7–0 || align=center | 7–0 || [[2022 FIFA World Cup Group E|2022 FIFA World Cup]]
+|-
+! align=center | 29
+| 27 November 2022 || [[Al Bayt Stadium]], [[Al Khor]], Qatar || align=center | 59 || {{fb|GER}} || align=center | 1–0 || align=center | 1–1 || 2022 FIFA World Cup
+|-
+! align=center | 30
+| 1 December 2022 || [[Khalifa International Stadium]], [[Al Rayyan]], Qatar || align=center | 60 || {{fb|JAP}} || align=center | 1–0 || align=center | 1–2 || 2022 FIFA World Cup
+|-
+! align=center | 31
+| rowspan=3 | 8 September 2023 || rowspan=3 | [[Boris Paichadze Dinamo Arena]], [[Tbilisi]], Georgia || rowspan=3 align=center | 65 || rowspan=3 | {{fb|GEO}} || align=center | 1–0 || rowspan=3 align=center | 7–1 || rowspan=3 | [[UEFA Euro 2024 qualifying Group A|UEFA Euro 2024 qualifying]]
+|-
+! align=center | 32
+| align=center | 4–0
+|-
+! align=center | 33
+| align=center | 5–1
+|-
+! align=center | 34
+| 12 October 2023 || [[Estadio de La Cartuja|La Cartuja]], [[Seville]], Spain || align=center | 67 || {{fb|SCO}} || align=center | 1–0 || align=center | 2–0 || UEFA Euro 2024 qualifying
+|-
+! align=center | 35
+| 8 June 2024 || [[Estadi Mallorca Son Moix]], [[Palma de Mallorca|Palma]], Spain || align=center | 73 || {{fb|NIR}} || align=center | 2–1 || align=center | 5–1 || Friendly
+|-
+! align=center | 36
+| 15 June 2024 || [[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]], Germany|| align=center | 74 || {{fb|CRO}} || align=center | 1–0 || align=center | 3–0 || [[UEFA Euro 2024 Group B|UEFA Euro 2024]]
+|-
+! align=center | 37
+| 15 October 2024 || [[Estadio Nuevo Arcángel]], [[Córdoba, Spain|Córdoba]], Spain|| align=center | 82 || {{fb|SRB}} || align=center | 2–0 || align=center | 3–0 || [[2024–25 UEFA Nations League A]]
+|}
+
+==Honours==
+'''Real Madrid Castilla'''
+*[[Segunda División B]]: [[2011–12 Segunda División B|2011–12]]<ref name=SW>{{cite web|url=https://int.soccerway.com/players/alvaro-morata/103171/|title=Álvaro Morata|website=Soccerway|publisher=Perform Group|access-date=25 September 2017}}</ref>
+
+'''Real Madrid'''
+*[[La Liga]]: [[2011–12 La Liga|2011–12]],<ref>{{cite web |url=https://www.bdfutbol.com/en/t/t2011-122.html?t=lista |title=Real Madrid 2011–12: Statistics |website=BDFutbol |access-date=10 February 2020}}</ref> [[2016–17 La Liga|2016–17]]<ref>{{cite web |url=https://www.bdfutbol.com/en/t/t2016-172.html?t=lista |title=Real Madrid 2016–17: Statistics |website=BDFutbol |access-date=10 February 2020}}</ref>
+*[[Copa del Rey]]: [[2013–14 Copa del Rey|2013–14]]<ref name=SW/>
+*[[UEFA Champions League]]: [[2013–14 UEFA Champions League|2013–14]],<ref name="2014ChampionsLeagueFinal" /> [[2016–17 UEFA Champions League|2016–17]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/40123279 |title=Juventus 1–4 Real Madrid |first=Phil |last=McNulty |website=BBC Sport |date=3 June 2017 |access-date=10 February 2020}}</ref>
+*[[UEFA Super Cup]]: [[2016 UEFA Super Cup|2016]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/36946315 |title=Real Madrid 3–2 Sevilla |website=BBC Sport |date=9 August 2016 |access-date=10 February 2020}}</ref>
+*[[FIFA Club World Cup]]: [[2016 FIFA Club World Cup|2016]]<ref name=SW/>
+
+'''Juventus'''
+*[[Serie A]]: [[2014–15 Serie A|2014–15]], [[2015–16 Serie A|2015–16]]<ref name=SW/>
+*[[Coppa Italia]]: [[2014–15 Coppa Italia|2014–15]], [[2015–16 Coppa Italia|2015–16]], [[2020–21 Coppa Italia|2020–21]]
+*[[Supercoppa Italiana]]: [[2020 Supercoppa Italiana|2020]]<ref name=SW/>
+
+'''Chelsea'''
+*[[FA Cup]]: [[2017–18 FA Cup|2017–18]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/44091559 |title=Chelsea 1–0 Manchester United|website=BBC Sport|first=Phil|last=McNulty|date=19 May 2018|access-date=19 May 2018}}</ref>
+*[[UEFA Europa League]]: [[2018–19 UEFA Europa League|2018–19]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/48368406 |title=Chelsea 4–1 Arsenal |first=Chris |last=Bevan |website=BBC Sport |date=29 May 2019 |access-date=28 February 2022}}</ref>
+
+'''AC Milan'''
+*[[Supercoppa Italiana]]: [[2024–25 Supercoppa Italiana|2024–25]]<ref>{{cite web |date=6 January 2025 |title=IL MILAN RIBALTA LA FINALE! |url=https://www.legaseriea.it/en/media/supercoppa/il-milan-ribalta-la-finale |access-date=7 January 2025 |publisher=[[Serie A|Legia Serie A]] |language=it}}</ref>
+
+'''Galatasaray'''
+*[[Süper Lig]]: [[2024–25 Süper Lig|2024–25]]<ref>{{cite web |url=https://www.galatasaray.org/haber/futbol/turkiyenin-ilk-ve-tek-bes-yildizli-sampiyonu-galatasaray/57829 |title=TÜRKİYE'NİN İLK VE TEK BEŞ YILDIZLI ŞAMPİYONU GALATASARAY! |date=18 May 2025 |publisher=Galatasaray S.K. |access-date=18 May 2025 |language=tr}}</ref>
+*[[Turkish Cup]]: [[2024–25 Turkish Cup|2024–25]]<ref>{{cite web |url=https://www.galatasaray.org/haber/futbol/turkiye-kupasi/turkiye-kupasi-19-kez-galatasarayin/57796 |title=TÜRKİYE KUPASI 19. KEZ GALATASARAY'IN! |date=14 May 2025 |publisher=Galatasaray S.K. |access-date=15 May 2025 |language=tr}}</ref>
+
+'''Spain U17'''
+*[[FIFA U-17 World Cup]] third place: [[2009 FIFA U-17 World Cup|2009]]<ref>{{cite news|url=https://www.elmundo.es/elmundodeporte/2009/11/15/futbol/1258305443.html|title=Consuelo de bronce|trans-title=Bronze consolation|newspaper=El Mundo|language=es|date=15 November 2009|access-date=27 June 2019}}</ref><ref>{{Cite web|url=http://www.fifa.com/u17worldcup/matches/round=253825/match=300102255/index.html|archive-url=https://web.archive.org/web/20091115015834/http://www.fifa.com/u17worldcup/matches/round=253825/match=300102255/index.html|url-status=dead|archive-date=15 November 2009|title=FIFA U-17 World Cup Nigeria 2009 - Matches - Spain-Nigeria|website=FIFA.com}}</ref>
+
+'''Spain U19'''
+*[[UEFA European Under-19 Championship]]: [[2011 UEFA European Under-19 Championship|2011]]<ref name=SW/>
+
+'''Spain U21'''
+*[[UEFA European Under-21 Championship]]: [[2013 UEFA European Under-21 Championship|2013]]<ref name=SW/>
+
+'''Spain'''
+*[[UEFA European Championship]]: [[UEFA Euro 2024|2024]]<ref>{{Cite web |last=UEFA.com |title=Spain 2-1 England {{!}} UEFA EURO 2024 Final |url=https://www.uefa.com/uefaeuro/match/2036211--spain-vs-england/ |access-date=2024-07-14 |website=[[UEFA]] |language=en}}</ref>
+*[[UEFA Nations League]]: [[2022–23 UEFA Nations League|2022–23]];<ref name="UNLWin">{{Cite news |last=Smith |first=Emma |date=18 June 2023 |title=Spain win Nations League final on penalties |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/65944659 |access-date=18 June 2023}}</ref> runner-up: [[2024–25 UEFA Nations League|2024–25]]<ref>{{cite web|url=https://www.uefa.com/uefanationsleague/match/2044949--portugal-vs-spain/|title=Portugal vs Spain - UEFA Nations League Final 2025|website=UEFA.com|accessdate=8 June 2025}}</ref>
+
+'''Individual'''
+*UEFA European Under-19 Championship Team of the Tournament: [[2011 UEFA European Under-19 Championship#Team of the Tournament|2011]]<ref>{{cite web|url=https://www.uefa.com/MultimediaFiles/Download/TechnicalReport/competitions/Under19/01/80/32/47/1803247_DOWNLOAD.pdf|title=Technical report|publisher=UEFA|pages=13|access-date=10 June 2017}}</ref>
+*UEFA European Under-19 Championship Golden Boot: [[2011 UEFA European Under-19 Championship#Goalscorers|2011]]<ref>{{cite web|date=19 July 2014|title=Morata, talent in abundance|url=http://www.juventus.com/en/news/news/2014/morata-talent-in-abundance.php|access-date=10 December 2015|publisher=Juventus F.C.}}</ref>
+*UEFA European Under-21 Championship Team of the Tournament: [[2013 UEFA European Under-21 Championship#Team of the Tournament|2013]]<ref name="2013u21">{{cite web |last=Rankovic |first=Nenad |date=20 July 2024 |title=Alvaro Morata – Raised the Trophy and Became a Player of Another Great! |url=https://12uefa.com/alvaro-morata-signed-for-milan/ |access-date=2026-06-10 |website=12UEFA |publisher=UEFA}}</ref>
+*UEFA European Under-21 Championship Golden Boot: [[2013 UEFA European Under-21 Championship#Goalscorers|2013]]<ref name="2013u21" />
+*UEFA Champions League Squad of the Season: [[2014–15 UEFA Champions League#Squad of the Season|2014–15]]<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0253-0d802a501f23-68765bf409b3-1000--uefa-champions-league-squad-of-the-season/|title=UEFA Champions League squad of the season|publisher=UEFA|date=9 June 2015|access-date=9 June 2015}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.realmadrid.com/en-US/the-club/history/football-legends/alvaro-borja-morata-martin Profile] at the Real Madrid CF website
+* [https://rfef.es/es/selecciones/jugadores/alvaro-morata Profile] at the Royal Spanish Football Federation website {{in lang|es}}
+* {{BDFutbol}}
+* {{Soccerbase}}
+* {{NFT player}}
+* {{FIFA player}}
+* {{UEFA player}}
+* {{Premier League player}}
+* [https://www.rsssf.org/miscellaneous/span-morata-intlg.html Álvaro Morata international appearances] at [[Rec.Sport.Soccer Statistics Foundation]]
+
+{{CD Leganés squad}}
+<!--{{Como 1907 squad}}-->
+{{Navboxes
+| title = Spain squads
+| bg = #C60B1E
+| fg = #FBEA0E
+| bordercolor = #000033
+| list1 =
+{{Spain squad UEFA Euro 2016}}
+{{Spain squad UEFA Euro 2020}}
+{{Spain squad 2022 FIFA World Cup}}
+{{Spain squad UEFA Euro 2024}}
+}}
+{{Navboxes
+| title = Awards
+| titlestyle = background: gold
+| list1 = 
+{{UEFA European Under-19 Football Championship awards}}
+{{UEFA European Under-21 Football Championship awards}}
+}}
+{{Portal bar|Association football|Spain}}
+{{Authority control}}
+
+{{DEFAULTSORT:Morata, Alvaro}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Footballers from Madrid]]
+[[Category:Spanish men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Real Madrid Castilla footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Juventus FC players]]
+[[Category:Chelsea F.C. players]]
+[[Category:AC Milan players]]
+[[Category:Galatasaray S.K. footballers]]
+[[Category:Como 1907 players]]
+[[Category:CD Leganés players]]
+[[Category:Segunda División B players]]
+[[Category:Segunda División players]]
+[[Category:La Liga players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:Süper Lig players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:UEFA European Championship–winning players]]
+[[Category:UEFA Nations League–winning players]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Spanish expatriate sportspeople in Italy]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:Spanish expatriate sportspeople in Turkey]]
+[[Category:21st-century Spanish sportsmen]]
+[[Category:Victims of cyberbullying]]

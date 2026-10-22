@@ -1,0 +1,494 @@
+<!-- Fernando Morientes | revision 2026-10-22T04:13:34Z -->
+{{Short description|Spanish footballer and manager (born 1976)}}
+{{family name hatnote|Morientes|Sánchez|lang=Spanish}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox football biography
+ | name = Fernando Morientes
+ | image = Fernando Morientes - 53822470816.jpg
+ | image_size = 220
+ | caption = Morientes in a charity match in 2024
+ | full_name = Fernando Morientes Sánchez<ref name=Profile>{{cite news|url=https://www.elmundo.es/elmundodeporte/especiales/2003/06/madridcampeon/jugadores/morientes.html|title=Fernando MORIENTES Sánchez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=28 December 2022}}</ref><ref>{{cite web|url=http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|title=FIFA Club World Championship Japan 2005 – Official rosters|publisher=FIFA|date=4 December 2005|access-date=28 December 2022|url-status=dead|archive-url=https://web.archive.org/web/20051219093824/http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|archive-date=19 December 2005}}</ref>
+ | birth_date = {{birth date and age|1976|4|5|df=y}}<ref name=Profile/>
+ | birth_place = [[Cilleros]], Spain<ref name=Profile/>
+ | height = 1.84 m<ref name=Profile/>
+ | position = [[Striker (association football)|Striker]]
+ | current_club =
+ | youth_years1 =
+ | youth_clubs1 = [[CD Sonseca|Sonseca]]
+ | youth_years2 = 1992–1993
+ | youth_clubs2 = [[Albacete Balompié|Albacete]]
+ | years1 = 1993–1995
+ | clubs1 = [[Albacete Balompié|Albacete]]
+ | caps1 = 22
+ | goals1 = 5
+ | years2 = 1995–1997
+ | clubs2 = [[Real Zaragoza|Zaragoza]]
+ | caps2 = 66
+ | goals2 = 28
+ | years3 = 1997–2005
+ | clubs3 = [[Real Madrid CF|Real Madrid]]
+ | caps3 = 183
+ | goals3 = 72
+ | years4 = 2003–2004
+ | clubs4 = → [[AS Monaco FC|Monaco]] (loan)
+ | caps4 = 28
+ | goals4 = 10
+ | years5 = 2005–2006
+ | clubs5 = [[Liverpool F.C.|Liverpool]]
+ | caps5 = 41
+ | goals5 = 8
+ | years6 = 2006–2009
+ | clubs6 = [[Valencia CF|Valencia]]
+ | caps6 = 66
+ | goals6 = 19
+ | years7 = 2009–2010
+ | clubs7 = [[Olympique de Marseille|Marseille]]
+ | caps7 = 12
+ | goals7 = 1
+ | years8 = 2015
+ | clubs8 = [[DAV Santa Ana|Santa Ana]]
+ | caps8 = 3
+ | goals8 = 0
+ | total_caps = 421
+ | total_goals = 143
+ | national_years1 = 1993–1994
+ | national_team1 = [[Spain national under-18 football team|Spain U18]]
+ | national_caps1 = 12
+ | national_goals1 = 10
+ | national_years2 = 1995
+ | national_team2 = [[Spain national under-20 football team|Spain U20]]
+ | national_caps2 = 5
+ | national_goals2 = 1
+ | national_years3 = 1995–1998
+ | national_team3 = [[Spain national under-21 football team|Spain U21]]
+ | national_caps3 = 16
+ | national_goals3 = 4
+ | national_years4 = 1996
+ | national_team4 = [[Spain national under-23 football team|Spain U23]]
+ | national_caps4 = 2
+ | national_goals4 = 0
+ | national_years5 = 1998–2007
+ | national_team5 = [[Spain men's national football team|Spain]]
+ | national_caps5 = 47
+ | national_goals5 = 27
+ | manager_years1 = 2012
+ | manager_clubs1 = [[Huracán Valencia CF|Huracán]] (youth)
+ | manager_years2 = 2012–2014
+ | manager_clubs2 = [[Real Madrid CF (youth)|Real Madrid (youth)]]
+ | manager_years3 = 2015–2016
+ | manager_clubs3 = [[CF Fuenlabrada|Fuenlabrada]]
+ | medal_templates = {{MedalCountry|{{fb|ESP}}}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|W|[[1998 UEFA European Under-21 Championship|1998 Romania]]|}}
+{{Medal|RU|[[1996 UEFA European Under-21 Championship|1996 Spain]]|}}
+}}
+'''Fernando Morientes Sánchez''' ({{IPA|es|feɾˈnando moˈɾjentes ˈsantʃeθ}}; born 5 April 1976) is a Spanish former professional [[Association football|footballer]] who played as a [[striker (association football)|striker]].
+
+He played for a number of clubs during his career, including [[Real Madrid CF|Real Madrid]], [[AS Monaco FC|Monaco]], [[Liverpool F.C.|Liverpool]] and [[Valencia CF|Valencia]]. In [[La Liga]], he scored 124 goals in 337 games over 15 seasons and started in four [[List of European Cup and UEFA Champions League finals|Champions League finals]] between 1998 and 2004. He earned 11 major honours while at Madrid, including three [[UEFA Champions League|Champions League]] trophies.
+
+Morientes earned 47 [[Cap (sport)|caps]] for the [[Spain men's national football team|Spain national team]], representing the country in two [[FIFA World Cup|World Cups]] (totalling five goals) and [[UEFA Euro 2004|Euro 2004]]. He later worked briefly as a [[Manager (association football)|manager]].
+
+==Club career==
+===Early career===
+Morientes was born in [[Cilleros]], [[Cáceres, Spain|Cáceres]], [[Extremadura]], and moved to [[Sonseca]] in the [[Province of Toledo]] at the age of four.<ref>{{cite news|url=https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/abci-entrevista-morientes-morientes-peores-recuerdos-siempre-tienen-lesiones-201512182157_noticia.html|title=Morientes: "Los peores recuerdos siempre tienen que ver con las lesiones"|trans-title=Morientes: "The worst memories are always related to injuries"|newspaper=[[ABC (newspaper)|ABC]]|first=Juan Antonio|last=Pérez|language=es|date=19 December 2015|access-date=8 August 2019}}</ref> He began his professional career at [[Albacete Balompié]], making his [[La Liga]] debut on 7 November 1993 as a 75th-minute [[Substitute (association football)|substitute]] for [[Alejandro Rodríguez López|Alejandro]] in a 2–3 loss against [[CD Tenerife]] at the [[Estadio Carlos Belmonte]],<ref>{{cite news|url=http://hemeroteca-paginas.mundodeportivo.com/EMD01/HEM/1993/11/08/MD19931108-020.pdf|title=El Tenerife europeo le hace un roto al Albacete|trans-title=European Tenerife tear Albacete a new one|newspaper=[[Mundo Deportivo]]|first=Pedro|last=Líbero|language=es|date=8 November 1993|access-date=15 January 2018}}</ref> and he made one more appearance [[1993–94 La Liga|that season]], also [[Substitute (association football)|from the bench]].<ref>{{cite news|url=http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1994/03/14/088.html|title=3–0: La efectividad del Albacete acaba en media hora con el orden del Racing|trans-title=3–0: Albacete's effectiveness ended Racing order in half an hour|newspaper=ABC|language=es|date=14 March 1994|access-date=15 January 2018}}</ref>
+
+On 23 October 1994, soon after coming on as a first-half replacement for [[Alberto Monteagudo]], Morientes scored his first professional goal, opening a 2–0 home win over [[Racing de Santander]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1994/10/24/pagina-23/1296175/pdf.html|title=Óscar marca otro gol de sombrero|trans-title=Óscar scores another chip|newspaper=Mundo Deportivo|first=Pedro|last=Líbero|language=es|date=24 October 1994|access-date=6 April 2016}}</ref> He got his first start a week later in a 5–1 loss at [[RCD Espanyol|RCD Español]],<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1994/10/31/pagina-2/1305185/pdf.html|title=El Español entusiasma|trans-title=Exciting Español|newspaper=Mundo Deportivo|first=Andrés|last=Astruells|language=es|date=31 October 1994|access-date=15 January 2018}}</ref> and finished [[1994–95 La Liga|the campaign]] with a total of five goals in 20 league games; additionally, he found the net in each leg of a 3–2 aggregate win over holders [[Real Zaragoza]] in the [[1994–95 Copa del Rey|last 16]] of the [[Copa del Rey]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1995/02/16/pagina-19/1294555/pdf.html|title=Cae el campeón|trans-title=The champions fall|newspaper=Mundo Deportivo|first=Mariano|last=Andrés|language=es|date=16 February 1995|access-date=6 April 2016}}</ref>
+
+Morientes signed with Zaragoza in 1995, where he spent another two seasons, often being partnered up front by [[Dani García (footballer, born 1974)|Dani]], a [[Real Madrid CF|Real Madrid]] youth graduate.<ref name=VAVEL>{{cite web|url=https://www.vavel.com/es/futbol/2017/11/14/real-zaragoza/847733-yo-jugue-en-el-real-zaragoza-fernando-morientes.html|title=Yo jugué en el Real Zaragoza: Fernando Morientes|trans-title=I played for Real Zaragoza: Fernando Morientes|publisher=Vavel|first=Jorge|last=Urriza Arpal|language=es|date=14 November 2017|access-date=23 March 2021}}</ref> He made his debut on 9 September away to [[Real Betis]], scoring the team's goal after 48 minutes but being [[Ejection (sports)|sent off]] seven minutes later for striking [[Jaime Quesada|Jaime]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1995/09/10/pagina-18/1310215/pdf.html|title=El Betis aplasta al Zaragoza|trans-title=Betis crush Zaragoza|newspaper=Mundo Deportivo|first=Jesús|last=Gómez|language=es|date=10 September 1995|access-date=6 April 2016}}</ref> On 10 January of the following year, he scored his first professional [[hat-trick]] in a 3–2 win at [[Athletic Bilbao]] for [[1995–96 Copa del Rey|the domestic cup]];<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/01/11/pagina-23/1334263/pdf.html|title=Morientes, pesadilla del Athletic|trans-title=Morientes, Athletic's nightmare|newspaper=Mundo Deportivo|first=Eduardo|last=Castañeda|language=es|date=11 January 1995|access-date=6 April 2016}}</ref> his first such feat in the league followed on 3 February in a 4–1 victory over [[Valencia CF]] at [[La Romareda]],<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/02/04/pagina-21/1338077/pdf.html|title=La alegría vuelve a La Romareda|trans-title=Joy returns to La Romareda|newspaper=Mundo Deportivo|first=Mariano|last=Andrés|language=es|date=4 February 1996|access-date=6 April 2016}}</ref> and eight days later he scored the first goal at [[SD Compostela]] and also received his marching orders with his team winning 2–1 (eventual 3–2 defeat).<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/02/12/pagina-23/1332284/pdf.html|title=El Compostela le remonta un 0–2 al Zaragoza|trans-title=Compostela recover from 0–2 down against Zaragoza|newspaper=Mundo Deportivo|first=Manuel|last=García Solano|language=es|date=12 February 1996|access-date=6 April 2016}}</ref>
+
+===Real Madrid===
+Morientes's performances for Zaragoza caught the eye of Spanish giants Real Madrid, which bought the player in the summer of 1997 for approximately [[Euro|€]]6.6&nbsp;million. Initially backing up established [[Predrag Mijatović]] and [[Davor Šuker]], he finished as starter and managed 12 goals in his [[1997–98 La Liga|first year]] in 33 matches, squad-best (with the two players who fought with him for a starting berth netting ten apiece, as youth system prodigy [[Raúl (footballer)|Raúl]]);<ref>{{cite news|url=https://www.marca.com/futbol/real-madrid/2024/12/13/morientes-he-visto-situaciones-criticas-madrid-diciembre-han-acabado-ligas-champions.html|title=Morientes: "He visto situaciones críticas del Madrid en diciembre que han acabado en Ligas y Champions"|trans-title=Morientes: "I've seen critical situations for Real Madrid in December that ended in leagues and Champions Leagues"|newspaper=[[Marca (newspaper)|Marca]]|first=Manuel|last=Malagón|language=es|date=13 December 2024|access-date=13 August 2026}}</ref> the team finished fourth in the league, but won [[1997–98 UEFA Champions League|the season]]'s [[UEFA Champions League]].<ref>{{cite news|url=https://en.as.com/en/2018/05/20/soccer/1526827524_081655.html|title=Real Madrid's Champions League winners in 1998: Where are they now?|newspaper=[[Diario AS]]|first=Agustín|last=Martín|date=20 May 2018|access-date=13 August 2026}}</ref>
+[[File:Copa-champions-1984.jpg|thumb|250px|left|Morientes with [[Real Madrid CF|Real Madrid]] holding the [[1998 UEFA Champions League final|1998 Champions League]] trophy]]
+
+Morientes performed very well in the [[1998–99 La Liga|1998–99 campaign]], scoring 19 goals in the league and 25 in 38 appearances overall.<ref name=VAVEL/> He continued to display top football in [[1999–2000 La Liga|1999–2000]], netting 19 times and finishing as Real's top scorer in a year where he also helped to the [[Madrid|capital]] side's [[1999–2000 UEFA Champions League|second Champions League title in three years]], scoring in the 3–0 defeat of [[Valencia CF]] in an all-Spanish [[2000 UEFA Champions League final|final]].<ref name=CL1>{{cite news|url=https://www.theguardian.com/football/2000/may/24/championsleague.sport1|title=Real Madrid 3–0 Valencia|newspaper=[[The Guardian]]|date=24 May 2000|access-date=7 April 2016}}</ref> In the [[2000–01 La Liga|next season]], he won the first of two league titles with the club and netted ten goals overall, including four in eight appearances in the Champions League in a semi-final exit to eventual winners [[FC Bayern Munich]]; he missed the last weeks due to injury.
+
+In [[2001–02 La Liga|2001–02]], Real failed to win the league after losing out to Valencia. Morientes continued his scoring form, however, scoring 18 league goals in only 25 starts, with six substitute appearances. He also netted five in a 7–0 demolition of [[UD Las Palmas]], missing out on a double [[hat-trick]] after missing from the [[Penalty kick (association football)|penalty spot]] late in the match.<ref>{{cite news|url=http://www.abc.es/hemeroteca/historico-10-02-2002/abc/Deportes/7-0-cinco-goles-de-morientes-al-las-palmas_77345.html|title=7–0: Cinco goles de Morientes al Las Palmas|trans-title=7–0: Five goals from Morientes to Las Palmas|newspaper=ABC|language=es|date=10 February 2002|access-date=7 April 2016}}</ref> He finished second in the top scorers list, tied with [[Patrick Kluivert]] and behind [[Deportivo de La Coruña]]'s [[Diego Tristán]],<ref>{{cite news|url=https://www.lavozdegalicia.es/noticia/deportes/2002/05/12/tristan-coge-testigo-dejo-bebeto-depor/0003_1083831.htm|title=Tristán coge el testigo que dejó Bebeto en el Dépor|trans-title=Tristán picks up where Bebeto left off at Dépor|newspaper=[[La Voz de Galicia]]|first=A.|last=Andrade|language=es|date=12 May 2002|access-date=24 March 2021}}</ref> as the ''Merengues'' were successful in [[2001–02 UEFA Champions League|winning the Champions League]] after beating [[Bayer 04 Leverkusen]] – he played in [[2002 UEFA Champions League final|the final]] and received a third winners medal.<ref name=CL2>{{cite web|url=http://www.uefa.com/competitions/UCL/News/Kind=128/newsId=23850.html|title=Madrid win ninth European crown|publisher=UEFA|date=15 May 2002|access-date=7 April 2016|url-status=dead|archive-url=https://web.archive.org/web/20020606223553/http://www.uefa.com/competitions/UCL/News/Kind%3D128/newsId%3D23850.html|archive-date=6 June 2002}}</ref>
+
+In the summer of 2002, Real Madrid signed Brazilian superstar [[Ronaldo (Brazilian footballer)|Ronaldo]] from [[Inter Milan]]. This fueled rumours that Morientes would soon be leaving, with [[FC Barcelona]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] reportedly interested – the former were reportedly on the verge of signing the player for around €22&nbsp;million, but the move fell through due to Barça's reluctance to match his wage demands. Eventually, he decided to stay, but as predicted he did not feature as much after the arrival of Ronaldo, who was preferred in the starting lineup along with Raúl. He eventually fell down the pecking order of strikers to [[Guti]] and [[Javier Portillo (Spanish footballer)|Javier Portillo]]<ref>{{cite news|url=https://as.com/masdeporte/2003/02/04/polideportivo/1044335794_850215.html|title=Morientes no tomará una decisión hasta junio|trans-title=Morientes will not decide until June|newspaper=Diario AS|first=Tomás|last=Roncero|language=es|date=5 February 2003|access-date=24 March 2021}}</ref> and, during a February 2003 home win against [[Borussia Dortmund]] – 2–1 in the [[2002–03 UEFA Champions League|Champions League second group stage]] – was involved in a highly publicised spat with manager [[Vicente del Bosque]], with the player allegedly insulting the coach after being called to enter the pitch as a third replacement in the dying minutes;<ref>{{cite news|url=http://www.elmundo.es/elmundodeporte/2003/02/21/futbol/1045837809.html|title=Del Bosque admite el grave incidente con Morientes|trans-title=Del Bosque admits serious incident with Morientes|newspaper=El Mundo|language=es|date=21 February 2003|access-date=8 April 2009}}</ref><ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0191-0e6a6115a3bd-7dc3fc991c61-1000--waiting-game-for-madrid-strikers/|title=Waiting game for Madrid strikers|first=Simon|last=Hart|publisher=UEFA|date=14 May 2003|access-date=17 June 2010}}</ref> in the winter [[transfer window]], despite continuous rumours of moves to Tottenham, Zaragoza, [[AS Roma]] and [[AC Milan]], he remained at the club for remainder of [[2002–03 La Liga|the season]] as the side went on to win the league, with the player making a total of 19 appearances (with three starts) and scoring five goals.<ref>{{cite web|url=https://files.laliga.es/memorias/2002-2003/MemoriaLFP_2002-03.pdf|title=Memoria de La Liga de Fútbol Profesional {{!}} Temporada 2002/2003|trans-title=Memory of the Professional Football League {{!}} 2002/2003 season|publisher=[[La Liga]]|language=es|access-date=13 August 2026}}</ref>
+
+===Monaco loan and return===
+At the start of the [[2003–04 La Liga|2003–04 season]], it was evident Morientes was not part of Real's plans. After extensive but ultimately unsuccessful negotiations regarding a loan deal with Germany's [[FC Schalke 04]], he was loaned to [[Ligue 1]] side [[AS Monaco FC]],<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/025a-0eaad70e7610-f9dd92401c26-1000--morientes-loaned-to-monaco/|title=Morientes loaned to Monaco|publisher=UEFA|date=31 August 2003|access-date=17 June 2010}}</ref> where he performed very well, netting ten times from 28 appearances in the league. It was in the [[2003–04 UEFA Champions League|Champions League]], however, that he really made an impact, finishing as top scorer at nine goals:<ref name=TOPSCORER>{{cite news|url=https://www.monaco-tribune.com/en/2020/04/remembering-morientes-champions-league-heroics-vs-real-madrid-in-2004/|title=Remembering Morientes' Champions League heroics vs. Real Madrid in 2004|newspaper=Monaco Tribune|first=Edward|last=Stratmann|date=7 April 2020|access-date=23 March 2021}}</ref> Monaco met Real Madrid in the quarter-finals,<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/025a-0eaac8be8514-4731120dd7a9-1000--away-trip-takes-morientes-home/|title=Away trip takes Morientes home|publisher=UEFA|first=Adrian|last=Clarke|date=24 March 2004|access-date=17 June 2010}}</ref> where he scored a vital away goal in the first leg (4–2 away loss); in the second match, he again found the net as his team won 3–1, taking the aggregate score to 5–5 ([[away goals rule]] victory).<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/019c-0e6ad3e94fa1-7d2d6812cba9-1000--madrid-felled-by-morientes/|title=Madrid felled by Morientes|publisher=UEFA|first=Matthew|last=Spiro|date=6 April 2004|access-date=27 December 2024}}</ref> He also scored in both games of the last-four win against [[Chelsea F.C.|Chelsea]],<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/019c-0e6ad8578cc2-8e0ee151cbda-1000--ten-man-monaco-dazzle-chelsea/|title=Ten-man Monaco dazzle Chelsea|publisher=UEFA|first=Matt|last=Spiro|date=20 April 2004|access-date=27 December 2024}}</ref><ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/019d-0e6ade23dc21-3e936e323194-1000--morientes-has-the-final-say/|title=Morientes has the final say|publisher=UEFA|first=Trevor|last=Haylett|date=5 May 2004|access-date=27 December 2024}}</ref> but could not prevent a 3–0 defeat in [[2004 UEFA Champions League final|the final]] to [[FC Porto]], played at the [[Arena AufSchalke]] in [[Gelsenkirchen]].<ref name=CL3>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/champions_league/3718645.stm|title=Porto 3–0 Monaco|publisher=[[BBC Sport]]|date=26 May 2004|access-date=23 March 2021}}</ref>
+
+After returning to Real Madrid at the start of the [[2004–05 La Liga|2004–05 campaign]], Morientes's hopes of forcing his way into the squad were further dampened with the arrival of [[Michael Owen]] from [[Liverpool F.C.|Liverpool]].<ref>{{cite news|url=https://as.com/futbol/2004/10/19/mas_futbol/1098136804_850215.html|title=Morientes: "Si me voy del Madrid, Mónaco será mi primera elección"|trans-title=Morientes: "If I leave Madrid, Monaco will by my first option"|newspaper=Diario AS|language=es|date=19 October 2004|access-date=24 March 2021}}</ref> He featured in 13 scoreless league matches (all as a substitute), and was transferred to Liverpool in January 2005 for a fee of €9.3&nbsp;million.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/01a5-0ea6de1cfbc5-ab256330b427-1000--morientes-lured-by-liverpool/|title=Morientes lured by Liverpool|publisher=UEFA|date=12 January 2005|access-date=17 June 2010}}</ref> During his time at the [[Santiago Bernabéu Stadium]] he played 272 games in all competitions, scoring 100 goals.<ref>{{cite web|url=https://espndeportes.espn.com/futbol/espana/nota/_/id/7007466/keylor-navas-leyenda-del-real-madrid-fernando-morientes-declaraciones|title=Fernando Morientes: "Keylor Navas es una leyenda viviente del Real Madrid C.F"|trans-title=Fernando Morientes: "Keylor Navas is a Real Madrid C.F living legend"|publisher=[[ESPN Deportes]]|first=Keish|last=Gómez Muñoz|language=es|date=3 June 2020|access-date=25 March 2021}}</ref>
+
+===Liverpool===
+[[File:Morientes.jpg|thumb|Morientes in action for [[Liverpool F.C.|Liverpool]] in August 2005]]
+Morientes made his debut for Liverpool on 15 January 2005 against [[Manchester United F.C.|Manchester United]], starting in a 0–1 home loss to [[Liverpool F.C.–Manchester United F.C. rivalry|the rivals]] – [[BBC Sport]] described his performance as "quiet".<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4150631.stm|title=Liverpool 0–1 Man Utd|publisher=BBC Sport|date=15 January 2005|access-date=6 April 2016}}</ref> He scored his first goal for the club on 1 February, equalising with a 20-yard strike in a 2–1 win at [[Charlton Athletic F.C.|Charlton Athletic]],<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4221109.stm|title=Charlton 1–2 Liverpool|publisher=BBC Sport|date=1 February 2005|access-date=6 April 2016}}</ref> and he followed it four days later with his first goal at [[Anfield]] to open a 3–1 win over [[Fulham F.C.|Fulham]] after nine minutes.<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4218231.stm|title=Liverpool 3–1 Fulham|publisher=BBC Sport|date=5 February 2005|access-date=6 April 2016}}</ref> He was [[cup-tied]] for the [[2004–05 UEFA Champions League|Champions League campaign]],<ref>{{cite news|url=https://www.theguardian.com/football/2005/apr/03/newsstory.europeanfootball1|title=Rafa trusts in fate and Gerrard|newspaper=The Guardian|first=Paul|last=Wilson|date=3 April 2005|access-date=2 May 2019}}</ref> and did not feature in the victory against Milan in the [[2005 UEFA Champions League final|final of the competition]].<ref name=VAVEL/>
+
+On 10 August 2005, Morientes scored in each half of a 3–1 away win against [[PFC CSKA Sofia]] in the first leg of the third qualifying round for the season's Champions League.<ref>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/europe/4133918.stm|title=CSKA Sofia 1–3 Liverpool|publisher=BBC Sport|date=10 August 2005|access-date=6 April 2016}}</ref> His form in the league was inconsistent, but on 10 December he netted a five-minute brace in a 2–0 home defeat of [[Middlesbrough F.C.|Middlesbrough]], their seventh in a row.<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/4494768.stm|title=Liverpool 2–0 Middlesbrough|publisher=BBC Sport|date=10 December 2005|access-date=6 April 2016}}</ref> On 21 March 2006, he scored in a 7–0 rout of [[Birmingham City F.C.|Birmingham City]] in [[2005–06 FA Cup|the quarter-finals]] of the [[FA Cup]], finishing [[Steven Gerrard]]'s [[Cross (association football)|cross]] three minutes after entering in place of [[Peter Crouch]].<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4820136.stm|title=Birmingham 0–7 Liverpool|publisher=BBC Sport|date=21 March 2006|access-date=6 April 2016}}</ref> Liverpool went on to win the tournament, and the player replaced [[Harry Kewell]] early in the second half of [[2006 FA Cup final|the final]] against [[West Ham United F.C.|West Ham United]].<ref name=FACup>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/fa_cup/4756045.stm|title=Liverpool 3–3 West Ham (aet)|publisher=BBC Sport|date=13 May 2006|access-date=8 April 2016}}</ref>
+
+Morientes totalled 12 goals in 61 appearances, also winning the [[2005 UEFA Super Cup]] and playing on the losing side in the [[2005 Football League Cup final]] and the [[2005 FIFA Club World Championship final]].<ref>{{cite web|url=https://www.sportskeeda.com/football/el-moro-a-modern-spanish-great|title=El Moro: A modern Spanish great|publisher=[[Sportskeeda]]|first=Ameya|last=Uday Ghag|date=16 August 2012|access-date=23 March 2021}}</ref> He ultimately failed to live up to his reputation.<ref>{{cite web|url=https://bleacherreport.com/articles/1374081-liverpools-striking-woes-five-goal-scorers-that-flopped-at-anfield|title=Liverpool's striking woes: Five goal scorers who flopped at Anfield|publisher=[[Bleacher Report]]|first=Steven|last=Rothwell|date=19 October 2012|access-date=18 March 2024}}</ref>
+
+===Valencia===
+[[File:Casillas a por todas (2795198549).jpg|thumb|Morientes colliding with Real Madrid's [[Iker Casillas]] in the [[2008 Supercopa de España]]]]
+Morientes joined Valencia in late May 2006 for a fee reported to be around [[Pound sterling|£]]3&nbsp;million.<ref>{{cite web|url=https://www.uefa.com/news-media/news/01b5-0f8489d36594-683a4670d70f-1000--valencia-calling-for-morientes/|title=Valencia calling for Morientes|publisher=UEFA|date=26 May 2006|access-date=27 December 2024}}</ref> Here, he started to regain his form, scoring on his league debut – a 2–1 home win against Betis<ref>{{cite web|url=http://espnfc.com/uk/en/report/203769/report.html?soccernet=true&cc=5739|title=Valencia 2–1 Real Betis|publisher=[[ESPN FC|ESPN Soccernet]]|date=26 August 2006|access-date=12 November 2012}}</ref>– and also [[List of UEFA Champions League hat-tricks|netting a hat-trick]] in his first [[2006–07 UEFA Champions League|Champions League appearance]] against [[Olympiacos F.C.|Olympiacos FC]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/01b9-0ea86bfee7f7-597e070042f1-1000--points-matter-most-for-morientes/|title=Points matter most for Morientes|publisher=UEFA|first=Graham|last=Wood|date=13 September 2006|access-date=17 June 2010}}</ref> He linked up well with [[David Villa]]<ref>{{cite news|url=https://www.superdeporte.es/valencia/4478/morientes-encuentra-villa-media-naranja/2195.html|title=Morientes encuentra en Villa a su "media naranja"|trans-title=Morientes finds in Villa his "significant other"|newspaper=[[Super Deporte]]|language=es|date=2 October 2006|access-date=23 March 2021}}</ref> and scored 12 goals in 24 games, and was also team-top scorer in the Champions League with seven; his good form throughout [[2006–07 La Liga|the season]] also earned him a recall to the national side.<ref>{{cite news|url=https://diariouf.com/2020/06/06/se-puede-considerar-a-morientes-una-leyenda-del-valencia/|title=¿Se puede considerar a Morientes una leyenda del Valencia?|trans-title=Can Morientes be considered a Valencia legend?|newspaper=Diario UF|first=Pablo|last=Granero Lacruz|language=es|date=6 June 2020|access-date=23 March 2021}}</ref>
+
+For [[2007–08 La Liga|2007–08]], Morientes and Villa were joined in the strike force by [[Nikola Žigić]] and [[Javier Arizmendi]]. The campaign, however, was disappointing, as the ''Che'' were [[2007–08 UEFA Champions League|knocked out of the Champions League]] after finishing fourth in the group, and manager [[Quique Sánchez Flores]] was dismissed following a poor run of form. He picked up an injury in December 2007 that ruled him out for almost three months, and he made his return to the side against [[Sevilla FC]] on 15 March 2008;<ref>{{cite news|url=https://www.publico.es/actualidad/valencia-estrena-presidente-sevilla-aspira-liga-campeones.html|title=El Valencia estrena presidente ante el Sevilla, que aspira a la Liga de Campeones|trans-title=Valencia with presidential debut against Sevilla, who are Champions League candidates|newspaper=[[Público (Spain)|Público]]|language=es|date=14 March 2008|access-date=27 December 2024}}</ref><ref>{{cite news|url=https://www.publico.es/actualidad/1-2-sevilla-avanza-europa-agrava-crisis-valencia.html|title=1–2. El Sevilla avanza hacia Europa y agrava la crisis del Valencia|trans-title=1–2. Sevilla move towards Europe and worsen Valencia's crisis|newspaper=Público|language=es|date=16 March 2008|access-date=27 December 2024}}</ref> he also came off the bench to score the third and final goal in Valencia's 3–1 victory over [[Getafe CF]] in [[2008 Copa del Rey Final|the final]] of the [[Copa del Rey]] the following month.<ref name=COPA>{{cite web|url=https://www.uefa.com/news-media/news/01cc-0f84d6aba216-f6437c0be3f0-1000--morientes-glad-as-valencia-get-relief/|title=Morientes glad as Valencia get relief|publisher=UEFA|first=Lucy|last=Turner|date=17 April 2008|access-date=27 December 2024}}</ref>
+
+Morientes missed out on a further few league games after he was hospitalised in April with abdominal pains and fever.<ref>{{cite news|url=http://www.elmundo.es/elmundo/2008/04/22/valencia/1208878163.html|title=Fernando Morientes, ingresado de madrugada con un fuerte dolor abdominal y fiebre|trans-title=Fernando Morientes, admitted to hospital in early morning with strong abdominal pains and fever|newspaper=El Mundo|language=es|date=22 April 2008|access-date=12 November 2012}}</ref> He was released from hospital in time for the final two matches of the season, but played no part in either.
+
+Having begun the [[2008–09 La Liga|following campaign]] as an unused substitute in Valencia's first league game, and only coming on from the bench in the second, Morientes was handed his first start in a [[UEFA Europa League|UEFA Cup]] [[2008–09 UEFA Cup|match]] against [[C.S. Marítimo]], and he scored the only goal in Portugal through a solo effort at the 12-minute mark.<ref>{{cite news|url=http://futbol.as.com/futbol/2008/09/18/mas_futbol/1221688818_850215.html|title=El Valencia, con muy poco, encarrila su clasificación|trans-title=Valencia, showing very little, are all but qualified|newspaper=Diario AS|language=es|date=18 September 2008|access-date=4 March 2014}}</ref> His increasing age and the form of Villa and [[Juan Mata]], however, led to only a handful of appearances in the league; as they were ousted in the [[Single-elimination tournament|round of 32]], he still finished as their top scorer in European competition at three goals in seven matches.<ref>{{cite news|url=https://www.elmundo.es/elmundodeporte/2009/05/27/futbol/1243439778.html|title=Morientes se despide del Valencia|trans-title=Morientes bids farewell to Valencia|newspaper=El Mundo|language=es|date=27 May 2009|access-date=23 March 2021}}</ref>
+
+===Marseille===
+[[File:Morientes (Marseille).jpg|thumb|Morientes in a [[UEFA Champions League|Champions League]] match against Real Madrid in September 2009]]
+On 27 July 2009, Morientes agreed to a deal at France's [[Olympique de Marseille]] on a [[Free transfer (association football)|free transfer]] for one year, reuniting with former Monaco boss [[Didier Deschamps]].<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0254-0d7c872de92e-ae07ca3e12df-1000--abriel-and-morientes-swell-om-ranks/|title=Abriel and Morientes swell OM ranks|publisher=UEFA|date=28 July 2009|access-date=17 June 2010}}</ref> During his [[2009–10 Ligue 1|only season]] he was the fourth of five strikers in the squad,<ref>{{cite web|url=https://www.footmercato.net/a2077154335107266774-le-flop-de-lannee-saccroche-a-lom|title=Le flop de l’année s’accroche à l’OM|trans-title=The flop of the year clings to OM|publisher=Foot Mercato|first=Sébastien|last=Denis|language=fr|date=28 May 2010|access-date=22 July 2025}}</ref> his sole [[Ligue 1]] goal coming on 26 September in what his first start, opening a 3–2 loss at [[Valenciennes FC]].<ref>{{cite web|url=http://www.goal.com/en/news/90/french-football/2009/09/26/1524889/valenciennes-3-2-olympique-de-marseille-late-rafael-winner-stuns-|title=Valenciennes 3–2 Olympique de Marseille: Late Rafael winner stuns OM in five-goal thriller|publisher=[[Goal (website)|Goal]]|first=Robin|last=Bairner|date=26 September 2009|access-date=6 April 2016}}</ref>
+
+Morientes was released on 1 July 2010, by mutual consent.<ref>{{cite web|url=http://soccernet.espn.go.com/news/story?id=804644&sec=europe&cc=5739|title=Marseille release Morientes from contract|publisher=ESPN Soccernet|date=1 July 2010|access-date=1 July 2010|url-status=dead|archive-url=https://web.archive.org/web/20121023065347/http://soccernet.espn.go.com/news/story?id=804644&sec=europe&cc=5739|archive-date=23 October 2012}}</ref> On 31 August, the 34-year-old announced his retirement from football.<ref>{{cite web|url=http://www.goal.com/en/news/12/spain/2010/08/31/2096468/former-real-madrid-striker-fernando-morientes-announces|title=Former Real Madrid striker Fernando Morientes announces retirement|publisher=Goal|first=Paul|last=Macdonald|date=31 August 2010|access-date=31 August 2010}}</ref>
+
+===Coaching and brief return as player===
+Morientes started his career as manager with [[Huracán Valencia CF]], taking charge of its youth academy.<ref>{{cite web|url=http://www.huracancf.com/noticias/2012/01/12/fernando-morientes-un-becario-de-lujo-para-hurac-n|title=Fernando Morientes, un becario de lujo para Huracán|trans-title=Fernando Morientes, intern deluxe for Huracán|publisher=Huracán Valencia|language=es|date=12 January 2012|access-date=13 January 2012|url-status=dead|archive-url=https://web.archive.org/web/20130730051542/http://www.huracancf.com/noticias/2012/01/12/fernando-morientes-un-becario-de-lujo-para-hurac-n|archive-date=30 July 2013}}</ref> In 2012 he returned to Real Madrid, being appointed at the ''Juvenil B'' team in the [[Youth system|youth academy]].<ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/es/ActualidadJuveniB1213/1330112161343/noticia/Noticia/El_Juvenil_B_comenzo_la_pretemporada_2012_2013.htm|title=El Juvenil B comenzó la pretemporada 2012/2013|trans-title=Juvenil B started the 2012/2013 preseason|publisher=Real Madrid CF|language=es|date=1 August 2012|access-date=2 August 2012|url-status=dead|archive-url=https://web.archive.org/web/20121103024649/http://www.realmadrid.com/cs/Satellite/es/ActualidadJuveniB1213/1330112161343/noticia/Noticia/El_Juvenil_B_comenzo_la_pretemporada_2012_2013.htm|archive-date=3 November 2012}}</ref>
+
+In January 2015, at 38, Morientes returned to playing, signing with [[DAV Santa Ana]] in the [[Divisiones Regionales de Fútbol in the Community of Madrid|Madrid regional championships]].<ref>{{cite news|url=http://www.marca.com/2015/01/15/futbol/mas_futbol/1421311699.html|title=¡Vuelve Morientes!|trans-title=Morientes returns!|newspaper=Marca|first=Javier|last=Domínguez|language=es|date=15 January 2015|access-date=15 January 2015}}</ref> In June, he became manager of [[CF Fuenlabrada]], but was sacked the following 17 February with the team 11th in [[Segunda División B]].<ref>{{cite news|url=http://www.marca.com/futbol/mas-futbol/2016/02/17/56c487cce2704eda498b45a0.html|title=Morientes, destituido del C.F. Fuenlabrada|trans-title=Morientes, dismissed from C.F. Fuenlabrada|newspaper=Marca|language=es|date=17 February 2016|access-date=6 April 2016}}</ref>
+
+==International career==
+Morientes was a reliable performer for the [[Spain men's national football team|Spain national team]] since 1998, scoring a brace in the first five minutes of his debut against [[Sweden men's national football team|Sweden]] on 25 March<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1998/03/26/pagina-2/1383630/pdf.html|title=La selección va que chuta|trans-title=National team are a real craze|newspaper=Mundo Deportivo|first=Jesús|last=Galindo|language=es|date=26 March 1998|access-date=28 January 2016}}</ref> and adding a further two in each of his next two games, against [[Northern Ireland national football team|Northern Ireland]]<ref>{{cite news|url=http://elpais.com/diario/1998/06/04/deportes/896911202_850215.html|title=Abundante munición para Francia|trans-title=Ammonition aplenty for France|newspaper=[[El País]]|first=Cayetano|last=Ros|date=4 June 1998|access-date=23 May 2014}}</ref> and [[Bulgaria national football team|Bulgaria]] respectively. He ranked fourth on the Spanish all-time topscorer's list with 27 goals in 47 appearances, behind former Real Madrid teammate Raúl, former Valencia teammate Villa and former Madrid [[Captain (association football)|captain]] [[Fernando Hierro]] (who took the majority of Spain's [[Free kick (association football)|free kicks]] and penalties), although his goals-to-games ratio was higher than Raúl and Hierro.<ref name=RSSSF>{{cite web|url=https://www.rsssf.org/miscellaneous/morientes-intl.html|title=Fernando Morientes Sánchez – International Matches|publisher=[[RSSSF]]|first=Emilio|last=Pla Díaz|access-date=15 January 2015}}</ref>
+
+Morientes netted five goals in the two [[FIFA World Cup]]s he featured in, with two goals in [[1998 FIFA World Cup|1998]]<ref>{{cite web|url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/06/24/spain_bulgaria/|title=Spain beats Bulgaria 6–1 but fails to qualify|publisher=[[Sports Illustrated]]|date=24 June 1998|access-date=21 May 2014|url-status=dead|archive-url=https://web.archive.org/web/20000915081942/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/06/24/spain_bulgaria/|archive-date=15 September 2000}}</ref> and three in [[2002 FIFA World Cup|2002]]. In the latter edition he and Raúl played together up front, and both showed impressive form in the tournament; during the quarter-final match against [[South Korea national football team|South Korea]] the former scored a goal in [[Overtime (sports)|extra-time]] that was disallowed, although replays suggested the goal was legitimate – Spain eventually lost the match on penalties.<ref>{{cite web|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/spain_v_south_korea/default.stm|title=Korean dream lives on|publisher=BBC Sport|date=22 June 2002|access-date=13 November 2017}}</ref><ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/international/3029872/Korean-miracle-spoilt-by-refereeing-farce.html|title=Korean miracle spoilt by refereeing farce|newspaper=[[The Daily Telegraph]]|location=London|first=Paul|last=Hayward|date=23 June 2002|access-date=13 November 2017}}</ref>
+
+After being a surprise omission at [[UEFA Euro 2000]], with coach [[José Antonio Camacho]] later admitting after being ousted in the quarter-finals that he had made a mistake by picking [[Ismael Urzaiz]] instead,<ref>{{cite web|url=http://www.euro2000.org/en/news/story/0,1068,54721,00.html|title=Camacho regrets not taking Morientes|publisher=UEFA|date=28 June 2000|access-date=15 September 2024|archive-url=https://web.archive.org/web/20010204052600/http://www.euro2000.org/en/news/story/0,1068,54721,00.html|archive-date=4 February 2001}}</ref> Morientes was selected for [[UEFA Euro 2004|Euro 2004]] in Portugal,<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b44fc5b75-bb339e5a3edf-1000--saez-selects-spain-squad/|title=Sáez selects Spain squad|first=Iván|last=Modia|publisher=UEFA|date=20 May 2004|access-date=7 May 2016}}</ref> where he scored one of only two goals that the side could manage,<ref>{{cite web|url=http://www.uefa.com/uefaeuro/season=2004/matches/round=1581/match=1059172/postmatch/report/index.html|title=Greece profit as Charisteas stops Spain surge|publisher=UEFA|first=Matthew|last=Spiro|date=17 June 2004|access-date=8 May 2016|url-status=dead|archive-url=https://web.archive.org/web/20120619213041/http://www.uefa.com/uefaeuro/season=2004/matches/round=1581/match=1059172/postmatch/report/index.html|archive-date=19 June 2012}}</ref> in a subsequent group-stage exit. He also played for the nation during the [[2006 FIFA World Cup qualification (UEFA)|2006 World Cup qualifiers]]; however, due to his poor club form for Liverpool, he was not chosen by national team coach [[Luis Aragonés]] in the final squad for the tournament, although he was part of an initial 31-man list.<ref>{{cite news|url=http://www.diariocordoba.com/noticias/deportes/luis-aragones-llama-a-marchena-y-descarta-a-morientes-para-mundial_249585.html|title=Luis Aragonés llama a Marchena y descarta a Morientes para el Mundial|trans-title=Luis Aragonés calls Marchena and cuts Morientes for World Cup|newspaper=Diario Córdoba|language=es|date=16 May 2006|access-date=3 July 2014}}</ref>
+
+Following his return to form after moving to Valencia, Morientes was recalled to the national side. He scored his 27th goal for Spain in a [[UEFA Euro 2008 Qualifying|Euro 2008 qualifier]] against [[Denmark national football team|Denmark]] on 24 March 2007. Injured four days later against [[Iceland national football team|Iceland]] in another qualifying fixture, he was not recalled again.<ref>{{cite news|url=https://elpais.com/diario/2007/03/29/deportes/1175119214_850215.html|title=Morientes, con luxación de hombro, baja por un mes|trans-title=Morientes, with dislocated shoulder, out for one month|newspaper=El País|first=Manu|last=Menéndez|language=es|date=29 March 2007|access-date=23 March 2021}}</ref>
+
+==Style of play==
+Morientes was regarded one of the top strikers of his generation, forming a notable partnership with Raúl at Real Madrid. He excelled in the air and was an accurate finisher with his head and with his feet, both inside and outside the area; he was also an accurate [[Free kick (association football)|free kick]] taker,<ref name=BBC>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/4167681.stm|title=Morientes to cast off Ronaldo shadow|publisher=BBC Sport|first=Radomir|last=Antić|date=12 January 2005|access-date=24 February 2015}}</ref><ref>{{cite web|url=http://www.realmadrid.com/en/about-real-madrid/history/football-legends/fernando-morientes-sanchez|title=A goalscorer with a brilliant record|publisher=Real Madrid|access-date=24 February 2015}}</ref> and was capable of playing off another striker.<ref>{{cite web|url=http://www.cnn.com/2004/SPORT/football/03/10/champions.monaco/|title=Relieved Prso sends Monaco through|publisher=[[CNN]]|date=10 March 2004|access-date=24 February 2015}}</ref><ref>{{cite web|url=https://it.uefa.com/uefachampionsleague/news/01a6-0ea788c41f7b-47b4f086f144-1000--aspettando-morientes/|title=Aspettando Morientes|trans-title=Waiting for Morientes|publisher=UEFA|first=Adrian|last=Clarke|language=it|date=1 February 2005|access-date=24 February 2015}}</ref><ref>{{cite web|url=http://www.zonajuve.it/calciomercato/14110-mercato-tutto-su-morata,-prossimo-obiettivo-bianconero.html|title=Mercato: tutto su Morata, prossimo obiettivo bianconero|trans-title=Mercato: all about Morata, next white-and-black goal|publisher=Zona Juve|first=Luca|last=Prayer|language=it|date=3 July 2014|access-date=24 February 2015|url-status=dead|archive-url=https://web.archive.org/web/20150225040738/http://www.zonajuve.it/calciomercato/14110-mercato-tutto-su-morata,-prossimo-obiettivo-bianconero.html|archive-date=25 February 2015}}</ref>
+
+In his later career, as he lost his pace, Morientes often played in a [[Forward (association football)#Second striker|supporting role]], using his strength and control to hold up the ball for teammates.<ref name=BBC/>
+
+==Media==
+Morientes was featured in the [[EA Sports]]' [[FIFA (video game series)|FIFA video game series]]: he was on the cover for the Spanish edition of ''[[FIFA 99]]'', and also appeared in ''[[FIFA Football 2005]]''.<ref>{{cite web|url=http://www.mondopallone.it/2012/11/15/mondopallone-racconta-i-primi-20-anni-di-fifa/|title=MondoPallone racconta... I primi 20 anni di FIFA|trans-title=MondoPallone tells... the first 20 years of FIFA|publisher=Mondo Pallone|first=Fabio|last=Ornano|language=it|date=15 November 2012|access-date=17 March 2015}}</ref> 
+
+Morientes competed in the third season of ''[[Mask Singer: Adivina quién canta]]'' as "Gorila", being declared joint winner with [[Ana Torroja]] as "Ratita".<ref>{{cite web|url=https://www.diezminutos.es/teleprograma/programas-tv/a44452685/fernando-morientes-ana-torroja-ganan-mask-singer-3/|title=Fernando Morientes y Ana Torroja se proclaman ganadores de 'Mask Singer 3: adivina quién canta'|trans-title=Fernando Morientes and Ana Torroja crowned winners of 'Mask Singer 3: Adivina quién canta'|magazine=[[Diez Minutos]]|publisher=Hearst Corporation|language=es|date=5 July 2023|access-date=21 September 2023}}</ref>
+
+==Personal life==
+Morientes married his childhood sweetheart Victoria López on 23 December 1999, in [[Toledo, Spain|Toledo]]. They fathered son Fernando, and daughters Gabriela, Lucía and Martina.<ref>{{cite web|url=https://www.divinity.es/famosos/20250618/fernando-morientes-vida-actual-trabajo-mujer-hijos-problema-salud_18_015898721.html?amp=true|title=La vida actual de Fernando Morientes: padre de cuatro hijos y recuperado de una embolia pulmonar|trans-title=The current life of Fernando Morientes: father of four and recovered from pulmonary embolism|publisher=[[Divinity (TV channel)|Divinity]]|first=Ramón|last=Bescos|language=es|date=18 June 2025|access-date=22 July 2025}}</ref><ref>{{cite news|url=https://www.elmundo.es/loc/famosos/2025/07/17/6878ec04e9cf4ae1468b4599.html|title=Así son los cuatro hijos que Fernando Morientes ha tenido en sus 25 años de matrimonio con su compañera de pupitre|trans-title=Meet the four sons that Fernando Morientes had in his 25 years of marriage with his primary school sweetheart|newspaper=El Mundo|first=Isabel|last=Pedrejón|language=es|date=17 July 2025|access-date=22 July 2025}}</ref>
+
+Morientes's nephew [[Alberto Morientes|Alberto]] is also a footballer. An [[attacking midfielder]], he also moved from [[CD Sonseca]] to Albacete like his uncle, and made his debut with the first team 32 years after Fernando in 2025.<ref>{{cite news|url=https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/debuta-albacete-balompie-alberto-morientes-sobrino-gran-20251122185727-nt.html|title=Debuta en el Albacete Balompié Alberto Morientes, sobrino del gran delantero|trans-title=Debut at Albacete Balompié of Alberto Morientes, nephew of the great forward|newspaper=ABC|first=Juan Antonio|last=Pérez|language=es|date=22 November 2025|access-date=23 November 2025}}</ref><ref>{{cite news|url=https://www.estadiodeportivo.com/futbol/albacete/sobrino-fernando-morientes-debuta-segunda-division-20251123-521358.html|title=El sobrino de Fernando Morientes debuta en Segunda División|trans-title=Nephew of Fernando Morientes debuts in ''Segunda División''|newspaper=[[Estadio Deportivo]]|first=Víctor|last=Fernández|language=es|date=23 November 2025|access-date=23 November 2025}}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa del Rey]], [[Coupe de France]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Football League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Albacete Balompié|Albacete]]
+|[[1993–94 La Liga|1993–94]]<ref name=BDF>{{BDFutbol|764}}</ref>
+|[[La Liga]]
+|2||0||2||1||colspan="2"|—||0||0||colspan="2"|—||4||1
+|-
+|[[1994–95 La Liga|1994–95]]<ref name=BDF/>
+|La Liga
+|20||5||6||2||colspan="2"|—||0||0||1{{efn|Appearance in [[La Liga]] relegation play-offs}}||0||27||7
+|-
+!colspan="2"|Total
+!22||5||8||3||colspan="2"|—||0||0||1||0||31||8
+|-
+|rowspan="3"|[[Real Zaragoza|Zaragoza]]
+|[[1995–96 Real Zaragoza season|1995–96]]<ref name=BDF/>
+|La Liga
+|29||13||3||3||colspan="2"|—||5{{efn|name=UCWC|Appearances in [[UEFA Cup Winners' Cup]]}}||2||2{{efn|name=USC|Appearances in [[UEFA Super Cup]]}}||0||39||18
+|-
+|[[1996–97 Real Zaragoza season|1996–97]]<ref name=BDF/>
+|La Liga
+|37||15||3||1||colspan="2"|—||colspan="2"|–||colspan="2"|–||40||16
+|-
+!colspan="2"|Total
+!66||28||6||4||colspan="2"|—||5||2||2||0||79||34
+|-
+|rowspan="9"|[[Real Madrid CF|Real Madrid]]
+|[[1997–98 Real Madrid CF season|1997–98]]<ref name=BDF/>
+|La Liga
+|33||12||2||0||colspan="2"|—||10{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||4||colspan="2"|–||45||16
+|-
+|[[1998–99 Real Madrid CF season|1998–99]]<ref name=BDF/>
+|La Liga
+|33||19||5||6||colspan="2"|—||4{{efn|name=UCL}}||0||1{{efn|name=USC}}||0||43||25
+|-
+|[[1999–2000 Real Madrid CF season|1999–2000]]<ref name=BDF/>
+|La Liga
+|29||12||5||0||colspan="2"|—||14{{efn|name=UCL}}||6||3{{efn|Appearances in [[FIFA Club World Cup]]}}||1||51||19
+|-
+|[[2000–01 Real Madrid CF season|2000–01]]<ref name=BDF/>
+|La Liga
+|22||6||1||0||colspan="2"|—||8{{efn|name=UCL}}||4||1{{efn|Appearance in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]}}||0||32||10
+|-
+|[[2001–02 Real Madrid CF season|2001–02]]<ref name=BDF/>
+|La Liga
+|33||18||5||0||colspan="2"|—||11{{efn|name=UCL}}||3||2{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||0||51||21
+|-
+|[[2002–03 Real Madrid CF season|2002–03]]<ref name=BDF/>
+|La Liga
+|19||5||2||1||colspan="2"|—||7{{efn|name=UCL}}||0||0||0||28||6
+|-
+|[[2003–04 Real Madrid CF season|2003–04]]<ref name=BDF/>
+|La Liga
+|1||0||0||0||colspan="2"|—||0||0||colspan="2"|–||1||0
+|-
+|[[2004–05 Real Madrid CF season|2004–05]]<ref name=BDF/>
+|La Liga
+|13||0||2||1||colspan="2"|—||6{{efn|name=UCL}}||2||colspan="2"|–||21||3
+|-
+!colspan="2"|Total
+!183||72||22||8||colspan="2"|—||61||19||6||1||272||100
+|-
+|[[AS Monaco FC|Monaco]] (loan)
+|[[2003–04 AS Monaco FC season|2003–04]]<ref name=WF>{{WorldFootball.net|morientes}}</ref>
+|[[Ligue 1]]
+|28||10||2||3||0||0||12{{efn|name=UCL}}||9||colspan="2"|–||42||22
+|-
+|rowspan="3"|[[Liverpool F.C.|Liverpool]]
+|[[2004–05 Liverpool F.C. season|2004–05]]<ref name=WF/>
+|[[Premier League]]
+|13||3||0||0||2||0||colspan="2"|—||colspan="2"|–||15||3
+|-
+|[[2005–06 Liverpool F.C. season|2005–06]]<ref name=WF/>
+|Premier League
+|28||5||5||1||1||0||10{{efn|name=UCL}}||3||2{{efn|One appearance in UEFA Super Cup, one appearance in FIFA Club World Cup}}||0||46||9
+|-
+!colspan="2"|Total
+!41||8||5||1||3||0||10||3||2||0||61||12
+|-
+|rowspan="4"|[[Valencia CF|Valencia]]
+|[[2006–07 Valencia CF season|2006–07]]<ref name=BDF/>
+|La Liga
+|24||12||3||0||colspan="2"|—||10{{efn|name=UCL}}||7||colspan="2"|–||37||19
+|-
+|[[2007–08 Valencia CF season|2007–08]]<ref name=BDF/>
+|La Liga
+|22||6||1||1||colspan="2"|—||8{{efn|name=UCL}}||1||colspan="2"|–||31||8
+|-
+|[[2008–09 Valencia CF season|2008–09]]<ref name=BDF/>
+|La Liga
+|20||1||6||2||colspan="2"|—||7{{efn|Appearances in [[UEFA Cup]]}}||3||1{{efn|name=SDE}}||1||34||7
+|-
+!colspan="2"|Total
+!66||19||10||3||colspan="2"|—||25||11||1||1||102||34
+|-
+|[[Olympique de Marseille|Marseille]]
+|[[2009–10 Olympique de Marseille season|2009–10]]<ref name=WF/>
+|Ligue 1
+|12||1||2||0||0||0||5{{efn|name=UCL}}||0||colspan="2"|–||19||1
+|-
+|[[DAV Santa Ana|Santa Ana]]
+|2014–15
+|[[Divisiones Regionales de Fútbol in the Community of Madrid#Categoría Preferente|Preferente]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|–||3||0
+|-
+!colspan="3"|Career total
+!421||143||55||22||3||0||115||44||12||2||606||211
+|}
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref name=EU>{{Eu-Football.info|14361}}</ref><ref name=RSSSF/>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="10"|[[Spain men's national football team|Spain]]
+|1998||6||7
+|-
+|1999||6||2
+|-
+|2000||0||0
+|-
+|2001||4||3
+|-
+|2002||11||5
+|-
+|2003||3||3
+|-
+|2004||8||4
+|-
+|2005||4||2
+|-
+|2006||2||0
+|-
+|2007||3||1
+|-
+!colspan="2"|Total||47||27
+|}
+
+:''Scores and results list Spain's goal tally first, score column indicates score after each Morientes goal.''<ref name=EU/><ref name=RSSSF/>
+{| class="wikitable sortable"
+|+ List of international goals scored by Fernando Morientes
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || rowspan="2"|25 March 1998|| rowspan="2"|[[Balaídos]], [[Vigo]], Spain || rowspan="2"|{{fb|SWE}} || align="center"|1–0 || rowspan="2" align="center"|4–0 || rowspan="2"|[[Exhibition game|Friendly]]
+|-
+| align="center"|2 || align="center"|2–0
+|-
+| align="center"|3 || rowspan="2"|3 June 1998 || rowspan="2"|[[Campos de Sport de El Sardinero|El Sardinero]], [[Santander, Spain|Santander]], Spain || rowspan="2"|{{fb|NIR}} || align="center"|3–1 || rowspan="2" align="center"|4–1 || rowspan="2"|Friendly
+|-
+| align="center"|4 || align="center"|4–1
+|-
+| align="center"|5 || rowspan="2"|24 June 1998 || rowspan="2"|[[Stade Félix-Bollaert|Félix Bollaert]], [[Lens, Pas-de-Calais|Lens]], France || rowspan="2"|{{fb|BUL}} || align="center"|3–0 || rowspan="2" align="center"|6–1 || rowspan="2"|[[1998 FIFA World Cup Group D#Spain vs Bulgaria|1998 FIFA World Cup]]
+|-
+| align="center"|6 || align="center"|4–1
+|-
+| align="center"|7 || 5 September 1998 || [[Antonis Papadopoulos Stadium|Antonis Papadopoulos]], [[Larnaca]], Cyprus || {{fb|CYP}} || align="center"|2–3 || align="center"|2–3 || [[UEFA Euro 2000 qualifying Group 6|Euro 2000 qualifying]]
+|-
+| align="center"|8 || 18 August 1999 || [[Stadion Wojska Polskiego|Polish Army]], [[Warsaw]], Poland || {{fb|POL}} || align="center"|1–1 || align="center"|2–1 || Friendly
+|-
+| align="center"|9 || 10 October 1999 || [[Estadio Carlos Belmonte|Carlos Belmonte]], [[Albacete]], Spain || {{fb|ISR}} || align="center"|1–0 || align="center"|3–0 || Euro 2000 qualifying
+|-
+| align="center"|10 || 28 March 2001 || [[Mestalla Stadium|Mestalla]], [[Valencia]], Spain || {{fb|FRA}} || align="center"|2–0 || align="center"|2–1 || Friendly
+|-
+| align="center"|11 || rowspan="2"|1 September 2001 || rowspan="2"|Mestalla, Valencia, Spain || rowspan="2"|{{fb|AUT}} || align="center"|2–0 || rowspan="2" align="center"|4–1 || rowspan="2"|[[2002 FIFA World Cup qualification (UEFA)#Group 7|2002 World Cup qualification]]
+|-
+| align="center"|12 || align="center"|3–0
+|-
+| align="center"|13 || 13 February 2002 || [[Estadi Olímpic Lluís Companys|Lluís Companys]], [[Barcelona]], Spain || {{fb|POR}} || align="center"|1–1 || align="center"|1–1 || Friendly
+|-
+| align="center"|14 || 17 April 2002 || [[Windsor Park]], [[Belfast]], Northern Ireland || {{fb|NIR}} || align="center"|5–0 || align="center"|5–0 || Friendly
+|-
+| align="center"|15 || rowspan="2"|7 June 2002 || rowspan="2"|[[Jeonju World Cup Stadium|Jeonju World Cup]], [[Jeonju]], South Korea || rowspan="2"|{{fb|PAR}} || align="center"|1–1 || rowspan="2" align="center"|3–1 || rowspan="2"|[[2002 FIFA World Cup Group B#Spain vs Paraguay|2002 FIFA World Cup]]
+|-
+| align="center"|16 || align="center"|2–1
+|-
+| align="center"|17 || 16 June 2002 || [[Suwon World Cup Stadium|Suwon World Cup]], [[Suwon]], South Korea || {{fb|IRL}} || align="center"|1–0 || align="center"|1–1 || 2002 FIFA World Cup
+|-
+| align="center"|18 || rowspan="3"|30 April 2003|| rowspan="3"|[[Vicente Calderón Stadium|Vicente Calderón]], [[Madrid]], Spain || rowspan="3"|{{fb|ECU}} || align="center"|2–0 || rowspan="3" align="center"|4–0 || rowspan="3"|Friendly
+|-
+| align="center"|19 || align="center"|3–0
+|-
+| align="center"|20 || align="center"|4–0
+|-
+| align="center"|21 || 31 March 2004 || [[El Molinón]], [[Gijón]], Spain || {{fb|DEN}} || align="center"|1–0 || align="center"|2–0 || Friendly
+|-
+| align="center"|22 || 5 June 2004 || [[Coliseum Alfonso Pérez|Alfonso Pérez]], [[Getafe]], Spain || {{fb|AND}} || align="center"|1–0 || align="center"|4–0 || Friendly
+|-
+| align="center"|23 || 16 June 2004 || [[Estádio do Bessa|Bessa]], [[Porto]], Portugal || {{fb|GRE}} || align="center"|1–0 || align="center"|1–1 || [[UEFA Euro 2004 Group A#Greece vs Spain|UEFA Euro 2004]]
+|-
+| align="center"|24 || 18 August 2004 || [[Estadio Gran Canaria|Gran Canaria]], [[Las Palmas]], Spain || {{fb|VEN}} || align="center"|1–0 || align="center"|3–2 || Friendly
+|-
+| align="center"|25 || 3 September 2005 || El Sardinero, Santander, Spain || {{fb|CAN}} || align="center"|2–0 || align="center"|2–1 || Friendly
+|-
+| align="center"|26 || 12 November 2005 || Vicente Calderón, Madrid, Spain || {{fb|SVK}} || align="center"|5–1 || align="center"|5–1 || [[2006 FIFA World Cup qualification – UEFA Group 7|2006 World Cup qualification]]
+|-
+| align="center"|27 || 24 March 2007 || [[Santiago Bernabéu Stadium|Santiago Bernabéu]], Madrid, Spain || {{fb|DEN}} || align="center"|1–0 || align="center"|2–1 || [[UEFA Euro 2008 qualifying Group F|Euro 2008 qualifying]]
+|}
+
+==Honours==
+'''Real Madrid'''
+*[[La Liga]]: [[2000–01 La Liga|2000–01]], [[2002–03 La Liga|2002–03]]<ref name=DC>{{cite web|url=https://www.defensacentral.com/madridismo/43376-morientes-podria-preparar-su-adios|title=Morientes podría preparar su adiós|trans-title=Morientes could be retiring|publisher=Defensa Central|language=es|date=2010|access-date=23 March 2021}}</ref>
+*[[Supercopa de España]]: [[2001 Supercopa de España|2001]]<ref name=DC/>
+*[[UEFA Champions League]]: [[1997–98 UEFA Champions League|1997–98]], [[1999–2000 UEFA Champions League|1999–2000]],<ref name=CL1/> [[2001–02 UEFA Champions League|2001–02]]<ref name=CL2/>
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: [[1998 Intercontinental Cup|1998]], [[2002 Intercontinental Cup|2002]]<ref name=DC/>
+
+'''Monaco'''
+*UEFA Champions League runner-up: [[2003–04 UEFA Champions League|2003–04]]<ref name=CL3/>
+
+'''Liverpool'''
+*[[FA Cup]]: [[2005–06 FA Cup|2005–06]]<ref name=FACup/>
+*[[UEFA Super Cup]]: [[2005 UEFA Super Cup|2005]]
+*[[Football League Cup]] runner-up: [[2004–05 Football League Cup|2004–05]]<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/league_cup/4279679.stm|title=Liverpool 2–3 Chelsea (aet)|publisher=BBC Sport|date=27 February 2005|access-date=26 March 2024}}</ref>
+*[[FIFA Club World Cup|FIFA Club World Championship]] runner-up: [[2005 FIFA Club World Championship|2005]]
+
+'''Valencia'''
+*[[Copa del Rey]]: [[2007–08 Copa del Rey|2007–08]]<ref name=COPA/>
+
+'''Marseille'''
+*[[Ligue 1]]: [[2009–10 Ligue 1|2009–10]]<ref>{{cite web|url=https://rmcsport.bfmtv.com/football/ligue-1/om-que-sont-devenus-les-champions-de-france-2010_AV-202005040440.html|title=OM: que sont devenus les champions de France 2010?|trans-title=OM: what happened to the 2010 French champions?|publisher=[[RMC (France)|RMC]]|language=fr|date=4 May 2020|access-date=22 July 2025}}</ref>
+*[[Coupe de la Ligue]]: [[2009–10 Coupe de la Ligue|2009–10]]<ref>{{cite news|url=https://www.marca.com/2010/03/27/futbol/futbol_internacional/liga_francesa/1269729967.html|title=Morientes gana su primer título en Francia|trans-title=Morientes wins his first title in France|newspaper=Marca|language=es|date=27 March 2010|access-date=22 July 2025}}</ref>
+
+'''Spain U21'''
+*[[UEFA European Under-21 Championship]]: [[1998 UEFA European Under-21 Championship|1998]];<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1998/06/01/pagina-14/398538/pdf.html|title=Príncipes|trans-title=Princes|newspaper=Mundo Deportivo|language=es|date=1 June 1998|access-date=22 January 2024}}</ref> runner-up: [[1996 UEFA European Under-21 Championship|1996]]<ref>{{cite web|url=http://www.orgullobianconero.vavel.com/2013/06/18/italia-ya-gano-un-europeo-a-espana-en-el-1996/|title=Italia ya ganó un Europeo a España en el 1996|trans-title=Italy have already won European Championships against Spain in 1996|publisher=Orgullo Bianconero|language=es|date=18 June 2013|access-date=13 November 2013|url-status=dead|archive-url=https://web.archive.org/web/20131113165559/http://www.orgullobianconero.vavel.com/2013/06/18/italia-ya-gano-un-europeo-a-espana-en-el-1996/|archive-date=13 November 2013}}</ref>
+
+'''Individual'''
+*[[UEFA Club Football Awards#Best Forward|UEFA Club Forward of the Year]]: [[2003–04 UEFA Champions League|2003–04]]
+*[[List of European Cup and UEFA Champions League top scorers|UEFA Champions League Top Scorer]]: [[2003–04 UEFA Champions League|2003–04]]<ref name=TOPSCORER/>
+*[[Trophées UNFP du football#Team of the Year|Ligue 1 Team of the Year]]: [[Trophées UNFP du football#2004|2003–04]]<ref>{{cite web|url=http://www.sportpalmares.eu/Trophees-UNFP-Oscars-du-football,239.html?lang=fr|title=Trophées UNFP – Oscars du football – Equipe-type de Ligue 1|trans-title=UNFP trophies – Football Oscars – Ligue 1 all-star team|publisher=Sport Palmares|language=fr|access-date=26 June 2015|url-status=dead|archive-url=https://web.archive.org/web/20190415115123/https://www.sportpalmares.eu/Trophees-UNFP-Oscars-du-football,239.html?lang=fr|archive-date=15 April 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{BDFutbol|764}}
+*{{Soccerbase}}
+*{{LFP|morientes-sanchez-fernando}}
+*{{NFT|6217}}
+*{{FIFA player|170678}}
+*{{Soccerway coach|fernando-morientes-sanchez/3030}}
+
+{{Navboxes colour
+|title = Spain squads
+|bg = #C60B1E
+|fg = #FBEA0E
+|bordercolor = #000033
+|list1 =
+{{Spain men's football squad 1996 Summer Olympics}}
+{{Spain squad 1998 FIFA World Cup}}
+{{Spain squad 2002 FIFA World Cup}}
+{{Spain squad UEFA Euro 2004}}
+}}
+{{Navboxes
+|title=Awards
+|titlestyle=background: gold
+|list1=
+{{2003–04 Ligue 1 UNFP Team of the Year}}
+{{UEFA Champions League top scorers}}
+{{UEFA Club Football Awards}}
+}}
+{{CF Fuenlabrada managers}}
+
+{{DEFAULTSORT:Morientes, Fernando}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Cáceres, Spain]]
+[[Category:20th-century Spanish sportsmen]]
+[[Category:Spanish men's footballers]]
+[[Category:Footballers from the Province of Cáceres]]
+[[Category:Footballers from the Province of Toledo]]
+[[Category:Men's association football forwards]]
+[[Category:La Liga players]]
+[[Category:Divisiones Regionales de Fútbol players]]
+[[Category:Albacete Balompié players]]
+[[Category:Real Zaragoza players]]
+[[Category:Real Madrid CF players]]
+[[Category:Valencia CF players]]
+[[Category:Ligue 1 players]]
+[[Category:AS Monaco FC players]]
+[[Category:Olympique de Marseille players]]
+[[Category:Premier League players]]
+[[Category:Liverpool F.C. players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Champions League top scorers]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's under-23 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:1998 FIFA World Cup players]]
+[[Category:2002 FIFA World Cup players]]
+[[Category:UEFA Euro 2004 players]]
+[[Category:Footballers at the 1996 Summer Olympics]]
+[[Category:Olympic footballers for Spain]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Monaco]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Spanish expatriate sportspeople in Monaco]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:Spanish expatriate sportspeople in France]]
+[[Category:Spanish football managers]]
+[[Category:Segunda División B managers]]
+[[Category:CF Fuenlabrada managers]]
+[[Category:Real Madrid CF non-playing staff]]
+[[Category:Mask Singer: Adivina quién canta winners]]

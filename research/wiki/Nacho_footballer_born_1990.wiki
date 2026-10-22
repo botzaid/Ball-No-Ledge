@@ -1,0 +1,365 @@
+<!-- Nacho (footballer, born 1990) | revision 2026-10-19T16:12:38Z -->
+{{short description|Spanish footballer}}
+{{redirect|Nacho Fernández|other Spanish footballers with the same nickname|Nacho (disambiguation)}}
+{{Distinguish|Nacho (footballer, born 1967)}}
+{{family name hatnote|Fernández|Iglesias|lang=Spanish}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox football biography
+| name = Nacho Fernández
+| image = Nacho Fernández - Ofrenda de la Liga y la Champions-56-L.Millán (52109788795) (cropped).jpg
+| image_size = 
+| caption = Nacho in 2022
+| full_name = José Ignacio Fernández Iglesias<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=12042 |title=Acta del Partido celebrado el 24 de octubre de 2010, en Majadahonda |trans-title=Minutes of the Match held on 24 October 2010, in Majadahonda |publisher=Royal Spanish Football Federation |access-date=15 June 2019 |language=es }}{{Dead link|date=June 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| birth_date = {{birth date and age|1990|1|18|df=y}}<ref>{{cite web|url=http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf|title=FIFA Club World Cup UAE 2017: List of players: Real Madrid CF|publisher=FIFA|page=5|date=30 November 2017|access-date=23 December 2017|archive-url=https://web.archive.org/web/20171223004345/http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf|archive-date=23 December 2017|url-status=dead}}</ref>
+| birth_place = [[Madrid]], Spain<ref name=RM>{{cite web|url=https://www.realmadrid.com/en-US/football/first-team/players/jose-ignacio-fernandez-iglesias|title=Nacho|publisher=Real Madrid CF|access-date=30 July 2018}}</ref>
+| height = 1.80 m<ref name=RM />
+| position = [[Centre-back]], [[full-back (association football)|full-back]]
+| currentclub = [[Al Qadsiah FC|Al-Qadsiah]]
+| clubnumber = 6
+| youthclubs1 = [[Real Madrid CF (youth)|Real Madrid]]
+| youthyears1 = 2001–2009
+| years1 = 2009–2013
+| clubs1 = [[Real Madrid Castilla|Real Madrid B]]
+| caps1 = 105
+| goals1 = 4
+| years2 = 2011–2024
+| clubs2 = [[Real Madrid CF|Real Madrid]]
+| caps2 = 242
+| goals2 = 12
+| years3 = 2024–
+| clubs3 = [[Al Qadsiah FC|Al-Qadsiah]]
+| caps3 = 73
+| goals3 = 0
+| nationalyears1 = 2005
+| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2006–2007
+| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
+| nationalcaps2 = 11
+| nationalgoals2 = 0
+| nationalyears3 = 2008–2009
+| nationalteam3 = [[Spain national under-19 football team|Spain U19]]
+| nationalcaps3 = 9
+| nationalgoals3 = 2
+| nationalyears4 = 2011–2013
+| nationalteam4 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps4 = 6
+| nationalgoals4 = 0
+| nationalyears5 = 2013–2024
+| nationalteam5 = [[Spain national football team|Spain]]
+| nationalcaps5 = 29
+| nationalgoals5 = 1
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{ESP}}}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|W|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Spain|Team]]}}
+{{Medal|Competition|[[UEFA Nations League]]}}
+{{Medal|Winner|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|W|[[2013 UEFA European Under-21 Championship|2013 Israel]]|[[2013 UEFA European Under-21 Championship squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA European Under-17 Championship]]}}
+{{Medal|W|[[2007 UEFA European Under-17 Championship|2007 Belgium]]|[[2007 UEFA European Under-17 Championship squads#Spain|Team]]}}
+{{MedalCompetition|[[FIFA U-17 World Cup]]}}
+{{Medal|RU|[[2007 FIFA U-17 World Cup|2007 Korea]]|[[2007 FIFA U-17 World Cup squads#Spain|Team]]}}
+| club-update = 23:12, 9 October 2026 (UTC)
+| nationalteam-update = 
+}}
+'''José Ignacio Fernández Iglesias''' ({{IPA|es|xoˈse jɣˈnaθjo feɾˈnandeθ iˈɣlesjas}}; born 18 January 1990), known as '''Nacho Fernández''' or simply '''Nacho''' ({{IPA|es|ˈnatʃo}}), is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Saudi Pro League]] club [[Al Qadsiah FC|Al-Qadsiah]]. Mainly a [[centre-back]], he has also played at [[right-back]] and [[left-back]] on occasion.
+
+He spent most of his career with [[Real Madrid CF|Real Madrid]] after making his debut with the first team in 2011, making 364 appearances and winning several trophies, including a joint record six [[UEFA Champions League|Champions Leagues]], a record shared with [[Paco Gento]], [[Luka Modrić]], [[Toni Kroos]] and [[Dani Carvajal]]. Nacho won 26 trophies at Real Madrid, making him the second-most decorated player in the club's history. After over a decade at the club, he moved to Saudi Arabia and signed for Al-Qadsiah in 2024.
+
+Nacho won his first senior [[Cap (sport)|cap]] for [[Spain national football team|Spain]] in 2013, and was part of the squad at the [[2018 FIFA World Cup]] and [[UEFA Euro 2024]], winning the latter tournament.
+
+==Club career==
+===Real Madrid===
+====Early career====
+Born in Madrid, Nacho arrived in [[Real Madrid CF|Real Madrid]]'s youth system at the age of 11. He made his senior debut in [[2008–09 Segunda División B|2008–09]], playing two games with [[Real Madrid Castilla|the reserves]] in [[Segunda División B]] and subsequently appearing in a further two full seasons in that level; it was during this time he formed a long-lasting friendship with future [[Russia national football team|Russian national team]] player [[Denis Cheryshev]].<ref>{{cite news|url=https://en.as.com/en/2018/06/16/football/1529165910_044392.html|title=Cheryshev: "I texted Nacho to congratulate him for his goal"|newspaper=[[Diario AS]]|date=16 June 2018|access-date=1 July 2018|archive-date=1 July 2018|archive-url=https://web.archive.org/web/20180701165243/https://en.as.com/en/2018/06/16/football/1529165910_044392.html|url-status=dead}}</ref>
+
+On 23 April 2011, Nacho made his first-team – and [[La Liga]] – debut, starting as a [[Defender (association football)#Full-back|left back]] in a 6–3 away win against [[Valencia CF|Valencia]] and playing in the entire match.<ref>[https://web.archive.org/web/20110426052445/http://soccernet.espn.go.com/report/_/id/301882?cc=5739 Madrid continue impressive form]; [[ESPN FC|ESPN Soccernet]], 23 April 2011</ref> His second appearance came the following week, in a 2–3 home loss to [[Real Zaragoza]].<ref>{{Deprecated archive|url=https://archive.today/20120716121840/http://soccernet.espn.go.com/report?id=302162&cc=5739|title=Zaragoza dent Real title dream}}; ESPN Soccernet, 30 April 2011</ref>
+
+====2012–2017: Establishment and success====
+[[File:Nacho Real Madrid 2012 (cropped).jpg|thumb|Nacho with Real Madrid in 2012]]
+On 2 September 2012, main squad manager [[José Mourinho]] announced that Nacho, along with [[Álvaro Morata]] and [[Jesús Fernández Collado|Jesús]], would be promoted to the first team but continue to play with Castilla.<ref>{{cite web|url=http://www.tribalfootball.com/articles/mourinho-promotes-nacho-fernandez-senior-real-madrid-squad-3503231|title=Mourinho promotes Nacho Fernandez to senior Real Madrid squad|publisher=Tribal Football|date=2 September 2012|access-date=27 December 2014}}</ref> He became an official full-time member at the start of [[2013–14 La Liga|2013–14]], receiving the number 18 shirt after the departure of [[Raúl Albiol]].
+
+On 3 July 2014, Nacho signed a new contract with Real Madrid until 2021.<ref>{{Cite web |title=Real Madrid CF official website |url=https://www.realmadrid.com/en-US |access-date=30 April 2024 |website=Real Madrid CF|language=es}}</ref><ref>{{Cite web |date=3 July 2014 |title=La Liga: Nacho Fernandez signs new six-year Real Madrid contract |url=https://www.skysports.com/football/news/11827/9371011/la-liga-nacho-fernandez-signs-new-six-year-real-madrid-contract |url-status=live |archive-url=https://web.archive.org/web/20140709015153/https://www.skysports.com/football/news/11827/9371011/la-liga-nacho-fernandez-signs-new-six-year-real-madrid-contract |archive-date=9 July 2014 |access-date= |website=[[Sky Sports]] |language=en}}</ref> He scored his first official goal for them on 10 January of the following year, closing the score in a 3–0 home victory against [[RCD Espanyol|Espanyol]].<ref>{{cite web|url=http://www.lfp.es/noticias/el-real-madrid-se-reencuentra-con-la-victoria|title=El Real Madrid se reencuentra con la Victoria|trans-title=Real Madrid return to winning ways|publisher=[[Liga de Fútbol Profesional]]|language=es|date=10 January 2015|access-date=10 January 2015}}</ref>
+
+Two minutes after replacing the injured [[Marcelo (footballer, born 1988)|Marcelo]] in a [[UEFA Champions League]] group stage match against [[Paris Saint-Germain F.C.|Paris Saint-Germain]] on 3 November 2015, Nacho scored the only goal and sealed his team's advance to the [[2015–16 UEFA Champions League|knockout stage]] with his first goal in a [[UEFA|European competition]].<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/match-reports/real-madrid-1-0-psg-6762476|title=Real Madrid 1–0 PSG: 5 things we learned as Nacho's goal seals qualification|newspaper=[[Daily Mirror]]|last1=Malyon|first1=Ed|date=3 November 2015|access-date=3 November 2015}}</ref> He contributed with five appearances, as the tournament ended in conquest.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/022d-0e957c5979eb-37493cb53cd0-1000--spot-on-real-madrid-defeat-atletico-in-final-again/|title=Spot-on Real Madrid defeat Atlético in final again|publisher=UEFA|date=28 May 2016|access-date=29 May 2016}}</ref>
+
+On 11 February 2017, Nacho made his 100th appearance for Real Madrid in a 3–1 away win against [[CA Osasuna|Osasuna]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/02/nacho-100-games-for-real-madrid|title=Nacho, 100 games for Real Madrid|publisher=Real Madrid CF|date=11 February 2017|access-date=12 February 2017}}</ref> Benefitting from injuries and suspensions to teammates, he was the most utilized player in the centre-back position as the club [[2016–17 La Liga|won its first national championship]] in five years;<ref>{{cite news|url=http://www.marca.com/futbol/real-madrid/2017/03/11/58c4633e22601d62698b4676.html|title=Los 1.500 de Nacho|trans-title=Nacho's 1.500|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=11 March 2017|access-date=21 May 2017}}</ref><ref>{{cite news|url=http://futbol.as.com/futbol/2017/05/01/champions/1493602817_738766.html|title=Nacho disputó los nueve partidos jugados en abril|trans-title=Nacho took part in the nine matches played in April|newspaper=Diario AS|language=es|date=1 May 2017|access-date=21 May 2017}}</ref><ref>{{cite web|url=https://www.laliga.com/noticias/real-madrid-campeon-de-laliga-santander-2016-17|title=El Real Madrid, campeón de LaLiga Santander 2016/17|trans-title=Real Madrid, LaLiga Santander champions 2016/17|publisher=[[La Liga]]|language=es|date=21 May 2017|access-date=22 May 2017}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/39926301|title=Malaga 0–2 Real Madrid|work=[[BBC Sport]]|date=21 May 2017|access-date=22 May 2017}}</ref> he added four matches in [[2016–17 UEFA Champions League|the Champions League]], again conquered by his team.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0250-0c5117c008df-de0901ea6dae-1000--majestic-real-madrid-win-champions-league-in-cardiff/|title=Majestic Real Madrid win Champions League in Cardiff|publisher=UEFA|date=3 June 2017|access-date=4 June 2017}}</ref>
+
+====2018–2024: Rise to leadership, contract extensions, most trophies and departure====
+[[File:Real Madrid C.F. the Winner Of The Champions League in 2018.jpg|thumb|Nacho hoisting the [[European Champion Clubs' Cup]] as Real Madrid celebrate winning the UEFA Champions League, in [[2018 UEFA Champions League Final|May 2018]]]]
+Nacho scored his first career brace on 21 January 2018, in a 7–1 win over [[Deportivo de La Coruña|Deportivo La Coruña]].<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/match-reports/real-madrid-7-1-deportivo-11889878|title=Real Madrid 7–1 Deportivo: Bale and Ronaldo at the double as Zidane's men get back on track – 5 talking points|newspaper=[[Daily Mirror]]|author=Kieran Canning|date=21 January 2018|access-date=21 January 2018}}</ref> During [[2017–18 UEFA Champions League|that year's Champions League]] he made eight appearances while scoring one goal,<ref>{{cite web|url=https://www.rcnradio.com/deportes/asi-llegan-las-plantillas-de-real-madrid-y-liverpool-la-final-de-la-champions|title=Así llegan Real Madrid y Liverpool a la final de la Champions|trans-title=That is how Real Madrid and Liverpool arrive to the Champions final|publisher=[[RCN Radio]]|language=es|date=25 May 2018|access-date=29 May 2018}}</ref> when Madrid won their third consecutive and 13th overall title in the tournament; in [[2018 UEFA Champions League Final|the decisive match]] against [[Liverpool F.C.|Liverpool]], he featured at right-back after replacing the injured [[Dani Carvajal]] late into the first half of an eventual 3–1 win in Kyiv.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0245-0e98d7318379-716954065574-1000--madrid-beat-liverpool-to-complete-hat-trick/|title=Madrid beat Liverpool to complete hat-trick|publisher=UEFA|date=26 May 2018|access-date=28 May 2018}}</ref>
+
+The 2019–20 season for Nacho was dominated by injuries, and he only made six appearances during the league season as Real Madrid won the [[2019–20 La Liga]].<ref name=Liga>{{cite web|url=https://www.marca.com/en/football/real-madrid/2020/07/17/5f10db2146163f3c2c8b45d7.html|title=Real Madrid win the longest LaLiga Santander season|date=17 July 2020|access-date=17 July 2020|website=Marca|location=Spain}}</ref> In July 2021, he extended his contract for two more years, until 2023.<ref>{{Cite web |date=8 July 2021 |title=Official Announcement: Nacho |url=https://www.realmadrid.com/en/news/2021/07/08/official-announcement-nacho |url-status=dead |archive-url=https://web.archive.org/web/20210716104817/https://www.realmadrid.com/en/news/2021/07/08/official-announcement-nacho |archive-date=16 July 2021 |access-date=8 July 2021 |website=Real Madrid CF}}</ref>
+
+With departure of [[Marcelo (footballer, born 1988)|Marcelo]], Nacho was promoted as Real Madrid's [[Vice-captain (association football)|vice-captain]] for the 2022–23 season. On 22 June 2023, Nacho signed a new contract with Real Madrid, extending his spell until June 2024 and becoming captain following the departure of [[Karim Benzema]].<ref>{{cite web |date=22 June 2023 |title=Official Announcement: Nacho |url=https://www.realmadrid.com/en/news/2023/06/22/official-announcement-nacho |url-status=live |archive-url=https://web.archive.org/web/20230703091540/https://www.realmadrid.com/en/news/2023/06/22/official-announcement-nacho |archive-date=3 July 2023 |access-date=22 June 2023 |website= |publisher=Real Madrid C.F.}}</ref><ref>{{Cite web |last=Cortegana |first=Guillermo Rai and Mario |title=Nacho follows Kroos in signing new Real Madrid deal |date=22 June 2023 |url=https://www.nytimes.com/athletic/4631160/2023/06/22/nacho-real-madrid-contract/ |url-status=live |archive-url=https://web.archive.org/web/20230705204418/https://theathletic.com/4631160/2023/06/22/nacho-real-madrid-contract/ |archive-date=5 July 2023 |access-date=22 June 2023 |publisher=[[The Athletic]] |language=en}}</ref>
+
+On 30 September 2023, Nacho was shown a straight red card in stoppage time for a tackle on [[Girona CF|Girona]] player [[Portu]].<ref>{{Cite web |date=30 September 2023 |title=Nacho Fernandez's late red card against Girona leaves Real Madrid head coach Carlo Ancelotti with serious headache |url=https://onefootball.com/en/news/nacho-fernandezs-late-red-card-against-girona-leaves-real-madrid-head-coach-carlo-ancelotti-with-serious-headache-38310512 |access-date=24 December 2023 |website=OneFootball }}</ref> Nacho apologized for his actions after the match.<ref>{{Cite web |last=Menzies |first=John |date=1 October 2023 |title=Real Madrid captain Nacho Fernandez issues apology after horror challenge during Girona victory – Football España |url=https://www.football-espana.net/2023/10/01/real-madrid-captain-nacho-fernandez-issues-apology-after-horror-challenge-during-girona-victory |access-date=24 December 2023 |language=en-GB}}</ref> On 21 December 2023, he saw another straight red card for a tackle, this time against [[Deportivo Alavés|Alavés]] player [[Samu Omorodion|Samu]].<ref>{{Cite web |year=2023 |title=WATCH: Defensive crisis worsens for Real Madrid as Nacho Fernandez sent off against Alaves |url=https://onefootball.com/fr/news/watch-defensive-crisis-worsens-for-real-madrid-as-nacho-fernandez-sent-off-against-alaves-38764231 |access-date=24 December 2023 |website=OneFootball }}</ref> With these dismissals, Nacho became the first player to be sent off twice in one season for Real Madrid since [[Sergio Ramos]] in 2017–18.<ref>{{Cite web |date=24 December 2023 |title=Nacho Fernandez matches Sergio Ramos Real Madrid record |url=https://www.yardbarker.com/soccer/articles/nacho_fernandez_matches_sergio_ramos_real_madrid_record/s1_15980_39719312 |access-date=24 December 2023 |website=Yardbarker |language=en}}</ref> On 4 May 2024, he clinched his fourth [[2023–24 La Liga|La Liga]] title with Real Madrid following a 3–0 victory over [[Cádiz CF|Cádiz]], thus matching Marcelo, Karim Benzema and [[Luka Modrić]]'s record as the club's most decorated player with 25 trophies.<ref>{{cite web |url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/nacho-y-modric-25-titulos-con-el-real-madrid-04-05-2024 |title=Nacho and Modrić both have 25 titles with Real Madrid |publisher=Real Madrid CF |date=4 May 2024 }}</ref> A month later, on 1 June, he captained his team in a 2–0 win over [[Borussia Dortmund]] in the [[2024 UEFA Champions League final|Champions League final]], as they clinched their 15th title in the competition making him one of the 5 players to have lifted the European most prestigious trophy a record of 6 times.<ref>{{cite web |last=Smith |first=Peter |url=https://www.skysports.com/football/b-dortmund-vs-r-madrid/report/504385 |title=Borussia Dortmund 0–2 Real Madrid: Dani Carvajal and Vinicius Jr score as Los Blancos win 15th Champions League title |publisher=Sky Sports |date=1 June 2024 }}</ref> In addition, he extended his record to 26 titles with the club, same as for Modrić.<ref>{{cite web |url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/nacho-y-modric-25-titulos-con-el-real-madrid-04-05-2024 |title=Nacho and Modrić, 26 trophies with Real Madrid |publisher=Real Madrid CF |date=1 June 2024 }}</ref>
+
+On 25 June 2024, Nacho announced that he left Real Madrid after 13 years in the club.<ref>{{cite web|title=Official Announcement: Nacho|url=https://www.realmadrid.com/en-US/news/football/first-team/personalities/comunicado-24-06-2024|publisher=Real Madrid CF|date=25 June 2024|access-date=25 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625220123/https://www.realmadrid.com/en-US/news/football/first-team/personalities/comunicado-24-06-2024|url-status=live}}</ref>
+
+===Al-Qadsiah===
+On 27 June 2024, Nacho signed a two-year contract with newly-promoted [[Saudi Pro League]] side [[Al Qadsiah FC|Al-Qadsiah]].<ref>{{Cite web|title="Nacho Fernandez" is Qadsawi!|url=https://x.com/AlQadsiahEN/status/1806279845757747395|publisher=Al Qadsiah FC|date=27 June 2024|access-date=27 June 2024|archive-date=27 June 2024|archive-url=https://web.archive.org/web/20240627113209/https://x.com/AlQadsiahEN/status/1806279845757747395|url-status=live}}</ref><ref>{{Cite web|title=Real Madrid great Nacho joins Saudi Pro League's Al Qadsiah|url=https://www.espn.co.uk/football/story/_/id/40443206/real-madrid-great-nacho-joins-saudi-pro-leagues-al-qadsiah|publisher=ESPN|date=27 June 2024|access-date=27 June 2024}}</ref>
+
+==International career==
+
+===Youth career===
+Nacho represented at [[Spain national under-17 football team|under-17]], [[Spain national under-19 football team|under-19]] and [[Spain national under-21 football team|under-21 levels]]. He was a member of the Spanish squad that won the [[2013 UEFA European Under-21 Championship]], playing once in a 3–0 win over [[Netherlands national under-21 football team|the Netherlands]] in Group B.<ref>{{cite web|url=https://www.uefa.com/under21/match/2010955--spain-vs-netherlands/lineups/|title=Spain 3–0 Netherlands|date=13 June 2013|access-date=9 April 2024|website=UEFA}}</ref>
+
+===Senior career===
+[[File:José Ignacio Fernández Iglesias Nacho - Spain vs. Chile, 10th September 2013 (cropped) 2.jpg|thumb|Nacho during his debut with [[Spain national football team|Spain]] in 2013]]
+On 2 September 2013, Nacho was called up to the [[Spain national football team|Spain senior team]] for the first time, replacing the injured [[Iñigo Martínez]] in the squad for a friendly match against [[Switzerland national football team|Switzerland]].<ref>[http://www.realmadrid.com/cs/Satellite/es/Actualidad_Primer_Equipo/1330158618904/noticia/Noticia/Nacho,_convocado_por_la_seleccion_espanola_absoluta.htm Nacho, convocado por la selección española absoluta (Nacho, called up by Spain's full team)] {{Webarchive|url=https://web.archive.org/web/20131004215032/http://www.realmadrid.com/cs/Satellite/es/Actualidad_Primer_Equipo/1330158618904/noticia/Noticia/Nacho,_convocado_por_la_seleccion_espanola_absoluta.htm |date=4 October 2013 }}; Real Madrid CF, 2 September 2013 (in Spanish)</ref> He made his debut by replacing Real Madrid teammate [[Sergio Ramos]] early into the second half of the 2–2 draw against [[Chile national football team|Chile]] in [[Geneva]].<ref>[http://www.insidespanishfootball.com/77731/spain-2-2-chile-last-gasp-navas-saves-the-day/ Spain 2–2 Chile: Last gasp Navas saves the day] {{Webarchive|url=https://web.archive.org/web/20131005000125/http://www.insidespanishfootball.com/77731/spain-2-2-chile-last-gasp-navas-saves-the-day/ |date=5 October 2013 }}; Inside Spanish Football, 10 September 2013</ref>
+
+Nacho was named in Spain's final [[2018 FIFA World Cup squads|squad]] for the [[2018 FIFA World Cup]].<ref>{{cite web|url=http://www.goal.com/en/news/morata-misses-out-on-spain-world-cup-squad/1ub1qz7jod09i1lfvdcy84ea2l|title=Morata misses out on Spain's 23-man World Cup squad|publisher=[[Goal (website)|Goal]]|date=21 May 2018|access-date=21 May 2018}}</ref> He started the team's opening [[2018 FIFA World Cup Group B|Group B]] game against [[Portugal national football team|Portugal]] at right-back on 15 June, scoring his first international goal with a [[Curl (football)|curled shot]] from 30 meters in a 3–3 draw.<ref>{{cite news|url=https://www.telegraph.co.uk/world-cup/2018/06/15/portugal-vs-spain-world-cup-2018-live-score-latest-updates/|title=Cristiano Ronaldo scores sensational hat-trick as Portugal hold Spain in instant World Cup classic|newspaper=[[The Daily Telegraph]]|date=15 June 2018|access-date=15 June 2018}}</ref> After being an unused substitute in the team's second and third group fixtures, he started Spain's [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]] match against hosts [[Russia national football team|Russia]] on 1 July.<ref>{{cite web|url=https://www.standard.co.uk/sport/football/worldcup/spain-1-russia-1-penalty-shootout-world-cup-2018-hosts-shock-spain-pass-masters-in-moscow-a3876381.html|title=Spain 1 Russia 1 (Russia win penalty shootout 4–3): World Cup 2018 hosts shock Spain's pass masters in Moscow|date=2 July 2018|access-date=9 April 2024|website=Evening Standard}}</ref> He played 70 minutes before being substituted for club teammate [[Dani Carvajal]] in Spain's eventual 4–3 [[penalty shootout]] loss.<ref>{{cite web|url=https://www.bbc.com/sport/football/44591345|title=World Cup 2018: Russia reach quarter-finals after 4–3 penalty shootout win over Spain|date=1 July 2018|access-date=9 April 2024|website=BBC Sport}}</ref>
+
+In March 2023, Nacho was recalled to the Spain squad for the first time since 2018 for [[UEFA Euro 2024 qualifying|UEFA Euro 2024 qualifiers]] against [[Norway national football team|Norway]] and [[Scotland national football team|Scotland]].<ref>{{cite web|url=https://en.as.com/soccer/nacho-if-madrid-tell-me-they-no-longer-need-me-what-do-i-do-n/|title=Nacho: "If Madrid tell me they no longer need me, what do I do?"|date=22 March 2023|access-date=9 April 2024|website=AS}}</ref> He was named in the starting line-up for the match against Norway, playing the full 90 minutes as Spain won 3–0 in Malaga.<ref>{{cite web|url=https://www.bbc.com/sport/football/65076853|title=Spain 3–0 Norway: Former Stoke and Newcastle striker Joselu scores twice on debut|date=25 March 2023|access-date=9 April 2024|website=BBC Sport}}</ref>
+
+He was named in Spain's squad for the [[2023 UEFA Nations League Finals]] and appeared as a 78th-minute substitute as the team beat [[Croatia national football team|Croatia]] via a penalty shootout in [[2023 UEFA Nations League Final|the final]] as Spain won their first major title in 11 years.<ref>{{cite web|url=https://www.uefa.com/uefanationsleague/news/0282-1849d8b2412c-f43f87000e15-1000--spain-win-nations-league-croatia-edged-out-on-penalties/|title=Spain win Nations League: Croatia edged out on penalties|date=18 June 2023|access-date=9 April 2024|website=UEFA}}</ref>
+
+In June 2024, Nacho was named in Spain's squad for the [[UEFA Euro 2024]] finals in Germany.<ref>{{cite news |date=7 June 2024 |title=OFFICIAL {{!}} Final Spain squad for the Euro 2024 finals |url=https://rfef.es/en/noticias/final-spain-squad-for-the-euro-2024-finals |publisher=[[Royal Spanish Football Federation]] |access-date=7 June 2024 }}</ref> He started the team's first group match, playing the full match in central defence as Spain beat Croatia 3–0 at Berlin's [[Olympiastadion (Berlin)|Olympiastadion]].<ref>{{Cite web|url=https://www.bbc.com/sport/football/live/cq55l3qe24jt#Line-ups|title=Spain 3–0 Croatia LIVE: UEFA Euro 2024 – score, updates & reaction|website=BBC Sport|access-date=19 June 2024}}</ref> He eventually featured in Spain's victory against [[England national football team|England]] in the [[UEFA Euro 2024 final|final]], becoming one of 12 players who won both youth and senior Euro titles, alongside his teammates [[Mikel Merino]], [[Ferran Torres]], [[Álvaro Morata]] and [[Rodri (footballer, born 1996)|Rodri]].<ref>{{Cite web |last=UEFA.com |title=Junior-senior EURO double roll of honour: Rodri, Morata, Merino, Nacho, Ferran Torres join Chiellini, Iniesta, Henry |url=https://www.uefa.com/under19/news/026b-12bc7e4aa14d-013db974f3a0-1000--junior-senior-euro-double-roll-of-honour-rodri-morata-merin/ |date=14 July 2024 |access-date=15 July 2024 |website=[[UEFA]] |language=en}}</ref>
+
+==Style of play==
+A player known for his versatility in every defensive position on the pitch, both [[Julen Lopetegui]] and [[Zinedine Zidane]] used Nacho as a [[centre-back|centre]]-, [[right-back|right]]- and [[left-back]]. He is seen as a reliable full-back option due to his skills on the ball and penchant for making forward runs down his flank; a fast and agile defender who is known for his work rate, endurance and strength in the air despite not being particularly tall for his position.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/10/nachos-sheer-versatility|title=Nacho's sheer versatility|publisher=Real Madrid CF|date=9 October 2018|access-date=9 October 2018}}</ref><ref>{{cite news |url= https://m.allfootballapp.com/news/EPL/Mbappe-tops-10-fastest-footballers-in-the-world-Auba-ranked-3rd-Salah-No.7/2314003 |title= Mbappe tops 10 fastest footballers in the world, Auba ranked 3rd, Salah No.7 |newspaper=OneFootbal |access-date=16 June 2023}}</ref> Apart from his defensive skills, Nacho is also a precise passer of the ball in both short and long distances, with a 89.8% pass completion and accuracy in [[2017–18 Real Madrid CF season|2017–18]]. During the same season, he scored goals from [[Set piece (football)|set pieces]].<ref>{{cite web|url=https://www.whoscored.com/Players/106875/Show/Nacho|title=Nacho|publisher=Who Scored|access-date=9 October 2018}}</ref><ref>{{cite web|url=https://fbref.com/en/players/2946f9a1/matchlogs/2017-2018/Nacho-Match-Logs|title=Nacho|publisher=FBref|access-date=9 October 2018}}</ref>
+
+==Personal life==
+Nacho's younger brother, [[Álex Fernández (footballer, born 1992)|Álex]], is also a footballer. A [[midfielder]], he too graduated from Real Madrid's academy, and both made their first-team debut in the same game;<ref>[http://www.realmadrid.com/cs/Satellite/es/1330004431537/noticia/Noticia/Nacho_y_Alex,_sangre_blanca_en_la_familia_Fernandez.htm Nacho y Álex, sangre blanca en la familia Fernández (Nacho and Álex, white blood in the Fernández family)] {{Webarchive|url=https://web.archive.org/web/20131221015927/http://www.realmadrid.com/cs/Satellite/es/1330004431537/noticia/Noticia/Nacho_y_Alex,_sangre_blanca_en_la_familia_Fernandez.htm |date=21 December 2013 }}; Real Madrid CF, 3 May 2010 (in Spanish)</ref> Álex moved on, settling at [[Cádiz CF|Cádiz]], and they played against one another in 2020 and 2023.<ref>[https://timesofindia.indiatimes.com/sports/football/top-stories/alex-fernandez-wins-sibling-rivalry-in-cadiz-victory-over-real-madrid/articleshow/78733433.cms Alex Fernandez wins sibling rivalry in Cadiz victory over Real Madrid], The Times of India, 18 October 2020</ref> Their physical appearance is quite dissimilar, owing to Álex's [[red hair]].<ref>[https://tribuna.com/en/news/realmadrid-2020-03-30-i-have-told-him-many-times-to-come-and-join-me-at-cadiz-alex-fernandez-offers-nacho-chanc/ 'I have told him many times, to come and join me at Cadiz': Alex Fernandez offers Nacho chance for Madrid exit] , Tribuna.com, 30 March 2020</ref>
+
+In November 2016, Nacho revealed that he has lived with [[Diabetes mellitus type 1|type 1 diabetes]] since he was 12 years old.<ref>{{cite news|url=http://www.marca.com/en/football/real-madrid/2016/11/10/582478e4e2704ec67d8b45fe.html|title=Nacho opens up on struggles with diabetes|newspaper=Marca|location=Spain|last1=Lara|first1=Miguel Ángel|date=10 November 2016|access-date=13 November 2016}}</ref><ref>{{cite web|url=https://www.diabetes.co.uk/news/2017/mar/Real-Madrid-footballer-Nacho-Fernandez-was-told-type-1-diabetes-would-end-his-career-94352595.html|title=Real Madrid footballer Nacho Fernandez was told type 1 diabetes would end his career|website=[[Diabetes.co.uk]]|first=Woodfield|last=Jack|date=7 March 2017|access-date=29 January 2018}}</ref> Throughout his first five years in the first team, Nacho managed to avoid major injuries, attributing his success to his eating habits and preparation.<ref>{{cite news|url=http://www.marca.com/2015/10/27/futbol/equipos/real_madrid/1445938202.html|title=Nacho, sin lesiones ¡desde infantiles!|trans-title=Nacho, injury-free since the youth team!|newspaper=Marca|location=Spain|language=es|date=27 October 2015|access-date=4 November 2015}}</ref>
+
+Nacho has four children with his wife María Cortés, two daughters and two sons.<ref>{{cite news|url=http://futbol.as.com/futbol/2016/05/28/champions/1464447039_569699.html|title=Nacho Fernández es padre unas horas antes de la final|trans-title=Nacho Fernández is a father a couple of hours before the final|newspaper=Diario AS|language=es|date=28 May 2016|access-date=9 June 2016}}</ref>{{failed verification|date=May 2026}}
+
+==Career statistics==
+===Club===
+{{updated|match played 9 October 2026}}<ref>{{Soccerway|access-date=20 April 2014}}</ref><ref>{{ESPN FC}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa del Rey]], [[King's Cup (Saudi Arabia)|King's Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Real Madrid Castilla]]
+|[[2008–09 Segunda División B|2008–09]]
+|rowspan="4"|[[Segunda División B]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2009–10 Segunda División B|2009–10]]
+|21||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||1
+|-
+|[[2010–11 Segunda División B|2010–11]]
+|30||0||colspan="2"|—||colspan="2"|—||2{{efn|name=SPO|Appearance(s) in [[Segunda División B play-offs]]}}||0||32||0
+|-
+|[[2011–12 Segunda División B|2011–12]]
+|33||3||colspan="2"|—||colspan="2"|—||4{{efn|name=SPO}}||0||37||3
+|-
+|[[2012–13 Real Madrid Castilla season|2012–13]]
+|[[Segunda División]]
+|19||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||0
+|-
+!colspan="2"|Total
+!105!!4!!colspan="2"|—!!colspan="2"|—!!6!!0!!111!!4
+|-
+|rowspan="15"|[[Real Madrid CF|Real Madrid]]
+|[[2010–11 Real Madrid CF season|2010–11]]
+|rowspan="14"|[[La Liga]]
+|2||0||0||0||0||0||colspan="2"|—||2||0
+|-
+|[[2011–12 Real Madrid CF season|2011–12]]
+|0||0||1||0||0||0||0||0||1||0
+|-
+|[[2012–13 Real Madrid CF season|2012–13]]
+|9||0||3||0||1{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||0||0||13||0
+|-
+|[[2013–14 Real Madrid CF season|2013–14]]
+|12||0||4||0||3{{efn|name=UCL}}||0||colspan="2"|—||19||0
+|-
+|[[2014–15 Real Madrid CF season|2014–15]]
+|14||1||2||0||6{{efn|name=UCL}}||0||0||0||22||1
+|-
+|[[2015–16 Real Madrid CF season|2015–16]]
+|16||0||1||0||5{{efn|name=UCL}}||1||colspan="2"|—||22||1
+|-
+|[[2016–17 Real Madrid CF season|2016–17]]
+|28||2||5||1||4{{efn|name=UCL}}||0||2{{efn|name=CWC|Appearance(s) in [[FIFA Club World Cup]]}}||0||39||3
+|-
+|[[2017–18 Real Madrid CF season|2017–18]]
+|27||3||6||0||8{{efn|name=UCL}}||1||1{{efn|name=CWC}}||0||42||4
+|-
+|[[2018–19 Real Madrid CF season|2018–19]]
+|20||0||5||0||5{{efn|name=UCL}}||0||0||0||30||0
+|-
+|[[2019–20 Real Madrid CF season|2019–20]]
+|6||1||3||1||1{{efn|name=UCL}}||0||0||0||10||2
+|-
+|[[2020–21 Real Madrid CF season|2020–21]]
+|24||1||0||0||8{{efn|name=UCL}}||0||1{{efn|name=SCE|Appearance(s) in [[Supercopa de España]]}}||0||33||1
+|-
+|[[2021–22 Real Madrid CF season|2021–22]]
+|28||3||3||0||9{{efn|name=UCL}}||0||2{{efn|name=SCE}}||0||42||3
+|-
+|[[2022–23 Real Madrid CF season|2022–23]]
+|27||1||5||0||8{{efn|name=UCL}}||0||4{{efn|Two appearances in Supercopa de España, two appearances in FIFA Club World Cup}}||0||44||1
+|-
+|[[2023–24 Real Madrid CF season|2023–24]]
+|29||0||2||0||12{{efn|name=UCL}}||0||2{{efn|name=SCE}}||0||45||0
+|-
+!colspan="2"|Total
+!242!!12!!40!!2!!70!!2!!12!!0!!364!!16
+|-
+|rowspan="4"|[[Al Qadsiah FC|Al-Qadsiah]]
+|[[2024–25 Al-Qadsiah FC season|2024–25]]
+|rowspan="3"|[[Saudi Pro League]]
+|31||0||5||0||colspan="2"|—||colspan="2"|—||36||0
+|-
+|[[2025–26 Al-Qadsiah FC season|2025–26]]
+|34||0||3||1||colspan="2"|—||1{{efn|Appearance in [[Saudi Super Cup]]}}||0||38||1
+|-
+|[[2026–27 Saudi Pro League|2026–27]]
+|8||0||1||0||1{{efn|Appearance in [[AFC Champions League Elite]]}}||0||0||0||10||0
+|-
+!colspan="2"|Total
+!73!!0!!9!!1!!1!!0!!1!!0!!84!!1
+|-
+!colspan="3"|Career total
+!420!!16!!49!!3!!71!!2!!19!!0!!559!!21
+|}
+{{notelist}}
+
+===International===
+[[File:Ukr-Spain2015 (5).jpg|thumb|Nacho playing for [[Spain national football team|Spain]] in 2015]]
+{{updated|match played 14 July 2024}}<ref name="EU">{{cite web|url=http://eu-football.info/_player.php?id=28346|title=Nacho|website=EU-Football.info|access-date=13 December 2015}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="12"|[[Spain national football team|Spain]]
+|2013||1||0
+|-
+|2014||0||0
+|-
+|2015||1||0
+|-
+|2016||5||0
+|-
+|2017||7||0
+|-
+|2018||8||1
+|-
+|2019||0||0
+|-
+|2020||0||0
+|-
+|2021||0||0
+|-
+|2022||0||0
+|-
+|2023||2||0
+|-
+|2024||5||0
+|-
+!colspan="2"|Total!!29!!1
+|}
+
+:''Scores and results list Spain's goal tally first, score column indicates score after each Nacho goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Nacho<ref name="EU"/>
+!scope="col"|No.
+!scope="col" data-sort-type="date"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1
+|15 June 2018||[[Fisht Olympic Stadium]], [[Sochi]], Russia||align="center"|18||{{fb|POR}}||align="center"|3–2||align="center"|3–3||[[2018 FIFA World Cup]]
+|}
+
+==Honours==
+'''Real Madrid Castilla'''
+*[[Segunda División B]]: [[2011–12 Segunda División B|2011–12 (Group 1)]]; [[2012 Segunda División B play-offs|2012 (overall champions)]]
+
+'''Real Madrid'''
+*[[La Liga]]: [[2016–17 La Liga|2016–17]],<ref>{{cite news|url=https://www.theguardian.com/football/blog/2017/jun/16/the-sids-2017-complete-review-2016-17-la-liga-season|title=It's the Sids 2017! The complete review of the 2016–17 La Liga season|newspaper=[[The Guardian]]|date=16 June 2017|access-date=18 April 2024}}</ref> [[2019–20 La Liga|2019–20]],<ref name=Liga /> [[2021–22 La Liga|2021–22]],<ref>{{cite web |last=Westwood |first=James |date=30 April 2022 |title=Real Madrid clinch 35th La Liga title with four games to spare after victory over Espanyol |url=https://www.goal.com/en-us/news/real-madrid-35th-la-liga-title/bltb8dfbd27f32f5feb |access-date=30 April 2022 |website=Goal.com}}</ref> [[2023–24 La Liga|2023–24]]<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c0x05j54l8wo|title=Real Madrid crowned champions after Barca's defeat at Girona|website=BBC Sport|date=4 May 2024|access-date=4 May 2024}}</ref>
+*[[Copa del Rey]]: [[2013–14 Copa del Rey|2013–14]],<ref>{{cite news|url=https://www.theguardian.com/football/2014/apr/16/real-madrid-v-barcelona-copa-del-rey-final-live|title=Real Madrid 2–1 Barcelona: Copa del Rey final
+|newspaper=The Guardian|date=16 April 2014|access-date=18 April 2024}}</ref> [[2022–23 Copa del Rey|2022–23]]<ref>{{cite web|title=Real Madrid 2–1 Osasuna: Rodrygo scores twice as Madrid win Copa del Rey |url=https://www.bbc.com/sport/football/65500297|publisher=BBC|date=6 May 2023|access-date=6 May 2023}}</ref>
+*[[Supercopa de España]]: [[2012 Supercopa de España|2012]],<ref>{{cite news|url=https://www.theguardian.com/football/2012/aug/30/realmadrid-barcelona|title=Real Madrid beat Barcelona to win Spain's Super Cup
+|newspaper=The Guardian|date=30 August 2012|access-date=18 April 2024}}</ref> [[2017 Supercopa de España|2017]],<ref>{{cite news|url=https://www.telegraph.co.uk/football/2017/08/16/real-madrid-vs-barcelona-spanish-super-cup-live-score-updates/|title=Real Madrid 2 Barcelona 0 (5–1 on aggregate): Woeful Barca dismissed as Zinedine Zidane's unstoppable side win Super Cup|newspaper=The Daily Telegraph|date=16 August 2017|access-date=17 August 2017}}</ref> [[2020 Supercopa de España|2020]], [[2022 Supercopa de España|2022]],<ref>{{cite news|url=https://www.marca.com/en/football/real-madrid/2022/01/16/61e481b0ca4741226d8b458c.html|title=Modric and Benzema fire Real Madrid to the Supercopa title |newspaper=Marca |first=Euan |last=Mctear |date=16 January 2022|access-date=16 January 2022}}</ref> [[2024 Supercopa de España|2024]]<ref>{{Cite web |date=14 January 2024 |title=El Real Madrid recupera su corona en la Supercopa (4–1) |url=https://rfef.es/es/noticias/cronica-el-real-madrid-recupera-su-corona-en-la-supercopa-4-1 |access-date=15 January 2024 |website=[[Real Federación Española de Fútbol]] |language=es}}</ref>
+*[[UEFA Champions League]]: [[2013–14 UEFA Champions League|2013–14]], [[2015–16 UEFA Champions League|2015–16]], [[2016–17 UEFA Champions League|2016–17]], [[2017–18 UEFA Champions League|2017–18]], [[2021–22 UEFA Champions League|2021–22]],<ref>{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0275-15415a62aaf0-36d3e17d7404-1000/ |title=Champions League final: Vinícius Júnior scores only goal as Real Madrid deny Liverpool again |website=[[UEFA]] |publisher=Union of European Football Associations |date=28 May 2022 |access-date=28 May 2022}}</ref> [[2023–24 UEFA Champions League|2023–24]]<ref>{{cite news|url=https://www.espn.co.uk/football/story/_/id/40257014/champions-league-real-madrid-beat-dortmund-15th-title|title=Champions League: Real Madrid beat Dortmund for 15th title|publisher=espn.co.uk|date=1 June 2024|access-date=1 June 2024}}</ref>
+*[[UEFA Super Cup]]: [[2016 UEFA Super Cup|2016]],<ref>{{cite news|url=https://www.theguardian.com/football/2016/aug/09/dani-carvajal-real-madrid-super-cup-sevilla|title=Dani Carvajal's stunning late goal gives Real Madrid Super Cup win over Sevilla
+|newspaper=The Guardian|date=9 August 2016|access-date=18 April 2024}}</ref> [[2017 UEFA Super Cup|2017]],<ref>{{cite news|url=https://www.theguardian.com/football/2017/aug/08/real-madrid-manchester-united-super-cup-match-report|title=Isco goal gives Real Madrid victory over Manchester United in Super Cup|newspaper=The Guardian|date=8 August 2017|access-date=10 August 2017}}</ref> [[2022 UEFA Super Cup|2022]]<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0278-15d6268709ab-38bef8ec34df-1000--report-real-madrid-win-the-super-cup/ |title=Real Madrid 2–0 Eintracht Frankfurt: Five-star Madrid triumph in Helsinki |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 August 2022 |access-date=11 August 2022}}</ref>
+*[[FIFA Club World Cup]]: [[2014 FIFA Club World Cup|2014]], [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]],<ref>{{cite news|url=https://www.theguardian.com/football/2017/dec/16/real-madrid-gremio-club-world-cup-cristiano-ronaldo|title=Cristiano Ronaldo free-kick fires Real Madrid to Club World Cup glory|newspaper=The Guardian|date=16 December 2017|access-date=18 December 2017}}</ref> [[2018 FIFA Club World Cup|2018]], [[2022 FIFA Club World Cup|2022]]<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/real-madrid-al-hilal-final-report-review-vinicius-junior-federico-valverde-club-world-cup-morocco-2022 |title=Vinicius and Valverde dazzle as five-star Madrid conquer |publisher=[[FIFA]] |date=11 February 2023 |access-date=11 February 2023}}</ref>
+
+'''Spain U17'''
+*[[UEFA European Under-17 Championship]]: [[2007 UEFA European Under-17 Championship|2007]]<ref>"[http://archivo.marca.com/edicion/marca/futbol/seleccion/es/desarrollo/992385.html La selección española sub'17 se proclama campeona de Europa]" [The Spain under-17 team is proclaimed European champion] {{in lang|es}}. Marca. 13 May 2007.</ref>
+*[[FIFA U-17 World Cup]] runner-up: [[2007 FIFA U-17 World Cup|2007]]
+
+'''Spain U21'''
+*[[UEFA European Under-21 Championship]]: [[2013 UEFA European Under-21 Championship|2013]]<ref>{{cite web|title=Experience and talent fill Spain U21 selection|url=https://www.uefa.com/under21/news/0257-0deba4584bc9-eb6606968ee0-1000--experience-and-talent-fill-spain-u21-selection/|publisher=UEFA|date=23 May 2013 |access-date=29 December 2020}}</ref>
+
+'''Spain'''
+* [[UEFA European Championship]]: [[UEFA Euro 2024|2024]]<ref>{{Cite web |last=UEFA.com |title=Spain 2–1 England |url=https://www.uefa.com/uefaeuro/match/2036211--spain-vs-england/ |access-date=14 July 2024 |website=[[UEFA]] |language=en}}</ref>
+* [[UEFA Nations League]]: [[2022–23 UEFA Nations League|2022–23]]<ref name="UNLWin">{{Cite news |last=Smith |first=Emma |date=18 June 2023 |title=Spain win Nations League final on penalties |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/65944659 |access-date=18 June 2023}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.realmadrid.com/en/football/squad/jose-i-fernandez-iglesias Real Madrid official profile]
+*{{BDFutbol}}
+*{{Futbolme|7345}}
+*{{NFT}}
+*{{FIFA}}
+*{{Soccerway}}
+
+{{Al-Qadisiyah FC squad}}
+{{Navboxes
+| title = Spain squads
+| bg          = #C60B1E
+| fg          = #FBEA0E
+| bordercolor = #000033
+| list =
+{{Spain squad 2018 FIFA World Cup}}
+{{Spain squad UEFA Euro 2024}}
+}}
+
+{{DEFAULTSORT:Nacho}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Footballers from Madrid]]
+[[Category:Spanish men's footballers]]
+[[Category:Sportspeople with type 1 diabetes]]
+[[Category:Men's association football central defenders]]
+[[Category:Men's association football full-backs]]
+[[Category:Men's association football utility players]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Saudi Pro League players]]
+[[Category:Real Madrid Castilla footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:Al Qadsiah FC players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:UEFA European Championship–winning players]]
+[[Category:UEFA Nations League–winning players]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Spanish expatriate sportspeople in Saudi Arabia]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:21st-century Spanish sportsmen]]

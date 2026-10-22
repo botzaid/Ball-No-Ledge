@@ -1,0 +1,591 @@
+<!-- Raúl González | revision 2026-10-03T20:56:50Z -->
+{{Short description|Spanish footballer (born 1977)}}
+{{hatnote group|
+{{Other people|Raúl González}}
+{{for|the Brazilian football attacking midfielder|Raul (footballer, born 1981)}}
+}}
+{{Use dmy dates|date=March 2021}}
+{{family name hatnote|González|Blanco|lang=Spanish}}
+{{Infobox football biography
+| name = Raúl
+| image = 25th Laureus World Sports Awards - Raúl - 240422 132916-2 (cropped).jpg
+| caption = Raúl in 2024
+| full_name = Raúl González Blanco<ref name="FIFA 2006">{{cite web |title=2006 FIFA World Cup Germany List of Players |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |website=FIFA |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019 |page=25}}</ref>
+| birth_date = {{birth date and age|1977|6|27|df=y}}<ref name="FIFA 2006"/>
+| birth_place = [[Madrid]], Spain
+| height = 1.80 m<ref>{{cite web | url = http://www.al-saddclub.com/EN/Football/Pages/PlayerProfilePage.aspx?Playerid=36 | archive-url = https://web.archive.org/web/20130201091813/http://www.al-saddclub.com/EN/Football/Pages/PlayerProfilePage.aspx?Playerid=36 | url-status = dead | archive-date = 1 February 2013 | title = Raúl González Blanco | website = Al-Saad Sport Club | access-date = 1 February 2013}}</ref>
+| currentclub = 
+| clubnumber = 
+| position = [[Forward (association football)|Forward]]
+| youthyears1 = 1987–1990
+| youthclubs1 = San Cristóbal
+| youthyears2 = 1990–1992
+| youthclubs2 = [[Atlético Madrid]]
+| youthyears3 = 1992–1994
+| youthclubs3 = [[Real Madrid C.F.|Real Madrid]]
+| years1 = 1994
+| clubs1 = [[Real Madrid C]]
+| caps1 = 9
+| goals1 = 16
+| years2 = 1994
+| clubs2 = [[Real Madrid Castilla|Real Madrid B]]
+| caps2 = 1
+| goals2 = 0
+| years3 = 1994–2010
+| clubs3 = [[Real Madrid]]
+| caps3 = 550
+| goals3 = 228
+| years4 = 2010–2012
+| clubs4 = [[FC Schalke 04|Schalke 04]]
+| caps4 = 66
+| goals4 = 28
+| years5 = 2012–2014
+| clubs5 = [[Al Sadd SC|Al Sadd]]
+| caps5 = 39
+| goals5 = 11
+| years6 = 2014–2015
+| clubs6 = [[New York Cosmos (2013–2020)|New York Cosmos]]
+| caps6 = 28
+| goals6 = 8
+| totalcaps = 693
+| totalgoals = 291
+| nationalyears1 = 1994
+| nationalteam1 = [[Spain national under-18 football team|Spain U18]]
+| nationalcaps1 = 2
+| nationalgoals1 = 4
+| nationalyears2 = 1995
+| nationalteam2 = [[Spain national under-20 football team|Spain U20]]
+| nationalcaps2 = 5
+| nationalgoals2 = 3
+| nationalyears3 = 1995–1996
+| nationalteam3 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps3 = 9
+| nationalgoals3 = 8
+| nationalyears4 = 1996
+| nationalteam4 = [[Spain national under-23 football team|Spain Olympic]]
+| nationalcaps4 = 4
+| nationalgoals4 = 2
+| nationalyears5 = 1996–2006
+| nationalteam5 = [[Spain men's national football team|Spain]]
+| nationalcaps5 = 102
+| nationalgoals5 = [[List of international goals scored by Raúl|44]]
+| manageryears1 = 2019–2025
+| managerclubs1 = [[Real Madrid Castilla]]
+| manageryears3 = 
+| managerclubs3 = 
+| pcupdate = 
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{ESP}}}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|RU|[[1996 UEFA European Under-21 Championship|1996 Spain]]|}}
+}}
+'''Raúl González Blanco''' ({{IPA|es|raˈul ɣonˈθaleθ ˈβlaŋko}}; born 27 June 1977), known [[mononymously]] as '''Raúl''', is a Spanish professional [[Association football|football]] [[Manager (association football)|manager]] and former player who played as a [[Forward (association football)|forward]]. Regarded as one of the greatest strikers of all time, Raúl made over [[List of footballers with the most official appearances|1,000 appearances]] in his career and stands as the all-time Spanish [[European Cup and UEFA Champions League records and statistics#All-time top scorers|top goalscorer]] in the [[UEFA Champions League]] with 71 goals.<ref>{{Cite web |last=UEFA.com |title=The official website for European football |url=https://www.uefa.com/errors/ |access-date=2025-08-01 |website=UEFA.com |language=en}}</ref><ref>{{cite web |date=27 April 2013 |title=1.000 veces Raúl |url=http://www.marca.com/2013/04/27/futbol/futbol_internacional/1367059564.html?a=19e5dd1a454706c264dfade5e2f2327b&t=1367080283 |access-date=2 May 2013 |publisher=marca.com |language=es}}</ref>
+
+Raúl spent 16 years of his career playing for [[Real Madrid CF|Real Madrid]], becoming the holder for [[List of Real Madrid C.F. records and statistics#Players|most appearances]] with the club (741). With ''Los Blancos'', he won six [[La Liga]] titles, three Champions Leagues, four [[Supercopa de España]] titles, one [[UEFA Super Cup]], and two [[Intercontinental Cup (1960–2004)|Intercontinental Cups]]. In [[2001 Ballon d'Or|2001]], he was runner-up in the [[Ballon d'Or]], and two years later became [[Captain (association football)|captain]] of Real Madrid. Raúl left the club in 2010 with [[List of Real Madrid C.F. records and statistics#Goalscorers|323 goals]] scored for them,<ref>{{cite web |date=15 February 2009 |title=Record breaker Raul propels Real |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=1028166.html |url-status=dead |archive-url=https://web.archive.org/web/20090218073208/http://www.fifa.com/worldfootball/clubfootball/news/newsid=1028166.html |archive-date=18 February 2009 |access-date=2 May 2013 |publisher=FIFA.com}}</ref> signing for [[Bundesliga]] side [[FC Schalke 04|Schalke 04]]. He won a [[DFB-Pokal]] and [[DFL-Supercup]] in Germany<ref>{{cite web | url = http://futbol.as.com/futbol/2012/02/19/mas_futbol/1329606022_850215.html | title = Gol 400 de Raúl | language = es | publisher = as.com | date = 19 February 2012 | access-date = 2 May 2013}}</ref> before moving to Qatari club [[Sadd Sports Club|Al Sadd]] and then American club [[New York Cosmos (2013–2020)|New York Cosmos]]. For Spain, Raúl scored 44 goals in [[List of men's footballers with 100 or more international caps|102 appearances]] and is regarded as one of his nation's greatest ever players. He represented ''La Roja'' in three [[FIFA World Cup]]s and two [[UEFA European Championship|UEFA European Championships]], being named in the [[UEFA European Football Championship Teams of the Tournament|Euro Team of the Tournament]] for [[UEFA Euro 2000|2000]]. He became the captain of the national team in 2002 and retired from international football in 2006.  
+
+One of the most successful players in Champions League history, Raúl was named the [[UEFA Club Forward of the Year]] three years in a row ([[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]] and [[2001–02 UEFA Champions League|2001–02]]) and was the top goalscorer in the competition in 1999–2000 and 2000–2001. He was named the top international goalscorer in the world by [[International Federation of Football History & Statistics]] in 1999. Further awards include two [[Pichichi Trophy|Pichichi trophies]], five [[Don Balón Award]]s, and the Best Player award at the [[1998 Intercontinental Cup]]. In 2004, he was named in the [[FIFA 100]] list of the world's greatest living players and was named in [[UEFA]]’s list of the 50 best European players of the 1954–2004 period. He was named in the [[ESM Team of the Season|European Team of the Year]] by [[European Sports Media]] in 1997, 1999, and 2000.<ref>{{cite web | url = https://www.rsssf.org/miscellaneous/esm-xi.html | title = 1999/00 | date = 14 March 2007 | access-date = 2 May 2013 | first = Karel | website = [[RSSSF]] | last = Stokkermans}}</ref>
+
+== Club career ==
+
+=== Youth clubs ===
+Raúl's career began at his local team CD [[San Cristóbal de los Ángeles]] playing for their ''Alevín'' team and the ''Infantil'' the next season.<ref name="goalindia">{{cite web |last=Jain |first=Nandita |date=22 April 2012 |title=The Good Life: Raul Gonzalez – The legend who bled white |url=http://www.goal.com/en-india/news/3745/soccer-lounge/2012/04/22/3051811/the-good-life-raul-gonzalez-the-legend-who-bled-white |url-status=dead |archive-url=https://web.archive.org/web/20120423222148/http://www.goal.com/en-india/news/3745/soccer-lounge/2012/04/22/3051811/the-good-life-raul-gonzalez-the-legend-who-bled-white |archive-date=23 April 2012 |access-date=23 June 2012 |publisher=Goal.com India}}</ref><ref name=rmadridbioespanol>{{cite web|title=Jugadores de leyenda|url=http://www.realmadrid.com/cs/Satellite/es/1193040472616/1330010014526/jugador/JugadorLegendario/Raul.htm|publisher=Real Madrid CF|access-date=23 June 2012|url-status=dead|archive-url=https://web.archive.org/web/20120707083947/http://www.realmadrid.com/cs/Satellite/es/1193040472616/1330010014526/jugador/JugadorLegendario/Raul.htm|archive-date=7 July 2012}}</ref> He signed with [[Atlético Madrid]]'s ''Infantil'' team and won a national title with the ''Cadete'' team the following season. Following Atlético's then-president [[Jesús Gil]] decision to close their youth academy as a cost-saving measure, Raúl moved on to [[Real Madrid CF|Real Madrid]]'s ''Cadete'' team in [[La Fábrica (Real Madrid)|La Fábrica]]. The following season, he was promoted to the ''Juvenil C'' team and subsequently went on to play for their ''Juvenil B'' and ''[[Real Madrid CF (youth)|Juvenil A]]'' team.<ref name=diariodeportivo>{{cite web|last=Pallàs|first=Joan Josep|title=Del blanco al gris|url=http://hemeroteca-paginas.mundodeportivo.com/EMD02/PUB/2004/09/19/EMD20040919052MDP.pdf|publisher=Diario El Mundo Deportivo|access-date=23 June 2012}}</ref> While with the Real youth set-up, Raúl won the [[Dallas Cup]] in 1993 and 1994.<ref name = "Dallas Cups">{{cite news|title=Futbol in América: Dallas Cup's vital role in growing U.S. youth soccer|date=27 February 2018|access-date=2 March 2018|first=Carlos|last=Nava|work=ESPN Deportes|url=http://www.espn.co.uk/football/blog/espn-fc-united/68/post/3400484/futbol-in-america-dallas-cup-plays-key-role-in-promoting-us-youth-soccer}}</ref>
+
+=== Real Madrid ===
+[[File:Raúl González footballer.jpg|thumb|upright=0.7|left|Raúl in 1995]]
+
+He first started his professional career in the 1994–95 season with [[Real Madrid C]].<ref>{{cite web | url = https://www.rsssf.org/players/rauldata.html | title = Raúl González Blanco - Matches and Goals in Bundesliga | first = Matthias | last = Arnhold | date = 5 July 2017 | website = [[RSSSF]] | access-date = 6 July 2017 }}</ref> He scored 16 goals in just nine games (including five in one match against [[CD Corralejo (1975)|CD Corralejo]]) and was swiftly promoted to the first team by coach [[Jorge Valdano]], replacing [[Emilio Butragueño]] in a symbolic "passing of the crown".{{citation needed|date=January 2021}} He became the youngest player – 17 years and 124 days – ever to play for the senior side, though the record was broken by [[Alberto Rivera Pizarro|Alberto Rivera]] later that same season. On 29 October 1994, in an away game against [[Real Zaragoza]] at [[La Romareda]], he created a goal for strike partner [[Iván Zamorano]], heralding the demise of Butragueño in the process.{{citation needed|date=January 2021}} The next week, Raúl scored his first goal in his second senior game on a [[Santiago Bernabéu Stadium|home]] debut against Madrid rivals and former youth club [[Atlético Madrid]] in a bitter [[El Derbi madrileño|derby match]].<ref>{{Cite web|date=7 April 2018|url=https://www.realmadrid.com/en/news/2018/04/historic-goals-raul|title=Historic Goals Raúl|publisher=Real Madrid CF|access-date=11 June 2020}}</ref> Fully establishing himself as a fixture in the first team, Raúl registered a total of nine goals in 28 appearances to help Real Madrid win the [[1994–95 La Liga|1994–95 league championship]] in his first season.[[File:Raul Gonzalez Supercopa 2008.jpg|thumb|Raúl wore the number 7 shirt for [[Real Madrid C.F.|Real Madrid]] between 1996 and 2010.<ref>{{cite web | url = http://www.bdfutbol.com/en/t/t1996-972.html | title = Real Madrid 1996–97 | publisher = bdfutbol.com | access-date = 5 December 2014}}</ref>]]With Real Madrid, he won several honours at the club, including further La Liga titles in [[1996–97 La Liga|1996–97]] (scoring 21 La Liga goals), [[2000–01 La Liga|2000–01]] (scoring 24 La Liga goals), and [[2002–03 La Liga|2002–03]] (scoring 16 La Liga goals in a campaign truncated by a bout of [[appendicitis]] for which Raúl was hospitalised). During the period from 1998 to 2002, Raúl and Real Madrid also won three [[UEFA Champions League]] trophies in [[1997–98 UEFA Champions League|1998]], [[1999–2000 UEFA Champions League|2000]], and [[2001–02 UEFA Champions League|2002]]. For most of this time, Raúl struck up a prolific scoring partnership with [[Fernando Morientes]] and later [[Ronaldo (Brazilian footballer)|Ronaldo]]. During a La Liga game against [[El Clásico|fierce rivals]] Barcelona at the [[Nou Camp]] in October 1999, Raúl silenced the hostile home crowd of almost 100,000 fans when he scored and then memorably celebrated his goal by putting a finger to his lips as though to tell them to be quiet.<ref>{{cite news |title=When Raul ended Madrid's humiliation, silenced Camp Nou |url=http://www.egypttoday.com/Article/8/39224/When-Raul-ended-Madrid’s-humiliation-silenced-Nou-Camp |access-date=9 October 2018 |work=Egypt Today}}</ref><ref name="Marca">{{cite news |title=Real Madrid-Barcelona: Celebrations in enemy territory |url=http://www.marca.com/en/football/barcelona/2017/04/24/58fe5ed8ca47413f548b461c.html |access-date=9 October 2018 |work=Marca}}</ref> Raúl took over the [[Captain (association football)|captaincy]] of Real Madrid when [[Fernando Hierro]] was transferred in 2003, a responsibility he held until leaving the club in 2010. Despite appearing in two finals, in [[2002 Copa del Rey Final|2002]] (in which he scored) and [[2004 Copa del Rey Final|2004]], Raúl never lifted the [[Copa del Rey]].
+He became the first player to score 50 Champions League goals when he scored in a 2–1 group stage win over [[Olympiacos F.C.|Olympiacos]] on 28 September 2005,<ref>{{cite web|url=http://www.hindu.com/2005/09/30/stories/2005093007521800.htm |archive-url=https://web.archive.org/web/20090124234834/http://www.hindu.com/2005/09/30/stories/2005093007521800.htm |url-status=dead |archive-date=24 January 2009 |title=Sport / Football : Fifty not out for Raúl Gonzalez |date= 30 September 2005 |work=[[The Hindu]] |access-date=3 May 2010}}</ref> and was also the first to make 100 appearances in the competition.<ref>{{cite web| title = Defeat mars Raúl record | url = http://www.uefa.com/competitions/UCL/news/Kind=1/newsId=396659.html | archive-url = https://archive.today/20060522234236/http://www.uefa.com/competitions/UCL/news/Kind=1/newsId=396659.html | url-status = dead | archive-date = 22 May 2006 | publisher = [[UEFA]] | date = 22 February 2006 | access-date =13 December 2007}}</ref> He was also the first player to score in two Champions League finals, since the competition was renamed, scoring in the finals of both [[2000 UEFA Champions League Final|2000]] against [[Valencia CF|Valencia]] in the [[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], and [[2002 UEFA Champions League Final|2002]] against [[Bayer 04 Leverkusen|Bayer Leverkusen]] at [[Hampden Park]], [[Glasgow]].
+
+Raúl holds the distinction of having never been [[Penalty card|sent off]] in his 17 years at the professional level.<ref>{{cite web| title = The captain hasn't been booked in two and a half years (Raúl, a gentleman of fair play)| url = http://www.realmadrid.com/articulo/rma39016.htm | publisher = Real Madrid | date = 24 April 2007 | access-date =15 December 2007 |archive-url = https://archive.today/20071010015518/http://www.realmadrid.com/articulo/rma39016.htm <!-- Bot retrieved archive --> |archive-date = 10 October 2007}}</ref> On 11 November 2008, Raúl scored his 300th goal for Real Madrid with a hat-trick against [[Real Unión]], with Real winning the match 4–3 but being eliminated on [[away goals]] after drawing 6–6 on aggregate.<ref>{{cite web |url=http://www.realmadrid.com/cs/Satellite/es/1202754820540/noticia/Noticia/Raul_alcanza_los_300_goles.htm |title=Raúl alcanza los 300 goles |publisher=Real Madrid |date=12 November 2008 |access-date=3 May 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100609171215/http://www.realmadrid.com/cs/Satellite/es/1202754820540/noticia/Noticia/Raul_alcanza_los_300_goles.htm |archive-date=9 June 2010}}</ref> In total, Raúl scored 323 goals for Real Madrid, breaking the long-standing club record of [[Alfredo Di Stéfano]] (307) with a volleyed goal against [[Sporting de Gijón]] on 15 February 2009. He is presently fifth on the all-time list of [[Spanish football top scorers|La Liga goalscorers]], behind Argentine [[Lionel Messi]], Portuguese [[Cristiano Ronaldo]], Spaniard [[Telmo Zarra]] and Mexican [[Hugo Sánchez]].<ref>{{cite web | url = https://uk.eurosport.yahoo.com/blogs/the-rundown/messi--zarra--ronaldo--who-is-liga-s-all-time-top-scorer-121848577.html | title = Messi, Zarra, Ronaldo: The top scorers in La Liga history | publisher = Eurosport | date = 7 October 2014 | access-date = 7 February 2015 | url-status = dead | archive-url = https://web.archive.org/web/20150207024442/https://uk.eurosport.yahoo.com/blogs/the-rundown/messi--zarra--ronaldo--who-is-liga-s-all-time-top-scorer-121848577.html | archive-date = 7 February 2015 | df = dmy-all }}</ref>[[File:RaulRonaldo.jpg|thumb|Raúl gets substituted for [[Cristiano Ronaldo]], who would inherit the number 7 in the following season. ]]
+Raúl and fellow long-serving teammate [[Iker Casillas]] were both awarded "contracts for life" in 2008, the terms of which stipulated that the contracts would be renewed annually for as long as they played 30 matches each season.<ref>{{cite web|url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=691686.html |archive-url=https://web.archive.org/web/20080220064117/http://www.fifa.com/worldfootball/clubfootball/news/newsid=691686.html |url-status=dead |archive-date=20 February 2008 |title=Raúl and Casillas commit to Real |publisher=FIFA.com |date= 14 February 2008 |access-date=3 May 2010}}</ref> On 23 September 2009, Raúl equalled [[Manuel Sanchís Hontiyuelo|Manolo Sanchís]]' league appearance record for Real Madrid,<ref>{{cite web |url=http://www.realmadrid.com/cs/Satellite/en/1202792091404/noticia/Entrevista/Sanchis_comments_on_Raul_s_record.htm |title=Sanchís comments on Raúl's record |publisher=Real Madrid |date=20 May 1998 |access-date=3 May 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100126060541/http://www.realmadrid.com/cs/Satellite/en/1202792091404/noticia/Entrevista/Sanchis_comments_on_Raul_s_record.htm |archive-date=26 January 2010}}</ref> and is second in La Liga behind [[Andoni Zubizarreta]], who played in 622 matches.
+
+Along with years of captaincy for both Real Madrid and Spain, Raúl was known as "''El Capitán''" ("The Captain").<ref>{{cite web|url=http://www.goal.com/en/news/12/spain/2010/08/03/2054556/barcelona-coach-pep-guardiola-raul-is-the-best-spanish | title = The number 7 is held in high regard... | website = goal.com | date = 3 August 2010 | access-date = 6 July 2017 | first = Subhankar | last = Mondal}}</ref>
+
+[[File:Raúl González Blanco.JPG|thumb|upright|left|200px|Raúl in his last match with Real Madrid in a [[La Liga]] match against [[Real Zaragoza]]]]Raúl's last touch with the ball as a Real Madrid player before an injury ruled him out of action for the rest of [[2009–10 La Liga|that season]] was to score his last goal, the opening goal scored on 24 April 2010 in a 2–1 away victory against [[Real Zaragoza]] in [[La Romareda]], coincidentally the stadium where he made his debut in 1994. It was scored in the 50th minute after Raúl (himself only on the pitch as a substitute for [[Rafael van der Vaart]] after 15 minutes) had signalled he could not physically continue and was prepared to be substituted off for [[Karim Benzema]] one minute after the goal.<ref>{{cite web|url=http://soccernet.espn.go.com/report/_/id/275649?cc=4716 |archive-url=https://web.archive.org/web/20121102052137/http://soccernet.espn.go.com/report/_/id/275649?cc=4716 |url-status=dead |archive-date=2 November 2012 |title=Real maintain pressure at summit |work=[[ESPNsoccernet]]|date=24 April 2010 |access-date=3 May 2010}}</ref> Before the substitution could be made, Real Madrid launched a counter-attack to create a goal. Though Raúl ran to a slow hobble, he shuffled into the box and was able to poke the ball from Cristiano Ronaldo's pass.
+
+Having spent the rest of the season recovering from that injury, the club confirmed on 25 July 2010 that Raúl would be leaving the club, a day after his teammate [[Guti (Spanish footballer)|Guti]] confirmed he was also leaving after a 15-year spell.<ref name="autogenerated1">{{cite web |url=http://www.rte.ie/sport/soccer/2010/0725/raul_realmadrid.html |title=Real confirm Raul's Bernabeu departure |publisher=RTÉ Sport |date=26 July 2010 |access-date=26 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100726172622/http://www.rte.ie/sport/soccer/2010/0725/raul_realmadrid.html |archive-date=26 July 2010}}</ref>
+
+=== Schalke 04 ===
+[[File:Raul 2011-08-03-2 (cropped).jpg|thumb|upright|Raúl in a training session with [[FC Schalke 04|Schalke 04]] in August 2011]]
+Raúl signed a two-year contract with [[FC Schalke 04|Schalke 04]] on 28 July 2010. Schalke head coach [[Felix Magath]] hailed the signing and told the club website, "It's great news for FC Schalke 04, I am pleased that we have succeeded in signing such an exceptional footballer and world-class [[Striker (association football)|striker]] switching to the Bundesliga for Schalke 04."<ref name="Schalke">{{cite web | url =https://www.fifa.com/worldfootball/clubfootball/news/newsid=1278675.html?cid=rssfeed&att= | archive-url =https://web.archive.org/web/20120113105411/http://www.fifa.com/worldfootball/clubfootball/news/newsid=1278675.html?cid=rssfeed&att= | url-status =dead | archive-date =13 January 2012 | title = Raul signs for Schalke | publisher = [[FIFA]]|work=FIFA.com | date = 28 July 2010 | access-date =28 July 2010}}</ref> Raúl chose Schalke because they qualified for the [[2010–11 UEFA Champions League]].<ref name="autogenerated2">{{cite web| url = https://www.si.com/more-sports/2011/05/19/raul-schalke | title = Schalke move has revitalized Raúl |publisher = [[Sports Illustrated]] | work = SI.com | first = Sid | last = Lowe |date = 19 May 2011 | access-date = 6 October 2014}}</ref>
+
+Raúl scored his first goal for the club during his first match on 1 August 2010 with a brace in a 3–1 victory over [[FC Bayern Munich|Bayern Munich]] in the final match of the pre-season competition [[LIGA total! Cup#LIGA total! Cup 2010|LIGA total! Cup]] [[2010–11 FC Bayern Munich season#LIGA total! Cup 2010|2010]]. One week later, he made his competitive debut in the [[2010 DFL-Supercup]] on 7 August 2010 again against Bayern, but this time he failed to score in the 2–0 defeat. Raúl made his [[Bundesliga]] debut on 21 August 2010 in a 2–1 defeat against [[Hamburger SV]].<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=297154&cc=5739&league=GER.1|archive-url=https://web.archive.org/web/20100825181936/http://soccernet.espn.go.com/report?id=297154&cc=5739&league=GER.1|url-status=dead|archive-date=25 August 2010|title=Van Nistelrooy brace sinks Schalke|date= 21 August 2010 |work=ESPN Soccernet|access-date=23 August 2010}}</ref> and scored his first goal for Schalke in the Bundesliga against [[Borussia Mönchengladbach]] on 25 September 2010 in a 2–2 draw.<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=296968&cc=5739&league=GER.1|archive-url=https://web.archive.org/web/20121102052216/http://soccernet.espn.go.com/report?id=296968&cc=5739&league=GER.1|archive-date=2 November 2012|title=Raul rescues Schalke late on|date= 25 September 2010|publisher=[[ESPN]]|work=ESPN Soccernet|access-date=6 October 2014}}</ref> After a quiet start, he rediscovered his goalscoring form in the Bundesliga with a brace against [[FC St. Pauli]] on 5 November in a 3–0 win, and on 20 November, he scored his first hat-trick for the club in a 4–0 win over [[SV Werder Bremen|Werder Bremen]]. On 18 December, he scored his second hat-trick for Schalke in a 3–0 win against [[1. FC Köln]].
+[[File:Raul Gonzalez Blanco Schalke.jpg|thumb|left|Raúl with Schalke in 2011|334x334px]]
+Raúl scored another crucial goal on 2 March 2011 in a 1–0 victory over Bayern Munich in the semi-final of [[2010–11 DFB-Pokal]]. After being absent for six years, Schalke ultimately reached the finals since 2005. In [[2011 DFB-Pokal Final|the final match]], they played against [[MSV Duisburg]], the first [[2. Bundesliga]] team which reached the final since 2004. Raúl never won a domestic cup with Real Madrid (the [[Copa del Rey]]), but on 21 May 2011, in his first season, he finally won a domestic cup and got his maiden trophy with his new club. They won the tournament with a 5–0 win at the [[Olympic Stadium (Berlin)|Olympiastadion]] in [[Berlin]]. This success was followed with victory two months later on 23 July 2011 in the [[2011 DFL-Supercup]] against the league champions and rivals [[Borussia Dortmund]].
+
+In European play, Raúl has since become the highest goalscorer in all [[UEFA]] competitions with 73 goals, ahead of [[A.C. Milan|Milan]] veteran [[Filippo Inzaghi]] with 70 goals. He scored 71 goals in the Champions League (66 goals with Real Madrid and five with Schalke 04) and in addition his two goals with ''Los Blancos'', one goal in the [[2000 UEFA Super Cup]] and the other one in the [[1998 Intercontinental Cup]]. On 22 October 2010, Raúl scored twice against [[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]] in a 3–1 win, which tied him with German legend [[Gerd Müller]] for the most European goals. Raúl fully broke this record on 15 February 2011 on his return to Spain with a crucial away goal in the round of 16 tie against Valencia at the [[Mestalla Stadium]] in a 1–1 draw.
+
+In the quarter-finals, Raúl scored two goals against [[Inter Milan|Internazionale]]: one goal in the first leg, a 5–2 away win at the [[San Siro]], and one in the second leg, a 2–1 home win at the [[Veltins-Arena]]. Schalke progressed to the semi-finals of the UEFA Champions League for the first time in their history, where they played against [[Manchester United F.C.|Manchester United]]. Schalke lost the first match 2–0, which was their first home defeat this season in the tournament, and lost again 4–1 in [[Old Trafford]]. Despite the defeat, Raúl considered it an honour that he had swapped shirts with [[Ryan Giggs]].<ref name="autogenerated2" /> On 19 November 2011, he captained Schalke for the first time due to an injury to [[Benedikt Höwedes]] in a 4–0 home win against [[1. FC Nürnberg]]. He also scored the second goal and assisted the fourth in that match.
+
+Raúl scored another hat-trick against Werder Bremen on 17 December 2011.<ref>{{cite web| url = http://soccernet.espn.go.com/report?id=320898&cc=5901 | archive-url = https://archive.today/20120715192143/http://soccernet.espn.go.com/report?id=320898&cc=5901 | url-status = dead | archive-date = 15 July 2012 | title = Schalke 04 5–0 Werder Bremen | publisher = ESPN Soccernet | date = 17 December 2011 | access-date =17 December 2011}}</ref> The goals came in a 5–0 win that cemented Schalke's position in third place going into the winter break.<ref>{{cite web|url = https://www.fifa.com/worldfootball/clubfootball/news/newsid=1558973.html |archive-url = https://web.archive.org/web/20140409080119/http://www.fifa.com/worldfootball/clubfootball/news/newsid=1558973.html |url-status = dead |archive-date = 9 April 2014 | title = Five-goal Schalke sink Bremen | publisher = FIFA.com | date = 17 December 2011 | access-date =17 December 2011}}</ref> On 19 February 2012, he scored the 400th goal of his career; at that time he had scored 323 with Real Madrid, 44 with Spain and 33 with Schalke.<ref>{{cite web | url = http://www.as.com/futbol/articulo/raul-firma-gol-400-anos/20120220dasdaiftb_41/Tes | title = Raúl firma su gol 400 en sus 18 años de profesional | language = es | publisher = as.com | date = 20 February 2012 | access-date =20 February 2012}}</ref> On 5 April 2012, in the second leg of the [[UEFA Europa League]] match against [[Athletic Bilbao]], he scored his 77th goal in a European competition.
+
+With his goal in the semifinals of the German Cup against Bayern Munich at the [[Allianz Arena]], together with his team, he qualified for the final of said competition. His great performances in the European Cup this season earned him to be included in the best eleven of the competition awarded by [[UEFA]].<ref>{{cite web |title=Real Madrid's all-time best XI in the Champions League |url=https://therealchamps.com/2022/05/26/real-madrid-best-xi-champions-league/4/ |website=therealchamps |date=26 May 2022 |publisher=Sai Siddhartha |access-date=2 November 2022}}</ref>
+
+At a press conference on 19 April 2012, Raúl announced he would leave Schalke after his contract expired in June, and that "[his] future is not in Europe".<ref>{{cite web | url = http://www.uefa.com/memberassociations/association=ger/news/newsid=1786554.html?rss=1786554+Ra%C3%BAl+set+to+leave+Schalke+and+Europe | archive-url = https://web.archive.org/web/20150915074151/http://www.uefa.com/memberassociations/association=ger/news/newsid=1786554.html?rss=1786554+Ra%C3%BAl+set+to+leave+Schalke+and+Europe | url-status = dead | archive-date = 15 September 2015 | title = Raúl set to leave Schalke and Europe | publisher = [[UEFA]] | date = 19 April 2012 | access-date =19 April 2012}}</ref> Raúl had such an impact at Schalke that, on his departure, the club opted to retire the number 7 shirt for an indefinite period.<ref>{{cite web | url =http://www.goal.com/en-my/news/4004/germany/2012/04/20/3047746/legendary-schalke-duo-unhappy-with-decision-to-retire-rauls | title = Legendary Schalke duo unhappy with decision to retire Raul's number | publisher = goal.com | date = 20 April 2012 | access-date = 4 April 2013 | author = Hassan Talib Haji}}</ref> However, in 2013, the number 7 shirt was given to [[Max Meyer (footballer)|Max Meyer]], Schalke's new prodigy.<ref>{{cite web | url =http://www.goal.com/en-us/news/87/germany/2013/11/06/4387756/meet-max-meyer-the-next-wonder-kid-from-schalkes-production | title = Meet Max Meyer: The next wonder kid from Schalke's production line | publisher = goal.com | date = 6 November 2013 | access-date = 24 December 2013 | author = Enis Koylu}}</ref>
+
+=== Al Sadd ===
+[[File:Raúl Al-Sadd vs Al-Arabi 2012.jpg|thumb|upright|Raúl playing for [[Al Sadd SC|Al Sadd]] in 2012]]
+On 12 May 2012, it was announced Raúl had signed a deal with Qatari Football Club [[Sadd Sports Club|Al Sadd]] for the [[2012–13 Qatar Stars League]] season.<ref name="Al Sadd">{{cite web| first =Livio | last = Caferoglu |url= http://www.goal.com/en/news/14/asia/2012/05/12/3098752/official-al-sadd-announce-signing-of-raul |title=Official: Al Sadd announce signing of Raul |publisher=goal.com |date=12 May 2012 |access-date=12 May 2012}}</ref><ref>{{cite news|title=Former Real Madrid striker Raul joins Qatar's Al Sadd|url=http://in.reuters.com/article/soccer-qatar-raul-idINDEE84C00E20120513|archive-url=https://web.archive.org/web/20160306161638/http://in.reuters.com/article/soccer-qatar-raul-idINDEE84C00E20120513|url-status=dead|archive-date=6 March 2016|access-date=23 June 2012|newspaper=Reuters India|date=13 May 2012}}</ref> He played his first competitive match for the club on 5 August in the [[2012 Sheikh Jassim Cup]], scoring a [[Penalty kick (association football)|penalty]] in extra time in order to secure a 2–0 win against [[Al-Mesaimeer Sports Club|Mesaimeer]].<ref>{{cite web|url=http://www.alkass.net/news_details.aspx?news_id=40814|title=راؤول يتأهل بالسد لمواجهة العربي في لكأس الشيخ جاسم|date=5 August 2012|publisher=Al Kass}}</ref> The veteran also took on the role of captain after [[Abdulla Koni]] was substituted.<ref>{{cite news|url=http://www.goal.com/en-gb/news/2557/news/2012/08/05/3288196/real-madrid-legend-raul-scores-on-al-sadd-debut|title=Real Madrid legend Raul scores on Al Sadd debut|date=5 August 2012|publisher=goal.com}}</ref> On 13 April 2013, Raúl captained Al Sadd to the [[2012–13 Qatar Stars League]] title. Raúl scored 9 goals in 22 appearances to help Al Sadd win their first title in five years.<ref>{{cite news|url=http://www.as.com/english/articulo/real-legend-raul-seals-qatari/20130413dasdenspo_18/Ten|title=Real legend Raúl seals Qatari league title with Al Sadd|date=13 April 2013|publisher=as.com}}</ref> He scored in the [[2013 Emir of Qatar Cup]] final defeat to [[Al Rayyan]].<ref name = "gulf times">{{cite web | url = https://www.gulf-times.com/story/353302/sadds-khalfan-raul-amotta-shine-at-qfa-awards-gala | title = Sadd's Khalfan, Raul, Amotta shine at QFA awards gala | newspaper = [[Gulf Times]] | date = 20 May 2013 | access-date = 27 July 2014}}</ref> Raúl was also presented with the post-season [[Qatar Football Association|QFA]]-sanctioned Fair Play Award in May 2013,<ref>{{cite web|url=http://www.dohastadiumplusqatar.com/pearl-qatar/|title=The Pearl of Qatar!|publisher=Doha Stadium Plus|date=22 May 2013|access-date=18 September 2015|url-status=dead|archive-url=https://web.archive.org/web/20160304044651/http://www.dohastadiumplusqatar.com/pearl-qatar/|archive-date=4 March 2016}}</ref> while he had also been shortlisted for [[Qatar Stars League#Post-season awards|QSL Player of the Year award]].<ref name = "gulf times"/>
+
+On 22 August 2013, Raúl played for Real Madrid in the first half of the [[Trofeo Santiago Bernabéu]] and scored the first goal. He then played the second half for Al Sadd as Real Madrid won 5–0.<ref>{{cite web |last1=Wishnu |first1=Antonius |title=Raul's Farewell Kiss to Bernabeu |url=https://en.tempo.co/read/507018/rauls-farewell-kiss-to-bernabeu |website=tempo.co |access-date=25 August 2020 |date=24 August 2013}}</ref> On 5 March 2014, Raúl announced he would retire from professional football at the end of the Qatari football season.<ref>{{cite web | url = http://www.football-espana.net/40321/raul-retire-football | title = Raul to retire from football | publisher = football-espana.net | date = 5 March 2014 | access-date = 27 July 2014}}</ref>
+
+=== New York Cosmos ===
+On 30 October 2014, Raúl returned to professional football and signed with the [[New York Cosmos (2013–2020)|New York Cosmos]] in the United States.<ref>{{cite web|url=http://www.nycosmos.com/article/uuid/nv396l61pvx517104xa79muzo/cosmos-sign-legendary-spanish-striker-raul-gonzalez-blanco|title=Cosmos Sign Legendary Spanish Striker Raúl González Blanco|date=30 October 2014|work=New York Cosmos|access-date=30 October 2013|archive-date=30 October 2014|archive-url=https://web.archive.org/web/20141030135741/http://www.nycosmos.com/article/uuid/nv396l61pvx517104xa79muzo/cosmos-sign-legendary-spanish-striker-raul-gonzalez-blanco|url-status=dead}}</ref> He made his [[North American Soccer League (2011–2017)|North American Soccer League]] (NASL) debut on 4 April 2015 in a 1–0 win against the [[Fort Lauderdale Strikers (2006–2016)|Fort Lauderdale Strikers]], partially owned by his former Real Madrid strike partner Ronaldo, leaving with a hamstring injury in the second half.<ref>{{cite news|last1=Newman|first1=Benjamin|title=Raul beats Ronaldo as the NY Cosmos get a win over the Fort Lauderdale Strikers [Videos]|url=http://www.101greatgoals.com/blog/raul-beats-ronaldo-ny-cosmos-win-fort-lauderdale-strikers-videos/|access-date=17 October 2015|publisher=101 Great Goals|date=6 April 2015|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304112841/http://www.101greatgoals.com/blog/raul-beats-ronaldo-ny-cosmos-win-fort-lauderdale-strikers-videos/|url-status=dead}}</ref> The following week, at the [[Indy Eleven]], he scored his first goal to equalise in a 1–1 draw.<ref>{{cite news|title=New York Cosmos 1, Indy Eleven 1 New York Cosmos standout player Raul holds up one fingerBuy Photo|url=http://www.indystar.com/picture-gallery/sports/2015/04/11/new-york-cosmos-1-indy-eleven-1/25655395/|access-date=17 October 2015|work=Indianapolis Star|date=12 April 2015}}</ref> Raúl scored four times as the undefeated Cosmos won the [[2015 North American Soccer League season|spring season]] with five wins and five draws.<ref>{{cite news|title=BY THE NUMBERS 2015 SPRING SEASON|url=http://www.nasl.com/news/2015/06/22/by-the-numbers--2015-spring-season|access-date=17 October 2015|publisher=North American Soccer League|date=22 June 2015}}</ref>
+
+On 16 October 2015, it was again announced Raúl would retire at the end of the season.<ref>{{cite web|title=Spain and Real Madrid icon Raúl to retire at end of season|url=https://www.theguardian.com/football/2015/oct/15/spain-and-real-madrid-icon-raul-to-retire-at-end-of-season|work=The Guardian|date=16 October 2015|access-date=16 October 2015}}</ref> The Cosmos finished with the best regular season record, winning the [[North American Supporters' Trophy]]. On 7 November, he scored the winning goal as his team came from behind to win 2–1 against the Strikers in the semi-finals, earning a place at [[Soccer Bowl 2015]], which they won 3–2 against the [[Ottawa Fury FC|Ottawa Fury]] eight days later. Raúl set up the third and final goal for [[Gaston Cellerino]]'s hat-trick.<ref>{{ cite news | title = Cosmos send Raul out a winner | url = https://m.thepeninsulaqatar.com/article/16/11/2015/Cosmos-send-Raul-out-a-winner | access-date = 16 November 2015 |date=16 November 2015 | newspaper = [[The Peninsula (newspaper)|The Peninsula]] }}</ref>  He reiterated his decision to retire after the Soccer Bowl.<ref>{{cite news|title=New York Cosmos bid farewell to Raul with NASL title victory|url=https://www.theguardian.com/football/2015/nov/15/new-york-cosmos-bid-farewell-to-raul-with-nasl-title-victory|access-date=16 November 2015|date=16 November 2015|work=The Guardian}}</ref>
+
+== International career ==
+Raúl began his Spain career at the youth level and represented the [[Spain national under-20 football team|nation]] at the [[1995 FIFA World Youth Championship|1995 FIFA U-20 World Cup]], scoring three goals from five matches. He was also part of the [[Spain national under-21 football team|under-21 side]] that reached the final of the [[1996 UEFA European Under-21 Championship]], and even scored his side's temporary equaliser in the final, although he later missed his penalty in the resulting shoot-out, which was won by [[Italy national under-21 football team|Italy]].<ref>{{cite web|url=https://www.uefa.com/under21/season=1996/overview/index.html|archive-url=https://web.archive.org/web/20130524030421/http://www.uefa.com/under21/season=1996/overview/index.html|url-status=dead|archive-date=24 May 2013|title=1996: Totti on top for Italy|publisher=[[UEFA]]|date=1 June 1996|access-date=5 October 2017}}</ref> In total, he scored 17 goals at the various youth levels for Spain. 
+
+With the senior team, Raúl went on for many years to score a national record 44 goals in 102 caps for [[Spain men's national football team|Spain]]. However, [[David Villa]] later equalled Raúl's record in 2010 and surpassed it on 25 March 2011 in a [[UEFA Euro 2012 qualifying Group I|UEFA Euro 2012 qualifier]]. Of his 44 international goals, Raúl scored 32 goals in competitive matches, six of which were in the finals of major tournaments. He is regarded as one of his nation's greatest ever players.<ref>{{cite web |last=Ritchie |first=Calum |date=30 March 2024 |title=''11 Greatest Spanish Players in Football History [Ranked]'' |url=https://www.givemesport.com/11-greatest-spanish-players-in-football-history-ranked/ |access-date=21 May 2024 |publisher=Give Me Sport}}</ref><ref>{{cite web |last=Pettigrove |first=Jason |date=8 October 2013 |title=''Spain's 5 Greatest Players Ever'' |url=https://bleacherreport.com/articles/1802623-spains-5-greatest-players-ever |access-date=21 May 2024 |publisher=Bleacher Report}}</ref> 
+
+=== 1998 FIFA World Cup ===
+On 9 October 1996, Raúl debuted for the [[Spain national football team|Spanish senior squad]] against the [[Czech Republic national football team|Czech Republic]], playing 90 minutes of a goalless [[1998 FIFA World Cup qualification]] draw at the [[Letná Stadion]] in [[Prague]].<ref name="Vavel">{{Cite news|first=Adrián|last=Soria|title=18 años y 1 día del primer gol de Raúl con 'La Roja"|trans-title=18 years and 1 day of Raúl's first goal with "La Roja"|url=https://www.vavel.com/es/futbol/2016/12/15/seleccion-espanola/732986-18-anos-y-1-dia-del-primer-gol-de-rau-con-la-roja.html|website=Vavel|date=15 December 2016|access-date=22 July 2024|language=es}}</ref> In his third match on 14 December against [[Serbia and Montenegro national football team|FR Yugoslavia]] at the Mestalla Stadium, he recorded his first international goal in a 2–0 qualifying victory.<ref name="Vavel"/> At the [[1998 FIFA World Cup|final tournament]] in France, Raúl featured in every match as Spain were eliminated from [[1998 FIFA World Cup Group D|Group D]]. He scored in their opening match to put them 2–1 up in an eventual 2–3 loss to [[Nigeria national football team|Nigeria]] in [[Nantes]].<ref>{{cite news|title=Nigeria Rallies to Stun Spain With Late Goal|url=https://www.washingtonpost.com/wp-srv/sports/soccer/longterm/worldcup98/results/articles/nigeria_spain.htm|access-date=17 October 2015|newspaper=[[The Washington Post]]|agency=Associated Press|date=13 June 1998}}</ref>
+
+=== UEFA Euro 2000 ===
+On 27 March 1999, in a [[UEFA Euro 2000 qualifying Group 6|UEFA Euro 2000 qualifier]], Raúl scored four goals in Spain's 9–0 rout of [[Austria national football team|Austria]].<ref>{{cite news|last1=Ros|first1=Cayetano|title=España vive una noche idílica|trans-title=Spain experience an idyllic night|url=http://elpais.com/diario/1999/03/28/deportes/922575601_850215.html|access-date=17 October 2015|work=El País|date=28 March 1999|language=es}}</ref> Four days later, he scored three goals in a 6–0 away win against [[San Marino national football team|San Marino]] during the same qualifying tournament.<ref>{{cite news|title=España golea a San Marino por 0-6 y se coloca en el primer puesto de su grupo|trans-title=Spain thrash San Marino 0–6 and take first place in their group|url=http://elpais.com/diario/1999/04/01/portada/922917604_850215.html|access-date=17 October 2015|work=El País|date=1 April 1999|language=es}}</ref> On 5 June, against the same opponents in [[Villarreal]], he was again on target in a 9–0 rout.<ref>{{cite news|title=España firma una nueva goleada ante San Marino|trans-title=Spain sign a new thrashing against San Marino|url=http://www.elmundo.es/elmundo/1999/junio/05/deportes/goleada.html|access-date=17 October 2015|work=El Mundo|date=6 June 1999|language=es}}</ref> Raúl played every minute of Spain's [[UEFA Euro 2000|Euro 2000]] finals campaign in Belgium and the Netherlands. He scored the first goal in their 2–1 win over [[Slovenia national football team|Slovenia]] at the [[Amsterdam Arena]].<ref>{{cite news|title=Etxeberria spares Spain's blushes against Slovenia|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b32059095-c2276088c50c-1000--etxeberria-spares-spain-s-blushes-against-slovenia-in-eu/|access-date=17 October 2015|publisher=UEFA|date=6 October 2003}}</ref> Spain were knocked out in the quarter-finals by eventual champions [[France national football team|France]]; Raúl missed a last-minute penalty which would have taken the tie to extra-time.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/euro2000/805574.stm |title=Raul miss sends France through |publisher=BBC |date=25 June 2000 |access-date=9 February 2016}}</ref>
+
+=== 2002 FIFA World Cup ===
+At the [[2002 FIFA World Cup]] in South Korea and Japan, Raúl opened a 3–1 win over the Slovenes in Spain's first [[2002 FIFA World Cup Group B|Group B]] match,<ref>{{cite news|title=Spain see off Slovenia|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/spain_v_slovenia/default.stm|access-date=17 October 2015|publisher=BBC Sport|date=2 June 2002}}</ref> and added two more in a 3–2 win over [[South Africa national football team|South Africa]] in [[Daejeon]] to advance as group winners.<ref>{{cite news|title=Heartbreak for South Africa|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/south_africa_v_spain/default.stm|access-date=17 October 2015|publisher=BBC Sport|date=12 June 2002}}</ref> He suffered a groin injury in the round of 16 win over the [[Republic of Ireland national football team|Republic of Ireland]],<ref>{{cite news|title=Raul, Tristan and Abelda doubts for Spain|url=http://www.irishtimes.com/news/raul-tristan-and-abelda-doubts-for-spain-1.427257|access-date=17 October 2015|newspaper=The Irish Times|date=21 June 2002}}</ref> and missed the remainder of the tournament, in which Spain went out to [[South Korea national football team|South Korea]] in the quarter-finals.
+
+=== UEFA Euro 2004 ===
+On 7 September 2002, Raúl scored in a 2–0 away win over [[Greece national football team|Greece]] in [[UEFA Euro 2004 qualifying|Euro 2004 qualifying]], putting him on 29 goals in 56 international games, equalling the national goalscoring record set by the recently retired [[Fernando Hierro]].<ref>{{cite news|title=Raul delighted to equal record|url=http://www.espnfc.com/europe/news/2002/0903/20020908sparaul.html|access-date=17 October 2015|agency=Reuters|publisher=ESPN|date=3 September 2002}}</ref> He broke the record on 12 February 2003 when he scored twice in a 3–1 friendly win over [[Germany national football team|Germany]] at [[Son Moix]] in [[Palma de Mallorca|Palma]], [[Mallorca]].<ref>{{cite news|title=Raúl acaba con Alemania y entra en la historia|trans-title=Raúl finishes off Germany and enters history|url=http://futbol.as.com/futbol/2003/02/12/mas_futbol/1045004424_850215.html|access-date=17 October 2015|publisher=Diario AS|date=12 February 2003|language=es}}</ref> He started every match at the [[UEFA Euro 2004|Euro 2004]] finals in Portugal, in which Spain crashed out at the [[UEFA Euro 2004 Group A|group stage]].
+
+=== 2006 FIFA World Cup ===
+Raúl earned his 89th cap on 8 October 2005 in a 2–0 away win over [[Belgium national football team|Belgium]] in [[2006 FIFA World Cup qualification (UEFA)|2006 World Cup qualifying]], levelling with Hierro as Spain's most-capped outfield player.<ref>{{cite news|title=Raul to equal Hierro's Spanish appearance record|url=http://www.timesofmalta.com/articles/view/20051008/sport/raul-to-equal-hierros-spanish-appearance-record.75975|access-date=17 October 2015|work=The Times of Malta|publisher=Reuters|date=8 October 2005}}</ref> However, he played less frequently across the campaign as new manager [[Luis Aragonés]] preferred to partner David Villa and [[Fernando Torres]].
+
+At the [[2006 FIFA World Cup|final tournament]] in Germany, he came on at half-time for [[Luis García (footballer, born 1978)|Luis García]] in the second group match in [[Stuttgart]], with Spain trailing [[Tunisia national football team|Tunisia]] 0–1. When goalkeeper [[Ali Boumnijel]] could not retain [[Cesc Fàbregas]]' shot in the 72nd minute, Raúl equalised from close range as Spain eventually won 3–1.<ref>{{cite news|title=Spain 3-1 Tunisia|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4853264.stm|access-date=17 October 2015|publisher=BBC Sport|date=19 June 2006}}</ref>
+
+On 15 August 2006, Raúl won his 100th cap for Spain, in a goalless friendly draw with [[Iceland national football team|Iceland]] in [[Reykjavík]].<ref>{{cite news|title=Un empate ante Islandia amarga el partido cien de Raúl|trans-title=A draw against Iceland makes Raúl's 100th match bitter|url=http://wvw.nacion.com/ln_ee/2006/agosto/15/udeportes-mu5.html|access-date=17 October 2015|work=Nación|date=15 August 2006|language=es|archive-url=https://web.archive.org/web/20160304190259/http://wvw.nacion.com/ln_ee/2006/agosto/15/udeportes-mu5.html|archive-date=4 March 2016|url-status=dead}}</ref> He was last chosen for the national team on 6 September, in a 3–2 defeat against [[Northern Ireland national football team|Northern Ireland]] in [[Belfast]], a match in which he hit the post late on.<ref>{{cite news|title=Northern Ireland 3-2 Spain|url=http://news.bbc.co.uk/sport1/hi/football/internationals/5321964.stm|access-date=17 October 2015|publisher=BBC Sport|date=6 September 2006}}</ref> 
+
+Aragonés and Raúl fell out after the Northern Ireland match, with the manager stating he would never choose Raúl again. The cause of friction was Aragonés's policy that all players had to sleep at [[Madrid–Barajas Airport]] after away games, so that those like Raúl who lived in the capital city would not have the privilege of returning home one night earlier.<ref>{{cite news |last1=Relaño |first1=Alfredo |title=Luis Aragonés toma su decisión más polémica (2006)|trans-title=Luis Aragonés takes his most controversial decision (2006) |url=https://as.com/futbol/2016/09/07/mas_futbol/1473237091_988492.html |access-date=17 May 2025 |work=Diario AS |date=7 September 2016 |language=Spanish}}</ref>
+
+== Managerial career ==
+
+=== Real Madrid U15s ===
+On 17 August 2018, Raúl was appointed youth coach at Real Madrid, taking charge of the ''Cadete B'' (under-15) squad.<ref>{{cite news|title=Raúl se estrena como técnico del Cadete B del Real Madrid|url=https://www.mundodeportivo.com/futbol/real-madrid/20180816/451340422492/raul-se-estrena-como-tecnico-del-cadete-b-del-real-madrid.html|publisher=[[Mundo Deportivo]]|date=17 August 2018|access-date=20 June 2019}}</ref>
+
+=== Real Madrid Castilla ===
+On 20 June 2019, he was appointed manager of [[Real Madrid Castilla]].<ref>{{cite news |title=Raúl González fue anunciado como nuevo entrenador del equipo filial del Real Madrid |url=https://www.infobae.com/america/deportes/2019/06/20/raul-gonzalez-fue-anunciado-como-nuevo-entrenador-del-equipo-filial-del-real-madrid/ |access-date=18 September 2024 |publisher=Infobae |date=20 June 2019 |language=Spanish}}</ref> His debut on 25 August was a 1–1 draw at [[Las Rozas CF|Las Rozas]] in [[Segunda División B]].<ref>{{cite news |last1=Clancy |first1=Conor |title=Raul oversees a win in first home league match with Castilla |url=https://www.marca.com/en/football/real-madrid/2019/08/31/5d6ae32546163f183e8b45b1.html |access-date=18 September 2024 |work=Marca |date=31 August 2019}}</ref>
+
+Raúl's team made the promotion playoffs in [[2021 Segunda División B play-offs|2021]], losing to the [[Seeding (sports)|seeded]] [[UD Ibiza|Ibiza]] after a goalless draw in the semi-finals.<ref>{{cite news |title=El Ibiza sigue en la lucha por ascender a la categoría de plata |url=https://www.marca.com/futbol/mas-futbol/2021/05/16/60a118eb22601d53178b459d.html |access-date=18 September 2024 |work=Marca |date=16 May 2021 |language=Spanish}}</ref> He then talked down rumours that he would replace his former teammate Zinedine Zidane as first-team manager.<ref>{{cite news |last1=Lara |first1=Miguel Ángel |title=Raúl: "Esta es mi casa y es donde quiero estar, tengo la ilusión de seguir" |url=https://www.marca.com/futbol/real-madrid/2021/05/16/60a11a5ce2704e37ac8b456c.html |access-date=18 September 2024 |work=Marca |date=16 May 2021 |language=Spanish}}</ref>
+
+Two years later, Castilla again made the playoffs, in the new [[Primera Federación]]. The final against [[CD Eldense|Eldense]] went to extra time and a 3–3 draw in the second leg, with the team from the [[Valencian Community]] winning promotion due to a better regular season finish. Raúl's press conference after the game was cancelled for security reasons due to an invasion of the pitch and facilities by celebrating fans of the home team.<ref>{{cite news |last1=López de Vicente |first1=Sergio |title=Raúl, sin rueda de prensa por "motivos de seguridad" |url=https://as.com/futbol/mas_futbol/la-invasion-de-campo-impidio-hablar-a-raul-n/ |access-date=18 September 2024 |work=Diario AS |date=26 June 2023 |language=Spanish}}</ref>
+
+In [[2024–25 Primera Federación|2024–25]], Castilla were in the relegation zone at the turn of the year, but ended the season near the promotion playoffs. Raúl announced his exit, having been overlooked for the first-team job that went to [[Xabi Alonso]]; he was succeeded at Castilla by [[Álvaro Arbeloa]].<ref>{{cite news |last1=Tavero |first1=Fernando S. |title=Raúl, adiós al Castilla|url=https://as.com/futbol/mas_futbol/raul-adios-al-castilla-n/ |access-date=13 January 2026 |work=Diario AS |date=22 May 2025 |language=Spanish}}</ref>
+
+== Player profile ==
+
+=== Style of play ===
+[[File:Real Madrid-Getafe 2009 - Chilena de Raúl.jpg|thumb|right|Raúl executing a [[bicycle kick]] for Real Madrid in 2009]]
+Raúl is widely regarded as one of the greatest forwards of all time.<ref>{{cite web |date=14 April 2008 |title=Alfredo Di Stéfano es el mejor jugador de la Historia |url=http://www.realmadrid.com/cs/Satellite/es/1193040472446/1202818350940/noticia/Noticia/!El_madridismo_decidio!.htm |url-status=dead |archive-url=https://web.archive.org/web/20120125063828/http://www.realmadrid.com/cs/Satellite/es/1193040472446/1202818350940/noticia/Noticia/!El_madridismo_decidio!.htm |archive-date=25 January 2012 |access-date=14 February 2014 |publisher=[[Real Madrid Club de Fútbol|Real Madrid]] |language=es |df=dmy-all}}</ref><ref>{{cite web |date=2 February 2009 |title=Raúl y Di Stéfano, de leyenda a leyenda |url=http://es.fifa.com/worldfootball/clubfootball/news/newsid=1012311.html |url-status=dead |archive-url=https://web.archive.org/web/20090203180423/http://es.fifa.com/worldfootball/clubfootball/news/newsid=1012311.html |archive-date=3 February 2009 |access-date=14 February 2014 |publisher=[[FIFA]] |language=es}}</ref><ref>{{cite web |last=Mondal |first=Subhankar |date=3 August 2010 |title=The number 7 is held in high regard... |url=http://www.goal.com/en/news/12/spain/2010/08/03/2054556/barcelona-coach-pep-guardiola-raul-is-the-best-spanish |access-date=16 September 2013 |publisher=goal.com}}</ref><ref name="sbnation.com">{{cite web|url=https://www.sbnation.com/soccer/2014/10/1/6877343/remembering-raul-uefa-champions-league-goal-record-messi-ronaldo|title=Remembering Raúl, still the Champions League's greatest goalscorer|publisher=sbnation.com|date=1 October 2014|access-date=3 December 2014}}</ref><ref>{{cite web|url=http://www.marca.com/en/2014/10/30/en/football/international_football/1414678698.html|title=Cosmos sign legendary spanish striker Raúl|publisher=Marca|date=30 October 2014|access-date=3 December 2014}}</ref><ref>{{cite web|url=http://www.rtve.es/deportes/20100720/340461.shtml|title=Raúl, todos los récords del hombre récord|date=25 July 2010 |access-date=3 December 2014}}</ref> He wore the number 7 jersey for most of his career and mainly played as a [[centre-forward]].<ref name="calciomercato.it">{{cite web|url=http://www.calciomercato.it/news/147353/Campioni-ai-raggi-X-Raul-limmortale-.html|title=Campioni ai raggi X: Raul, l'immortale|publisher=CalcioMercato.it|language=it|access-date=3 December 2014|archive-date=3 January 2015|archive-url=https://web.archive.org/web/20150103024358/http://www.calciomercato.it/news/147353/Campioni-ai-raggi-X-Raul-limmortale-.html|url-status=dead}}</ref> He was also capable of playing as a [[Squad number (association football)|number 10]] behind the forwards.<ref>{{cite web |url=https://www.goal.com/en-kw/news/how-draxler-went-from-fan-to-friend-of-real-madrid-legend/16beomxckdah514nmiqt29yvn6 |title=How Draxler went from fan to friend of Real Madrid legend Raul |publisher=www.goal.com |last1=Herzog |first1=Daniel |date=25 November 2019 |access-date=26 May 2022 }}</ref> Raúl was a left-footed player who was capable of scoring goals from any distance,<ref name="calciomercato.it"/> and he often scored goals using [[Chip (association football)|chips]].<ref>{{cite web|url=http://www.marca.com/en/football/international-football/2017/02/22/58adac0ae5fdea9b038b45d2.html|title=The art of the chip: Falcao matches Totti, Messi and Raul|publisher=Marca|author1=Joel del Río|date=22 February 2017|access-date=11 April 2017}}</ref> He possessed excellent ball control, vision, and aerial ability.<ref name="calciomercato.it"/>
+
+Although primarily known as a goalscorer, Raúl was also a highly creative and hardworking player that was capable of [[Assist (association football)|assisting]] teammates,<ref name="sbnation.com"/><ref>{{Cite web|url=https://www.realmadrid.com/sobre-el-real-madrid/el-club/historia/jugadores-de-leyenda-futbol/raul-gonzalez-blanco|title=Raúl {{!}} Real Madrid CF|website=Real Madrid C.F. - Web Oficial|language=es|access-date=24 July 2019}}</ref> and he occasionally played as an [[attacking midfielder]] later in his career.<ref>{{cite web|url=http://www.goal.com/en/news/12/spanish-football/2009/02/23/1122884/raul-rediscovering-his-form-at-real-madrid-as-a-trequartista|title=Raul Rediscovering His Form At Real Madrid As A 'Trequartista'|publisher=Goal.com|date=23 February 2009|access-date=13 January 2017}}</ref> 
+
+=== Reception ===
+In addition to these characteristics, Raúl is remembered for his leadership and discipline, as he never received a red card and he was rarely booked.<ref name="no red cards"/><ref>{{cite web|url=http://www.gazzetta.it/Calcio/Estero/Primo_Piano/2007/05_Maggio/14/raul.shtml|title=Raul, dieci in condotta|publisher=La Gazzetta dello Sport|language=it|date=14 May 2007|access-date=3 December 2014}}</ref><ref>{{cite web |url=http://www.20minutos.es/deportes/noticia/raul-tarjetas-amarillas-226848/4/|title=Raúl González, 'caballero del honor'|work=20minutos.es - Últimas Noticias |publisher=20minutos.es|language=es|access-date=3 December 2014}}</ref> For his speed, elegance, and goalscoring, he was nicknamed "''El Ferrari''", or "The Ferrari", by compatriot [[Fernando Hierro]], another emblematic Real Madrid player.<ref>{{cite web|url=http://www.mundodeportivo.com/20100726/hierro-raul-es-un-ferrari-de-la-seleccion-y-del-real-madrid_53972030742.html |title=Hierro: Raúl es un Ferrari de la selección y del Real Madrid |publisher=mundodeportivo.com |language=es |date=26 July 2010 |access-date=5 December 2014 }}</ref> He was also an accurate [[Penalty kick (association football)|penalty taker]].<ref>{{cite news |url=https://www.independent.co.uk/sport/football/european/alonso-row-with-ronaldo-played-down-1908155.html |title=Alonso row with Ronaldo played down |work=The Independent |date=23 February 2010 |access-date=28 March 2019 }}</ref> In 2013, former England centre-back [[Rio Ferdinand]] praised Raúl for his clever movement off the ball, and his ability to exploit gaps in defenses, describing him as: "the most intelligent player [he'd] played against."<ref>{{cite news |url=https://www.independent.co.uk/news/people/profiles/rio-ferdinand-manchester-united-defender-gets-real-ahead-of-showdown-in-madrid-8486170.html |title=Rio Ferdinand: Manchester United defender gets Real ahead of showdown in Madrid |work=The Independent |last1=Hart |first1=Simon |date=8 February 2013 |access-date=30 April 2020 }}</ref>
+
+== Media ==
+Raúl has been sponsored by German sportswear company [[Adidas]].<ref name="Adidas" /> He has advertised [[Adidas Predator]] football boots, and in 2004, Adidas made a commercial featuring him and other players on [[moped]]s, including [[Zinedine Zidane]], [[Michael Ballack]], [[Alessandro Del Piero]], and [[David Trezeguet]].<ref name="Adidas">[https://www.latimes.com/archives/la-xpm-2004-jun-28-sp-penner28-story.html "Not the Final Dour Most Had Forecast"]. Los Angeles Times. Retrieved 7 February 2015</ref>
+
+Raúl has featured in [[Pepsi]] commercials, including an advertisement for the 2002 World Cup in Korea and Japan, where he and other players including [[David Beckham]], [[Roberto Carlos]], and [[Gianluigi Buffon]] took on a team of Sumo players.<ref>[https://www.telegraph.co.uk/sport/football/teams/manchester-united/3025745/Millions-riding-on-injured-England-captain-mean-he-is-still-a-crock-of-gold.html "Millions riding on injured England captain mean he is still a crock of gold"]. The Telegraph. Retrieved 6 February 2015</ref>
+
+Raúl features in EA Sports' [[FIFA (video game series)|''FIFA'']] video game series. His regular [[goal celebration]] of kissing the ring finger – a show of affection to his wife – appears in ''[[FIFA 18]]''; because of his celebration, he is also nicknamed "[[The Lord of the Rings|''Lord of the Rings'']]".<ref>{{cite news |title=How to do the 12 new FIFA 18 celebrations – plus more of our favourites |url=https://www.fourfourtwo.com/features/how-do-12-new-fifa-18-celebrations-plus-more-our-favourites?page=0%2C1 |access-date=11 October 2018 |work=FourFourTwo |archive-date=12 October 2018 |archive-url=https://web.archive.org/web/20181012014455/https://www.fourfourtwo.com/features/how-do-12-new-fifa-18-celebrations-plus-more-our-favourites?page=0%2C1 |url-status=dead }}</ref><ref>{{Cite web |last=laitimes |date=2022-04-06 |title=Memories of the Lord of the Rings - Raul Gonzalez |url=https://www.laitimes.com/en/article/3j9j3_3zyjx.html |access-date=2023-08-26 |website=laitimes |language=en}}</ref>
+
+== Personal life ==
+[[File:25th Laureus World Sports Awards - Red Carpet - Raúl González Blanco - 240422 190703.jpg|thumb|270x270px|Raúl with his wife in 2024]]
+Raúl married Mamen Sanz in 1999 and the couple have five children: Jorge, Hugo, Héctor, Mateo, and María.<ref>{{cite web|url=http://www.as.com/futbol/articulo/nace-maria-gonzalez-hija-raul/dasftb/20091204dasdasftb_36/Tes |title=Nace María González, hija de Raúl González |publisher=AS.com |date= 1 January 2007 |access-date=3 May 2010}}</ref> Jorge and Hugo were both playing football in New York in 2016; Jorge at [[Fordham Preparatory School]],<ref>{{cite web|last1=Jiménez|first1=Rubén|last2=Winterburn|first2=Chris|title=Raul's son scoring goals in the Big Apple|url=http://www.marca.com/en/football/real-madrid/2016/10/07/57f7ba33268e3ecd138b459e.html|website=MARCA|date=7 October 2016 |access-date=5 January 2017}}</ref> and Hugo in [[New York City FC]]'s academy.<ref>{{cite web|last1=Callero|first1=Borja Luis|last2=Gillingham|first2=Geoff|title=Raul's son begins career with New York rivals|url=http://www.marca.com/en/football/real-madrid/2016/11/12/58279627e2704e505f8b461f.html|website=MARCA|date=12 November 2016 |access-date=14 December 2016}}</ref> In 2022, his daughter Maria was signed by Real Madrid's U15 football team.<ref>{{cite web|last1=Volcano|first1=Carlos|title=DONE DEAL: Daughter of Raul signs for Real Madrid - La Fábrica Feminina|url=https://www.tribalfootball.com/articles/done-deal-daughter-of-raul-signs-for-real-madrid-la-fabrica-feminina-4427634|website=TRIBAL FOOTBALL|access-date=2 September 2022}}</ref>
+
+== Career statistics ==
+
+=== Club ===
+{| class="wikitable nowrap" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa del Rey]], [[DFB-Pokal]], [[Emir of Qatar Cup |Emir Cup]], [[U.S. Open Cup]]}}
+!colspan="2"|Continental{{efn|All appearances in [[UEFA Champions League]], unless otherwise noted}}
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+||[[Real Madrid C]]
+|[[1994–95 Segunda División B|1994–95]]
+|[[Segunda División B]]
+|9||16||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||16
+|-
+||[[Real Madrid Castilla|Real Madrid B]]
+|[[1994–95 Segunda División|1994–95]]
+|[[Segunda División]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|rowspan="17"|[[Real Madrid CF|Real Madrid]]
+|[[1994–95 Real Madrid CF season|1994–95]]
+|[[La Liga]]
+|28||9||2||1||0||0||colspan="2"|—||30||10
+|-
+|[[1995–96 Real Madrid CF season|1995–96]]
+|La Liga
+|40||19||2||1||8||6||2{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||0||52||26
+|-
+|[[1996–97 Real Madrid CF season|1996–97]]
+|La Liga
+|42||21||5||1||colspan="2"|—||colspan="2"|—||47||22
+|-
+|[[1997–98 Real Madrid CF season|1997–98]]
+|La Liga
+|35||10||1||0||11||2||2{{efn|name=SDE}}||3||49||15
+|-
+|[[1998–99 Real Madrid CF season|1998–99]]
+|La Liga
+|37||25||2||0||8||3||2{{efn|One appearance in [[UEFA Super Cup]], one appearance and one goal in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]}}||1||49||29
+|-
+|[[1999–2000 Real Madrid CF season|1999–2000]]
+|La Liga
+|34||17||4||0||15||10||4{{efn|Appearances in [[FIFA Club World Championship]]}}||2||57||29
+|-
+|[[2000–01 Real Madrid CF season|2000–01]]
+|La Liga
+|36||24||0||0||12||7||2{{efn|One appearance and one goal in UEFA Super Cup, one appearance  in Intercontinental Cup}}||1||50||32
+|-
+|[[2001–02 Real Madrid CF season|2001–02]]
+|La Liga
+|35||14||6||6||12||6||2{{efn|name=SDE}}||3||55||29
+|-
+|[[2002–03 Real Madrid CF season|2002–03]]
+|La Liga
+|31||16||2||0||12||9||2{{efn|One appearance in UEFA Super Cup, one appearance  in Intercontinental Cup}}||0||47||25
+|-
+|[[2003–04 Real Madrid CF season|2003–04]]
+|La Liga
+|35||11||7||6||9||2||2{{efn|name=SDE}}||1||53||20
+|-
+|[[2004–05 Real Madrid CF season|2004–05]]
+|La Liga
+|32||9||1||0||10||4||colspan="2"|—||43||13
+|-
+|[[2005–06 Real Madrid CF season|2005–06]]
+|La Liga
+|26||5||0||0||6||2||colspan="2"|—||32||7
+|-
+|[[2006–07 Real Madrid CF season|2006–07]]
+|La Liga
+|35||7||1||0||7||5||colspan="2"|—||43||12
+|-
+|[[2007–08 Real Madrid CF season|2007–08]]
+|La Liga
+|37||18||1||0||8||5||2{{efn|name=SDE}}||0||48||23
+|-
+|[[2008–09 Real Madrid CF season|2008–09]]
+|La Liga
+|37||18||1||3||7||3||2{{efn|name=SDE}}||0||47||24
+|-
+|[[2009–10 Real Madrid CF season|2009–10]]
+|La Liga
+|30||5||2||0||7||2||colspan="2"|—||39||7
+|-
+!colspan="2"|Total
+!550!!228!!37!!18!!132!!66!!22!!11!!741!!323
+|-
+|rowspan="3"|[[FC Schalke 04|Schalke 04]]
+|[[2010–11 FC Schalke 04 season|2010–11]]
+|[[Bundesliga]]
+|34||13||4||1||12||5||1{{efn|name=DFL|Appearance in [[DFL-Supercup]]}}||0||51||19
+|-
+|[[2011–12 FC Schalke 04 season|2011–12]]
+|Bundesliga
+|32||15||3||2||11{{efn|Appearances in [[UEFA Europa League]]}}||4||1{{efn|name=DFL}}||0||47||21
+|-
+!colspan="2"|Total
+!66!!28!!7!!3!!23!!9!!2!!0!!98!!40
+|-
+|rowspan="3"|[[Sadd Sports Club|Al Sadd]]
+|[[2012–13 Qatar Stars League|2012–13]]
+|[[Qatar Stars League]]
+|22||9||12||3||0||0||colspan="2"|—||34||12
+|-
+|[[2013–14 Qatar Stars League|2013–14]]
+|Qatar Stars League
+|17||2||5||2||5{{efn|Appearances in [[AFC Champions League]]}}||0||colspan="2"|—||27||4
+|-
+!colspan="2"|Total
+!39!!11!!17!!5!!5!!0!!colspan="2"|—!!61!!16
+|-
+|[[New York Cosmos (2013–2020)|New York Cosmos]]
+|[[2015 New York Cosmos season|2015]]
+|[[North American Soccer League (2011–2017)|NASL]]
+|28||8||2||0||colspan="2"|—||2{{efn|Appearances in [[Soccer Bowl]]}}||1||32||9
+|-
+!colspan="3"|Career total
+!693!!291!!63!!26!!160!!75!!26!!12!!942!!404
+|}
+{{notelist}}
+
+=== International ===
+{{main|List of international goals scored by Raúl}}
+{| class="wikitable sortable" style="text-align:center"
+|+Appearances and goals by national team and year<ref name="Goals">{{cite web|title=Raúl González Blanco - Goals in International Matches|url=https://www.rsssf.org/miscellaneous/raul-intlg.html|website=Rec.Sport.Soccer Statistics Foundation|access-date=4 July 2016}}</ref>
+|-
+!National team
+!scope="col"| Year
+!scope="col"| Apps
+!scope="col"| Goals
+|-
+| rowspan="11" |[[Spain men's national football team|Spain]]
+|1996||4||1
+|-
+|1997||6||0
+|-
+|1998||10||4
+|-
+|1999||9||10
+|-
+|2000||11||3
+|-
+|2001||9||5
+|-
+|2002||9||6
+|-
+|2003||10||8
+|-
+|2004||13||3
+|-
+|2005||12||2
+|-
+|2006||9||2
+|-
+!colspan=2|Total||102||44
+|}
+
+== Managerial statistics ==
+{{updated|24 May 2025}}
+
+{| class="wikitable" style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="8"|Record
+!rowspan=2|{{abbr|Ref|Reference}}
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+|align=left|[[Real Madrid Castilla]]
+|align=left|20 June 2019
+|align=left|27 May 2025
+{{WDL|209|82|70|57|for=317|against=238|diff=yes}}
+|<ref>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2019-20|title=Raúl: Raúl González Blanco: Matches 2019–20|publisher=BDFutbol|access-date=29 August 2019}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2020-21|title=Raúl: Raúl González Blanco: Matches 2020–21|publisher=BDFutbol|access-date=7 December 2025}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2021-22|title=Raúl: Raúl González Blanco: Matches 2021–22|publisher=BDFutbol|access-date=7 December 2025}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2022-23|title=Raúl: Raúl González Blanco: Matches 2022–23|publisher=BDFutbol|access-date=7 December 2025}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2023-24|title=Raúl: Raúl González Blanco: Matches 2023–24|publisher=BDFutbol|access-date=7 December 2025}}<br>{{cite web|url=https://www.bdfutbol.com/en/p/l2296.html?temp=2024-25|title=Raúl: Raúl González Blanco: Matches 2024–25|publisher=BDFutbol|access-date=7 December 2025}}</ref>
+|-
+!colspan=3|Total
+{{WDLtot|209|82|70|57|for=317|against=238|diff=yes}}
+!—
+|}
+
+== Honours ==
+[[File:Raúl vs Málaga CF 2010.jpg|thumb|right|Raúl in his last season with Real Madrid]]
+
+=== Player ===
+'''Real Madrid Youth'''
+*[[Dallas Cup]]: 1993, 1994<ref name="Dallas Cups" />
+
+'''Real Madrid'''
+*[[La Liga]]: [[1994–95 La Liga|1994–95]], [[1996–97 La Liga|1996–97]], [[2000–01 La Liga|2000–01]], [[2002–03 La Liga|2002–03]], [[2006–07 La Liga|2006–07]], [[2007–08 La Liga|2007–08]]
+*[[Supercopa de España]]: [[1997 Supercopa de España|1997]], [[2001 Supercopa de España|2001]], [[2003 Supercopa de España|2003]], [[2008 Supercopa de España|2008]]
+*[[UEFA Champions League]]: [[1997–98 UEFA Champions League|1997–98]], [[1999–2000 UEFA Champions League|1999–2000]], [[2001–02 UEFA Champions League|2001–02]] 
+*[[UEFA Super Cup]]: [[2002 UEFA Super Cup|2002]]
+*[[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: [[1998 Intercontinental Cup|1998]], [[2002 Intercontinental Cup|2002]]
+
+'''Schalke 04'''
+*[[DFB-Pokal]]: [[2010–11 DFB-Pokal|2010–11]]
+*[[DFL-Supercup]]: [[2011 DFL-Supercup|2011]]
+
+'''Al Sadd'''
+*[[Qatar Stars League]]: [[2012–13 Qatar Stars League|2012–13]]
+*[[Emir of Qatar Cup]]: [[2014 Emir of Qatar Cup|2014]]
+
+'''New York Cosmos'''
+*[[North American Soccer League (2011–2017)|North American Soccer League]]: [[2015 North American Soccer League season|Spring Season 2015]]
+*[[North American Supporters' Trophy]]: [[2015 North American Soccer League season|2015]]
+*[[Soccer Bowl]]: [[Soccer Bowl 2015|2015]]
+
+'''Spain U21'''
+*[[UEFA European Under-21 Championship]] runner-up: [[1996 UEFA European Under-21 Championship|1996]]<ref>{{cite web | url = https://www.worldfootball.net/match-report/ma538261/lineup/ | title = Italy - Spain 4:3 (U21 EURO 1996 Spain, Final) | website = worldfootball.net | access-date = 21 November 2019}}</ref>
+
+'''Individual'''
+<!--LEAGUE AND FEDERATION-SANCTIONED AWARDS ONLY. No fan or magazine-voted awards. Listed in chronological order from first time won-->
+*[[UEFA European Under-21 Championship|UEFA European Under-21 Football Championship]] top goalscorer: [[1996 UEFA European Under-21 Football Championship|1996]]
+*[[Don Balón Award|La Liga's Breakthrough Player]]: [[1994–95 La Liga|1994–95]]
+*[[Zarra Trophy]]: [[1995–96 La Liga|1995–96]], [[1998–99 La Liga|1998–99]], [[2000–01 La Liga|2000–01]], [[2002–03 La Liga|2002–03]]
+*[[Don Balón Award|La Liga's Best Spanish Player]]: [[1996–97 La Liga|1996–97]], [[1998–99 La Liga|1998–99]], [[1999–2000 La Liga|1999–2000]], [[2000–01 La Liga|2000–01]], [[2001–02 La Liga|2001–02]] (record)
+*[[Don Balón Award#Team of the Decade (2000s)|La Liga's Team of the Decade]]: 2000s<ref>{{cite web|url=https://issuu.com/la_hora/docs/donbalon060111|title=El equipo de ensueño del siglo XXI|date=5 January 2011 |access-date=31 July 2017|publisher=Don Balón| via = issuu.com}}</ref>
+*[[European Sports Media|ESM Team of the Year]]: [[European Sports Media#1996–97|1996–97]], [[European Sports Media#1998–99|1998–99]], [[European Sports Media#1999–2000|1999–2000]]
+*[[Pichichi Trophy]]: [[1998–99 La Liga|1998–99]], [[2000–01 La Liga|2000–01]]
+*[[Copa del Rey]] top goalscorer: [[2001–02 La Liga|2001–02]], [[2003–04 La Liga|2003–04]]
+*[[IFFHS World's Top Goal Scorer]]: 1999<ref>{{cite web|title=IFFHS Awards 1999|url=https://www.iffhs.de/index.php/posts/267|website=IFFHS|date=10 April 2020 |archiveurl=https://web.archive.org/web/20201014104226if_/https://www.iffhs.de/index.php/posts/267|archivedate=14 October 2020}}</ref>
+** 2nd place: 2001<ref>{{cite web|title=IFFHS Awards 2001|url=https://iffhs.de/posts/266|website=IFFHS|date=10 April 2020 |accessdate=14 October 2020|archiveurl=https://web.archive.org/web/20201014111440if_/https://iffhs.de/posts/266|archivedate=14 October 2020}}</ref>
+** 3rd place: 2003<ref>{{cite web|title=IFFHS AWARDS 2003|url=https://www.iffhs.de/index.php/posts/263|website=IFFHS|date=10 April 2020 |archiveurl=https://web.archive.org/web/20201014104740if_/https://www.iffhs.de/index.php/posts/263|archivedate=14 October 2020}}</ref>
+*[[List of European Cup and UEFA Champions League top scorers|UEFA Champions League top goalscorer]]: [[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]]
+*UEFA Champions League top assist provider: [[2002–03 UEFA Champions League|2002–03]]<ref>{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2002/statistics/index.html |archive-url=https://web.archive.org/web/20111127163356/http://www.uefa.com/uefachampionsleague/season=2002/statistics/index.html |url-status=dead |archive-date=27 November 2011 |title=UEFA Champions League 2002/03 - History - Statistics – UEFA.com |publisher=[[UEFA]] |access-date=25 October 2017}}</ref>
+*[[UEFA Club Forward of the Year]]: [[1999–2000 UEFA Champions League|1999–2000]], [[2000–01 UEFA Champions League|2000–01]], [[2001–02 UEFA Champions League|2001–02]]
+*[[UEFA European Championship awards|UEFA European Football Championship Team of the Tournament]]: [[UEFA Euro 2000 Team of the Tournament|2000]]
+*[[Ballon d'Or]] runner-up: [[2001 Ballon d'Or|2001]]
+*[[FIFA World Player of the Year]] bronze award: [[2001 FIFA World Player of the Year|2001]]<ref>{{cite web |title=2001 – MICHAËL OWEN – LE GRAND RETOUR DE L'ANGLETERRE |url=http://www.francefootball.fr/Ballon_Or_2012/bo_2001.php |url-status=dead |archive-url=https://web.archive.org/web/20121102135319/http://www.francefootball.fr/Ballon_Or_2012/bo_2001.php |archive-date=2 November 2012 |access-date=2 May 2013 |publisher=francefootball.fr |language=fr}}</ref>
+*[[FIFA 100]]
+*[[Trofeo Alfredo Di Stéfano]]: [[2007–08 La Liga|2007–08]]<ref>{{cite web | title = Raúl wins the Di Stéfano Trophy | url = http://www.realmadrid.com/cs/Satellite/en/1202736803447/noticia/Noticia/Raul_wins_the_Di_Stefano_Trophy.htm | publisher = Real Madrid | date = 20 May 2008 | access-date = 6 August 2008 | url-status = dead | archive-url = https://web.archive.org/web/20090630053840/http://www.realmadrid.com/cs/Satellite/en/1202736803447/noticia/Noticia/Raul_wins_the_Di_Stefano_Trophy.htm | archive-date = 30 June 2009 | df = dmy-all }}</ref><ref>{{cite web | title = Di Stéfano's worthy heir | url = http://www.realmadrid.com/cs/Satellite/en/1202742030292/noticia/Noticia/Di_Stefano_s_worthy_heir.htm | publisher = Real Madrid | date = 14 September 2008 | access-date = 14 September 2008 | url-status = dead | archive-url = https://web.archive.org/web/20080917233455/http://www.realmadrid.com/cs/Satellite/en/1202742030292/noticia/Noticia/Di_Stefano_s_worthy_heir.htm | archive-date = 17 September 2008 | df = dmy-all }}</ref><ref>{{cite web| title = Raúl gana el I Trofeo Di Stéfano | url = http://www.marca.com/edicion/marca/futbol/1a_division/otras/es/desarrollo/1125170.html| publisher = Marca.com | date =7 July 2011 | access-date =7 July 2011 }}</ref>
+*[[Sportske Novosti award]]: 2001<ref>{{cite web |url=http://www.arsenal.com/news/news-archive/henry-wins-2006-sportske-novosti-award |publisher=[[Arsenal F.C.|Arsenal.com]] |title=Henry wins 2006 Sportske Novosti award |date=2007-01-29 |access-date=2012-04-06 |archive-url=https://web.archive.org/web/20160123071853/http://www.arsenal.com/news/news-archive/henry-wins-2006-sportske-novosti-award |archive-date=2016-01-23 |url-status=dead }}</ref>
+*[[Marca Leyenda]]: 2009<ref>{{cite web| title = Raúl recibe el MARCA Leyend | url = http://www.marca.com/2009/03/03/futbol/equipos/real_madrid/1236104117.html | publisher = Marca.com | date = 3 March 2009 | access-date =11 February 2011}}</ref>
+*[[Golden Foot Award]] runner-up: 2009, 2010, 2011
+*[[Goal of the Month (Germany)|Goal of the Month in Germany]]: August 2011, March 2012, April 2012, July 2013
+*[[Goal of the Year (Germany)|Goal of the Year in Germany]]: 2011, 2013 (shared with [[Julian Draxler]])<ref>{{cite web | url = http://www1.sportschau.de/sportschau_specials/tordesmonats/tor_des_monats/html/popup.php5?show=details&id=520&cb=tdj&seite=0 | title = Juli 2013 | language = de | publisher = sportschau.de | access-date = 14 February 2014 | archive-date = 10 February 2014 | archive-url = https://web.archive.org/web/20140210020600/http://www1.sportschau.de/sportschau_specials/tordesmonats/tor_des_monats/html/popup.php5?show=details&id=520&cb=tdj&seite=0 | url-status = dead }}</ref>
+*Qatar Stars League Fair Play Award: 2013
+*[[North American Soccer League Player of the Month|NASL Player of the Month]]: May 2015 
+
+'''Records'''
+*[[List of Real Madrid C.F. records and statistics#Appearances|Real Madrid Record Appearance Maker: 741 games]]
+*[[List of Real Madrid C.F. records and statistics#Appearances|Real Madrid Record Appearance Maker in La Liga: 550 games]]
+*European Competitions Record Appearance Maker: 150<sup>*</sup>
+*Third leading scorer in the world (throughout history), according to [[IFFHS]] Statistics: 1215 goals<sup>^^</sup>
+
+:<small><sup>*</sup>Includes other European competitive competitions, including the [[UEFA Cup Winners' Cup]], [[UEFA Intertoto Cup]], [[UEFA Europa League]], [[UEFA Super Cup]].</small>
+:<small><sup>^^</sup>Includes other European competitive competitions and [[Intercontinental Cup (1960–2004)|Intercontinental Cup]].</small>
+*Has not received a red card in entire career.<ref name="no red cards">{{cite web | url=https://www.uefa.com/uefachampionsleague/news/0236-0e96294ab821-b808479b3c22-1000--which-players-have-never-been-sent-off/ | title=Which players have never been sent off? | publisher=Union of European Football Associations | date=8 February 2017 | access-date=15 October 2018}}</ref>
+
+=== Manager ===
+'''Real Madrid U19'''
+*[[UEFA Youth League]]: [[2019–20 UEFA Youth League|2019–20]]
+
+=== Decorations ===
+*[[Government of Spain]]: [[Orders, decorations, and medals of Spain#Society & culture|Gold Medal of the Royal Order of Sporting Merit]] 2006<ref>{{cite web| url =  http://www.uefa.com/footballeurope/news/kind=2/newsid=424494.html | archive-url =  https://web.archive.org/web/20070101225952/http://www.uefa.com/footballeurope/news/Kind=2/newsId=424494.html | url-status =  dead | archive-date =  1 January 2007 | title =Grateful Spain rewards Raúl| publisher =UEFA | date = 25 May 2006 | access-date =7 July 2008}}</ref>
+*[[Madrid|City of Madrid]]: Gold Medal 2009<ref>{{cite web| title = Raúl recibirá la Medalla de Oro de Madrid | url = http://www.marca.com/2009/03/05/futbol/equipos/real_madrid/1236257456.html | publisher = Marca.com | date = 5 March 2009 | access-date =5 March 2009}}</ref>
+
+== See also ==
+* [[List of footballers with 100 or more UEFA Champions League appearances]]
+* [[List of men's footballers with 100 or more international caps]]
+* [[List of men's footballers with the most official appearances]]
+* [[List of FIFA World Cup top goalscorers]]
+* [[List of Real Madrid CF records and statistics]]
+* [[List of La Liga players]] (400+ appearances)
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== Bibliography ==
+*{{Cite book | publisher = Bantam Books | isbn = 978-0-553-82566-4 | last = Marcotti | first = Gabriele | title = Capello: The Man Behind England's World Cup Dream | year = 2008 | url-access = registration | url = https://archive.org/details/capellomanbehind0000marc }}
+
+== External links ==
+{{Commons category|Raúl González}}
+{{Wikiquote|Raúl González}}
+* [https://www.realmadrid.com/en-US/the-club/history/football-legends/raul-gonzalez-blanco Profile] at the Real Madrid CF website
+* [https://rfef.es/es/selecciones/jugadores/raul-gonzalez Profile] at the Royal Spanish Football Federation website {{in lang|es}}
+* {{FIFA player}}
+* {{UEFA player}}
+* {{BDFutbol|2296}}
+* {{BDFutbol manager|2296}}
+* {{Soccerbase|name=Raúl González}}
+* {{Fussballdaten|raul|Raúl González}}
+* {{NFT player|id=6226|name=Raúl González}}
+* [https://www.rsssf.org/miscellaneous/raul-intlg.html Raúl González Blanco – Goals in International Matches] at [[RSSSF|Rec.Sport.Soccer Statistics Foundation]]
+* [https://www.rsssf.org/players/raul-in-ec.html Raúl González Blanco – Goals in European Cups] at [[RSSSF|Rec.Sport.Soccer Statistics Foundation]]
+* [http://www.nycosmos.com/roster/raul New York Cosmos Profile] {{Webarchive|url=https://web.archive.org/web/20150804091418/http://www.nycosmos.com/roster/raul |date=4 August 2015 }}
+
+{{Navboxes
+| title = Spain squads
+| bg = #DB000D
+| fg = #FBEA0E
+| bordercolor = Black
+| list1 =
+{{Spain men's football squad 1996 Summer Olympics}}
+{{Spain squad 1998 FIFA World Cup}}
+{{Spain squad UEFA Euro 2000}}
+{{Spain squad 2002 FIFA World Cup}}
+{{Spain squad UEFA Euro 2004}}
+{{Spain squad 2006 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = Gold
+| bordercolor = Black
+| list1 =
+{{UEFA Euro 2000 Team of the Tournament}}
+{{La Liga top scorers}}
+{{Copa del Rey top scorers}}
+{{Trofeo Alfredo Di Stéfano}}
+{{La Liga Spanish Player of the Year}}
+{{UEFA Champions League top scorers}}
+{{UEFA European Under-21 Football Championship awards}}
+{{Intercontinental Cup Man of the Match}}
+{{IFFHS World's Best International Top Goal Scorer}}
+{{UEFA Club Football Awards}}
+{{FIFA 100}}
+}}
+{{Real Madrid Castilla managers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Raul}}
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:Footballers from Madrid]]
+[[Category:Spanish men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Real Madrid C footballers]]
+[[Category:Real Madrid Castilla footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:FC Schalke 04 players]]
+[[Category:Al Sadd SC players]]
+[[Category:New York Cosmos (2010) players]]
+[[Category:Segunda División B players]]
+[[Category:Segunda División players]]
+[[Category:La Liga players]]
+[[Category:Bundesliga players]]
+[[Category:Qatar Stars League players]]
+[[Category:North American Soccer League (2011–2017) players]]
+[[Category:Pichichi Trophy winners]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Champions League top scorers]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's under-23 international footballers]]
+[[Category:Olympic footballers for Spain]]
+[[Category:Spain men's international footballers]]
+[[Category:Footballers at the 1996 Summer Olympics]]
+[[Category:1998 FIFA World Cup players]]
+[[Category:UEFA Euro 2000 players]]
+[[Category:2002 FIFA World Cup players]]
+[[Category:UEFA Euro 2004 players]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:FIFA Men's Century Club]]
+[[Category:FIFA 100]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Spanish expatriate sportspeople in Germany]]
+[[Category:Spanish expatriate sportspeople in Qatar]]
+[[Category:Spanish expatriate sportspeople in the United States]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Expatriate men's footballers in Qatar]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Spanish football managers]]
+[[Category:Real Madrid Castilla managers]]
+[[Category:Primera Federación managers]]
+[[Category:Segunda División B managers]]
+[[Category:FAO goodwill ambassadors]]
+[[Category:Real Madrid CF non-playing staff]]
