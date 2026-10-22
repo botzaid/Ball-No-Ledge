@@ -117,11 +117,13 @@ function countUp(container) {
 document.addEventListener('DOMContentLoaded', () => {
   state.trainer = new RM_MemoryTrainer(RM_PLAYERS);
   Motion.init();
+  initTheme();
   initSquadControls();
   initDrawer();
   initRoutes();
   initTrainer();
   initCompare();
+  ThemedSelect.init();
   renderIntro();
   renderHome();
   renderSquad();
@@ -168,6 +170,27 @@ function showView(view) {
   if (view === 'play') { Game.show(); renderFlashcard(); }
   if (view === 'compare') renderCompare();
   if (view === 'seasons') countUp($('season-now'));
+}
+
+// ---------- theme ----------
+
+function initTheme() {
+  const btn = $('theme-toggle');
+  const meta = document.querySelector('meta[name="theme-color"]');
+  const apply = theme => {
+    document.documentElement.dataset.theme = theme;
+    btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
+    if (meta) meta.content = theme === 'dark' ? '#09090d' : '#f4f2ec';
+  };
+  apply(document.documentElement.dataset.theme || 'dark');
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.classList.add('theme-swap');
+    apply(next);
+    try { localStorage.setItem('bnl_theme', next); } catch (e) { /* storage off */ }
+    setTimeout(() => document.documentElement.classList.remove('theme-swap'), 400);
+    if (state.view === 'map') state.routes.render();
+  });
 }
 
 // ---------- home ----------
@@ -217,7 +240,9 @@ function renderLive(st) {
   if (st.mode === 'live' && st.live) {
     const m = st.live;
     bar.hidden = false;
-    bar.innerHTML = `<span class="live-dot"></span><b>Live${m.minute ? ` ${m.minute}'` : ''}</b> ${esc(m.home)} <b>${m.score.home ?? 0}–${m.score.away ?? 0}</b> ${esc(m.away)} <span class="muted">${esc(m.competition || '')}</span>`;
+    const madridGoals = (m.scorers || []).filter(g => g.madrid && !g.own).map(g => `${g.name} ${g.minute}'`).join(', ');
+    bar.innerHTML = `<span class="live-dot"></span><b>Live${m.minute ? ` ${m.minute}'` : ''}</b> ${esc(m.home)} <b>${m.score.home ?? 0}–${m.score.away ?? 0}</b> ${esc(m.away)}` +
+      ` <span class="muted">${esc(madridGoals || m.competition || '')}</span>`;
     card.innerHTML = `
       <span class="mc-tag"><span class="live-dot"></span>Live${m.minute ? ` · ${m.minute}'` : ''}</span>
       <div class="mc-teams"><span>${esc(m.home)}</span><b>${m.score.home ?? 0}–${m.score.away ?? 0}</b><span>${esc(m.away)}</span></div>
@@ -236,7 +261,7 @@ function renderLive(st) {
       <div class="mc-teams"><span>${esc(n.home)}</span><b>v</b><span>${esc(n.away)}</span></div>
       <span class="mc-comp">${esc(n.competition)} · ${kick.toLocaleDateString(undefined, { weekday: 'short', day: 'numeric', month: 'short' })}, ${kick.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' })} your time</span>
       ${c ? `<div class="mc-count">${[['d', c.d], ['h', c.h], ['m', c.m], ['s', c.s]].map(([k, v]) => `<span><b>${String(v).padStart(2, '0')}</b><i>${k}</i></span>`).join('')}</div>` : '<div class="mc-count"><span><b>Kick-off</b></span></div>'}
-      ${st.last ? `<span class="mc-last">Last: ${esc(st.last.home)} ${st.last.score.home}–${st.last.score.away} ${esc(st.last.away)}</span>` : ''}`;
+      ${st.last && st.last.score?.home != null ? `<span class="mc-last">${st.last.status === 'FINISHED' ? 'Full time' : 'Last'}: ${esc(st.last.home)} ${st.last.score.home}–${st.last.score.away} ${esc(st.last.away)}</span>` : ''}`;
   };
   paint();
   countdownTimer = setInterval(paint, 1000);

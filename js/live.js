@@ -1,5 +1,6 @@
 // Live match state. Asks /api/live (a Vercel function, see api/live.js) for
-// Real Madrid's live score; polls every 30 s during a game, every 5 min otherwise.
+// Real Madrid's live score; polls every minute during a game, every 5 min otherwise
+// (the function itself only calls the score provider during a match window).
 // Without the function (local preview) or without an API key, it falls back to
 // the next fixture from the generated data, with a countdown to kick-off.
 
@@ -33,8 +34,8 @@ const Live = (() => {
       if (!r.ok) throw new Error(String(r.status));
       const data = await r.json();
       if (data.state === 'live' && data.live) {
-        state = { mode: 'live', live: data.live, next: null, last: data.last };
-        next = 30000;
+        state = { mode: 'live', live: data.live, next: null, last: null };
+        next = 60000;
       } else {
         state = { mode: 'fixture', live: null, next: staticNext(), last: data.last || null, api: data.state };
       }
