@@ -83,11 +83,32 @@ def commons_info(filename):
     }
 
 
+def plain(text):
+    import unicodedata
+    return unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode().lower()
+
+
+def commons_search(query, must_contain):
+    """Search Commons' File namespace; return the first photo whose file name
+    mentions every word in must_contain (accent-insensitive)."""
+    data = get('https://commons.wikimedia.org/w/api.php', action='query', format='json', list='search',
+               srnamespace=6, srlimit=30, srsearch=query).json()
+    for hit in data.get('query', {}).get('search', []):
+        name = hit['title'].split(':', 1)[1]
+        if not name.lower().endswith(('.jpg', '.jpeg', '.png')):
+            continue
+        if all(w in plain(name) for w in must_contain):
+            return name
+    return None
+
+
 def main():
     raw = json.load(open(MANIFEST, encoding='utf-8'))
     manifest = {k: v for k, v in raw.items() if not k.startswith('_')}
     # Players whose Wikidata item has no image but Commons has a suitable free file
     pinned = raw.get('_files', {})
+    # Players with no Wikidata image: search Commons by name. Results need a human check.
+    searches = raw.get('_search', {})
     credits = json.load(open(CREDITS, encoding='utf-8')) if os.path.exists(CREDITS) else {}
     missing = []
     for pid, title in manifest.items():
@@ -96,8 +117,13 @@ def main():
             continue
         try:
             p18, lead = (None, None) if pid in pinned else wikidata_image(title)
+            found = None
+            if not (pinned.get(pid) or p18 or lead) and pid in searches:
+                query, words = searches[pid]
+                found = commons_search(query, words)
+                print(f'{pid}: commons search "{query}" -> {found}')
             info = None
-            for candidate in (pinned.get(pid), p18, lead):
+            for candidate in (pinned.get(pid), p18, lead, found):
                 if candidate and not candidate.lower().endswith(('.svg', '.gif')):
                     info = commons_info(candidate)
                     if info:

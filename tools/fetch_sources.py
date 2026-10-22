@@ -4,6 +4,7 @@ same sources. Runs in GitHub Actions (.github/workflows/sources.yml).
 """
 import os
 import re
+import sys
 import time
 
 import requests
@@ -22,6 +23,9 @@ def slug(title):
 def main():
     os.makedirs(OUT, exist_ok=True)
     titles = [t.strip() for t in open(os.path.join(ROOT, 'tools', 'source_pages.txt'), encoding='utf-8') if t.strip()]
+    if len(sys.argv) > 1 and sys.argv[1] == '--quick':
+        # Pages that change during the season; the rest are refreshed weekly
+        titles = ['List of Real Madrid CF players', '2026–27 Real Madrid CF season']
     for title in titles:
         r = session.get('https://en.wikipedia.org/w/api.php', timeout=30, params={
             'action': 'query', 'format': 'json', 'redirects': 1, 'prop': 'revisions',
