@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF players | revision 2026-10-22T00:15:54Z -->
+<!-- List of Real Madrid CF players | revision 2026-10-26T20:25:56Z -->
 {{Short description|none}}
 [[File:Raul Gonzalez 10mar2007 (cropped).jpg|thumb|upright|[[Raúl González|Raúl]] is Real Madrid's all-time appearance record holder.]]
 [[File:Cristiano Ronaldo, 2012 2.JPG|thumb|upright|[[Cristiano Ronaldo]] is Real Madrid's all-time record goalscorer.]]
@@ -63,7 +63,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 |}
 
 ==List of players==
-''Information correct as of the match played on 21 October 2026. '''Bold''' denotes an active player for the club.''
+''Information correct as of the match played on 25 October 2026. '''Bold''' denotes an active player for the club.''
 [[File:Raúl González footballer.jpg|thumb|upright|right|[[Raúl (footballer)|Raúl]] in 1995]]
 [[File:CasillasReal cropped.jpg|thumb|upright|right|[[Iker Casillas]] in 2010]]
 [[File:Cristiano Ronaldo 4609.jpg|thumb|upright|right|[[Cristiano Ronaldo]] in 2012]]
@@ -240,7 +240,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | FW || style=background:#ffddff;" | 2018– || {{hs|0}}— || '''385''' || 129 || 88 || {{ref label|fifa|<small>FIFA</small>|g}}
 |-
 | align="left" | {{flagicon|URU}} '''[[Federico Valverde]]'''
-| MF || style=background:#ffddff;" | 2018– || {{hs|0}}— || '''384''' || 42 || 45 ||
+| MF || style=background:#ffddff;" | 2018– || {{hs|0}}— || '''385''' || 42 || 45 ||
 |-
 | align="left" | {{flagicon|ESP|1977}} [[Ricardo Gallego]]
 | MF || style=background:#ffddff;" | 1980–1989 || {{hs|0}}— || '''372''' || 28 || 29 ||
@@ -339,7 +339,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | MF || 2009–2015 || {{hs|0}}— || '''236''' || 6 || 31 || {{ref label|Manager|<small>Manager</small>|s}}
 |-
 | align="left" | {{flagicon|FRA}} '''[[Eduardo Camavinga]]'''
-| MF || 2021– || {{hs|0}}— || '''232''' || 6 || 10 || 
+| MF || 2021– || {{hs|0}}— || '''233''' || 6 || 11 || 
 |-
 | align="left" | {{flagicon|ESP|1945}} [[Mariano García Remón|García Remón]]
 | GK || 1971–1986 || {{hs|0}}— || '''231''' || 0 || 0 || {{ref label|Zamora|<small>Zamora</small>|g}}{{ref label|Manager|<small>Manager</small>|n}}
@@ -387,7 +387,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | FW || 1946–1957 ||bgcolor=faecc8|{{nowrap|1952–1956<sup>©</sup>}} || '''208''' || 104 || 86 || {{ref label|Manager|<small>Manager</small>|i}}
 |-
 | align="left" | {{flagicon|FRA}} '''[[Aurélien Tchouaméni]]'''
-| MF || 2022– || {{hs|0}}— || '''202''' || 7 || 9 ||
+| MF || 2022– || {{hs|0}}— || '''203''' || 7 || 9 ||
 |-
 | align="left" | {{flagicon|BRA}} '''[[Éder Militão]]'''
 | DF || 2019– || {{hs|0}}— || '''195''' || 14 || 5 ||
@@ -483,7 +483,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | DF || 1942–1948 || {{hs|0}}— || '''154''' || 9 || 0 ||
 |-
 | align="left" | {{flagicon|ENG}} '''[[Jude Bellingham]]'''
-| MF || 2023– || {{hs|0}}— || '''152''' || 49 || 35 || 
+| MF || 2023– || {{hs|0}}— || '''153''' || 49 || 35 || 
 |-
 | align="left" | {{flagicon|ESP}} [[Aitor Karanka]]
 | DF || 1997–2002 || {{hs|0}}— || '''149''' || 0 || 2 ||
@@ -554,6 +554,9 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|MEX|1916}} [[José Ramón Sauto]] †
 | MF || 1933–1944 ||bgcolor=faecc8|{{nowrap|1942–1944<sup>©</sup>}} || '''124''' || 0 || 7 ||
 |-
+| align="left" | {{flagicon|TUR}} '''[[Arda Güler]]'''
+| MF || 2023– || {{hs|0}}— || '''124''' || 21 || 28 ||
+|-
 | align="left" | {{flagicon|ARG}} [[Roque Olsen]] †
 | MF || 1950–1957 || {{hs|0}}— || '''123''' || 66 || 22 ||
 |-
@@ -562,9 +565,6 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 |-
 | align="left" | {{flagicon|ESP|1977}} [[Agustín (footballer)|Agustín]]
 | GK || style=background:#ffddff;" | 1980–1990 || {{hs|0}}— || '''123''' || 0 || 0 || {{ref label|Zamora|<small>Zamora</small>|i}}
-|-
-| align="left" | {{flagicon|TUR}} '''[[Arda Güler]]'''
-| MF || 2023– || {{hs|0}}— || '''123''' || 21 || 28 ||
 |-
 | align="left" | {{flagicon|ESP|1931}} [[Luis Regueiro]] †
 | FW || 1931–1936 || {{hs|0}}— || '''121''' || 64 || 46 ||
@@ -614,14 +614,14 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|ESP|1938}} [[Pruden]] †
 | FW || 1943–1948 || {{hs|0}}— || '''116''' || 90 || 23 ||
 |-
+| align="left" | {{flagicon|FRA}} '''[[Kylian Mbappé]]'''
+| FW || 2024– || {{hs|0}}— || '''116''' || 100 || 14 || {{ref label|Pichichi|<small>Pichichi</small>|p}}{{ref label|Golden Shoe|<small>Golden Shoe</small>|d}}
+|-
 | align="left" | {{flagicon|ESP|1874}} [[Jaime Lazcano]] †
 | FW || 1928–1935 || {{hs|0}}— || '''115''' || 59 || 44 || {{ref label|Lazcano|B|}}
 |-
 | align="left" | {{flagicon|ESP|1945}} [[Juan Santisteban]] 
 | MF || style=background:#ffddff;" | 1956–1964 || {{hs|0}}— || '''115''' || 4 || ||
-|-
-| align="left" | {{flagicon|FRA}} '''[[Kylian Mbappé]]'''
-| FW || 2024– || {{hs|0}}— || '''115''' || 98 || 14 || {{ref label|Pichichi|<small>Pichichi</small>|p}}{{ref label|Golden Shoe|<small>Golden Shoe</small>|d}}
 |-
 | align="left" | {{flagicon|ESP|1874}} [[Ricardo Zamora]] †
 | GK || 1930–1936 || {{hs|0}}— || '''112''' || 0 || 0 || {{ref label|Zamora|<small>Zamora</small>|a}}{{ref label|Zamora and Vicente|C|}}
@@ -848,14 +848,14 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|BEL}} [[Eden Hazard]]
 | FW || 2019–2023 || {{hs|0}}— || '''76''' || 7 || 12 ||
 |-
+| align="left" | {{flagicon|UKR}} '''[[Andriy Lunin]]'''
+| GK || 2020– || {{hs|0}}— || '''75''' || 0 || 1 ||
+|-
 | align="left" | {{flagicon|ESP|1945}} [[Andrés Junquera]] †
 | GK || 1966–1974 || {{hs|0}}— || '''74''' || 0 || 0 ||
 |-
 | align="left" | {{flagicon|BRA}} [[Flávio Conceição]]
 | MF || 2000–2003 || {{hs|0}}— || '''74''' || 2 || 2 ||
-|-
-| align="left" | {{flagicon|UKR}} '''[[Andriy Lunin]]'''
-| GK || 2020– || {{hs|0}}— || '''74''' || 0 || 1 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[Chus Herrera]] †
 | FW || 1958–1962 || {{hs|0}}— || '''73''' || 23 || ||
@@ -971,14 +971,14 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|ESP}} [[Santiago Cañizares]]
 | GK || style=background:#ffddff;" | 1994–1998 || {{hs|0}}— || '''55''' || 0 || 1 ||
 |-
+| align="left" | {{flagicon|ESP}} '''[[Dean Huijsen]]'''
+| DF || 2024– || {{hs|0}}— || '''55''' || 2 || 2 ||
+|-
 | align="left" | {{flagicon|ESP|1874}} [[Gerónimo del Campo]] †
 | FW || 1921–1930 || {{hs|0}}— || '''54''' || 4 || 12 ||
 |-
 | align="left" | {{flagicon|ESP}} [[Esteban Gutiérrez Fernández|Esteban Fernández]]
 | DF || 1988–1990 || {{hs|0}}— || '''54''' || 2 || 2 ||
-|-
-| align="left" | {{flagicon|ESP}} '''[[Dean Huijsen]]'''
-| DF || 2024– || {{hs|0}}— || '''54''' || 2 || 2 ||
 |-
 | align="left" | {{flagicon|ESP|1931}} [[Manuel Olivares]] †
 | FW || 1931–1934 || {{hs|0}}— || '''52''' || 43 || 17 ||{{ref label|Pichichi|<small>Pichichi</small>|a}}
@@ -1064,6 +1064,9 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|ESP|1931}} {{ill|Luis Valle Benítez|es}} †
 | MF || 1932–1936 || {{hs|0}}— || '''42''' || 1 || 2 ||
 |-
+| align="left" | {{flagicon|ENG}} '''[[Trent Alexander-Arnold]]'''
+| DF || 2025– || {{hs|0}}— || '''42''' || 0 || 7 ||
+|-
 | align="left" | {{flagicon|ESP|1874}} [[Manuel Gurruchaga Lavín|Manuel Gurruchaga]] †
 | MF || 1930–1935 || {{hs|0}}— || '''41''' || 10 || 6 ||
 |-
@@ -1072,9 +1075,6 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 |-
 | align="left" | {{flagicon|ESP}} [[Antonio Maceda]]
 | DF || 1985–1989 || {{hs|0}}— || '''41''' || 5 || 2 ||
-|-
-| align="left" | {{flagicon|ENG}} '''[[Trent Alexander-Arnold]]'''
-| DF || 2025– || {{hs|0}}— || '''41''' || 0 || 7 ||
 |-
 | align="left" | {{flagicon|ESP|1874}} [[Cándido Martínez]] †
 | GK || 1921–1928 || {{hs|0}}— || '''40''' || 0 || 0 ||
@@ -1472,6 +1472,12 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|ESP|1945}} [[Juan Morgado]]
 | DF || style=background:#ffddff;" | 1973–1975 || {{hs|0}}— || '''13''' || 0 || 1 ||
 |-
+| align="left" | {{flagicon|ESP}} '''[[Marc Cucurella]]'''
+| DF || 2026– || {{hs|0}}— || '''13''' || 0 || 0 || 
+|-
+| align="left" | {{flagicon|CIV}} '''[[Yan Diomande]]'''
+| FW || 2026– || {{hs|0}}— || '''13''' || 3 || 4 || {{ref label|Diomande|R|}}
+|-
 | align="left" | {{flagicon|ESP|1874}} [[Pedro Parages]] †
 | FW || 1902–1909 || {{hs|0}}— || '''12''' || 4 || || {{ref label|President|<small>President</small>|a}}
 |-
@@ -1514,12 +1520,6 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|TUR}} [[Hamit Altıntop]]
 | MF || 2011–2012 || {{hs|0}}— || '''12''' || 1 || 0 ||
 |-
-| align="left" | {{flagicon|ESP}} '''[[Marc Cucurella]]'''
-| DF || 2026– || {{hs|0}}— || '''12''' || 0 || 0 || 
-|-
-| align="left" | {{flagicon|CIV}} '''[[Yan Diomande]]'''
-| FW || 2026– || {{hs|0}}— || '''12''' || 3 || 4 || {{ref label|Diomande|R|}}
-|-
 | align="left" | {{flagicon|CUB}} [[Armando Giralt]] †
 | FW || 1900–1903<br />1905–1907 || {{hs|0}}— || '''11''' || 7 || ||
 |-
@@ -1559,6 +1559,9 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|NOR}} [[Martin Ødegaard]]
 | MF || style=background:#ffddff;" | 2014–2021 || {{hs|0}}— || '''11''' || 0 || 0 ||
 |-
+| align="left" | {{flagicon|FRA}} '''[[Ibrahima Konaté]]'''
+| DF || 2026– || {{hs|0}}— || '''11''' || 0 || 0 || 
+|-
 | align="left" | {{flagicon|ESP|1874}} [[Paco González (footballer, born 1897)|Paco González]] †
 | FW || 1919–1926 || {{hs|0}}— || '''10''' || 2 || ||
 |-
@@ -1586,8 +1589,11 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|URU}} [[Álvaro Rodríguez (footballer, born 2004)|Álvaro Rodríguez]]
 | FW || style=background:#ffddff;" | 2022–2024 || {{hs|0}}— || '''10''' || 1 || 1 ||
 |-
-| align="left" | {{flagicon|FRA}} '''[[Ibrahima Konaté]]'''
+| align="left" | {{flagicon|NED}} '''[[Denzel Dumfries]]'''
 | DF || 2026– || {{hs|0}}— || '''10''' || 0 || 0 || 
+|-
+| align="left" | {{flagicon|POR}} '''[[Bernardo Silva]]'''
+| MF || 2026– || {{hs|0}}— || '''10''' || 1 || 1 || 
 |-
 | align="left" | {{flagicon|CUB}} [[José Giralt]] †
 | MF || 1900–1903<br />1905–1907 ||bgcolor=faecc8|{{nowrap|1902–1903<sup>©</sup>}} || '''9''' || 2 || 1 ||
@@ -1631,11 +1637,8 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | align="left" | {{flagicon|FRA|1976}} [[Alphonse Areola]]
 | GK || 2019–2020 || {{hs|0}}— || '''9''' || 0 || 0 ||
 |-
-| align="left" | {{flagicon|NED}} '''[[Denzel Dumfries]]'''
-| DF || 2026– || {{hs|0}}— || '''9''' || 0 || 0 || 
-|-
-| align="left" | {{flagicon|POR}} '''[[Bernardo Silva]]'''
-| MF || 2026– || {{hs|0}}— || '''9''' || 1 || 1 || 
+| align="left" | {{flagicon|ESP}} '''[[Carlos Espí]]'''
+| FW || 2026– || {{hs|0}}— || '''9''' || 3 || 0 || 
 |-
 | align="left" | {{flagicon|ESP|1874}} [[Manuel Yarza]] †
 | MF || 1905–1908 || {{hs|0}}— || '''8''' || 4 || ||
@@ -1666,9 +1669,6 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 |-
 | align="left" | {{flagicon|ARG}} [[Nico Paz]]
 | MF || style=background:#ffddff;" | 2022–2024 || {{hs|0}}— || '''8''' || 1 || 0 ||
-|-
-| align="left" | {{flagicon|ESP}} '''[[Carlos Espí]]'''
-| FW || 2026– || {{hs|0}}— || '''8''' || 3 || 0 || 
 |-
 | align="left" | {{flagicon|ESP|1874}} [[José Berraondo]] †
 | DF || 1904–1909 ||bgcolor=faecc8|{{nowrap|1905–1909<sup>©</sup>}} || '''7''' || 0 || 0 || {{ref label|Manager|<small>Manager</small>|d}}
