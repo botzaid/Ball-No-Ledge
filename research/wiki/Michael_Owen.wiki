@@ -1,4 +1,4 @@
-<!-- Michael Owen | revision 2026-10-19T22:37:12Z -->
+<!-- Michael Owen | revision 2026-10-25T22:14:08Z -->
 {{short description|English footballer (born 1979)}}
 {{about|the English footballer|other people}}
 {{pp-pc1}}
@@ -13,10 +13,10 @@
 | birth_place = [[Chester]], England
 | height = {{convert|1.73|m|order=flip}}<ref>{{Cite web |url=http://www.liverpoolfc.tv/team/squad/owen |title=Michael Owen: Profile |publisher=Liverpool F.C. |access-date=6 June 2022 |archive-url=https://web.archive.org/web/20010501045139/http://www.liverpoolfc.tv/team/squad/owen |archive-date=1 May 2001 |url-status=dead }}</ref>
 | position = [[Forward (association football)#Striker|Striker]]
-| youthyears1 = 
-| youthclubs1 = [[Mold Alexandra F.C.|Mold Alexandra]]
-| youthyears2 = 1991–1996
-| youthclubs2 = [[Liverpool F.C.|Liverpool]]
+| youth_years1 = 
+| youth_clubs1 = [[Mold Alexandra F.C.|Mold Alexandra]]
+| youth_years2 = 1991–1996
+| youth_clubs2 = [[Liverpool F.C.|Liverpool]]
 | years1 = 1996–2004
 | clubs1 = [[Liverpool F.C.|Liverpool]]
 | caps1 = 216
@@ -37,36 +37,36 @@
 | clubs5 = [[Stoke City F.C.|Stoke City]]
 | caps5 = 8
 | goals5 = 1
-| totalcaps = 362
-| totalgoals = 163
-| nationalyears1 = 
-| nationalteam1 = England U15
-| nationalcaps1 = 8
-| nationalgoals1 = 15
-| nationalyears2 = 
-| nationalteam2 = [[England national under-16 football team|England U16]]
-| nationalcaps2 = 11
-| nationalgoals2 = 15
-| nationalyears3 = 
-| nationalteam3 = [[England national under-18 football team|England U18]]
-| nationalcaps3 = 14
-| nationalgoals3 = 10
-| nationalyears4 = 1997
-| nationalteam4 = [[England national under-20 football team|England U20]]
-| nationalcaps4 = 4
-| nationalgoals4 = 3
-| nationalyears5 = 1997
-| nationalteam5 = [[England national under-21 football team|England U21]]
-| nationalcaps5 = 1
-| nationalgoals5 = 1
-| nationalyears6 = 2006–2007
-| nationalteam6 = [[England national football B team|England B]]
-| nationalcaps6 = 2
-| nationalgoals6 = 0
-| nationalyears7 = 1998–2008
-| nationalteam7 = [[England national football team|England]]
-| nationalcaps7 = 89
-| nationalgoals7 = 40
+| total_caps = 362
+| total_goals = 163
+| national_years1 = 
+| national_team1 = England U15
+| national_caps1 = 8
+| national_goals1 = 15
+| national_years2 = 
+| national_team2 = [[England national under-16 football team|England U16]]
+| national_caps2 = 11
+| national_goals2 = 15
+| national_years3 = 
+| national_team3 = [[England national under-18 football team|England U18]]
+| national_caps3 = 14
+| national_goals3 = 10
+| national_years4 = 1997
+| national_team4 = [[England national under-20 football team|England U20]]
+| national_caps4 = 4
+| national_goals4 = 3
+| national_years5 = 1997
+| national_team5 = [[England national under-21 football team|England U21]]
+| national_caps5 = 1
+| national_goals5 = 1
+| national_years6 = 2006–2007
+| national_team6 = [[England national football B team|England B]]
+| national_caps6 = 2
+| national_goals6 = 0
+| national_years7 = 1998–2008
+| national_team7 = [[England national football team|England]]
+| national_caps7 = 89
+| national_goals7 = 40
 }}
 '''Michael James Owen''' (born 14 December 1979) is an English former professional [[Association football|footballer]] who played as a [[Forward (association football)#Striker|striker]] for [[Liverpool F.C.|Liverpool]], [[Real Madrid CF|Real Madrid]], [[Newcastle United F.C.|Newcastle United]], [[Manchester United F.C.|Manchester United]], and [[Stoke City F.C.|Stoke City]], as well as the [[England national football team|England national team]]. Since retiring from football in 2013, he has become a racehorse breeder and owner and regularly features as a sports [[pundit]] and commentator.<ref>{{Cite web |title=Michael Owen |url=https://sport.bt.com/our-team/pundits/football/michael-owen-01364237703281 |url-status=live |archive-url=https://web.archive.org/web/20190308002902/https://sport.bt.com/our-team/pundits/football/michael-owen-01364237703281 |archive-date=8 March 2019 |access-date=7 March 2019 |website=BT Sport}}</ref> Regarded as one of the best strikers of his generation, in 2001, Owen was the recipient of the [[2001 Ballon d'Or|Ballon d'Or]]. In 2004, he was named by [[Pelé]] in the [[FIFA 100]] list of the world's greatest living players.<ref>{{Cite web |date=4 March 2004 |title=Pele's list of the greatest |url=https://news.bbc.co.uk/sport2/hi/football/3533891.stm |url-status=live |archive-url=https://web.archive.org/web/20181019205959/http://news.bbc.co.uk/sport2/hi/football/3533891.stm |archive-date=19 October 2018 |access-date=22 November 2013 |website=BBC Sport |publisher=BBC}}</ref>
 

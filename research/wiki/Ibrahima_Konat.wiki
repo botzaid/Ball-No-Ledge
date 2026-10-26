@@ -1,4 +1,4 @@
-<!-- Ibrahima Konaté | revision 2026-10-18T21:07:21Z -->
+<!-- Ibrahima Konaté | revision 2026-10-25T22:03:16Z -->
 {{Short description|French footballer (born 1999)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
@@ -35,7 +35,7 @@
 | goals4 = 2
 | years5 = 2026–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 8
+| caps5 = 9
 | goals5 = 0
 | nationalyears1 = 2014–2015
 | nationalteam1 = [[France national under-16 football team|France U16]]
@@ -61,7 +61,7 @@
 | nationalteam6 = [[France national football team|France]]
 | nationalcaps6 = 30
 | nationalgoals6 = 0
-| club-update = 21:07, 18 October 2026 (UTC)
+| club-update = 22:03, 25 October 2026 (UTC)
 | nationalteam-update = 23:15, 18 July 2026 (UTC)
 | medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
@@ -70,7 +70,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 }}
-'''Ibrahima Konaté''' ({{IPA|fr|ibʁaimˈa konatˈe}}; born 25 May 1999) is a French professional [[Association football|footballer]] who plays as a [[centre-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]]. 
+'''Ibrahima Konaté''' ({{IPA|fr|ibʁaimˈa konatˈe}}; born 25 May 1999) is a French professional [[Association football|footballer]] who plays as a [[centre-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]].
 
 Konaté started off his professional career with [[FC Sochaux-Montbéliard|Sochaux]], and moved to [[RB Leipzig]] in 2017. After four years with the club, [[Liverpool F.C.|Liverpool]] signed him in 2021 for a fee of £36&nbsp;million. He won the [[EFL Cup]] and [[FA Cup]] in his first season, and later won the Premier League title with the club in the [[2024–25 Premier League|2024–25 season]], exiting the club as a free agent in July 2026 to join Real Madrid.
 
@@ -124,11 +124,11 @@ Konaté has been compared to [[Virgil van Dijk]] due to his positional play, tac
 ==Personal life==
 Konaté is a practising [[Muslims|Muslim]].<ref>{{Cite web |title=Muslim football players in French national team reportedly asked to postpone their fasting |url=https://www.aa.com.tr/en/sports/muslim-football-players-in-french-national-team-reportedly-asked-to-postpone-their-fasting/2860224 |access-date=7 October 2024 |website=aa.com.tr}}</ref> He is a fan of [[anime]] and [[manga]], his favourite series being ''[[Attack on Titan]]''.<ref>{{cite news |last=Northcroft |first=Jonathan |date=27 May 2022 |title=Ibrahima Konaté: I asked Jürgen Klopp, 'If I was your son, what would you advise? |url=https://www.thetimes.co.uk/article/ibrahima-konate-i-asked-juergen-klopp-if-i-was-your-son-what-would-you-advise-f6xjg5vxj |access-date=17 April 2022 |newspaper=The Times}}</ref>
 
-Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=Ibrahima Konate confirms dad's death after missing Liverpool match|url=https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-ibrahima-konate-confirms-father-33284080|website=Liverpool Echo|date=22 January 2026|access-date=31 January 2026|language=en|first=Mark|last=Jones}}</ref> 
+Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=Ibrahima Konate confirms dad's death after missing Liverpool match|url=https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-ibrahima-konate-confirms-father-33284080|website=Liverpool Echo|date=22 January 2026|access-date=31 January 2026|language=en|first=Mark|last=Jones}}</ref>
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}
+{{updated|match played 25 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -138,7 +138,7 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 !colspan="3"|League
 !colspan="2"|National cup{{efn|Includes [[DFB-Pokal]], [[FA Cup]], [[Copa del Rey]]}}
 !colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup]]}}
-!colspan="2"|Europe 
+!colspan="2"|Europe
 !colspan="2"|Other
 !colspan="2"|Total
 |-
@@ -201,10 +201,10 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|100656|2026|name=Ibrahima Konate|access-date=17 July 2026}}</ref>
 |[[La Liga]]
-|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||10||0
+|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||11||0
 |-
 !colspan="3"|Career total
-!213!!6!!24!!1!!14!!0!!58!!6!!1!!0!!310!!13
+!214!!6!!24!!1!!14!!0!!58!!6!!1!!0!!311!!13
 |}
 
 {{notelist}}
@@ -233,18 +233,18 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 
 ==Honours==
 '''RB Leipzig'''
-*[[DFB-Pokal]] runner-up: [[2018–19 DFB-Pokal|2018–19]],<ref>{{cite web |url=https://www.kicker.de/leipzig-gegen-bayern-2019-dfb-pokal-4572810/aufstellung |title=DFB-Pokal 2018/19, Finale in Berlin: RB Leipzig 0:3 Bayern München: Aufstellung |trans-title=DFB-Pokal 2018/19, Final in Berlin: RB Leipzig 0:3 Bayern Munich: Lineup |website=Kicker |publisher=Olympia-Verlag |access-date=17 September 2023 |language=de}}</ref> [[2020–21 DFB-Pokal|2020–21]]<ref>{{cite web |url=https://www.kicker.de/leipzig-gegen-dortmund-2021-dfb-pokal-4704927/aufstellung |title=DFB-Pokal 2020/21, Finale in Berlin: RB Leipzig 1:4 Borussia Dortmund: Aufstellung |trans-title=DFB-Pokal 2020/21, Final in Berlin: RB Leipzig 1:4 Borussia Dortmund: Lineup |website=Kicker |publisher=Olympia-Verlag |access-date=17 September 2023 |language=de}}</ref>
+* [[DFB-Pokal]] runner-up: [[2018–19 DFB-Pokal|2018–19]],<ref>{{cite web |url=https://www.kicker.de/leipzig-gegen-bayern-2019-dfb-pokal-4572810/aufstellung |title=DFB-Pokal 2018/19, Finale in Berlin: RB Leipzig 0:3 Bayern München: Aufstellung |trans-title=DFB-Pokal 2018/19, Final in Berlin: RB Leipzig 0:3 Bayern Munich: Lineup |website=Kicker |publisher=Olympia-Verlag |access-date=17 September 2023 |language=de}}</ref> [[2020–21 DFB-Pokal|2020–21]]<ref>{{cite web |url=https://www.kicker.de/leipzig-gegen-dortmund-2021-dfb-pokal-4704927/aufstellung |title=DFB-Pokal 2020/21, Finale in Berlin: RB Leipzig 1:4 Borussia Dortmund: Aufstellung |trans-title=DFB-Pokal 2020/21, Final in Berlin: RB Leipzig 1:4 Borussia Dortmund: Lineup |website=Kicker |publisher=Olympia-Verlag |access-date=17 September 2023 |language=de}}</ref>
 
 '''Liverpool'''
-*[[Premier League]]: [[2024–25 Premier League|2024–25]]<ref name="PremProfile"/>
-*[[FA Cup]]: [[2021–22 FA Cup|2021–22]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/61429640 |title=Chelsea 0–0 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=14 May 2022 |access-date=14 May 2022}}</ref>
-*[[EFL Cup]]: [[2021–22 EFL Cup|2021–22]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60450274 |title=Chelsea 0–0 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=27 February 2022 |access-date=27 February 2022}}</ref> [[2023–24 EFL Cup|2023–24]];<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/68329936 |title=Chelsea 0–1 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=25 February 2024 |access-date=25 February 2024}}</ref> runner-up: [[2024–25 EFL Cup|2024–25]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c62zl58dg8qt#Line-ups |title=Liverpool 1–2 Newcastle United |first=Phil |last=McNulty |website=BBC Sport |date=16 March 2025 |access-date=11 April 2025}}</ref>
-*[[FA Community Shield]]: [[2022 FA Community Shield|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/62275194 |title=Liverpool 3–1 Manchester City |first=Shamoon |last=Hafez |website=BBC Sport |date=30 July 2022 |access-date=17 September 2023}}</ref>
-*[[UEFA Champions League]] runner-up: [[2021–22 UEFA Champions League|2021–22]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/61609200 |title=Liverpool 0–1 Real Madrid |first=Phil |last=McNulty |website=BBC Sport |date=28 May 2022 |access-date=17 September 2023}}</ref>
+* [[Premier League]]: [[2024–25 Premier League|2024–25]]<ref name="PremProfile"/>
+* [[FA Cup]]: [[2021–22 FA Cup|2021–22]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/61429640 |title=Chelsea 0–0 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=14 May 2022 |access-date=14 May 2022}}</ref>
+* [[EFL Cup]]: [[2021–22 EFL Cup|2021–22]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60450274 |title=Chelsea 0–0 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=27 February 2022 |access-date=27 February 2022}}</ref> [[2023–24 EFL Cup|2023–24]];<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/68329936 |title=Chelsea 0–1 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=25 February 2024 |access-date=25 February 2024}}</ref> runner-up: [[2024–25 EFL Cup|2024–25]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c62zl58dg8qt#Line-ups |title=Liverpool 1–2 Newcastle United |first=Phil |last=McNulty |website=BBC Sport |date=16 March 2025 |access-date=11 April 2025}}</ref>
+* [[FA Community Shield]]: [[2022 FA Community Shield|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/62275194 |title=Liverpool 3–1 Manchester City |first=Shamoon |last=Hafez |website=BBC Sport |date=30 July 2022 |access-date=17 September 2023}}</ref>
+* [[UEFA Champions League]] runner-up: [[2021–22 UEFA Champions League|2021–22]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/61609200 |title=Liverpool 0–1 Real Madrid |first=Phil |last=McNulty |website=BBC Sport |date=28 May 2022 |access-date=17 September 2023}}</ref>
 
 '''France'''
-*[[FIFA World Cup]] runner-up: [[2022 FIFA World Cup|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63932622 |title=Argentina 3–3 France |first=Phil |last=McNulty |website=BBC Sport |date=18 December 2022 |access-date=18 December 2022}}</ref>
-*[[UEFA Nations League]] third place: [[2024–25 UEFA Nations League|2024–25]]<ref>{{cite web|date=8 June 2025|title=Germany 0–2 France report: Kylian Mbappé scores landmark goal as Les Bleus clinch Nations League third place|url=https://www.uefa.com/uefanationsleague/news/029a-1df3af7eedc9-c3b6e51cf3f1-1000--germany-0-2-france-report-kylian-mbappe-scores-landmark-g/|access-date=8 June 2025|publisher=[[UEFA]]}}</ref>
+* [[FIFA World Cup]] runner-up: [[2022 FIFA World Cup|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63932622 |title=Argentina 3–3 France |first=Phil |last=McNulty |website=BBC Sport |date=18 December 2022 |access-date=18 December 2022}}</ref>
+* [[UEFA Nations League]] third place: [[2024–25 UEFA Nations League|2024–25]]<ref>{{cite web|date=8 June 2025|title=Germany 0–2 France report: Kylian Mbappé scores landmark goal as Les Bleus clinch Nations League third place|url=https://www.uefa.com/uefanationsleague/news/029a-1df3af7eedc9-c3b6e51cf3f1-1000--germany-0-2-france-report-kylian-mbappe-scores-landmark-g/|access-date=8 June 2025|publisher=[[UEFA]]}}</ref>
 
 ==References==
 {{reflist}}
@@ -261,7 +261,7 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 | bg = #002395
 | fg = white
 | bordercolor = #ED2939
-| list1 = 
+| list1 =
 {{France squad 2022 FIFA World Cup}}
 {{France squad UEFA Euro 2024}}
 {{France squad 2026 FIFA World Cup}}

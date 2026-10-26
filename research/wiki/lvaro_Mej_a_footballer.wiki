@@ -1,19 +1,19 @@
-<!-- Álvaro Mejía (footballer) | revision 2026-08-06T19:08:14Z -->
+<!-- Álvaro Mejía (footballer) | revision 2026-10-26T01:40:18Z -->
 {{Short description|Spanish footballer}}
 {{family name hatnote|Mejía|Pérez|lang=Spanish}}
 {{Use dmy dates|date=May 2024}}
 {{Infobox football biography
 | name = Álvaro Mejía
 | image =
-| fullname = Álvaro Mejía Pérez<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/136/3976.html|title=Álvaro MEJÍA Pérez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=18 November 2021}}</ref>
+| full_name = Álvaro Mejía Pérez<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/136/3976.html|title=Álvaro MEJÍA Pérez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=18 November 2021}}</ref>
 | birth_date = {{Birth date and age|1982|1|18|df=yes}}<ref name=Bio/>
 | birth_place = [[Madrid]], Spain<ref name=Bio/>
 | height = {{convert|1.81|m|abbr=on}}<ref name=Bio/>
 | position = [[Defender (association football)|Defender]]
-| currentclub = 
-| clubnumber = 
-| youthyears1 = 1993–1998 | youthclubs1 = [[Las Rozas CF|Las Rozas]]
-| youthyears2 = 1998–2001 | youthclubs2 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = 
+| club_number = 
+| youth_years1 = 1993–1998 | youth_clubs1 = [[Las Rozas CF|Las Rozas]]
+| youth_years2 = 1998–2001 | youth_clubs2 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2001–2002 | clubs1 = [[Real Madrid C]] | caps1 = 10 | goals1 = 1
 | years2 = 2002–2004 | clubs2 = [[Real Madrid Castilla|Real Madrid B]] | caps2 = 44 | goals2 = 0
 | years3 = 2004–2007 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 40 | goals3 = 1
@@ -23,9 +23,9 @@
 | years7 = 2012–2013 | clubs7 = [[UD Almería|Almería]] | caps7 = 22 | goals7 = 1
 | years8 = 2013–2014 | clubs8 = [[Ergotelis F.C.|Ergotelis]] | caps8 = 26 | goals8 = 0
 | years9 = 2014–2020 | clubs9 = [[Al Shahaniya SC|Al Shahaniya]] | caps9 = 137 | goals9 = 0
-| totalcaps = 433 | totalgoals = 9
-| nationalyears1 = | nationalteam1 = | nationalcaps1 = | nationalgoals1 =
-| club-update =
+| total_caps = 433 | total_goals = 9
+| national_years1 = | national_team1 = | national_caps1 = | national_goals1 =
+| club_update =
 }}
 '''Álvaro Mejía Pérez''' (born 18 January 1982) is a Spanish former professional [[association football|footballer]] who played primarily as a [[central defender]].
 

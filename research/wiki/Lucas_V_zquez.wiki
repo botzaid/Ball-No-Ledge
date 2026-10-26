@@ -1,4 +1,4 @@
-<!-- Lucas Vázquez | revision 2026-10-16T08:55:34Z -->
+<!-- Lucas Vázquez | revision 2026-10-25T12:24:12Z -->
 {{short description|Spanish footballer (born 1991)}}
 {{Use dmy dates|date=September 2020}}
 {{family name hatnote|Vázquez|Iglesias|lang=Spanish}}
@@ -97,7 +97,7 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 15 October 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
+{{updated|match played 22 October 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -188,13 +188,13 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 |-
 |[[2026–27 Bayer 04 Leverkusen season|2026–27]]
 |Bundesliga
-|4||0||1||1||2{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0|| colspan="2" |—||7||1
+|4||0||1||1||3{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0|| colspan="2" |—||8||1
 |-
 ! colspan="2" |Total
-!15!!1!!3!!1!!7!!0!!colspan="2"|—!!24!!2
+!15!!1!!3!!1!!8!!0!!colspan="2"|—!!25!!2
 |-
 !colspan="3"|Career total
-!428!!47!!35!!10!!84!!4!!24!!0!!571!!61
+!428!!47!!35!!10!!85!!4!!24!!0!!572!!61
 |}
 {{notelist}}
 

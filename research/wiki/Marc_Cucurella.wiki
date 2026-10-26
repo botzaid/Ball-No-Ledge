@@ -1,4 +1,4 @@
-<!-- Marc Cucurella | revision 2026-10-22T15:13:06Z -->
+<!-- Marc Cucurella | revision 2026-10-25T22:03:49Z -->
 {{short description|Spanish footballer (born 1998)}}
 {{pp-blp|small=yes}}
 {{Distinguish|Mark Cucuzzella}}
@@ -51,7 +51,7 @@
 | goals7 = 6
 | years8 = 2026–
 | clubs8 = [[Real Madrid CF|Real Madrid]]
-| caps8 = 9
+| caps8 = 10
 | goals8 = 0
 | nationalyears1 = 2014
 | nationalteam1 = [[Spain national under-16 football team|Spain U16]]
@@ -91,7 +91,7 @@
 {{Medal|RU|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 {{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
 {{MedalSilver|[[2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
-| club-update = 21:07, 18 October 2026 (UTC)
+| club-update = 22:03, 25 October 2026 (UTC)
 | ntupdate = 18:10, 7 October 2026 (UTC)
 }}
 '''Marc Cucurella Saseta''' ({{IPA|ca|ˈmaɾ(k) kukuˈɾeʎə səˈzɛtə}}; born 22 July 1998) is a Spanish professional [[Association football|footballer]] who plays as a [[left-back]] or [[left wing-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Spain national football team|Spain national team]]. He is considered to be one of the best left-backs in the world.<ref>{{cite web|url=https://www.fourfourtwo.com/features/ranked-best-left-backs-in-the-world|title=Ranked! The 10 best left-backs in the world|publisher=[[FourFourTwo]]|first=Mark|last=White|date=16 June 2025|access-date=18 December 2025}}</ref><ref>{{cite web|url=https://www.si.com/soccer/the-best-left-backs-in-world-soccer-ranked|title=The 25 Best Left Backs in World Soccer — Ranked|publisher=[[Sports Illustrated]]|date=14 July 2025|access-date=18 December 2025}}</ref>
@@ -152,7 +152,7 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
+{{updated|match played 25 October 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -234,10 +234,10 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|105483|2026|access-date=15 June 2026}}</ref>
 |La Liga
-|9||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||12||0
+|10||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||13||0
 |-
 !colspan="3"|Career total
-!313!!13!!15!!2!!10!!0!!37!!2!!11!!0!!386!!17
+!314!!13!!15!!2!!10!!0!!37!!2!!11!!0!!387!!17
 |}
 {{notelist}}
 

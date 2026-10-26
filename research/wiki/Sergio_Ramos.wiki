@@ -1,4 +1,4 @@
-<!-- Sergio Ramos | revision 2026-10-17T05:26:07Z -->
+<!-- Sergio Ramos | revision 2026-10-26T01:42:03Z -->
 {{Short description|Spanish footballer (born 1986)}}
 {{About|the Spanish association football player|other people}}
 {{pp-semi-indef}}
@@ -10,15 +10,15 @@
 | caption = Ramos in 2021
 | full_name = Sergio Ramos García<ref name=FIFA>{{cite web |url=https://www.fifadata.com/documents/fcwc/2017/pdf/fcwc_2017_squadlists.pdf |title=FIFA Club World Cup UAE 2017: List of players: Real Madrid CF |publisher=FIFA |page=5 |date=30 October 2017 |access-date=23 December 2017|archive-url=https://web.archive.org/web/20171223004345/http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf|archive-date=23 December 2017|url-status=dead}}</ref>
 | birth_date = {{birth date and age|1986|3|30|df=y}}<ref name=FIFA/>
-| birth_place = [[Camas, Seville|Camas]], Spain
+| birth_place = [[Camas, Seville|Camas]], Seville, Spain
 | height = 1.84 m<ref>{{cite web |url=https://en.psg.fr/teams/first-team/squad/sergio-ramos |title=Sergio Ramos |date=30 March 1986 |publisher=Paris Saint-Germain F.C. |access-date=26 November 2023 |archive-url=https://web.archive.org/web/20210827220203/https://en.psg.fr/teams/first-team/squad/sergio-ramos |archive-date=27 August 2021 |url-status=live}}</ref>
 | position = [[Centre-back]]
-| currentclub = 
-| clubnumber = 
-| youthyears1 = 1992–1996
-| youthclubs1 = Camas
-| youthyears2 = 1996–2003
-| youthclubs2 = [[Sevilla FC|Sevilla]]
+| current_club = 
+| club_number = 
+| youth_years1 = 1992–1996
+| youth_clubs1 = Camas
+| youth_years2 = 1996–2003
+| youth_clubs2 = [[Sevilla FC|Sevilla]]
 | years1 = 2003–2004
 | clubs1 = [[Sevilla Atlético]]
 | caps1 = 26
@@ -43,27 +43,27 @@
 | clubs6 = [[C.F. Monterrey|Monterrey]]
 | caps6 = 27
 | goals6 = 6
-| nationalyears1 = 2002
-| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
-| nationalcaps1 = 1
-| nationalgoals1 = 0
-| nationalyears2 = 2003
-| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
-| nationalcaps2 = 1
-| nationalgoals2 = 0
-| nationalyears3 = 2004
-| nationalteam3 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps3 = 7
-| nationalgoals3 = 0
-| nationalyears4 = 2004
-| nationalteam4 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps4 = 6
-| nationalgoals4 = 0
-| nationalteam5 = [[Spain national football team|Spain]]
-| nationalyears5 = 2005–2021
-| nationalcaps5 = [[List of men's footballers with 100 or more international caps#Men's footballers with 100 or more international caps|180]]
-| nationalgoals5 = 23
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2002
+| national_team1 = [[Spain national under-16 football team|Spain U16]]
+| national_caps1 = 1
+| national_goals1 = 0
+| national_years2 = 2003
+| national_team2 = [[Spain national under-17 football team|Spain U17]]
+| national_caps2 = 1
+| national_goals2 = 0
+| national_years3 = 2004
+| national_team3 = [[Spain national under-19 football team|Spain U19]]
+| national_caps3 = 7
+| national_goals3 = 0
+| national_years4 = 2004
+| national_team4 = [[Spain national under-21 football team|Spain U21]]
+| national_caps4 = 6
+| national_goals4 = 0
+| national_team5 = [[Spain national football team|Spain]]
+| national_years5 = 2005–2021
+| national_caps5 = [[List of men's footballers with 100 or more international caps#Men's footballers with 100 or more international caps|180]]
+| national_goals5 = 23
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|W|[[2010 FIFA World Cup|2010 South Africa]]|}}
@@ -75,7 +75,7 @@
 {{MedalCompetition|[[FIFA Confederations Cup]]}}
 {{Medal|Runner-up|[[2013 FIFA Confederations Cup|2013 Brazil]]|}}
 {{Medal|3rd|[[2009 FIFA Confederations Cup|2009 South Africa]]|}}
-| club-update = 03:10, 7 December 2025 (UTC)
+| club_update = 03:10, 7 December 2025 (UTC)
 }}
 
 '''Sergio Ramos García''' ({{IPA|es|ˈseɾxjo ˈramos ɣaɾˈθi.a}};{{efn-ua|In isolation, ''Ramos'' and ''García'' are pronounced {{IPA|es|ˈramos|}} and {{IPA|es|ɡaɾˈθi.a|}} respectively.}} born 30 March 1986) is a Spanish professional [[Association football|footballer]] who plays as a [[centre-back]]. Widely regarded as one of the greatest centre-backs of all time, he is known for his aerial abilities, physicality, leadership, and goalscoring abilities, having scored more than 100 goals for [[Real Madrid CF|Real Madrid]].<ref>{{Cite web |last=Hepburn |first=Daniel |date=9 April 2020 |title=Fans have ranked the 50 best defenders in football history |url=https://www.givemesport.com/football-fans-rank-the-50-greatest-defenders-in-football-history/ |access-date=10 February 2026 |website=GiveMeSport |language=en |archive-url=https://web.archive.org/web/20250831140452/https://www.givemesport.com/football-fans-rank-the-50-greatest-defenders-in-football-history/ |archive-date=31 August 2025 |url-status=live}}</ref><ref>{{Cite web |title=10 greatest defenders of all time{{!}} All Football |url=https://m.allfootballapp.com/news/All/10-greatest-defenders-of-all-time/2760135 |access-date=10 February 2026 |website=AllfootballOfficial |language=en |archive-url=https://web.archive.org/web/20260128063252/https://m.allfootballapp.com/news/All/10-greatest-defenders-of-all-time/2760135 |archive-date=28 January 2026 |url-status=live}}</ref><ref>{{Cite web |date=17 December 2024 |title=The 50 Best Defenders in Soccer History—Ranked |url=https://www.si.com/soccer/ranking-the-50-best-soccer-defenders-of-all-time |access-date=10 February 2026 |website=SI |language=en-US |archive-url=https://web.archive.org/web/20250627054744/https://www.si.com/soccer/ranking-the-50-best-soccer-defenders-of-all-time |archive-date=27 June 2025 |url-status=live}}</ref> In addition, he is one of the few players to have made [[List of men's footballers with 1,000 or more official appearances|over 1,050 career appearances]].

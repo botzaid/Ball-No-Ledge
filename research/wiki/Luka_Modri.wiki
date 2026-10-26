@@ -1,7 +1,7 @@
-<!-- Luka Modrić | revision 2026-10-22T05:16:15Z -->
+<!-- Luka Modrić | revision 2026-10-25T23:50:21Z -->
 {{short description|Croatian footballer (born 1985)}}
 {{pp-pc}}
-{{Use British English|date=March 2023}}
+{{Use British English|date=October 2026}}
 {{Use dmy dates|date=September 2026}}
 {{Infobox football biography
 | name = Luka Modrić
@@ -40,7 +40,7 @@
 | goals5 = 30
 | years6 = 2025–
 | clubs6 = [[AC Milan]]
-| caps6 = 41
+| caps6 = 42
 | goals6 = 2
 | national_years1 = 2001
 | national_team1 = [[Croatia national under-15 football team|Croatia U15]]
@@ -66,7 +66,7 @@
 | national_team6 = [[Croatia national football team|Croatia]]
 | national_caps6 = [[List of men's footballers with 100 or more international caps|206]]
 | national_goals6 = 30
-| club_update = 21:08, 18 October 2026 (UTC)
+| club_update = 21:08, 25 October 2026 (UTC)
 | national_team_update = 6 October 2026 (UTC)
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|CRO}}}}
@@ -282,7 +282,7 @@ On 20 May 2024, Modrić was included in the [[UEFA Euro 2024 squads#Croatia|fina
 
 ===2026: Fifth World Cup===
 [[File:Luka Modric Croatia v Portugal 2 July 2026-121.jpg|thumb|Modrić versus [[Portugal national football team|Portugal]] in the 2026 FIFA World Cup]]
-On 18 May 2026, he was selected in the 26-man squad for the [[2026 FIFA World Cup]], marking his fifth World Cup appearance.<ref>{{cite web |url=https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/modric-set-for-fifth-world-cup-with-croatia-2026-05-18 |title=Modric set for fifth World Cup with Croatia |publisher=beIN SPORTS |date=18 May 2026 }}</ref> On 17 June, Modrić featured in Croatia's opening 4–2 defeat versus [[England national football team|England]], becoming the second European player to make an appearance at 10 different major tournaments.<ref>{{Cite web |last=King |first=Oliver |date=17 June 2026 |title=England 4-2 Croatia Stats: Kane Brace Helps Inspire Impressive World Cup Start |url=https://theanalyst.com/articles/england-vs-croatia-stats-world-cup-2026 |access-date=17 June 2026 |website=theanalyst.com |language=en}}</ref> On 23 June, he made his 200th international appearance for Croatia in a 1–0 victory over [[Panama national football team|Panama]], becoming the fourth player in history to reach this milestone.<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-match-report-highlights |title=Croatia eliminate Panama with gutsy win |publisher=FIFA |date=24 June 2026 }}</ref><ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/49157528/fifa-world-cup-2026-stats-cristiano-ronaldo-breaks-lionel-messi-record-england-unlucky-13-luka-modric-fourth-all-200 |title=FIFA World Cup 2026 stats: Ronaldo breaks Messi's WC record; England's unlucky 13; Modric fourth all-time with 200 |publisher=ESPN |date=23 June 2026 }}</ref> On 27 June, he provided an assist in a 2–1 victory over [[Ghana national football team|Ghana]] as his nation progressed to the knockout phase, becoming the oldest player to provide an assist at a World Cup at 40 years and 291 days.<ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/49203483/fifa-world-cup-2026-stats-lionel-messi-sets-another-world-cup-record-cristiano-ronaldo-second-25-harry-kane-11-best-england-luka-modric-record-40 |title=FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40 |publisher=ESPN |date=28 June 2026 }}</ref> Modrić's side was knocked out by [[Portugal national football team|Portugal]] after a 2–1 defeat in [[BMO Field]], [[Toronto]], where an equalizing 103rd-minute stoppage-time goal from [[Joško Gvardiol]] was controversially disallowed as offside by [[Video assistant referee|VAR]].<ref>{{Cite web |last=Slater|first=Matt|date=2 July 2026|title=Ronaldo replacement Ramos heads Portugal past Croatia in World Cup thriller|url=https://www.nytimes.com/athletic/live-blogs/portugal-vs-croatia-live-updates-world-cup-2026-score-result/A350LGuVa3yH/|access-date=2 July 2026|website=The New York Times}}</ref>
+On 18 May 2026, he was selected in the 26-man squad for the [[2026 FIFA World Cup]], marking his fifth World Cup appearance.<ref>{{cite web |url=https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/modric-set-for-fifth-world-cup-with-croatia-2026-05-18 |title=Modric set for fifth World Cup with Croatia |publisher=beIN SPORTS |date=18 May 2026 }}</ref> On 17 June, Modrić featured in Croatia's opening 4–2 defeat versus [[England national football team|England]], becoming the second European player to make an appearance at 10 different major tournaments.<ref>{{Cite web |last=King |first=Oliver |date=17 June 2026 |title=England 4-2 Croatia Stats: Kane Brace Helps Inspire Impressive World Cup Start |url=https://theanalyst.com/articles/england-vs-croatia-stats-world-cup-2026 |access-date=17 June 2026 |website=theanalyst.com |language=en}}</ref> On 23 June, he made his 200th international appearance for Croatia in a 1–0 victory over [[Panama national football team|Panama]], becoming the fourth player in history to reach this milestone.<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-match-report-highlights |title=Croatia eliminate Panama with gutsy win |publisher=FIFA |date=24 June 2026 }}</ref><ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/49157528/fifa-world-cup-2026-stats-cristiano-ronaldo-breaks-lionel-messi-record-england-unlucky-13-luka-modric-fourth-all-200 |title=FIFA World Cup 2026 stats: Ronaldo breaks Messi's WC record; England's unlucky 13; Modric fourth all-time with 200 |publisher=ESPN |date=23 June 2026 }}</ref> On 27 June, he provided an assist in a 2–1 victory over [[Ghana national football team|Ghana]] as his nation progressed to the knockout phase, becoming the oldest player to provide an assist at a World Cup at 40 years and 291 days.<ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/49203483/fifa-world-cup-2026-stats-lionel-messi-sets-another-world-cup-record-cristiano-ronaldo-second-25-harry-kane-11-best-england-luka-modric-record-40 |title=FIFA World Cup 2026 stats: Messi sets another World Cup record; Ronaldo second with 25; Kane's 11 best for England; Modric record 40 |publisher=ESPN |date=28 June 2026 }}</ref> Modrić's side was knocked out by [[Portugal national football team|Portugal]] after a 2–1 defeat in [[BMO Field]], [[Toronto]], where an equalising 103rd-minute stoppage-time goal from [[Joško Gvardiol]] was controversially disallowed as offside by [[Video assistant referee|VAR]].<ref>{{Cite web |last=Slater|first=Matt|date=2 July 2026|title=Ronaldo replacement Ramos heads Portugal past Croatia in World Cup thriller|url=https://www.nytimes.com/athletic/live-blogs/portugal-vs-croatia-live-updates-world-cup-2026-score-result/A350LGuVa3yH/|access-date=2 July 2026|website=The New York Times}}</ref>
 
 == Player profile ==
 
@@ -335,7 +335,7 @@ Modrić was called to testify in an [[embezzlement]] and [[tax evasion]] trial i
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref name=SS/>
+{{updated|match played 25 October 2026}}<ref name=SS/>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -467,13 +467,13 @@ Modrić was called to testify in an [[embezzlement]] and [[tax evasion]] trial i
 |-
 |[[2026–27 AC Milan season|2026–27]]
 |Serie A
-|7||0||0||0||colspan="2"|—||1{{efn|name=UEL}}||0||colspan="2"|—||8||0
+|8||0||0||0||colspan="2"|—||1{{efn|name=UEL}}||0||colspan="2"|—||9||0
 |-
 !colspan="2"|Total
-!41!!2!!2!!0!!colspan="2"|—!!1!!0!!1!!0!!45!!2
+!42!!2!!2!!0!!colspan="2"|—!!1!!0!!1!!0!!46!!2
 |-
 !colspan="3"|Career total
-!699!!83!!67!!5!!4!!0!!168!!14!!37!!4!!975!!106
+!700!!83!!67!!5!!4!!0!!168!!14!!37!!4!!976!!106
 |}
 {{notelist}}
 

@@ -1,4 +1,4 @@
-<!-- Dani Carvajal | revision 2026-10-20T14:26:08Z -->
+<!-- Dani Carvajal | revision 2026-10-25T18:36:10Z -->
 {{Short description|Spanish footballer (born 1992)}}
 {{Distinguish|Danny Carvajal}}
 {{Family name hatnote|Carvajal|Ramos|lang=Spanish}}
@@ -32,7 +32,7 @@
 | goals3 = 10
 | years4 = 2026–
 | clubs4 = [[Getafe CF|Getafe]]
-| caps4 = 1
+| caps4 = 2
 | goals4 = 0
 | nationalyears1 = 2010–2011
 | nationalteam1 = [[Spain national under-19 football team|Spain U19]]
@@ -56,7 +56,7 @@
 {{Medal|W|[[2013 UEFA European Under-21 Championship|2013 Israel]]|}}
 {{MedalCompetition|[[UEFA European Under-19 Championship]]}}
 {{Medal|W|[[2011 UEFA European Under-19 Championship|2011 Romania]]|}}
-| club-update = 18:56, 19 October 2026 (UTC)
+| club-update = 18:56, 25 October 2026 (UTC)
 | nationalteam-update = 07:46, 5 September 2025 (UTC)
 }}
 '''Daniel Carvajal Ramos''' ({{IPA|es|daˈnjel kaɾβaˈxal ˈramos}}; born 11 January 1992) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)|right-back]] for [[La Liga]] club [[Getafe CF|Getafe]] and the [[Spain national football team|Spain national team]]. He is widely regarded as one of the greatest right-backs of his generation.<ref>{{Cite web |date=19 May 2026 |title=Where Does Dani Carvajal Rank Among Real Madrid's All-Time Greats? |url=https://www.si.com/soccer/where-does-dani-carvajal-rank-real-madrid-all-time-greats |access-date=10 July 2026 |website=SI |language=en-US}}</ref><ref>{{Cite web |date=21 October 2025 |title=The 20 Best Right Backs in Soccer History––Ranked |url=https://www.si.com/soccer/the-best-right-backs-in-soccer-history-ranked |access-date=10 July 2026 |website=SI |language=en-US}}</ref><ref>{{Cite web |date=21 January 2025 |title=EA FC 25 TOTY: Van Dijk, Saliba, Carvajal and Grimaldo form dream defence |url=https://www.90min.com/ea-fc-25-toty-van-dijk-saliba-carvajal-and-grimaldo-dream-defence |access-date=10 July 2026 |website=90min.com |language=en-GB}}</ref><ref>{{Cite web |last=Mitton |first=Alex |date=27 August 2024 |title=Ranking the 9 Best Right-Backs in Champions League History |url=https://www.givemesport.com/champions-league-best-right-back-ever-ranked-cafu-lahm/ |access-date=10 July 2026 |website=GiveMeSport |language=en}}</ref><ref>{{Cite web |title=Rodrigo and Carvajal, FIFPRO World 11 2024 {{!}} www.rfef.es/en |url=https://rfef.es/en/noticias/rodrigo-and-carvajal-fifpro-world-11-2024 |access-date=10 July 2026 |website=rfef.es |language=en}}</ref><ref>{{Cite web |last=Nwokolo |first=Collins |date=16 June 2024 |title=Top 10 Best Full-Backs In The World (2024) |url=https://topsoccerblog.com/top-best-full-backs-in-the-world/ |access-date=10 July 2026 |website=Top Soccer Blog |language=en-US}}</ref>
@@ -140,7 +140,7 @@ On 8 April 2026, Carvajal was put under investigation by a judge in Andorra for 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 19 October 2026}}<ref>{{Soccerway|access-date=16 September 2025}}</ref><ref>{{ESPN FC|168531}}</ref>
+{{updated|match played 25 October 2026}}<ref>{{Soccerway|access-date=16 September 2025}}</ref><ref>{{ESPN FC|168531}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -217,10 +217,10 @@ On 8 April 2026, Carvajal was put under investigation by a judge in Andorra for 
 |[[Getafe CF|Getafe]]
 |[[2026–27 Getafe CF season|2026–27]]
 |[[La Liga]]
-|1||0||0||0||0||0||colspan="2"|—||1||0
+|2||0||0||0||0||0||colspan="2"|—||2||0
 |-
 !colspan="3"|Career total
-!404||14||28||0||98||2||26||2||556||18
+!405||14||28||0||98||2||26||2||557||18
 |}
 {{notelist}}
 

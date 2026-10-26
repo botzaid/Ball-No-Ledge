@@ -1,4 +1,4 @@
-<!-- Dean Huijsen | revision 2026-10-22T15:07:25Z -->
+<!-- Dean Huijsen | revision 2026-10-25T22:08:36Z -->
 {{Short description|Footballer (born 2005)}}
 {{Redirect|Huijsen|the historian|Coos Huijsen}}
 {{family name hatnote|Huijsen|lang=Spanish|Wijsmuller}}
@@ -38,7 +38,7 @@
 | goals4 = 3
 | years5 = 2025–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 35<!-- Only league matches -->
+| caps5 = 36<!-- Only league matches -->
 | goals5 = 2
 | nationalyears1 = 2021–2022
 | nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
@@ -68,10 +68,10 @@
 {{Medal|Country|{{fb|ESP}}}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club-update = 21:07, 18 October 2026 (UTC)
+| club-update = 22:03, 25 October 2026 (UTC)
 | nationalteam-update = 21:16, 29 September 2026 (UTC)
 }}
-'''Dean Donny Huijsen Wijsmuller''' ({{IPA|es|ˈdiŋ ˈxawsen|lang}},<ref>{{cite tweet|user=RMadridInfo|author=Real Madrid Info|number=1922791884058996970|title=Dean Huijsen about how he prefers his name to be pronounced|accessdate=16 May 2025|language=es}}</ref><ref>{{Cite web |date=10 April 2025 |title=LOS AMIGOS DE EDU {{!}} DEAN HUIJSEN {{!}} ENTREVISTA COMPLETA |trans-title=EDU'S FRIENDS {{!}} DEAN HUIJSEN {{!}} FULL INTERVIEW |url=https://www.youtube.com/watch?v=oEuiYYrJm8M&t=33s |access-date=21 September 2026 |website=[[YouTube]] |language=es|publisher=Chiringuito Inside}}</ref> {{IPA|nl|ˈdiːn ˈɦœy.sə(n)|lang}}; born 14 April 2005) is a professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in the Netherlands, he plays for the [[Spain national football team|Spain national team]].
+'''Dean Donny Huijsen Wijsmuller''' ({{IPA|es|ˈdiŋ ˈxawsen|lang}},<ref>{{cite tweet|user=RMadridInfo|author=Real Madrid Info|number=1922791884058996970|title=Dean Huijsen about how he prefers his name to be pronounced|accessdate=16 May 2025|language=es}}</ref><ref>{{Cite web |date=10 April 2025 |title=LOS AMIGOS DE EDU {{!}} DEAN HUIJSEN {{!}} ENTREVISTA COMPLETA |trans-title=EDU'S FRIENDS {{!}} DEAN HUIJSEN {{!}} FULL INTERVIEW |url=https://www.youtube.com/watch?v=oEuiYYrJm8M&t=33s |access-date=21 September 2026 |website=[[YouTube]] |language=es|publisher=Chiringuito Inside}}</ref> {{IPA|nl|ˈdiːn ˈɦœy.sə(n)|lang}}; born 14 April 2005) is a [[Dutch]] professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in the Netherlands, he plays for the [[Spain national football team|Spain national team]].
 
 Huijsen made his senior debut for [[Juventus FC|Juventus]]'s reserve team [[Juventus Next Gen]] in January 2023, and made his [[Serie A]] debut with the first team the following October. Following a loan spell at [[AS Roma|Roma]], Huijsen signed for [[Premier League]] side [[AFC Bournemouth|Bournemouth]] in July 2024. One year later in May 2025, he moved to La Liga club Real Madrid.
 
@@ -120,7 +120,7 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
+{{updated|match played 25 October 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,13 +173,13 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|171180|2026|access-date=9 August 2026}}</ref>
 |La Liga
-|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||9||0
+|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||10||0
 |-
 !colspan="2"|Total
-!35!!2!!2!!0!!colspan="2"|—!!11!!0!!6!!0!!54!!2
+!36!!2!!2!!0!!colspan="2"|—!!11!!0!!6!!0!!55!!2
 |-
 !colspan="3"|Career total
-!108!!8!!6!!0!!1!!0!!11!!0!!9!!2!!135!!10
+!109!!8!!6!!0!!1!!0!!11!!0!!9!!2!!136!!10
 |}
 {{notelist}}
 

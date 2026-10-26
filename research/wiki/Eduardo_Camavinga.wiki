@@ -1,4 +1,4 @@
-<!-- Eduardo Camavinga | revision 2026-10-22T15:08:06Z -->
+<!-- Eduardo Camavinga | revision 2026-10-25T22:06:07Z -->
 {{Short description|Footballer (born 2002)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -26,7 +26,7 @@
 | goals2 = 2
 | years3 = 2021–
 | clubs3 = [[Real Madrid CF|Real Madrid]]
-| caps3 = 150
+| caps3 = 151
 | goals3 = 4
 | nationalyears1 = 2019–2022
 | nationalteam1 = [[France national under-21 football team|France U21]]
@@ -41,7 +41,7 @@
 {{MedalCountry|{{fb|FRA}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|RU|[[2022 FIFA World Cup|2022 Qatar]]|}}
-| club-update = 21:09, 18 October 2026 (UTC)
+| club-update = 22:06, 25 October 2026 (UTC)
 | nationalteam-update = 15:40, 6 October 2026 (UTC)
 }}
 '''Eduardo Celmi Camavinga''' (born 10 November 2002) is a<!--Do NOT add nationality here, per WikiProject Football consensus--> professional [[Association football|footballer]] who plays as a [[midfielder|central midfielder]] and occasionally as a [[left-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in Angola, he plays for the [[France national football team|France national team]].<ref>{{cite web |date=3 April 2023 |title=Casemiro, Rodri, Partey: Who is the world's best defensive midfielder? |url=https://www.givemesport.com/busquets-kante-casemiro-the-top-10-defensive-midfielders-have-been-ranked/ |access-date=11 July 2023 |website=GiveMeSport}}</ref><ref>{{cite web |last1=Cheval |first1=Bastien |title=Eduardo Camavinga on his left-back role: "It's a different way of defending." |url=https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |website=OneFootball |date=23 March 2023 |access-date=5 April 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405195253/https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |url-status=live }}</ref><ref>{{cite web |title=Didier Deschamps confirms Eduardo Camavinga as a left-back for France |website=Get French Football News |url=https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |date=16 March 2023 |access-date=14 April 2023 |archive-date=14 April 2023 |archive-url=https://web.archive.org/web/20230414083247/https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |url-status=live }}</ref> 
@@ -91,7 +91,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 21 October 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
+{{Updated|match played 25 October 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -154,13 +154,13 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|8||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||9||0
+|9||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||10||0
 |-
 !colspan="2"|Total
-!150!!4!!16!!1!!colspan="2"|—!!53!!1!!13!!0!!232!!6
+!151!!4!!16!!1!!colspan="2"|—!!53!!1!!13!!0!!233!!6
 |-
 !colspan="3"|Career total
-!234!!10!!21!!1!!1!!0!!63!!1!!14!!0!!333!!12
+!235!!10!!21!!1!!1!!0!!63!!1!!14!!0!!334!!12
 |}
 {{notelist}}
 

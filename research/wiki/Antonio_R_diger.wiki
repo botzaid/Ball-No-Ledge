@@ -1,4 +1,4 @@
-<!-- Antonio Rüdiger | revision 2026-10-22T15:07:11Z -->
+<!-- Antonio Rüdiger | revision 2026-10-24T20:33:51Z -->
 {{Short description|German footballer (born 1993)}}
 {{Use dmy dates|date=April 2025}}
 {{Infobox football biography
@@ -10,20 +10,20 @@
 | birth_place = [[Berlin]], Germany
 | height = 1.90 m<ref>{{cite web |url=https://www.premierleague.com/players/16801/Antonio-R%C3%BCdiger/overview |title=Antonio Rüdiger: Overview |publisher=Premier League |access-date=28 June 2020}}</ref>
 | position = [[Centre-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 22
-| youthyears1 = 2000–2002
-| youthclubs1 = VfB Sperber Neukölln
-| youthyears2 = 2002–2005
-| youthclubs2 = [[SV Tasmania Berlin]]
-| youthyears3 = 2005–2006
-| youthclubs3 = Neuköllner Sportfreunde 1907
-| youthyears4 = 2006–2008
-| youthclubs4 = [[Hertha Zehlendorf]]
-| youthyears5 = 2008–2011
-| youthclubs5 = [[Borussia Dortmund Youth Sector|Borussia Dortmund]]
-| youthyears6 = 2011–2012
-| youthclubs6 = [[VfB Stuttgart]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 22
+| youth_years1 = 2000–2002
+| youth_clubs1 = VfB Sperber Neukölln
+| youth_years2 = 2002–2005
+| youth_clubs2 = [[SV Tasmania Berlin]]
+| youth_years3 = 2005–2006
+| youth_clubs3 = Neuköllner Sportfreunde 1907
+| youth_years4 = 2006–2008
+| youth_clubs4 = [[Hertha Zehlendorf]]
+| youth_years5 = 2008–2011
+| youth_clubs5 = [[Borussia Dortmund Youth Sector|Borussia Dortmund]]
+| youth_years6 = 2011–2012
+| youth_clubs6 = [[VfB Stuttgart]]
 | years1 = 2011–2015
 | clubs1 = [[VfB Stuttgart II]]
 | caps1 = 22
@@ -48,31 +48,31 @@
 | clubs6 = [[Real Madrid CF|Real Madrid]]
 | caps6 = 117
 | goals6 = 4
-| nationalyears1 = 2010–2011
-| nationalteam1 = [[Germany national youth football team|Germany U18]]
-| nationalcaps1 = 8
-| nationalgoals1 = 4
-| nationalyears2 = 2011–2012
-| nationalteam2 = [[Germany national youth football team|Germany U19]]
-| nationalcaps2 = 14
-| nationalgoals2 = 1
-| nationalyears3 = 2012
-| nationalteam3 = [[Germany national under-20 football team|Germany U20]]
-| nationalcaps3 = 2
-| nationalgoals3 = 0
-| nationalyears4 = 2012–2014
-| nationalteam4 = [[Germany national under-21 football team|Germany U21]]
-| nationalcaps4 = 10
-| nationalgoals4 = 1
-| nationalyears5 = 2014–2026
-| nationalteam5 = [[Germany national football team|Germany]]
-| nationalcaps5 = 86
-| nationalgoals5 = 3
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2010–2011
+| national_team1 = [[Germany national youth football team|Germany U18]]
+| national_caps1 = 8
+| national_goals1 = 4
+| national_years2 = 2011–2012
+| national_team2 = [[Germany national youth football team|Germany U19]]
+| national_caps2 = 14
+| national_goals2 = 1
+| national_years3 = 2012
+| national_team3 = [[Germany national under-20 football team|Germany U20]]
+| national_caps3 = 2
+| national_goals3 = 0
+| national_years4 = 2012–2014
+| national_team4 = [[Germany national under-21 football team|Germany U21]]
+| national_caps4 = 10
+| national_goals4 = 1
+| national_years5 = 2014–2026
+| national_team5 = [[Germany national football team|Germany]]
+| national_caps5 = 86
+| national_goals5 = 3
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|GER}}}}
 {{MedalCompetition|[[FIFA Confederations Cup]]}}
 {{Medal|W|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
-| club-update = 21:00, 10 October 2026 (UTC)
+| club_update = 21:00, 10 October 2026 (UTC)
 }}
 '''Antonio Rüdiger'''{{efn-ua|{{IPA|de|anˈtoːni̯o ˈʁyːdiɡɐ|-|De-Rüdiger.ogg}}}} (born 3 March 1993) is a German professional footballer who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. He is known for his aggressive playing style, speed, tackling ability and strong aerial presence.<ref name="BestCentreBacks">{{cite web |date=27 March 2023 |title=Ranked! The 10 best centre-backs in the world |url=https://www.fourfourtwo.com/features/best-centre-backs-defenders-in-the-world |access-date=10 May 2023 |website=FourFourTwo}}</ref><ref>{{cite web |title=Best defenders in the world 2023 |url=https://www.radiotimes.com/tv/sport/football/best-defenders-world/ |access-date=23 May 2023 |website=Radio Times |language=en}}</ref><ref>{{cite web |date=8 May 2022 |title=Van Dijk, Dias, Rudiger: Who is the best centre-back in the world? |url=https://www.givemesport.com/88005245-van-dijk-dias-rudiger-who-is-the-best-centre-back-in-the-world/ |access-date=23 May 2023 |website=GiveMeSport |language=en}}</ref><ref>{{cite web |last=Altimas |first=Callum |date=9 October 2023 |title=Ranking the 15 best defenders in world football right now |url=https://www.givemesport.com/best-defenders-world-football-ranked/ |access-date= |website=GiveMeSport}}</ref>
 

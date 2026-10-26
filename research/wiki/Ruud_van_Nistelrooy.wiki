@@ -1,4 +1,4 @@
-<!-- Ruud van Nistelrooy | revision 2026-10-09T15:18:57Z -->
+<!-- Ruud van Nistelrooy | revision 2026-10-25T22:18:12Z -->
 {{short description|Dutch professional footballer and manager}}
 {{family name hatnote|lang=Dutch|van Nistelrooy|wrong=Nistelrooy|Nistelrooy}}
 {{Redirect|van Nistelrooij|the politician|Lambert van Nistelrooij}}
@@ -7,17 +7,17 @@
 | name = Ruud van Nistelrooy
 | image = Ruud van Nistelrooy 2017.jpg
 | caption = Van Nistelrooy in 2017
-| fullname = Rutgerus Johannes Martinus van Nistelrooij<ref>{{cite web |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |title=2006 FIFA World Cup Germany: List of Players: Netherlands |publisher=FIFA |page=19 |date=21 March 2014 |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019 |url-status=live}}</ref>
+| full_name = Rutgerus Johannes Martinus van Nistelrooij<ref>{{cite web |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |title=2006 FIFA World Cup Germany: List of Players: Netherlands |publisher=FIFA |page=19 |date=21 March 2014 |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019 |url-status=live}}</ref>
 | birth_date = {{birth date and age|1976|7|1|df=y}}<ref name=Hugman>{{Hugman|20108|access-date=5 October 2017}}</ref>
 | birth_place = [[Oss]], Netherlands
 | height = 1.88 m<ref name=PremProfile/>
 | position = [[Striker (association football)|Striker]]
-| youthyears1 = 1981–1990
-| youthclubs1 = Nooit Gedacht
-| youthyears2 = 1990–1991
-| youthclubs2 = RKSV Margriet
-| youthyears3 = 1991–1993
-| youthclubs3 = [[FC Den Bosch|Den Bosch]]
+| youth_years1 = 1981–1990
+| youth_clubs1 = Nooit Gedacht
+| youth_years2 = 1990–1991
+| youth_clubs2 = RKSV Margriet
+| youth_years3 = 1991–1993
+| youth_clubs3 = [[FC Den Bosch|Den Bosch]]
 | years1 = 1993–1997
 | clubs1 = [[FC Den Bosch|Den Bosch]]
 | caps1 = 69
@@ -46,26 +46,26 @@
 | clubs7 = [[Málaga CF|Málaga]]
 | caps7 = 28
 | goals7 = 4
-| totalcaps = 449
-| totalgoals = 249<!-- LEAGUE ONLY -->
-| nationalyears1 = 1997–1998
-| nationalteam1 = [[Netherlands national under-21 football team|Netherlands U21]]
-| nationalcaps1 = 4
-| nationalgoals1 = 0
-| nationalyears2 = 1998–2011
-| nationalteam2 = [[Netherlands national football team|Netherlands]]
-| nationalcaps2 = 70
-| nationalgoals2 = 35
-| manageryears1 = 2021–2022
-| managerclubs1 = [[Jong PSV]]
-| manageryears2 = 2022–2023
-| managerclubs2 = [[PSV Eindhoven|PSV]]
-| manageryears3 = 2024
-| managerclubs3 = [[Manchester United F.C.|Manchester United]] (caretaker)
-| manageryears4 = 2024–2025
-| managerclubs4 = [[Leicester City F.C.|Leicester City]]
-| managerclubs5 = [[Netherlands national football team|Netherlands]] (assistant)
-| manageryears5 = 2026–
+| total_caps = 449
+| total_goals = 249<!-- LEAGUE ONLY -->
+| national_years1 = 1997–1998
+| national_team1 = [[Netherlands national under-21 football team|Netherlands U21]]
+| national_caps1 = 4
+| national_goals1 = 0
+| national_years2 = 1998–2011
+| national_team2 = [[Netherlands national football team|Netherlands]]
+| national_caps2 = 70
+| national_goals2 = 35
+| manager_years1 = 2021–2022
+| manager_clubs1 = [[Jong PSV]]
+| manager_years2 = 2022–2023
+| manager_clubs2 = [[PSV Eindhoven|PSV]]
+| manager_years3 = 2024
+| manager_clubs3 = [[Manchester United F.C.|Manchester United]] (caretaker)
+| manager_years4 = 2024–2025
+| manager_clubs4 = [[Leicester City F.C.|Leicester City]]
+| manager_clubs5 = [[Netherlands national football team|Netherlands]] (assistant)
+| manager_years5 = 2026–
 }}
 
 '''Rutgerus Johannes Martinus van Nistelrooij''' ({{IPA|nl|ˈryt fɑn ˈnɪstəlroːi}}; born 1 July 1976), commonly known by his [[Anglicisation of names|anglicised]] name of '''Ruud''' '''van Nistelrooy''' ({{IPAc-en|v|æ|n|_|ˈ|n|ɪ|s|t|l̩|r|ɔɪ}}), is a Dutch professional [[Association football|football]] manager and former player. He is currently working as an assistant coach of the [[Netherlands national football team]]. Widely regarded as one of the best strikers of his generation, Van Nistelrooy was the top scorer in three [[UEFA Champions League]] seasons and is the all-time Dutch [[European Cup and UEFA Champions League records and statistics#All-time top scorers|top goalscorer]] in the competition's history with 56 goals. He has also been the top scorer in three European domestic leagues.<ref>{{Cite web |last=Tighe |first=Sam |title=Ranking the Top 60 Strikers of All Time |url=https://bleacherreport.com/articles/1954831-ranking-the-top-60-strikers-of-all-time |access-date=23 May 2024 |website=Bleacher Report |language=en}}</ref> In 2004, he was listed in the [[FIFA 100]] of the world's greatest living players.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/3533891.stm |title=Pele's list of the greatest |work=BBC Sport |date=4 March 2004 |access-date=16 November 2013 |archive-date=19 October 2018 |archive-url=https://web.archive.org/web/20181019205959/http://news.bbc.co.uk/sport2/hi/football/3533891.stm |url-status=live }}</ref>
@@ -220,7 +220,7 @@ Van Nistelrooy married his girlfriend and former professional cyclist, Leontien 
 ===Charity===
 Van Nistelrooy and his wife are both heavily involved with the charity organization [[SOS Children's Villages]]. The organization has been around since 1949 and is an international development charity which serves to protect the interests and rights of children. Van Nistelrooy was officially appointed "FIFA for SOS Children's Villages" Ambassador in the Netherlands on 1 September 2001.<ref>{{cite news |title=The Netherlands: Ruud van Nistelrooy |url=http://www.sos-childrensvillages.org/get-involved/celebrities-as-partners/fifa-ambassadors-europe/pages/netherlands-ruud-van-nistelrooy.aspx |publisher=SOS Children's Villages |access-date=19 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100617065944/http://www.sos-childrensvillages.org/Get-involved/Celebrities-as-partners/FIFA-ambassadors-Europe/Pages/Netherlands-Ruud-van-Nistelrooy.aspx |archive-date=17 June 2010}}</ref>
 
-On 17 November 2009, Van Nistelrooy and his wife hosted SOS at [[Ciudad Real Madrid]]. The purpose of the event was to help create a calendar which would be sold to benefit the organization.<ref>{{cite news |title=Van Nistelrooy's Charity Work |url=http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |publisher=Real Madrid CF |date=17 November 2009 |access-date=19 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091120185259/http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |archive-date=20 November 2009}}</ref>
+On 17 November 2009, Van Nistelrooy and his wife hosted SOS at [[Ciudad Real Madrid]]. The purpose of the event was to help create a calendar which would be sold to benefit the organisation.<ref>{{cite news |title=Van Nistelrooy's Charity Work |url=http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |publisher=Real Madrid CF |date=17 November 2009 |access-date=19 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091120185259/http://www.realmadrid.com/cs/Satellite/en/1202804440334/noticia/Noticia/Van_Nistelrooy_s_charity_work.htm |archive-date=20 November 2009}}</ref>
 
 ===Endorsements===
 Van Nistelrooy was sponsored by sportswear company [[Nike, Inc.|Nike]] and appeared in Nike commercials. In a global Nike advertising campaign in the run-up to the 2002 World Cup in Korea and Japan, he starred in a "[[Secret Tournament]]" commercial (branded "Scorpion KO") directed by [[Terry Gilliam]], appearing alongside football players such as [[Thierry Henry]], [[Ronaldo (Brazilian footballer)|Ronaldo]], [[Edgar Davids]], [[Fabio Cannavaro]], [[Francesco Totti]], [[Ronaldinho]], [[Luís Figo]] and [[Hidetoshi Nakata]], with former player [[Eric Cantona]] as the tournament "referee".<ref>{{cite news|title=A lighter shoe, cooler kits, a faster ball, a Secret Tournament – every touch counts |url=http://www.nikebiz.com/story/stry_scorpion.shtml |work=NikeBiz |publisher=Nike |access-date=21 July 2012 |url-status=dead |archive-url=https://web.archive.org/web/20020602055510/http://www.nikebiz.com/story/stry_scorpion.shtml |archive-date=2 June 2002}}</ref><ref>{{cite news |last=Cozens |first=Claire |date=3 April 2002 |title=Cantona hosts World Cup with a difference |url=https://www.theguardian.com/media/2002/apr/03/advertising.worldcupfootball2002?INTCMP=ILCNETTXT3487 |url-status=live |archive-url=https://web.archive.org/web/20180701165023/https://www.theguardian.com/media/2002/apr/03/advertising.worldcupfootball2002?INTCMP=ILCNETTXT3487 |archive-date=1 July 2018 |access-date=21 July 2012 |work=The Guardian |issn=0261-3077}}</ref>

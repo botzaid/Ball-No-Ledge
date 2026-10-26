@@ -1,4 +1,4 @@
-<!-- Rafael van der Vaart | revision 2026-10-20T21:47:36Z -->
+<!-- Rafael van der Vaart | revision 2026-10-26T00:10:47Z -->
 {{short description|Dutch footballer (born 1983)}}
 {{Redirect|Van der Vaart|other people with the same surname|Van der Vaart (surname)}}
 {{Family name hatnote|lang=Dutch|van der Vaart|wrong=Vaart|Vaart}}
@@ -13,11 +13,11 @@
 | birth_place = [[Heemskerk]], North Holland, Netherlands
 | height = 1.76 m<ref>{{cite web|title=Spielerprofil – Rafael van der Vaart|url=http://www.hsv.de/teams/bundesliga/spieler/spielerportraits/?s1p1=356|publisher=Hamburger SV|access-date=8 June 2013|language=de|url-status=dead|archive-url=https://web.archive.org/web/20130530034104/http://www.hsv.de/teams/bundesliga/spieler/spielerportraits/?s1p1=356|archive-date=30 May 2013}}</ref>
 | position = [[Attacking midfielder]]
-| currentclub = 
-| youthyears1 = 1987–1993
-| youthclubs1 = De Kennemers
-| youthyears2 = 1993–2000
-| youthclubs2 = [[Ajax Academy|Ajax]]
+| current_club = 
+| youth_years1 = 1987–1993
+| youth_clubs1 = De Kennemers
+| youth_years2 = 1993–2000
+| youth_clubs2 = [[Ajax Academy|Ajax]]
 | years1 = 2000–2005
 | clubs1 = [[AFC Ajax|Ajax]]
 | caps1 = 117
@@ -50,25 +50,25 @@
 | clubs8 = [[Esbjerg fB|Esbjerg]]
 | caps8 = 3
 | goals8 = 0
-| totalcaps = 417
-| totalgoals = 135
-| nationalyears1 = 1998–1999
-| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
-| nationalcaps1 = 13
-| nationalgoals1 = 5
-| nationalyears2 = 1999–2000
-| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
-| nationalcaps2 = 8
-| nationalgoals2 = 2
-| nationalyears3 = 2000–2001
-| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
-| nationalcaps3 = 4
-| nationalgoals3 = 2
-| nationalyears4 = 2001–2013
-| nationalteam4 = [[Netherlands national football team|Netherlands]]
-| nationalcaps4 = 109
-| nationalgoals4 = 25
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 417
+| total_goals = 135
+| national_years1 = 1998–1999
+| national_team1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| national_caps1 = 13
+| national_goals1 = 5
+| national_years2 = 1999–2000
+| national_team2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| national_caps2 = 8
+| national_goals2 = 2
+| national_years3 = 2000–2001
+| national_team3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| national_caps3 = 4
+| national_goals3 = 2
+| national_years4 = 2001–2013
+| national_team4 = [[Netherlands national football team|Netherlands]]
+| national_caps4 = 109
+| national_goals4 = 25
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{medal|Country|{{fb|NED}}}}
 {{medalCompetition|[[FIFA World Cup]]}}
 {{medal|RU|[[2010 FIFA World Cup|2010 South Africa]]|}}
@@ -76,10 +76,10 @@
 {{Medal|B|[[UEFA Euro 2004|2004 Portugal]]|}}
 {{MedalCompetition|[[UEFA European Under-16 Championship]]}}
 {{Medal|B|[[2000 UEFA European Under-16 Championship|2000 Israel]]|[[Netherlands national under-16 football team|U-16 Team]]}}
-| manageryears1 = 2021–2023
-| managerclubs1 = [[Esbjerg fB|Esbjerg]] (assistant)
-| manageryears2 = 2022
-| managerclubs2 = [[Esbjerg fB|Esbjerg]] (caretaker)
+| manager_years1 = 2021–2023
+| manager_clubs1 = [[Esbjerg fB|Esbjerg]] (assistant)
+| manager_years2 = 2022
+| manager_clubs2 = [[Esbjerg fB|Esbjerg]] (caretaker)
 }}
 '''Rafael Ferdinand van der Vaart''' ({{IPA|nl|vɑn dər vaːrt|}}; born 11 February 1983) is a Dutch former professional [[association football|footballer]] who played as an [[attacking midfielder]]. Noted for his exceptional talent and his technical and playmaking abilities, he was considered one of the best [[midfielders]] in the world during his playing days. He is widely regarded as one of the best [[Netherlands|Dutch]] players of all time.<ref name="EfB henter van der Vaart - EfB">{{Cite news |date=2022-03-12 |title=Rafael van der Vaart interim-trainer bij Deense club Esbjerg |trans-title=Rafael van der Vaart is interim coach at Danish club Esbjerg. |url=https://www.telegraaf.nl/sport/1707016853/rafael-van-der-vaart-interim-trainer-bij-deense-club-esbjerg |access-date=2022-03-12 |work=De Telegraaf |language=nl-NL}}</ref>
 

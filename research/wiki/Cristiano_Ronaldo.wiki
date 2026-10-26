@@ -1,4 +1,4 @@
-<!-- Cristiano Ronaldo | revision 2026-10-22T03:49:29Z -->
+<!-- Cristiano Ronaldo | revision 2026-10-24T20:26:50Z -->
 {{Short description|Portuguese footballer (born 1985)}}
 {{Redirect|CR7|the NASCAR team|CR7 Motorsports|other uses|Cristiano Ronaldo (disambiguation)|and|CR7 (disambiguation)}}
 {{pp-move}}
@@ -51,7 +51,7 @@
 | goals6 = 19
 | years7 = 2023–
 | clubs7 = [[Al-Nassr FC|Al-Nassr]]
-| caps7 = 115
+| caps7 = 116
 | goals7 = 106<!-- LEAGUE ONLY -->
 | national_years1 = 2001
 | national_team1 = [[Portugal national under-15 football team|Portugal U15]]
@@ -77,7 +77,7 @@
 | national_team6 = [[Portugal national football team|Portugal]]
 | national_caps6 = [[List of men's footballers with 100 or more international caps#Men's footballers with 100 or more international caps|234]]
 | national_goals6 = [[List of international goals scored by Cristiano Ronaldo|146]]
-| club_update = 22:00, 20 October 2026 (UTC)
+| club_update = 15:44, 23 October 2026 (UTC)
 | national_team_update = 24 September 2026 (UTC)
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}<!--DO NOT EDIT OUT HOST NATION FOR TEAM COMPETITIONS-->
 {{MedalCountry|{{fb|POR}}}}
@@ -369,7 +369,7 @@ In an interview with [[Piers Morgan]] in early November 2025, Ronaldo stated a w
 
 ==Career statistics==
 ===Club===
-{{updated|match played 20 October 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe18623/cristiano-ronaldo/club-matches/ |title=Cristiano Ronaldo » Club matches |website=WorldFootball.net |date=11 September 2024 |access-date=23 November 2024}}</ref><ref name=SW>{{Soccerway|382|access-date=23 November 2024}}</ref><ref name="ref">{{cite magazine |date=January 2007 |title=The Winners |magazine=World Soccer |pages=26–27}}</ref>
+{{updated|match played 23 October 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe18623/cristiano-ronaldo/club-matches/ |title=Cristiano Ronaldo » Club matches |website=WorldFootball.net |date=11 September 2024 |access-date=23 November 2024}}</ref><ref name=SW>{{Soccerway|382|access-date=23 November 2024}}</ref><ref name="ref">{{cite magazine |date=January 2007 |title=The Winners |magazine=World Soccer |pages=26–27}}</ref>
 {| class="wikitable nowrap" style="text-align:center"
 |+ Appearances and goals by club, season and competition
 !rowspan=2|Club
@@ -513,13 +513,13 @@ In an interview with [[Piers Morgan]] in early November 2025, Ronaldo stated a w
 |-
 |[[2026–27 Al-Nassr FC season|2026–27]]
 |Saudi Pro League
-|8||4||0||0||colspan="2"|—||2{{efn|name=ACL}}||1||0||0||10||5
+|9||4||0||0||colspan="2"|—||2{{efn|name=ACL}}||1||0||0||11||5
 |-
 !colspan="2"|Total
-!115!!106!!8!!3!!0!!0!!23!!16!!12!!9!!158!!134
+!116!!106!!8!!3!!0!!0!!23!!16!!12!!9!!159!!134
 |-
 !colspan="3"|Career total
-!768!!604!!78!!44!!12!!4!!218!!159!!33!!24!!1,109!!835
+!769!!604!!78!!44!!12!!4!!218!!159!!33!!24!!1,110!!835
 |}
 <templatestyles src="Reflist/styles.css" /><div class="reflist reflist-lower-alpha"><references group="lower-alpha" /></div><templatestyles src="Reflist/styles.css" /><div class="reflist reflist-lower-alpha"></div>
 
@@ -929,7 +929,6 @@ In an interview with [[Piers Morgan]] in early November 2025, Ronaldo stated a w
 {{Sister project links|c=Category:Cristiano Ronaldo|wikt=no|s=no|v=no|b=no|d=yes}}
 * {{Official website}}
 * [https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro Profile] at [[Real Madrid CF]]
-* [https://www.manutd.com/en/players-and-staff/detail/cristiano-ronaldo Profile] at [[Manchester United F.C.]]
 * {{FPF national player}}
 * {{FIFA player}}
 * {{UEFA player}}

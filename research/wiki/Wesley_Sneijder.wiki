@@ -1,4 +1,4 @@
-<!-- Wesley Sneijder | revision 2026-10-14T02:21:48Z -->
+<!-- Wesley Sneijder | revision 2026-10-26T00:10:42Z -->
 {{short description|Dutch footballer (born 1984)}}
 {{Use dmy dates|date=December 2024}}
 {{Infobox football biography
@@ -11,10 +11,10 @@
 | birth_place = [[Utrecht]], Netherlands
 | height = 1.70 m<ref>{{cite web|url=http://www.inter.it/aas/squadra/player1?codgioc=G0856&L=it&stagione=2009/10 |title=Wesley Sneijder |language=it |publisher=Inter Milan |archive-url=https://web.archive.org/web/20100402201844/http://www.inter.it/aas/squadra/player1?codgioc=G0856&L=it&stagione=2009/10 |archive-date=2 April 2010}}</ref>
 | position = [[Midfielder#Attacking midfielder|Attacking midfielder]]
-| youthyears1 = 1990–1991
-| youthclubs1 = [[VV DOS|DOS]]
-| youthyears2 = 1991–2002
-| youthclubs2 = [[Ajax Youth Academy|Ajax]]
+| youth_years1 = 1990–1991
+| youth_clubs1 = [[VV DOS|DOS]]
+| youth_years2 = 1991–2002
+| youth_clubs2 = [[Ajax Youth Academy|Ajax]]
 | years1 = 2002–2007
 | clubs1 = [[AFC Ajax|Ajax]]
 | caps1 = 126
@@ -39,25 +39,25 @@
 | clubs6 = [[Al-Gharafa Sports Club|Al-Gharafa]]
 | caps6 = 22
 | goals6 = 15
-| totalcaps = 405
-| totalgoals = 117
-| nationalyears1 = 2000–2001
-| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
-| nationalcaps1 = 6
-| nationalgoals1 = 2
-| nationalyears2 = 2001–2002
-| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
-| nationalcaps2 = 8
-| nationalgoals2 = 3
-| nationalyears3 = 2003
-| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
-| nationalcaps3 = 1
-| nationalgoals3 = 0
-| nationalyears4 = 2003–2018
-| nationalteam4 = [[Netherlands national football team|Netherlands]]
-| nationalcaps4 = 134
-| nationalgoals4 = 31
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 405
+| total_goals = 117
+| national_years1 = 2000–2001
+| national_team1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| national_caps1 = 6
+| national_goals1 = 2
+| national_years2 = 2001–2002
+| national_team2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| national_caps2 = 8
+| national_goals2 = 3
+| national_years3 = 2003
+| national_team3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| national_caps3 = 1
+| national_goals3 = 0
+| national_years4 = 2003–2018
+| national_team4 = [[Netherlands national football team|Netherlands]]
+| national_caps4 = 134
+| national_goals4 = 31
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{medal|Country|{{fb|NED}}}}
 {{MedalCompetition|[[FIFA World Cup]]}} 
 {{Medal|RU|[[2010 FIFA World Cup|2010]]|}}

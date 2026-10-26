@@ -1,4 +1,4 @@
-<!-- Arda Güler | revision 2026-10-22T15:12:33Z -->
+<!-- Arda Güler | revision 2026-10-25T22:05:22Z -->
 {{Short description|Turkish footballer (born 2005)}}
 {{distinguish|Ara Güler}}
 {{Use dmy dates|date=July 2024}}
@@ -11,33 +11,33 @@
 | birth_date = {{birth date and age|2005|2|25|df=y}}<ref name="Real Madrid">{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/arda-guler |title=Arda Güler |publisher=Real Madrid CF |access-date=13 October 2024 |archive-date=8 December 2025 |archive-url=https://web.archive.org/web/20251208113724/https://www.realmadrid.com/en-US/football/first-team/players/arda-guler |url-status=live }}</ref>
 | birth_place = [[Altındağ]], Turkey
 | height = 1.75 m<ref name="Real Madrid"/>
-| position = [[Attacking midfielder]],<ref name="2021-22 club number">{{cite news|title=Arda Güler |url=https://www.uefa.com/uefaeuropaleague/clubs/players/250161881--arda-arda-guler/statistics/?referrer=%2Fuefaeuropaleague%2Fseason%3D2022%2Fclubs%2Fplayer%3D250161881--arda-arda-guler%2Fstatistics%2Findex |publisher=[[UEFA]]|accessdate=20 August 2021 |archiveurl=https://archive.today/20210820080302/https://www.uefa.com/uefaeuropaleague/clubs/players/250161881--arda-arda-guler/statistics/?referrer=/uefaeuropaleague/season%3D2022/clubs/player%3D250161881--arda-arda-guler/statistics/index|archivedate=20 August 2021}}</ref>
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 15
-| youthyears1 = 2014–2019
-| youthclubs1 = [[Gençlerbirliği]]
-| youthyears2 = 2019–2021
-| youthclubs2 = [[Fenerbahçe S.K. Academy|Fenerbahçe]]
+| position = {{hlist|[[Attacking midfielder]], [[Forward (association football)|winger]]}}
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 15
+| youth_years1 = 2014–2019
+| youth_clubs1 = [[Gençlerbirliği]]
+| youth_years2 = 2019–2021
+| youth_clubs2 = [[Fenerbahçe S.K. Academy|Fenerbahçe]]
 | years1 = 2021–2023
 | clubs1 = [[Fenerbahçe S.K. (football)|Fenerbahçe]]
 | caps1 = 32
 | goals1 = 7
 | years2 = 2023–
 | clubs2 = [[Real Madrid CF|Real Madrid]]
-| caps2 = 80<!--Only league games-->
+| caps2 = 81<!--Only league games-->
 | goals2 = 15
-| nationalyears1 = 2021–2022
-| nationalteam1 = [[Turkey national under-17 football team|Turkey U17]]
-| nationalcaps1 = 10
-| nationalgoals1 = 4
-| nationalyears3 = 2022–
-| nationalteam3 = [[Turkey national football team|Turkey]]
-| nationalcaps3 = 36
-| nationalgoals3 = 7
-| club-update = 21:04, 18 October 2026 (UTC)
-| nationalteam-update = 09:44, 3 October 2026 (UTC)
+| national_years1 = 2021–2022
+| national_team1 = [[Turkey national under-17 football team|Turkey U17]]
+| national_caps1 = 10
+| national_goals1 = 4
+| national_years3 = 2022–
+| national_team3 = [[Turkey national football team|Turkey]]
+| national_caps3 = 36
+| national_goals3 = 7
+| club_update = 22:05, 25 October 2026 (UTC)
+| national_team_update = 09:44, 3 October 2026 (UTC)
 }}
-'''Arda Güler''' ({{IPA|tr|aɾˈda ˈɟylæɾ|-|Arda Güler - Name.ogg}}; born 25 February 2005) is a Turkish professional footballer who plays as an [[attacking midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Turkey national football team|Turkey national team]]. Known for his technical ability and skill, he is regarded as one of the best young players in the world.<ref name=":2" /><ref name=":3" /><ref name=":4" /><ref name=":5" />
+'''Arda Güler''' ({{IPA|tr|aɾˈda ˈɟylæɾ|-|Arda Güler - Name.ogg}}; born 25 February 2005) is a Turkish professional footballer who plays as an [[attacking midfielder]] or [[Forward (association football)|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Turkey national football team|Turkey national team]]. Known for his technical ability and skill, he is regarded as one of the best young players in the world.<ref name=":2" /><ref name=":3" /><ref name=":4" /><ref name=":5" />
 
 Güler began his senior career with the Turkish club [[Fenerbahçe S.K. (football)|Fenerbahçe]] in 2021, where he won the [[Turkish Cup]] in 2023. In the summer of the latter year, Güler signed with Spanish side Real Madrid. In his inaugural [[2023–24 Real Madrid CF season|season]] with the Spanish giants, he won [[2023–24 La Liga|La Liga]] and the [[2023–24 UEFA Champions League|UEFA Champions League]].
 
@@ -97,7 +97,7 @@ Considered by various media outlets and commentators to be one of the best young
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}<ref name="Club Stats 1">{{cite news|title=Arda Güler @ Fenerbahçe SK|url=http://arsiv.mackolik.com/Player/Default.aspx?id=620781|publisher=mackolik.com|access-date=5 October 2022|language=Tr|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627030442/http://arsiv.mackolik.com/Player/Default.aspx?id=620781|url-status=live}}</ref><ref name="Club Stats 2">{{cite web|title=Turkey – A.Guler – Profile|url=https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|website=Soccerbase|access-date=23 September 2025|archive-date=19 October 2022|archive-url=https://web.archive.org/web/20221019074240/https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|url-status=live}}</ref>
+{{updated|match played 25 October 2026}}<ref name="Club Stats 1">{{cite news|title=Arda Güler @ Fenerbahçe SK|url=http://arsiv.mackolik.com/Player/Default.aspx?id=620781|publisher=mackolik.com|access-date=5 October 2022|language=Tr|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627030442/http://arsiv.mackolik.com/Player/Default.aspx?id=620781|url-status=live}}</ref><ref name="Club Stats 2">{{cite web|title=Turkey – A.Guler – Profile|url=https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|website=Soccerbase|access-date=23 September 2025|archive-date=19 October 2022|archive-url=https://web.archive.org/web/20221019074240/https://www.soccerbase.com/players/player.sd?player_id=136420&season_id=154|url-status=live}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -138,13 +138,13 @@ Considered by various media outlets and commentators to be one of the best young
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|9||2||0||0||2{{efn|name=UCL}}||1||0||0||11||3
+|10||2||0||0||2{{efn|name=UCL}}||1||0||0||12||3
 |-
 !colspan="2"|Total
-!80!!15!!9!!2!!23!!3!!11!!1!!123!!21
+!81!!15!!9!!2!!23!!3!!11!!1!!124!!21
 |-
 !colspan="3"|Career total
-!112!!22!!14!!3!!37!!4!!11!!1!!174!!30
+!113!!22!!14!!3!!37!!4!!11!!1!!175!!30
 |}
 {{notelist}}
 
@@ -229,7 +229,7 @@ Considered by various media outlets and commentators to be one of the best young
 | bg          = #E30A17
 | fg          = white
 | bordercolor = #BF000B
-| list1       =
+| list1       = 
 {{Turkey squad UEFA Euro 2024}}
 {{Turkey squad 2026 FIFA World Cup}}
 }}

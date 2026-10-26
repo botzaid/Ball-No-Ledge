@@ -1,4 +1,4 @@
-<!-- Santiago Solari | revision 2026-08-17T03:04:49Z -->
+<!-- Santiago Solari | revision 2026-10-26T00:24:02Z -->
 {{Short description|Argentine footballer and manager (born 1976)}}
 {{For|the active Argentine football winger|Santiago Solari (footballer, born 1998)}}
 {{family name hatnote|Solari|Poggio|lang=Spanish}}
@@ -12,10 +12,10 @@
 | birth_place = [[Rosario]], Argentina
 | height = 1.84 m<ref name=FIFA/>
 | position = [[Left midfielder]]
-| currentclub = [[Real Madrid CF|Real Madrid]] (director of football)
-| collegeyears1 = 1994 | college1 = [[Stockton University|Stockton Ospreys]]
-| youthyears1 = 1994–1995 | youthclubs1 = [[Newell's Old Boys]]
-| youthyears2 = 1995–1996 | youthclubs2 = [[Club Renato Cesarini]]
+| current_club = [[Real Madrid CF|Real Madrid]] (director of football)
+| college_years1 = 1994 | college1 = [[Stockton University|Stockton Ospreys]]
+| youth_years1 = 1994–1995 | youth_clubs1 = [[Newell's Old Boys]]
+| youth_years2 = 1995–1996 | youth_clubs2 = [[Club Renato Cesarini]]
 | years1 = 1996–1998 | clubs1 = [[Club Atlético River Plate|River Plate]] | caps1 = 67 | goals1 = 13
 | years2 = 1999–2000 | clubs2 = [[Atlético Madrid]] | caps2 = 46 | goals2 = 7
 | years3 = 2000–2005 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 131 | goals3 = 10
@@ -23,11 +23,11 @@
 | years5 = 2008–2009 | clubs5 = [[San Lorenzo de Almagro|San Lorenzo]] | caps5 = 26 | goals5 = 4
 | years6 = 2009–2010 | clubs6 = [[Atlante F.C.|Atlante]] | caps6 = 33 | goals6 = 5
 | years7 = 2010–2011 | clubs7 = [[Peñarol]] | caps7 = 9 | goals7 = 0
-| totalcaps = 351 | totalgoals = 43
-| nationalyears1 = 1999–2004 | nationalteam1 = [[Argentina national football team|Argentina]] | nationalcaps1 = 11 | nationalgoals1 = 1
-| manageryears1 = 2016–2018 | managerclubs1 = [[Real Madrid Castilla]]
-| manageryears2 = 2018–2019 | managerclubs2 = [[Real Madrid CF|Real Madrid]]
-| manageryears3 = 2020–2022 | managerclubs3 = [[Club América|América]]
+| total_caps = 351 | total_goals = 43
+| national_years1 = 1999–2004 | national_team1 = [[Argentina national football team|Argentina]] | national_caps1 = 11 | national_goals1 = 1
+| manager_years1 = 2016–2018 | manager_clubs1 = [[Real Madrid Castilla]]
+| manager_years2 = 2018–2019 | manager_clubs2 = [[Real Madrid CF|Real Madrid]]
+| manager_years3 = 2020–2022 | manager_clubs3 = [[Club América|América]]
 }}
 '''Santiago Hernán Solari Poggio''' (born 7 October 1976) is an Argentine professional [[association football|football]] [[manager (association football)|manager]] and former player who played as a [[left midfielder]]. A product of [[Club Atlético River Plate|River Plate]]'s extensive youth academy names, where he made his professional debut in 1996, Solari then went to play for two [[La Liga|LaLiga]] clubs, [[Atlético Madrid]] and [[Real Madrid CF|Real Madrid]], and for [[Serie A]] club [[Inter Milan]].
 

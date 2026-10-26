@@ -1,4 +1,4 @@
-<!-- Zinedine Zidane | revision 2026-10-19T09:36:24Z -->
+<!-- Zinedine Zidane | revision 2026-10-25T22:10:08Z -->
 {{Short description|French football player and manager (born 1972)}}{{Redirect|Zizou|other people|Zizou (name)}}
 {{pp-blp|small=yes}}
 {{Use dmy dates|date=April 2024}}
@@ -12,15 +12,15 @@
 | birth_place = [[Marseille]], France
 | height = 1.85 m<ref>{{cite web |url=http://www.juventus.com/en/players/player_profile/0,2377,5,00.html |title=Zinedine Zidane |publisher=Juventus FC |archive-url=https://web.archive.org/web/20000613074033/http://www.juventus.com/en/players/player_profile/0,2377,5,00.html |archive-date=13 June 2000}}</ref>
 | position = [[Attacking midfielder]]
-| currentclub = [[France national football team|France]] (head coach)
-| youthyears1 = 1981–1982
-| youthclubs1 = Foresta
-| youthyears2 = 1982–1983
-| youthclubs2 = Saint-Henri
-| youthyears3 = 1983–1987
-| youthclubs3 = Septèmes-les-Vallons
-| youthyears4 = 1987–1989
-| youthclubs4 = [[AS Cannes|Cannes]]
+| current_club = [[France national football team|France]] (head coach)
+| youth_years1 = 1981–1982
+| youth_clubs1 = Foresta
+| youth_years2 = 1982–1983
+| youth_clubs2 = Saint-Henri
+| youth_years3 = 1983–1987
+| youth_clubs3 = Septèmes-les-Vallons
+| youth_years4 = 1987–1989
+| youth_clubs4 = [[AS Cannes|Cannes]]
 | years1 = 1989–1992
 | clubs1 = [[AS Cannes|Cannes]]
 | caps1 = 61
@@ -37,37 +37,37 @@
 | clubs4 = [[Real Madrid CF|Real Madrid]]
 | caps4 = 155
 | goals4 = 37
-| totalcaps = 506
-| totalgoals = 95
-| nationalyears1 = 1987–1988
-| nationalteam1 = [[France national under-16 football team|France U16]]
-| nationalcaps1 = 
-| nationalgoals1 = 
-| nationalyears2 = 1988–1989
-| nationalteam2 = [[France national under-17 football team|France U17]]
-| nationalcaps2 = 4
-| nationalgoals2 = 1
-| nationalyears3 = 1989–1990
-| nationalteam3 = [[France national under-18 football team|France U18]]
-| nationalcaps3 = 6
-| nationalgoals3 = 0
-| nationalyears4 = 1990–1994
-| nationalteam4 = [[France national under-21 football team|France U21]]
-| nationalcaps4 = 20
-| nationalgoals4 = 3
-| nationalyears5 = 1994–2006
-| nationalteam5 = [[France national football team|France]]
-| nationalcaps5 = 108
-| nationalgoals5 = 31
-| manageryears1 = 2014–2016
-| managerclubs1 = [[Real Madrid Castilla]]
-| manageryears2 = 2016–2018
-| managerclubs2 = [[Real Madrid CF|Real Madrid]]
-| manageryears3 = 2019–2021
-| managerclubs3 = [[Real Madrid CF|Real Madrid]]
-| manageryears4 = 2026–
-| managerclubs4 = [[France national football team|France]]
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 506
+| total_goals = 95
+| national_years1 = 1987–1988
+| national_team1 = [[France national under-16 football team|France U16]]
+| national_caps1 = 
+| national_goals1 = 
+| national_years2 = 1988–1989
+| national_team2 = [[France national under-17 football team|France U17]]
+| national_caps2 = 4
+| national_goals2 = 1
+| national_years3 = 1989–1990
+| national_team3 = [[France national under-18 football team|France U18]]
+| national_caps3 = 6
+| national_goals3 = 0
+| national_years4 = 1990–1994
+| national_team4 = [[France national under-21 football team|France U21]]
+| national_caps4 = 20
+| national_goals4 = 3
+| national_years5 = 1994–2006
+| national_team5 = [[France national football team|France]]
+| national_caps5 = 108
+| national_goals5 = 31
+| manager_years1 = 2014–2016
+| manager_clubs1 = [[Real Madrid Castilla]]
+| manager_years2 = 2016–2018
+| manager_clubs2 = [[Real Madrid CF|Real Madrid]]
+| manager_years3 = 2019–2021
+| manager_clubs3 = [[Real Madrid CF|Real Madrid]]
+| manager_years4 = 2026–
+| manager_clubs4 = [[France national football team|France]]
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA|1974}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|W|[[1998 FIFA World Cup|1998]]|}}

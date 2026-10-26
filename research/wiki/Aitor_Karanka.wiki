@@ -1,38 +1,76 @@
-<!-- Aitor Karanka | revision 2026-09-25T19:40:55Z -->
+<!-- Aitor Karanka | revision 2026-10-23T02:44:08Z -->
 {{Short description|Spanish footballer (born 1973)}}
 {{family name hatnote|Karanka|De la Hoz|lang=Spanish}}
 {{Use dmy dates|date=November 2015}}
 {{Infobox football biography
-| name = Aitor Karanka
-| image = Aitor Karanka.jpg
-| caption = Karanka in 2009
-| fullname = Aitor Karanka de la Hoz<ref name=Profile>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/026/26.html|title=Aitor KARANKA de la Hoz|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=25 June 2019}}</ref>
-| birth_date = {{birth date and age|1973|9|18|df=y}}<ref name=Profile/>
-| birth_place = [[Vitoria-Gasteiz|Vitoria]], Spain
-| height = 1.81m<ref name=Profile/>
-| position = [[Centre-back]]
-| currentclub = 
-| youthyears1 = | youthclubs1 = Corazonistas
-| youthyears2 = | youthclubs2 = [[Deportivo Alavés|Alavés]]
-| youthyears3 = 1991–1992 | youthclubs3 = [[Athletic Bilbao Cantera|Athletic Bilbao]]
-| years1 = 1992–1994 | clubs1 = [[Athletic Bilbao B|Bilbao Athletic]] | caps1 = 53 | goals1 = 2
-| years2 = 1993–1997 | clubs2 = [[Athletic Bilbao]] | caps2 = 118 | goals2 = 2
-| years3 = 1997–2002 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 93 | goals3 = 0
-| years4 = 2002–2006 | clubs4 = [[Athletic Bilbao]] | caps4 = 64 | goals4 = 2
-| years5 = 2006 | clubs5 = [[Colorado Rapids]] | caps5 = 27 | goals5 = 0
-| totalcaps = 355 | totalgoals = 6
-| nationalyears1 = 1993–1996 | nationalteam1 = [[Spain national under-21 football team|Spain U21]] | nationalcaps1 = 14 | nationalgoals1 = 0
-| nationalyears2 = 1996 | nationalteam2 = [[Spain national under-23 football team|Spain U23]] | nationalcaps2 = 4 | nationalgoals2 = 0
-| nationalyears3 = 1995 | nationalteam3 = [[Spain national football team|Spain]] | nationalcaps3 = 1 | nationalgoals3 = 0
-| nationalyears4 = 1994–2004 | nationalteam4 = [[Basque Country national football team|Basque Country]] | nationalcaps4 = 6 | nationalgoals4 = 0
-| manageryears1 = 2008–2010 | managerclubs1 = [[Spain national under-16 football team|Spain U16]]
-| manageryears2 = 2010–2013 | managerclubs2 = [[Real Madrid CF|Real Madrid]] (assistant)
-| manageryears3 = 2013–2017 | managerclubs3 = [[Middlesbrough F.C.|Middlesbrough]]
-| manageryears4 = 2018–2019 | managerclubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
-| manageryears5 = 2020–2021 | managerclubs5 = [[Birmingham City F.C.|Birmingham City]]
-| manageryears6 = 2022 | managerclubs6 = [[Granada CF|Granada]]
-| manageryears7 = 2023 | managerclubs7 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
-| medaltemplates = 
+ | name = Aitor Karanka
+ | image = Aitor Karanka.jpg
+ | caption = Karanka in 2009
+ | full_name = Aitor Karanka de la Hoz<ref name=Profile>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/026/26.html|title=Aitor KARANKA de la Hoz|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=25 June 2019}}</ref>
+ | birth_date = {{birth date and age|1973|9|18|df=y}}<ref name=Profile/>
+ | birth_place = [[Vitoria-Gasteiz|Vitoria]], Spain
+ | height = 1.81m<ref name=Profile/>
+ | position = [[Centre-back]]
+ | current_club = 
+ | youth_years1 =
+ | youth_clubs1 = Corazonistas
+ | youth_years2 =
+ | youth_clubs2 = [[Deportivo Alavés|Alavés]]
+ | youth_years3 = 1991–1992
+ | youth_clubs3 = [[Athletic Bilbao Cantera|Athletic Bilbao]]
+ | years1 = 1992–1994
+ | clubs1 = [[Athletic Bilbao B|Bilbao Athletic]]
+ | caps1 = 53
+ | goals1 = 2
+ | years2 = 1993–1997
+ | clubs2 = [[Athletic Bilbao]]
+ | caps2 = 118
+ | goals2 = 2
+ | years3 = 1997–2002
+ | clubs3 = [[Real Madrid CF|Real Madrid]]
+ | caps3 = 93
+ | goals3 = 0
+ | years4 = 2002–2006
+ | clubs4 = [[Athletic Bilbao]]
+ | caps4 = 64
+ | goals4 = 2
+ | years5 = 2006
+ | clubs5 = [[Colorado Rapids]]
+ | caps5 = 27
+ | goals5 = 0
+ | total_caps = 355
+ | total_goals = 6
+ | national_years1 = 1993–1996
+ | national_team1 = [[Spain national under-21 football team|Spain U21]]
+ | national_caps1 = 14
+ | national_goals1 = 0
+ | national_years2 = 1996
+ | national_team2 = [[Spain national under-23 football team|Spain U23]]
+ | national_caps2 = 4
+ | national_goals2 = 0
+ | national_years3 = 1995
+ | national_team3 = [[Spain national football team|Spain]]
+ | national_caps3 = 1
+ | national_goals3 = 0
+ | national_years4 = 1994–2004
+ | national_team4 = [[Basque Country national football team|Basque Country]]
+ | national_caps4 = 6
+ | national_goals4 = 0
+ | manager_years1 = 2008–2010
+ | manager_clubs1 = [[Spain national under-16 football team|Spain U16]]
+ | manager_years2 = 2010–2013
+ | manager_clubs2 = [[Real Madrid CF|Real Madrid]] (assistant)
+ | manager_years3 = 2013–2017
+ | manager_clubs3 = [[Middlesbrough F.C.|Middlesbrough]]
+ | manager_years4 = 2018–2019
+ | manager_clubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
+ | manager_years5 = 2020–2021
+ | manager_clubs5 = [[Birmingham City F.C.|Birmingham City]]
+ | manager_years6 = 2022
+ | manager_clubs6 = [[Granada CF|Granada]]
+ | manager_years7 = 2023
+ | manager_clubs7 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+ | medal_templates = 
 {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|ESP}}}}
 {{Medal|Comp|[[UEFA European Under-21 Championship]]}}

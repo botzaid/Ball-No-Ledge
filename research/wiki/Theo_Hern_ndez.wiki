@@ -1,4 +1,4 @@
-<!-- Théo Hernandez | revision 2026-10-21T21:29:38Z -->
+<!-- Théo Hernandez | revision 2026-10-23T20:12:01Z -->
 {{short description|French footballer (born 1997)}}
 {{Use dmy dates|date=December 2022}}
 {{Infobox football biography
@@ -38,7 +38,7 @@
 | goals5 = 31
 | years6 = 2025–
 | clubs6 = [[Al Hilal SFC|Al Hilal]]
-| caps6 = 36
+| caps6 = 37
 | goals6 = 6
 | nationalyears1 = 2015
 | nationalteam1 = [[France national under-18 football team|France U18]]
@@ -63,7 +63,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|W|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club-update = 22:39, 19 October 2026 (UTC)
+| club-update = 22:11, 23 October 2026 (UTC)
 | nationalteam-update = 23:15, 18 July 2026 (UTC)
 }}
 '''Théo Bernard François Hernandez''' ({{IPA|fr|teo ɛʁnɑ̃dɛz, - ɛʁnandɛs}};<ref>{{cite web |date=27 March 2022 |title=Le OUI-NON avec les FRÈRES Hernandez ! |trans-title=The YES-NO with the Hernandez BROTHERS ! |url=https://www.youtube.com/watch?v=Ms8PQ5ou-Xo&t=95s |access-date=2 July 2023 |website=YouTube |language=fr}}</ref> born 6 October 1997) is a French professional [[Association football|footballer]] who plays primarily as a [[left-back]] for [[Saudi Pro League]] club [[Al Hilal SFC|Al Hilal]] and the  [[France national football team|France national team]].

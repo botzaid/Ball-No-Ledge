@@ -1,4 +1,4 @@
-<!-- Xabi Alonso | revision 2026-10-20T13:52:59Z -->
+<!-- Xabi Alonso | revision 2026-10-26T00:15:37Z -->
 {{short description|Spanish football manager and player (born 1981)}}
 {{Use dmy dates|date=June 2025}}
 {{good article}}
@@ -11,9 +11,9 @@
 | birth_place = [[Tolosa, Spain|Tolosa]], Spain<ref name="LFC:Profile"/>
 | height = 1.83 m<ref name="LFC:Profile">{{cite web|url=http://www.liverpoolfc.tv/team/squad/alonso/|title=Xabi Alonso: Player Profile|publisher=[[Liverpool F.C.]]|access-date=5 June 2022|archive-url=https://web.archive.org/web/20090102003945/http://www.liverpoolfc.tv/team/squad/alonso/|archive-date=2 January 2009}}</ref>
 | position = [[Midfielder]]
-| currentclub = [[Chelsea F.C.|Chelsea]] (manager)
-| youthyears1 = 1990–1999
-| youthclubs1 = [[Antiguoko]]
+| current_club = [[Chelsea F.C.|Chelsea]] (manager)
+| youth_years1 = 1990–1999
+| youth_clubs1 = [[Antiguoko]]
 | years1 = 1999–2000
 | clubs1 = [[Real Sociedad B]]
 | caps1 = 39
@@ -38,33 +38,33 @@
 | clubs6 = [[FC Bayern Munich|Bayern Munich]]
 | caps6 = 79
 | goals6 = 5
-| totalcaps = 547
-| totalgoals = 35
-| nationalyears1 = 2000
-| nationalteam1 = [[Spain national under-18 football team|Spain U18]]
-| nationalcaps1 = 1
-| nationalgoals1 = 0
-| nationalyears2 = 2002–2003
-| nationalteam2 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps2 = 9
-| nationalgoals2 = 0
-| nationalyears3 = 2001–2012
-| nationalteam3 = [[Basque Country national football team|Basque Country]]
-| nationalcaps3 = 5
-| nationalgoals3 = 0
-| nationalyears4 = 2003–2014
-| nationalteam4 = [[Spain national football team|Spain]]
-| nationalcaps4 = 114
-| nationalgoals4 = 16
-| manageryears1 = 2019–2022
-| managerclubs1 = [[Real Sociedad B]]
-| manageryears2 = 2022–2025
-| managerclubs2 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
-| manageryears3 = 2025–2026
-| managerclubs3 = [[Real Madrid CF|Real Madrid]]
-| manageryears4 = 2026–
-| managerclubs4 = [[Chelsea F.C.|Chelsea]]
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| total_caps = 547
+| total_goals = 35
+| national_years1 = 2000
+| national_team1 = [[Spain national under-18 football team|Spain U18]]
+| national_caps1 = 1
+| national_goals1 = 0
+| national_years2 = 2002–2003
+| national_team2 = [[Spain national under-21 football team|Spain U21]]
+| national_caps2 = 9
+| national_goals2 = 0
+| national_years3 = 2001–2012
+| national_team3 = [[Basque Country national football team|Basque Country]]
+| national_caps3 = 5
+| national_goals3 = 0
+| national_years4 = 2003–2014
+| national_team4 = [[Spain national football team|Spain]]
+| national_caps4 = 114
+| national_goals4 = 16
+| manager_years1 = 2019–2022
+| manager_clubs1 = [[Real Sociedad B]]
+| manager_years2 = 2022–2025
+| manager_clubs2 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| manager_years3 = 2025–2026
+| manager_clubs3 = [[Real Madrid CF|Real Madrid]]
+| manager_years4 = 2026–
+| manager_clubs4 = [[Chelsea F.C.|Chelsea]]
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|W|[[2010 FIFA World Cup|2010 South Africa]]|}}
@@ -204,9 +204,9 @@ Alonso made his debut for the [[Basque Country national football team|Basque Cou
 ==Style of play==
 Known for his consistency and work rate, Alonso is regarded as one of the best midfielders of his generation, recognized for his effectiveness in both creative and defensive roles.<ref name="bundesliga.com_1">{{cite web | url = http://www.bundesliga.com/en/liga/news/2014/0000303084.php | title = Xabi Alonso: FC Bayern's indisputable Ballmagnet | publisher = bundesliga.com | date = 28 September 2014 | access-date = 3 December 2014 | url-status = dead | archive-url = https://web.archive.org/web/20141003081720/http://www.bundesliga.com/en/liga/news/2014/0000303084.php | archive-date = 3 October 2014 | df = dmy-all}}</ref>
 
-With good technique, excellent vision, and varied passing range, he excelled in the [[Midfielder#Central midfielder|centre]] in a [[Playmaker#Deep-lying playmakers|deep-lying playmaking]] role, where he utilized his accurate [[Long ball (Football)|long passing]] ability to create goal scoring chances for his teammates;<ref>{{cite web | url = http://www.espnfc.com/blog/espn-fc-united-blog/68/post/2103551/xabi-alonso-provides-the-tempo-that-makes-bayerns-jazz-flow | title = Xabi Alonso provides the tempo that makes Bayern's jazz flow | publisher = ESPN FC | date = 22 October 2014 | access-date = 3 December 2014 | first = Raphael | last = Honigstein | archive-date = 28 March 2019 | archive-url = https://web.archive.org/web/20190328215513/http://www.espnfc.com/blog/espn-fc-united-blog/68/post/2103551/xabi-alonso-provides-the-tempo-that-makes-bayerns-jazz-flow | url-status = live }}</ref> he also utilized a powerful and accurate shot from distance, and he was an effective [[Set piece (football)|set-piece]] and [[Penalty kick (association football)|penalty kick]] taker.<ref name="bundesliga.com_1" /><ref>{{cite web |last=D'Alessio |first=Stefano |date=16 April 2012 |title=Campioni ai Raggi X: Xabi Alonso e l'arte del passaggio |trans-title=Champions Under the X-Ray: Xabi Alonso and the art of passing. |url=http://www.calciomercato.it/news/153706/Campioni-ai-Raggi-X-Xabi-Alonso-e-larte-del-passaggio.html |url-status=dead |archive-url=https://web.archive.org/web/20150203083426/http://www.calciomercato.it/news/153706/Campioni-ai-Raggi-X-Xabi-Alonso-e-larte-del-passaggio.html |archive-date=3 February 2015 |access-date=3 December 2014 |publisher=calciomercato.it |language=it}}</ref><ref>{{cite web |last=Pedullà |first=Alfredo |date=17 November 2013 |title=Pirlo e Xabi Alonso: vietato fare confusione. Inter-Milan e la potenziale nuova mappa dei direttori, Sabatini in testa. Lodi, uno da Toro. Leonardi da applausi. La tessera del tifoso: qualcuno paghi |trans-title=Pirlo and Xabi Alonso: don’t mix them up. Inter-Milan and the potential new map of directors, with Sabatini leading the way. Lodi, a perfect fit for Torino. Applause for Leonardi. The fan ID card: someone should pay. |url=http://www.tuttomercatoweb.com/editoriale/pirlo-e-xabi-alonso-vietato-fare-confusione-inter-milan-e-la-potenziale-nuova-mappa-dei-direttori-sabatini-in-testa-lodi-uno-da-toro-leonardi-da-appla-502420 |access-date=3 December 2014 |publisher=tuttomercatoweb.com |language=it |archive-date=26 July 2021 |archive-url=https://web.archive.org/web/20210726202923/https://www.tuttomercatoweb.com/editoriale/pirlo-e-xabi-alonso-vietato-fare-confusione-inter-milan-e-la-potenziale-nuova-mappa-dei-direttori-sabatini-in-testa-lodi-uno-da-toro-leonardi-da-appla-502420 |url-status=live }}</ref> Due to his height, positioning, and physical characteristics, Alonso was also effective in the air, often contributing with headed goals from set pieces when he advanced into more offensive positions.<ref>{{cite news |date=23 June 2012 |title=Spagna, ci pensa Xabi Alonso Francia spenta ed eliminata |trans-title=Spain, Xabi Alonso takes care of it – France dull and eliminated. |url=http://www.gazzetta.it/Europei/2012/23-06-2012/spagna-ci-pensa-xabi-alonso-francia-spenta-ed-eliminata-911621155933.shtml |access-date=3 December 2014 |newspaper=La Gazzetta dello Sport |language=it |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407174849/https://www.gazzetta.it/Europei/2012/23-06-2012/spagna-ci-pensa-xabi-alonso-francia-spenta-ed-eliminata-911621155933.shtml |url-status=live }}</ref>
+With good technique, excellent vision, and varied passing range, he excelled in the [[Midfielder#Central midfielder|centre]] in a [[Playmaker#Deep-lying playmakers|deep-lying playmaking]] role, where he utilized his accurate [[Long ball|long passing]] ability to create goal scoring chances for his teammates;<ref>{{cite web | url = http://www.espnfc.com/blog/espn-fc-united-blog/68/post/2103551/xabi-alonso-provides-the-tempo-that-makes-bayerns-jazz-flow | title = Xabi Alonso provides the tempo that makes Bayern's jazz flow | publisher = ESPN FC | date = 22 October 2014 | access-date = 3 December 2014 | first = Raphael | last = Honigstein | archive-date = 28 March 2019 | archive-url = https://web.archive.org/web/20190328215513/http://www.espnfc.com/blog/espn-fc-united-blog/68/post/2103551/xabi-alonso-provides-the-tempo-that-makes-bayerns-jazz-flow | url-status = live }}</ref> he also utilized a powerful and accurate shot from distance, and he was an effective [[Set piece (football)|set-piece]] and [[Penalty kick (association football)|penalty kick]] taker.<ref name="bundesliga.com_1" /><ref>{{cite web |last=D'Alessio |first=Stefano |date=16 April 2012 |title=Campioni ai Raggi X: Xabi Alonso e l'arte del passaggio |trans-title=Champions Under the X-Ray: Xabi Alonso and the art of passing. |url=http://www.calciomercato.it/news/153706/Campioni-ai-Raggi-X-Xabi-Alonso-e-larte-del-passaggio.html |url-status=dead |archive-url=https://web.archive.org/web/20150203083426/http://www.calciomercato.it/news/153706/Campioni-ai-Raggi-X-Xabi-Alonso-e-larte-del-passaggio.html |archive-date=3 February 2015 |access-date=3 December 2014 |publisher=calciomercato.it |language=it}}</ref><ref>{{cite web |last=Pedullà |first=Alfredo |date=17 November 2013 |title=Pirlo e Xabi Alonso: vietato fare confusione. Inter-Milan e la potenziale nuova mappa dei direttori, Sabatini in testa. Lodi, uno da Toro. Leonardi da applausi. La tessera del tifoso: qualcuno paghi |trans-title=Pirlo and Xabi Alonso: don’t mix them up. Inter-Milan and the potential new map of directors, with Sabatini leading the way. Lodi, a perfect fit for Torino. Applause for Leonardi. The fan ID card: someone should pay. |url=http://www.tuttomercatoweb.com/editoriale/pirlo-e-xabi-alonso-vietato-fare-confusione-inter-milan-e-la-potenziale-nuova-mappa-dei-direttori-sabatini-in-testa-lodi-uno-da-toro-leonardi-da-appla-502420 |access-date=3 December 2014 |publisher=tuttomercatoweb.com |language=it |archive-date=26 July 2021 |archive-url=https://web.archive.org/web/20210726202923/https://www.tuttomercatoweb.com/editoriale/pirlo-e-xabi-alonso-vietato-fare-confusione-inter-milan-e-la-potenziale-nuova-mappa-dei-direttori-sabatini-in-testa-lodi-uno-da-toro-leonardi-da-appla-502420 |url-status=live }}</ref> Due to his height, positioning, and physical characteristics, Alonso was also effective in the air, often contributing with headed goals from set pieces when he advanced into more offensive positions.<ref>{{cite news |date=23 June 2012 |title=Spagna, ci pensa Xabi Alonso Francia spenta ed eliminata |trans-title=Spain, Xabi Alonso takes care of it – France dull and eliminated. |url=http://www.gazzetta.it/Europei/2012/23-06-2012/spagna-ci-pensa-xabi-alonso-francia-spenta-ed-eliminata-911621155933.shtml |access-date=3 December 2014 |newspaper=La Gazzetta dello Sport |language=it |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407174849/https://www.gazzetta.it/Europei/2012/23-06-2012/spagna-ci-pensa-xabi-alonso-francia-spenta-ed-eliminata-911621155933.shtml |url-status=live }}</ref>
 
-In addition to his creative attributes, he was also capable of excelling as a [[defensive midfielder]] due to his strength and powerful physique, combined with his tenacity, tactical intelligence, aggressive tackling and his ability to read the game.<ref name="bundesliga.com_1" /><ref>{{cite web | url = http://www.ilpost.it/2014/10/21/roma-bayern-monaco/ | title = Roma-Bayern Monaco, stasera | language = it | publisher = ilpost.it | date = 21 October 2014 | access-date = 3 December 2014 | archive-date = 23 February 2025 | archive-url = https://web.archive.org/web/20250223033030/https://www.ilpost.it/2014/10/21/roma-bayern-monaco/ | url-status = live }}</ref><ref>{{cite web |date=24 June 2012 |title=La Spagna gioca da sola contro la Francia e si merita la semifinale |trans-title=Spain plays alone against France and deserves the semifinal. |url=http://www.ilfoglio.it/articoli/v/103382/rubriche/la-spagna-gioca-da-sola-contro-la-francia-e-si-merita-la-semifinale.htm |url-status=dead |archive-url=https://web.archive.org/web/20150203094818/http://www.ilfoglio.it/articoli/v/103382/rubriche/la-spagna-gioca-da-sola-contro-la-francia-e-si-merita-la-semifinale.htm |archive-date=3 February 2015 |access-date=3 December 2014 |publisher=Il Foglio |language=it}}</ref> He was at times criticised, however, for occasionally committing rash challenges and for his tendency to lose his composure and pick up unnecessary cards for particularly hard fouls.<ref>{{cite web | url = https://bleacherreport.com/articles/2045834-xabi-alonso-suspended-for-champions-league-final-after-yellow-card | title = Xabi Alonso Slams UEFA Rule After Earning Suspension for Champions League Final | publisher = bleacherreport.com | date = 29 April 2014 | access-date = 3 December 2014 | first = Tim | last = Keeney | archive-date = 3 February 2015 | archive-url = https://web.archive.org/web/20150203100027/http://bleacherreport.com/articles/2045834-xabi-alonso-suspended-for-champions-league-final-after-yellow-card | url-status = live }}</ref>
+In addition to his creative attributes, he was also capable of excelling as a [[Midfielder#Defensive midfielder|defensive midfielder]] due to his strength and powerful physique, combined with his tenacity, tactical intelligence, aggressive tackling and his ability to read the game.<ref name="bundesliga.com_1" /><ref>{{cite web | url = http://www.ilpost.it/2014/10/21/roma-bayern-monaco/ | title = Roma-Bayern Monaco, stasera | language = it | publisher = ilpost.it | date = 21 October 2014 | access-date = 3 December 2014 | archive-date = 23 February 2025 | archive-url = https://web.archive.org/web/20250223033030/https://www.ilpost.it/2014/10/21/roma-bayern-monaco/ | url-status = live }}</ref><ref>{{cite web |date=24 June 2012 |title=La Spagna gioca da sola contro la Francia e si merita la semifinale |trans-title=Spain plays alone against France and deserves the semifinal. |url=http://www.ilfoglio.it/articoli/v/103382/rubriche/la-spagna-gioca-da-sola-contro-la-francia-e-si-merita-la-semifinale.htm |url-status=dead |archive-url=https://web.archive.org/web/20150203094818/http://www.ilfoglio.it/articoli/v/103382/rubriche/la-spagna-gioca-da-sola-contro-la-francia-e-si-merita-la-semifinale.htm |archive-date=3 February 2015 |access-date=3 December 2014 |publisher=Il Foglio |language=it}}</ref> He was at times criticised, however, for occasionally committing rash challenges and for his tendency to lose his composure and pick up unnecessary cards for particularly hard fouls.<ref>{{cite web | url = https://bleacherreport.com/articles/2045834-xabi-alonso-suspended-for-champions-league-final-after-yellow-card | title = Xabi Alonso Slams UEFA Rule After Earning Suspension for Champions League Final | publisher = bleacherreport.com | date = 29 April 2014 | access-date = 3 December 2014 | first = Tim | last = Keeney | archive-date = 3 February 2015 | archive-url = https://web.archive.org/web/20150203100027/http://bleacherreport.com/articles/2045834-xabi-alonso-suspended-for-champions-league-final-after-yellow-card | url-status = live }}</ref>
 
 Regarding Alonso's playing style, [[Jonathan Wilson (writer)|Jonathan Wilson]] noted in a 2013 article for ''[[The Guardian]]'' that he was an example of a more creative interpreter of the holding midfield role, who, "although capable of making tackles, focused on keeping the ball moving, occasionally raking long passes out to the flanks to change the angle of attack like an old-style regista."<ref name="WilsonHolding13">{{Cite web|url=https://www.theguardian.com/football/blog/2013/dec/18/question-holding-midfielders-changing-role|title=The Question: what does the changing role of holding midfielders tell us?|last=Wilson|first=Jonathan|author-link=Jonathan Wilson (writer)|date=18 December 2013|work=[[The Guardian]]|access-date=31 October 2014|archive-date=28 March 2019|archive-url=https://web.archive.org/web/20190328172618/https://www.theguardian.com/football/blog/2013/dec/18/question-holding-midfielders-changing-role|url-status=live}}</ref> His role has also been likened to that of a ''[[Midfielder#Centre-half|metodista]]'' ("centre-half", in Italian football jargon), due to his ability to dictate play in midfield as well as assist his team defensively.<ref>{{cite web |date=22 May 2017 |title=Jorginho è l'Oro di Napoli: celebrato anche da La Gazzetta dello Sport |trans-title=Jorginho is Naples' Gold: celebrated even by La Gazzetta dello Sport. |url=https://www.90min.com/it/posts/5036619-jorginho-e-l-oro-di-napoli-celebrato-anche-da-la-gazzetta-dello-sport |access-date=13 April 2022 |website=90min.com |language=it |archive-date=25 April 2025 |archive-url=https://web.archive.org/web/20250425215626/https://www.90min.com/it/posts/5036619-jorginho-e-l-oro-di-napoli-celebrato-anche-da-la-gazzetta-dello-sport |url-status=live }}</ref>
 
@@ -455,7 +455,7 @@ Alonso is related to footballer [[Eliseo Mouriño]], who was a member of [[Argen
 |}
 
 ==Managerial statistics==
-{{updated|match played 17 October 2026}}
+{{updated|match played 24 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
@@ -496,11 +496,11 @@ Alonso is related to footballer [[Eliseo Mouriño]], who was a member of [[Argen
 |align="left"|[[Chelsea F.C.|Chelsea]]
 |align="left"|1 July 2026
 |align="left"|Present
-{{WDL|9|6|1|2|for=25|against=16|diff=yes}}
+{{WDL|10|6|1|3|for=25|against=18|diff=yes}}
 |<ref name="Sofascore"/><ref name="Soccerbase"/><ref>{{Cite web|url=https://uk.soccerway.com/team/chelsea/4fGZN2oK/results/|title=Chelsea results|publisher=Soccerway|access-date=24 August 2026|archive-date=26 August 2026|archive-url=https://web.archive.org/web/20260826060146/https://uk.soccerway.com/team/chelsea/4fGZN2oK/results/|url-status=live}}</ref>
 |-
 !colspan="3"|Career Total
-{{WDLtot|281|158|61|62|for=543|against=323|diff=yes}}
+{{WDLtot|282|158|61|63|for=543|against=325|diff=yes}}
 ! 
 |}
 

@@ -1,4 +1,4 @@
-<!-- Isco | revision 2026-10-21T21:04:07Z -->
+<!-- Isco | revision 2026-10-25T17:10:00Z -->
 {{short description|Spanish footballer (born 1992)}}
 {{Other uses|ISCO (disambiguation){{!}}ISCO}}
 {{family name hatnote|Alarcón|Suárez|lang=Spanish}}
@@ -43,7 +43,7 @@
 | years6 = 2023–
 | clubs6 = [[Real Betis|Betis]]
 | caps6 = 68
-| goals6 = 21
+| goals6 = 20
 | nationalyears1 = 2008
 | nationalteam1 = [[Spain national under-16 football team|Spain U16]]
 | nationalcaps1 = 3
@@ -84,7 +84,7 @@
 {{Medal|3rd|[[2009 FIFA U-17 World Cup|2009 Nigeria]]|[[2009 FIFA U-17 World Cup squads#Spain|Team]]}}
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}
 {{Medal|W|[[2013 UEFA European Under-21 Championship|2013 Israel]]| [[2013 UEFA European Under-21 Championship squads#Spain|Team]]}}
-| club-update = 23:49, 11 October 2026 (UTC)
+| club-update = 23:49, 25 October 2026 (UTC)
 | nationalteam-update = 8 June 2025 (UTC)
 }}
 '''Francisco Román Alarcón Suárez''' ({{IPA|es|fɾanˈθisk roˈman alaɾˈkon ˈswaɾeθ}}; born 21 April 1992), commonly known as '''Isco''' ({{IPA|es|ˈisko|}}), is a Spanish professional [[Association football|footballer]] who plays as an [[Midfielder|attacking midfielder]] or [[left winger]] for [[La Liga]] club [[Real Betis]], which he [[Captain (association football)|captains]], and the [[Spain national football team|Spain national team]].
@@ -167,7 +167,7 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
+{{updated|match played 25 October 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -270,13 +270,13 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 |-
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|8||2||0||0||3{{efn|name=UCL}}||2||colspan="2"|—||11||4
+|9||2||0||0||3{{efn|name=UCL}}||2||colspan="2"|—||12||4
 |-
 !colspan="2"|Total
-!67!!20!!3!!1!!19!!5!!colspan="2"|—!!89!!26
+!68!!20!!3!!1!!19!!5!!colspan="2"|—!!90!!26
 |-
 !colspan="3"|Career total
-!450!!87!!39!!10!!99!!15!!16!!3!!604!!115
+!451!!87!!39!!10!!99!!15!!16!!3!!605!!115
 |}
 {{notelist}}
 

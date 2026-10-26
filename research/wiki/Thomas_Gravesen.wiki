@@ -1,18 +1,18 @@
-<!-- Thomas Gravesen | revision 2026-09-06T17:36:46Z -->
+<!-- Thomas Gravesen | revision 2026-10-26T00:11:32Z -->
 {{short description|Danish former footballer (born 1976)}}
 {{Use dmy dates|date=July 2020}}
 {{Infobox football biography
 | name = Thomas Gravesen
 | image = 
 | caption = 
-| fullname = Thomas Gravesen<ref name=Hugman>{{Hugman|7626|access-date=15 May 2018}}</ref>
+| full_name = Thomas Gravesen<ref name=Hugman>{{Hugman|7626|access-date=15 May 2018}}</ref>
 | birth_date = {{Birth date and age|1976|03|11|df=y}}<ref name=Hugman/>
 | birth_place = [[Vejle]], Denmark
 | height = 
 | position = [[Midfielder]]
-| currentclub = 
-| youthyears1 = 
-| youthclubs1 = [[Vejle Boldklub|Vejle]]
+| current_club = 
+| youth_years1 = 
+| youth_clubs1 = [[Vejle Boldklub|Vejle]]
 | years1 = 1995–1997
 | clubs1 = [[Vejle Boldklub|Vejle]]
 | caps1 = 58
@@ -37,20 +37,20 @@
 | clubs6 = → [[Everton F.C.|Everton]] (loan)
 | caps6 = 8
 | goals6 = 0
-| totalcaps = 337
-| totalgoals = 34
-| nationalyears1 = 1995
-| nationalteam1 = Denmark U19
-| nationalcaps1 = 3
-| nationalgoals1 = 0
-| nationalyears2 = 1996–1997
-| nationalteam2 = [[Denmark national under-21 football team|Denmark U21]]
-| nationalcaps2 = 11
-| nationalgoals2 = 4
-| nationalyears3 = 1998–2006
-| nationalteam3 = [[Denmark national football team|Denmark]]
-| nationalcaps3 = 66
-| nationalgoals3 = 5
+| total_caps = 337
+| total_goals = 34
+| national_years1 = 1995
+| national_team1 = Denmark U19
+| national_caps1 = 3
+| national_goals1 = 0
+| national_years2 = 1996–1997
+| national_team2 = [[Denmark national under-21 football team|Denmark U21]]
+| national_caps2 = 11
+| national_goals2 = 4
+| national_years3 = 1998–2006
+| national_team3 = [[Denmark national football team|Denmark]]
+| national_caps3 = 66
+| national_goals3 = 5
 }}
 '''Thomas Gravesen''' ({{IPA|da|ˈtsʰʌmæs ˈkʁɑːwəsn̩}}; born 11 March 1976) is a Danish former professional [[Association football|footballer]] who played as a [[midfielder]].
 

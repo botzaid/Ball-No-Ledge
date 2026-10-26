@@ -1,83 +1,38 @@
-<!-- Fernando Morientes | revision 2026-10-22T04:13:34Z -->
+<!-- Fernando Morientes | revision 2026-10-26T00:06:03Z -->
 {{Short description|Spanish footballer and manager (born 1976)}}
 {{family name hatnote|Morientes|Sánchez|lang=Spanish}}
 {{Use dmy dates|date=March 2021}}
 {{Infobox football biography
- | name = Fernando Morientes
- | image = Fernando Morientes - 53822470816.jpg
- | image_size = 220
- | caption = Morientes in a charity match in 2024
- | full_name = Fernando Morientes Sánchez<ref name=Profile>{{cite news|url=https://www.elmundo.es/elmundodeporte/especiales/2003/06/madridcampeon/jugadores/morientes.html|title=Fernando MORIENTES Sánchez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=28 December 2022}}</ref><ref>{{cite web|url=http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|title=FIFA Club World Championship Japan 2005 – Official rosters|publisher=FIFA|date=4 December 2005|access-date=28 December 2022|url-status=dead|archive-url=https://web.archive.org/web/20051219093824/http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|archive-date=19 December 2005}}</ref>
- | birth_date = {{birth date and age|1976|4|5|df=y}}<ref name=Profile/>
- | birth_place = [[Cilleros]], Spain<ref name=Profile/>
- | height = 1.84 m<ref name=Profile/>
- | position = [[Striker (association football)|Striker]]
- | current_club =
- | youth_years1 =
- | youth_clubs1 = [[CD Sonseca|Sonseca]]
- | youth_years2 = 1992–1993
- | youth_clubs2 = [[Albacete Balompié|Albacete]]
- | years1 = 1993–1995
- | clubs1 = [[Albacete Balompié|Albacete]]
- | caps1 = 22
- | goals1 = 5
- | years2 = 1995–1997
- | clubs2 = [[Real Zaragoza|Zaragoza]]
- | caps2 = 66
- | goals2 = 28
- | years3 = 1997–2005
- | clubs3 = [[Real Madrid CF|Real Madrid]]
- | caps3 = 183
- | goals3 = 72
- | years4 = 2003–2004
- | clubs4 = → [[AS Monaco FC|Monaco]] (loan)
- | caps4 = 28
- | goals4 = 10
- | years5 = 2005–2006
- | clubs5 = [[Liverpool F.C.|Liverpool]]
- | caps5 = 41
- | goals5 = 8
- | years6 = 2006–2009
- | clubs6 = [[Valencia CF|Valencia]]
- | caps6 = 66
- | goals6 = 19
- | years7 = 2009–2010
- | clubs7 = [[Olympique de Marseille|Marseille]]
- | caps7 = 12
- | goals7 = 1
- | years8 = 2015
- | clubs8 = [[DAV Santa Ana|Santa Ana]]
- | caps8 = 3
- | goals8 = 0
- | total_caps = 421
- | total_goals = 143
- | national_years1 = 1993–1994
- | national_team1 = [[Spain national under-18 football team|Spain U18]]
- | national_caps1 = 12
- | national_goals1 = 10
- | national_years2 = 1995
- | national_team2 = [[Spain national under-20 football team|Spain U20]]
- | national_caps2 = 5
- | national_goals2 = 1
- | national_years3 = 1995–1998
- | national_team3 = [[Spain national under-21 football team|Spain U21]]
- | national_caps3 = 16
- | national_goals3 = 4
- | national_years4 = 1996
- | national_team4 = [[Spain national under-23 football team|Spain U23]]
- | national_caps4 = 2
- | national_goals4 = 0
- | national_years5 = 1998–2007
- | national_team5 = [[Spain men's national football team|Spain]]
- | national_caps5 = 47
- | national_goals5 = 27
- | manager_years1 = 2012
- | manager_clubs1 = [[Huracán Valencia CF|Huracán]] (youth)
- | manager_years2 = 2012–2014
- | manager_clubs2 = [[Real Madrid CF (youth)|Real Madrid (youth)]]
- | manager_years3 = 2015–2016
- | manager_clubs3 = [[CF Fuenlabrada|Fuenlabrada]]
- | medal_templates = {{MedalCountry|{{fb|ESP}}}}
+| name = Fernando Morientes
+| image = Fernando Morientes - 53822470816.jpg
+| image_size = 220
+| caption = Morientes in a charity match in 2024
+| full_name = Fernando Morientes Sánchez<ref name=Profile>{{cite news|url=https://www.elmundo.es/elmundodeporte/especiales/2003/06/madridcampeon/jugadores/morientes.html|title=Fernando MORIENTES Sánchez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=28 December 2022}}</ref><ref>{{cite web|url=http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|title=FIFA Club World Championship Japan 2005 – Official rosters|publisher=FIFA|date=4 December 2005|access-date=28 December 2022|url-status=dead|archive-url=https://web.archive.org/web/20051219093824/http://www.fifa.com/documents/tournaments/cwc/CWC_2005_sl-latest.xls|archive-date=19 December 2005}}</ref>
+| birth_date = {{birth date and age|1976|4|5|df=y}}<ref name=Profile/>
+| birth_place = [[Cilleros]], Spain<ref name=Profile/>
+| height = 1.84 m<ref name=Profile/>
+| position = [[Striker (association football)|Striker]]
+| current_club =
+| youth_years1 = | youth_clubs1 = [[CD Sonseca|Sonseca]]
+| youth_years2 = 1992–1993 | youth_clubs2 = [[Albacete Balompié|Albacete]]
+| years1 = 1993–1995 | clubs1 = [[Albacete Balompié|Albacete]] | caps1 = 22 | goals1 = 5
+| years2 = 1995–1997 | clubs2 = [[Real Zaragoza|Zaragoza]] | caps2 = 66 | goals2 = 28
+| years3 = 1997–2005 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 183 | goals3 = 72
+| years4 = 2003–2004 | clubs4 = → [[AS Monaco FC|Monaco]] (loan) | caps4 = 28 | goals4 = 10
+| years5 = 2005–2006 | clubs5 = [[Liverpool F.C.|Liverpool]] | caps5 = 41 | goals5 = 8
+| years6 = 2006–2009 | clubs6 = [[Valencia CF|Valencia]] | caps6 = 66 | goals6 = 19
+| years7 = 2009–2010 | clubs7 = [[Olympique de Marseille|Marseille]] | caps7 = 12 | goals7 = 1
+| years8 = 2015 | clubs8 = [[DAV Santa Ana|Santa Ana]] | caps8 = 3 | goals8 = 0
+| total_caps = 421 | total_goals = 143
+| national_years1 = 1993–1994 | national_team1 = [[Spain national under-18 football team|Spain U18]] | national_caps1 = 12 | national_goals1 = 10
+| national_years2 = 1995 | national_team2 = [[Spain national under-20 football team|Spain U20]] | national_caps2 = 5 | national_goals2 = 1
+| national_years3 = 1995–1998 | national_team3 = [[Spain national under-21 football team|Spain U21]] | national_caps3 = 16 | national_goals3 = 4
+| national_years4 = 1996 | national_team4 = [[Spain national under-23 football team|Spain U23]] | national_caps4 = 2 | national_goals4 = 0
+| national_years5 = 1998–2007 | national_team5 = [[Spain men's national football team|Spain]] | national_caps5 = 47 | national_goals5 = 27
+| manager_years1 = 2012 | manager_clubs1 = [[Huracán Valencia CF|Huracán]] (youth)
+| manager_years2 = 2012–2014 | manager_clubs2 = [[Real Madrid CF (youth)|Real Madrid (youth)]]
+| manager_years3 = 2015–2016 | manager_clubs3 = [[CF Fuenlabrada|Fuenlabrada]]
+| medal_templates = {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}
 {{Medal|W|[[1998 UEFA European Under-21 Championship|1998 Romania]]|}}
 {{Medal|RU|[[1996 UEFA European Under-21 Championship|1996 Spain]]|}}

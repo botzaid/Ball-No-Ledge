@@ -1,4 +1,4 @@
-<!-- Ricardo Carvalho | revision 2026-10-10T04:34:59Z -->
+<!-- Ricardo Carvalho | revision 2026-10-26T00:09:12Z -->
 {{short description|Portuguese football manager and former player}}
 {{about|the Portuguese footballer|other people}}
 {{Use dmy dates|date=February 2019}}
@@ -8,16 +8,16 @@
 | image = Ricardo Carvalho.jpg
 | alt = 
 | caption = Carvalho with [[Real Madrid CF|Real Madrid]] in 2012
-| fullname = Ricardo Alberto Silveira de Carvalho<ref>{{cite web |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |title=2006 FIFA World Cup Germany: List of Players: Portugal |publisher=FIFA |page=22 |date=21 March 2014 |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019}}</ref>
+| full_name = Ricardo Alberto Silveira de Carvalho<ref>{{cite web |url=https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |title=2006 FIFA World Cup Germany: List of Players: Portugal |publisher=FIFA |page=22 |date=21 March 2014 |archive-url=https://web.archive.org/web/20190610174527/https://www.fifadata.com/document/fwc/2006/PDF/FWC_2006_SquadLists.pdf |archive-date=10 June 2019}}</ref>
 | birth_date = {{Birth date and age|1978|5|18|df=y}}
 | birth_place = [[Amarante, Portugal|Amarante]], Portugal
 | height = {{convert|1.83|m|abbr=on}}<ref>{{cite web|url=http://www.asmonaco.com/en/player/ricardo-carvalho-2213.html|title=Ricardo Carvalho – First team – AS Monaco FC|work=AS Monaco FC : official site|archive-url=https://web.archive.org/web/20160521030302/http://www.asmonaco.com/en/player/ricardo-carvalho-2213.html|archive-date=21 May 2016|url-status=dead}}</ref>
-| currentclub = [[Portugal national football team|Portugal]] (assistant head coach)
+| current_club = [[Portugal national football team|Portugal]] (assistant head coach)
 | position = [[Centre-back]]
-| youthyears1 = 1989–1995
-| youthclubs1 = [[Amarante F.C.|Amarante]]
-| youthyears2 = 1995–1997
-| youthclubs2 = [[FC Porto|Porto]]
+| youth_years1 = 1989–1995
+| youth_clubs1 = [[Amarante F.C.|Amarante]]
+| youth_years2 = 1995–1997
+| youth_clubs2 = [[FC Porto|Porto]]
 | years1 = 1997–2004
 | clubs1 = [[FC Porto|Porto]]
 | caps1 = 73
@@ -50,21 +50,21 @@
 | clubs9 = [[Shanghai Port F.C.|Shanghai SIPG]]
 | caps9 = 4
 | goals9 = 0
-| totalcaps = 433
-| totalgoals = 19
-| nationalyears1 = 1998–1999
-| nationalteam1 = [[Portugal national under-21 football team|Portugal U21]]
-| nationalcaps1 = 14
-| nationalgoals1 = 1
-| nationalyears2 = 2003–2016
-| nationalteam2 = [[Portugal national football team|Portugal]]
-| nationalcaps2 = 89
-| nationalgoals2 = 5
-| manageryears1 = 2019–2021
-| managerclubs1 = [[Olympique de Marseille|Marseille]] (assistant)
-| manageryears2 = 2023–
-| managerclubs2 = [[Portugal national football team|Portugal]] (assistant)
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 433
+| total_goals = 19
+| national_years1 = 1998–1999
+| national_team1 = [[Portugal national under-21 football team|Portugal U21]]
+| national_caps1 = 14
+| national_goals1 = 1
+| national_years2 = 2003–2016
+| national_team2 = [[Portugal national football team|Portugal]]
+| national_caps2 = 89
+| national_goals2 = 5
+| manager_years1 = 2019–2021
+| manager_clubs1 = [[Olympique de Marseille|Marseille]] (assistant)
+| manager_years2 = 2023–
+| manager_clubs2 = [[Portugal national football team|Portugal]] (assistant)
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|POR}}}}
 {{Medal|Comp|[[UEFA European Championship]]|}}
 {{Medal|W|[[UEFA Euro 2016|2016 France]]|}}

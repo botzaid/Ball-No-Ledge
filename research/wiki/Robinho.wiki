@@ -1,4 +1,4 @@
-<!-- Robinho | revision 2026-10-10T17:24:07Z -->
+<!-- Robinho | revision 2026-10-26T00:30:07Z -->
 {{short description|Brazilian footballer (born 1984)}}
 {{Other people|Robinho}}
 {{EngvarB|date=December 2022}}
@@ -12,9 +12,9 @@
 | birth_place = [[São Vicente, São Paulo|São Vicente]], Brazil
 | height = 1.72 m<ref name="PremProfile"/>
 | position = [[Forward (association football)|Forward]]
-| currentclub =
-| youthyears1 = 1996–2002
-| youthclubs1 = [[Santos FC|Santos]]
+| current_club =
+| youth_years1 = 1996–2002
+| youth_clubs1 = [[Santos FC|Santos]]
 | years1 = 2002–2005
 | clubs1 = [[Santos FC|Santos]]
 | caps1 = 108
@@ -59,17 +59,17 @@
 | clubs11 = [[Santos FC|Santos]]
 | caps11 = 0
 | goals11 = 0
-| totalcaps = 542
-| totalgoals = 173
-| nationalyears1 = 2004
-| nationalteam1 = [[Brazil national under-23 football team|Brazil U23]]
-| nationalcaps1 = 8
-| nationalgoals1 = 3
-| nationalyears2 = 2003–2017
-| nationalteam2 = [[Brazil national football team|Brazil]]
-| nationalcaps2 = 100
-| nationalgoals2 = 28
-| medaltemplates = {{MedalSport|Men's [[Association football|Football]]}}
+| total_caps = 542
+| total_goals = 173
+| national_years1 = 2004
+| national_team1 = [[Brazil national under-23 football team|Brazil U23]]
+| national_caps1 = 8
+| national_goals1 = 3
+| national_years2 = 2003–2017
+| national_team2 = [[Brazil national football team|Brazil]]
+| national_caps2 = 100
+| national_goals2 = 28
+| medal_templates = {{MedalSport|Men's [[Association football|Football]]}}
 {{Medal|Country|{{fb|BRA}}}}
 {{MedalCompetition|[[FIFA Confederations Cup]]}}
 {{Medal|W|[[2009 FIFA Confederations Cup|2009 South Africa]]|}}

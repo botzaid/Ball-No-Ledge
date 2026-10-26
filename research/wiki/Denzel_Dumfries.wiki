@@ -1,4 +1,4 @@
-<!-- Denzel Dumfries | revision 2026-10-17T07:33:56Z -->
+<!-- Denzel Dumfries | revision 2026-10-25T22:05:49Z -->
 {{short description|Dutch  footballer (born 1996)}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
@@ -35,7 +35,7 @@
 | goals4 = 20
 | years5 = 2026–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 7
+| caps5 = 8
 | goals5 = 0
 | nationalyears1 = 2014
 | nationalteam1 = [[Aruba national football team|Aruba]]
@@ -59,7 +59,7 @@
 {{Medal|Bronze|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Netherlands|Team]]}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
-| club-update = 21:04, 10 October 2026 (UTC)
+| club-update = 22:05, 25 October 2026 (UTC)
 | nationalteam-update = 16:05, 5 October 2026 (UTC)
 }}
 '''Denzel Justus Morris Dumfries''' (born 18 April 1996) is a Dutch professional footballer who plays as a [[right-back]] or [[right wing-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Netherlands national football team|Netherlands national team]].
@@ -181,7 +181,7 @@ Dumfries is a devout [[Christianity|Christian]], and states that he prays along 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 14 October 2026}}<ref>{{Soccerway|335401|name=Denzel Dumfries|access-date=13 May 2026}}</ref>
+{{updated|match played 25 October 2026}}<ref>{{Soccerway|335401|name=Denzel Dumfries|access-date=13 May 2026}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -259,10 +259,10 @@ Dumfries is a devout [[Christianity|Christian]], and states that he prays along 
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]
 |[[La Liga]]
-|7||0||0||0||2{{efn|name=UCL}}||0||0||0||9||0
+|8||0||0||0||2{{efn|name=UCL}}||0||0||0||10||0
 |-
 !colspan="3"|Career total
-!339!!38!!28!!1!!71!!7!!9!!3!!447!!49
+!340!!38!!28!!1!!71!!7!!9!!3!!448!!49
 |}
 {{notelist}}
 

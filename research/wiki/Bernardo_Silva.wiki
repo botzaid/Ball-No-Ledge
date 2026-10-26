@@ -1,4 +1,4 @@
-<!-- Bernardo Silva | revision 2026-10-22T14:47:39Z -->
+<!-- Bernardo Silva | revision 2026-10-25T22:04:08Z -->
 {{short description|Portuguese footballer (born 1994)}}
 {{about|the Portuguese international footballer|other people}}
 {{Portuguese name|Mota Veiga|Carvalho e Silva}}
@@ -39,7 +39,7 @@
 | goals5 = 45
 | years6 = 2026–
 | clubs6 = [[Real Madrid CF|Real Madrid]]
-| caps6 = 7
+| caps6 = 8
 | goals6 = 0
 | national_years1 = 2012–2013
 | national_team1 = [[Portugal national under-19 football team|Portugal U19]]
@@ -62,7 +62,7 @@
 {{medal|3rd|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
 {{Medal|Comp|[[UEFA European Under-21 Championship]]|}}
 {{medal|RU|[[2015 UEFA European Under-21 Championship|2015 Czech Republic]]|}}
-| club_update = 21:09, 18 October 2026 (UTC)
+| club_update = 22:04, 25 October 2026 (UTC)
 | national_team_update = 18:18, 5 October 2026 (UTC)
 }}
 '''Bernardo Mota Veiga de Carvalho e Silva'''{{efn-ua|{{IPA|pt|bɨɾˈnaɾðu ˈsilvɐ}}}} (born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Portugal national football team|Portugal national team]]. 
@@ -152,7 +152,7 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}
+{{updated|match played 25 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -241,10 +241,10 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|75983|2026|access-date=15 June 2026}}</ref>
 |[[La Liga]]
-|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||9||1
+|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||10||1
 |-
 !colspan="3"|Career total
-!451||76||46||12||31||2||118||19||11||3||657||112
+!452||76||46||12||31||2||118||19||11||3||658||112
 |}
 {{notelist}}
 

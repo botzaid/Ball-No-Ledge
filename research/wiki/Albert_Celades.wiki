@@ -1,42 +1,94 @@
-<!-- Albert Celades | revision 2026-10-19T20:24:33Z -->
+<!-- Albert Celades | revision 2026-10-23T03:04:06Z -->
 {{short description|Spanish footballer and manager (born 1975)}}
 {{family name hatnote|Celades|López|lang=Spanish}}
-{{Use dmy dates|date=August 2022}} 
+{{Use dmy dates|date=August 2022}}
 {{Infobox football biography
-| name = Albert Celades
-| image = Albert Celades 2019.png
-| caption = Celades in 2019
-| fullname = Albert Celades López<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/139/3979.html|title=Albert CELADES López|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=11 June 2020}}</ref>
-| birth_date = {{birth date and age|1975|9|29|df=y}}<ref name=Bio/>
-| birth_place = [[Barcelona]], Spain
-| height = 1.77 m<ref name=Bio/>
-| position = [[Defensive midfielder]]
-| currentclub = 
-| youthyears1 = 1990–1994 | youthclubs1 = [[FC Barcelona (youth)|Barcelona]]
-| years1 = 1994–1995 | clubs1 = [[FC Barcelona Atlètic|Barcelona B]] | caps1 = 14 | goals1 = 3
-| years2 = 1995–1999 | clubs2 = [[FC Barcelona|Barcelona]] | caps2 = 72 | goals2 = 4
-| years3 = 1999–2000 | clubs3 = [[RC Celta de Vigo|Celta]] | caps3 = 24 | goals3 = 1
-| years4 = 2000–2005 | clubs4 = [[Real Madrid CF|Real Madrid]] | caps4 = 56 | goals4 = 1
-| years5 = 2003–2004 | clubs5 = → [[FC Girondins de Bordeaux|Bordeaux]] (loan) | caps5 = 27 | goals5 = 3
-| years6 = 2005–2008 | clubs6 = [[Real Zaragoza|Zaragoza]] | caps6 = 71 | goals6 = 2
-| years7 = 2009 | clubs7 = [[New York Red Bulls]] | caps7 = 17 | goals7 = 1
-| years8 = 2010 | clubs8 = [[Kitchee SC|Kitchee]] | caps8 = 0 | goals8 = 0
-| totalcaps = 281 | totalgoals = 15
-| nationalyears1 = 1991–1992 | nationalteam1 = [[Spain national under-16 football team|Spain U16]] | nationalcaps1 = 2 | nationalgoals1 = 0
-| nationalyears2 = 1992 | nationalteam2 = [[Spain national under-17 football team|Spain U17]] | nationalcaps2 = 3 | nationalgoals2 = 0
-| nationalyears3 = 1993–1994 | nationalteam3 = [[Spain national under-18 football team|Spain U18]] | nationalcaps3 = 8 | nationalgoals3 = 1
-| nationalyears4 = 1996–1998 | nationalteam4 = [[Spain national under-21 football team|Spain U21]] | nationalcaps4 = 8 | nationalgoals4 = 1
-| nationalyears5 = 1998–2000 | nationalteam5 = [[Spain national football team|Spain]] | nationalcaps5 = 4 | nationalgoals5 = 0
-| nationalyears6 = 1998–2005 | nationalteam6 = [[Catalonia national football team|Catalonia]] | nationalcaps6 = 7 | nationalgoals6 = 1
-| manageryears1 = 2013–2014 | managerclubs1 = [[Spain national under-16 football team|Spain U16]]
-| manageryears2 = 2014–2018 | managerclubs2 = [[Spain national under-21 football team|Spain U21]]
-| manageryears3 = 2017 | managerclubs3 = [[Spain national under-17 football team|Spain U17]]
-| manageryears4 = 2018 | managerclubs4 = [[Spain national football team|Spain]] (assistant)
-| manageryears5 = 2018 | managerclubs5 = [[Real Madrid CF|Real Madrid]] (assistant)
-| manageryears6 = 2019–2020 | managerclubs6 = [[Valencia CF|Valencia]]
-| manageryears7 = 2026 | managerclubs7 = [[Pafos FC|Pafos]]
-| manageryears8 = 2026 | managerclubs8 = [[Cádiz CF|Cádiz]]
-| medaltemplates = {{medalSport|Men's [[Association football|football]]}}
+ | name = Albert Celades
+ | image = Albert Celades 2019.png
+ | caption = Celades in 2019
+ | full_name = Albert Celades López<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/139/3979.html|title=Albert CELADES López|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=11 June 2020}}</ref>
+ | birth_date = {{birth date and age|1975|9|29|df=y}}<ref name=Bio/>
+ | birth_place = [[Barcelona]], Spain
+ | height = 1.77 m<ref name=Bio/>
+ | position = [[Defensive midfielder]]
+ | current_club = 
+ | youth_years1 = 1990–1994
+ | youth_clubs1 = [[FC Barcelona (youth)|Barcelona]]
+ | years1 = 1994–1995
+ | clubs1 = [[FC Barcelona Atlètic|Barcelona B]]
+ | caps1 = 14
+ | goals1 = 3
+ | years2 = 1995–1999
+ | clubs2 = [[FC Barcelona|Barcelona]]
+ | caps2 = 72
+ | goals2 = 4
+ | years3 = 1999–2000
+ | clubs3 = [[RC Celta de Vigo|Celta]]
+ | caps3 = 24
+ | goals3 = 1
+ | years4 = 2000–2005
+ | clubs4 = [[Real Madrid CF|Real Madrid]]
+ | caps4 = 56
+ | goals4 = 1
+ | years5 = 2003–2004
+ | clubs5 = → [[FC Girondins de Bordeaux|Bordeaux]] (loan)
+ | caps5 = 27
+ | goals5 = 3
+ | years6 = 2005–2008
+ | clubs6 = [[Real Zaragoza|Zaragoza]]
+ | caps6 = 71
+ | goals6 = 2
+ | years7 = 2009
+ | clubs7 = [[New York Red Bulls]]
+ | caps7 = 17
+ | goals7 = 1
+ | years8 = 2010
+ | clubs8 = [[Kitchee SC|Kitchee]]
+ | caps8 = 0
+ | goals8 = 0
+ | total_caps = 281
+ | total_goals = 15
+ | national_years1 = 1991–1992
+ | national_team1 = [[Spain national under-16 football team|Spain U16]]
+ | national_caps1 = 2
+ | national_goals1 = 0
+ | national_years2 = 1992
+ | national_team2 = [[Spain national under-17 football team|Spain U17]]
+ | national_caps2 = 3
+ | national_goals2 = 0
+ | national_years3 = 1993–1994
+ | national_team3 = [[Spain national under-18 football team|Spain U18]]
+ | national_caps3 = 8
+ | national_goals3 = 1
+ | national_years4 = 1996–1998
+ | national_team4 = [[Spain national under-21 football team|Spain U21]]
+ | national_caps4 = 8
+ | national_goals4 = 1
+ | national_years5 = 1998–2000
+ | national_team5 = [[Spain national football team|Spain]]
+ | national_caps5 = 4
+ | national_goals5 = 0
+ | national_years6 = 1998–2005
+ | national_team6 = [[Catalonia national football team|Catalonia]]
+ | national_caps6 = 7
+ | national_goals6 = 1
+ | manager_years1 = 2013–2014
+ | manager_clubs1 = [[Spain national under-16 football team|Spain U16]]
+ | manager_years2 = 2014–2018
+ | manager_clubs2 = [[Spain national under-21 football team|Spain U21]]
+ | manager_years3 = 2017
+ | manager_clubs3 = [[Spain national under-17 football team|Spain U17]]
+ | manager_years4 = 2018
+ | manager_clubs4 = [[Spain national football team|Spain]] (assistant)
+ | manager_years5 = 2018
+ | manager_clubs5 = [[Real Madrid CF|Real Madrid]] (assistant)
+ | manager_years6 = 2019–2020
+ | manager_clubs6 = [[Valencia CF|Valencia]]
+ | manager_years7 = 2026
+ | manager_clubs7 = [[Pafos FC|Pafos]]
+ | manager_years8 = 2026
+ | manager_clubs8 = [[Cádiz CF|Cádiz]]
+ | medal_templates = {{medalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|ESP}}}} <small>(as manager)</small>
 {{MedalComp|[[UEFA European Under-21 Championship]]}}
 {{Medal|RU|[[2017 UEFA European Under-21 Championship|2017]]|}}

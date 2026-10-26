@@ -1,4 +1,4 @@
-<!-- Ronaldo (Brazilian footballer) | revision 2026-10-18T21:27:16Z -->
+<!-- Ronaldo (Brazilian footballer) | revision 2026-10-25T22:09:58Z -->
 {{Short description|Brazilian footballer (born 1976)}}
 {{About|the Brazilian footballer|the Portuguese footballer|Cristiano Ronaldo|other footballers named Ronaldo|Ronaldo#Association footballers}}
 {{Portuguese name|Nazário|de Lima}}
@@ -13,8 +13,8 @@
 | birth_place = [[Itaguaí]], Rio de Janeiro, Brazil<ref>{{Cite web |title=Ronaldo Nazário, o fenômeno |url=https://revistatrip.uol.com.br/trip/ronaldo-nazario |access-date=25 September 2023 |website=Trip |date=30 January 2009 |language=pt-br |archive-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205211641/https://revistatrip.uol.com.br/trip/ronaldo-nazario |url-status=live }}</ref>
 | height = 1.83 m<ref>{{cite web |url=http://www.acmilan.com/LM_Actor.aspx?idSquadra=3&idStagione=11&idPersona=1891&name=Ronaldo%20%C2%A0 |title=Ronaldo |publisher=AC Milan |archive-url=https://web.archive.org/web/20070427073145/http://www.acmilan.com/LM_Actor.aspx?idSquadra=3&idStagione=11&idPersona=1891&name=Ronaldo%20%C2%A0 |archive-date=27 April 2007}}</ref>
 | position = [[Striker (association football)|Striker]]
-| youthyears1 = 1990–1993
-| youthclubs1 = [[São Cristóvão de Futebol e Regatas|São Cristóvão]]<ref>{{cite news |url=http://globoesporte.globo.com/futebol/noticia/2011/02/apos-inicio-pobre-em-bento-ribeiro-ronaldo-conquista-o-mundo.html |title=Após início pobre em Bento Ribeiro, Ronaldo conquista o mundo |access-date=19 September 2015 |newspaper=Globo Esporte |language=pt |date=14 February 2011 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225133206/http://globoesporte.globo.com/futebol/noticia/2011/02/apos-inicio-pobre-em-bento-ribeiro-ronaldo-conquista-o-mundo.html |url-status=live }}</ref>
+| youth_years1 = 1990–1993
+| youth_clubs1 = [[São Cristóvão de Futebol e Regatas|São Cristóvão]]<ref>{{cite news |url=http://globoesporte.globo.com/futebol/noticia/2011/02/apos-inicio-pobre-em-bento-ribeiro-ronaldo-conquista-o-mundo.html |title=Após início pobre em Bento Ribeiro, Ronaldo conquista o mundo |access-date=19 September 2015 |newspaper=Globo Esporte |language=pt |date=14 February 2011 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225133206/http://globoesporte.globo.com/futebol/noticia/2011/02/apos-inicio-pobre-em-bento-ribeiro-ronaldo-conquista-o-mundo.html |url-status=live }}</ref>
 | years1 = 1993–1994
 | clubs1 = [[Cruzeiro Esporte Clube|Cruzeiro]]
 | caps1 = 34 <!--PER [[WP:WPFCONSENSUS]]: LEAGUE AND STATE LEAGUE APPS IN THE INFOBOX-->
@@ -43,21 +43,21 @@
 | clubs7 = [[SC Corinthians Paulista|Corinthians]]
 | caps7 = 52 <!--PER [[WP:WPFCONSENSUS]]: LEAGUE AND STATE LEAGUE APPS IN THE INFOBOX-->
 | goals7 = 29 <!--PER [[WP:WPFCONSENSUS]]: LEAGUE AND STATE LEAGUE GOALS IN THE INFOBOX-->
-| totalcaps = 384
-| totalgoals = 280
-| nationalyears1 = 1993
-| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
-| nationalcaps1 = 7
-| nationalgoals1 = 5
-| nationalyears2 = 1996
-| nationalteam2 = [[Brazil national under-23 football team|Brazil U23]]
-| nationalcaps2 = 8
-| nationalgoals2 = 6
-| nationalyears4 = 1994–2011
-| nationalteam4 = [[Brazil national football team|Brazil]]
-| nationalcaps4 = 98
-| nationalgoals4 = 62
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| total_caps = 384
+| total_goals = 280
+| national_years1 = 1993
+| national_team1 = [[Brazil national under-17 football team|Brazil U17]]
+| national_caps1 = 7
+| national_goals1 = 5
+| national_years2 = 1996
+| national_team2 = [[Brazil national under-23 football team|Brazil U23]]
+| national_caps2 = 8
+| national_goals2 = 6
+| national_years4 = 1994–2011
+| national_team4 = [[Brazil national football team|Brazil]]
+| national_caps4 = 98
+| national_goals4 = 62
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|BRA}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|W|[[1994 FIFA World Cup|1994 United States]]|}}
@@ -127,7 +127,7 @@ Ronaldo was forced to miss the entire [[2000–01 Serie A|2000–01 season]] and
 ====2002–2005: Ballon d'Or win and La Liga championship====
 [[File:Ronaldo em campo.jpg|thumb|upright|Ronaldo won [[La Liga]] in his first season with [[Real Madrid CF|Real Madrid]] and received the [[Pichichi Trophy]] in his second]]
 
-Having signed for [[Real Madrid C.F.|Real Madrid]] [[List of most expensive association football transfers|for €46&nbsp;million]], his jersey sales broke all records on the first day.<ref>{{cite news |last1=Crocitti |first1=John C. |title=Brazil Today: An Encyclopedia of Life in the Republic, Volume 2 |date= 2012|publisher=ABC-CLIO}}</ref> Ronaldo was part of the ''[[Galácticos]]'' era of global stars signed by the club every summer, which included [[Zinedine Zidane]], [[Luís Figo]], [[Roberto Carlos]] and [[David Beckham]].<ref>{{cite web|title = 2001&nbsp;– present&nbsp;— Real Madrid surpasses the century mark| work=Real Madrid C.F. - Web Oficial |url = http://www.realmadrid.com/en/about-real-madrid/history/football/2001-2010-the-ninth-with-zidane-beckham-ronaldo-and-figo|publisher = Realmadrid.com|access-date = 12 July 2008|archive-date = 22 November 2019|archive-url = https://web.archive.org/web/20191122115453/https://www.realmadrid.com/en/about-real-madrid/history/football/2001-2010-the-ninth-with-zidane-beckham-ronaldo-and-figo|url-status = live}}</ref> He was sidelined through injury until October 2002 which further fuelled fan anticipation.<ref name="Real debut"/> Ronaldo scored twice on his debut against [[Deportivo Alavés|Alavés]], the first 61 seconds after coming on.<ref name="Real debut">{{cite news |title=Ronaldo scores on his first date |url=https://www.theguardian.com/football/2002/oct/07/europeanfootball.sport2 |date=7 October 2002 |access-date=29 August 2018 |work=The Guardian |archive-date=30 August 2018 |archive-url=https://web.archive.org/web/20180830005304/https://www.theguardian.com/football/2002/oct/07/europeanfootball.sport2 |url-status=live }}</ref> That same reception was observed at the final game of the season against [[Athletic Bilbao]], where Ronaldo scored to finish his first season with 23 league goals and seal [[La Liga]] title for 2003.<ref name="FIFA Profile">{{cite news|date=4 April 2012|title=Ronaldo, a phenomenon in every sense|work=[[FIFA]]|url=https://www.fifa.com/news/y=2012/m=4/news=ronaldo-phenomenon-every-sense-1611048.html|archive-url=https://web.archive.org/web/20150908083212/http://www.fifa.com/news/y=2012/m=4/news=ronaldo-phenomenon-every-sense-1611048.html|url-status=dead|archive-date=8 September 2015|access-date=19 September 2015}}</ref> He also won an [[2002 Intercontinental Cup|Intercontinental Cup]] in 2002 and [[Supercopa de España]] in 2003, scoring in both finals.<ref name="FIFA Profile"/>
+Having signed for [[Real Madrid C.F.|Real Madrid]] [[List of most expensive association football transfers|for €46&nbsp;million]], his jersey sales broke all records on the first day.<ref>{{cite news |last1=Crocitti |first1=John C. |title=Brazil Today: An Encyclopedia of Life in the Republic, Volume 2 |date= 2012|publisher=ABC-CLIO}}</ref> Ronaldo was part of the ''[[Galácticos]]'' era of global stars signed by the club every summer, which included [[Zinedine Zidane]], [[Luís Figo]], [[Roberto Carlos]] and [[David Beckham]].<ref>{{cite web|title = 2001&nbsp;– present&nbsp;— Real Madrid surpasses the century mark| work=Real Madrid C.F. - Web Oficial |url = http://www.realmadrid.com/en/about-real-madrid/history/football/2001-2010-the-ninth-with-zidane-beckham-ronaldo-and-figo|publisher = Realmadrid.com|access-date = 12 July 2008|archive-date = 22 November 2019|archive-url = https://web.archive.org/web/20191122115453/https://www.realmadrid.com/en/about-real-madrid/history/football/2001-2010-the-ninth-with-zidane-beckham-ronaldo-and-figo|url-status = live}}</ref> He was sidelined through injury until October 2002 which further fuelled fan anticipation.<ref name="Real debut"/> Ronaldo scored twice on his debut against [[Deportivo Alavés|Alavés]], the first 61 seconds after coming on.<ref name="Real debut">{{cite news |title=Ronaldo scores on his first date |url=https://www.theguardian.com/football/2002/oct/07/europeanfootball.sport2 |date=7 October 2002 |access-date=29 August 2018 |work=The Guardian |archive-date=30 August 2018 |archive-url=https://web.archive.org/web/20180830005304/https://www.theguardian.com/football/2002/oct/07/europeanfootball.sport2 |url-status=live }}</ref> That same reception was observed at the final game of the season against [[Athletic Bilbao]], where Ronaldo scored to finish his first season with 23 league goals and seal the [[La Liga]] title for 2003.<ref name="FIFA Profile">{{cite news|date=4 April 2012|title=Ronaldo, a phenomenon in every sense|work=[[FIFA]]|url=https://www.fifa.com/news/y=2012/m=4/news=ronaldo-phenomenon-every-sense-1611048.html|archive-url=https://web.archive.org/web/20150908083212/http://www.fifa.com/news/y=2012/m=4/news=ronaldo-phenomenon-every-sense-1611048.html|url-status=dead|archive-date=8 September 2015|access-date=19 September 2015}}</ref> He also won an [[2002 Intercontinental Cup|Intercontinental Cup]] in 2002 and [[Supercopa de España]] in 2003, scoring in both finals.<ref name="FIFA Profile"/>
 
 In the second leg of Real Madrid's Champions League quarter-final, Ronaldo [[List of UEFA Champions League hat-tricks|scored a hat-trick]] against [[Manchester United F.C.|Manchester United]] at [[Old Trafford]], knocking the English team out of the competition.<ref name="RonaldoMU">{{cite news |title=Ronaldo ends Man Utd dream |url=https://news.bbc.co.uk/sport1/hi/football/champions_league/2965089.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=23 April 2003 |access-date=25 May 2012 |archive-date=14 April 2012 |archive-url=https://web.archive.org/web/20120414051440/http://news.bbc.co.uk/sport2/hi/football/champions_league/2965089.stm |url-status=live }}</ref> Completing his hat-trick with a swerving strike from 30 yards, Ronaldo was substituted off after 67 minutes, and was given a standing ovation from both sets of fans.<ref name="Lit up"/><ref name="RonaldoMU"/> Reflecting on the ovation given to him from the oppositions' fans, Ronaldo stated that "it remains a very beautiful, very special moment".<ref name="Edworthy"/> Manchester United defender [[Wes Brown]] commented: "He was just unstoppable. A young Ronaldo [before a series of injuries] would have been even more dangerous, but it shows how good a player he was. Whenever he wanted to turn it on he could, on any stage, in any stadium".<ref name="Lit up">{{cite web |last1=Jackson |first1=Jamie |last2=Lowe |first2=Sid |url=https://www.theguardian.com/football/2020/apr/23/a-player-above-millions-the-night-brazilian-ronaldo-lit-up-old-trafford |title='A player above millions of others' – the night Ronaldo lit up Old Trafford |date=23 April 2020 |access-date=19 June 2021 |work=The Guardian |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624201212/https://www.theguardian.com/football/2020/apr/23/a-player-above-millions-the-night-brazilian-ronaldo-lit-up-old-trafford |url-status=live }}</ref> Ronaldo scored in a 2–1 home win over [[Juventus FC|Juventus]] in the first leg of the Champions League semi-finals, but injury crucially kept him out of most of the second leg defeat where Real were eliminated.<ref name="Real CNN">{{cite news |title=Ronaldo finally proves consistency |url=http://edition.cnn.com/2003/SPORT/football/12/15/ronaldo.profile.reut/ |access-date=4 September 2018 |agency=CNN |archive-date=4 September 2018 |archive-url=https://web.archive.org/web/20180904154105/http://edition.cnn.com/2003/SPORT/football/12/15/ronaldo.profile.reut/ |url-status=live }}</ref>
 

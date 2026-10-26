@@ -1,4 +1,4 @@
-<!-- Trent Alexander-Arnold | revision 2026-10-15T08:51:12Z -->
+<!-- Trent Alexander-Arnold | revision 2026-10-25T22:06:46Z -->
 {{Short description|English footballer (born 1998)}}
 {{Good article}}
 {{Use British English|date=October 2016}}
@@ -22,7 +22,7 @@
 | goals1 = 18<!-- LEAGUE ONLY -->
 | years2 = 2025–
 | clubs2 = [[Real Madrid CF|Real Madrid]]
-| caps2 = 26<!-- LEAGUE ONLY -->
+| caps2 = 27<!-- LEAGUE ONLY -->
 | goals2 = 0<!-- LEAGUE ONLY -->
 | nationalyears1 = 2013–2014
 | nationalteam1 = [[England national under-16 football team|England U16]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU16pg4.html -->
@@ -48,7 +48,7 @@
 | nationalteam6 = [[England national football team|England]]
 | nationalcaps6 = 36
 | nationalgoals6 = 4
-| club-update = 21:00, 10 October 2026 (UTC)
+| club-update = 22:06, 25 October 2026 (UTC)
 | nationalteam-update = 22:35, 6 October 2026 (UTC)
 | medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ENG}}}}
@@ -184,7 +184,7 @@ In 2023, Alexander-Arnold joined the investment group of the [[Alpine F1 Team|Al
 
 ==Career statistics==
 ===Club===
-{{updated|match played 10 October 2026}}
+{{updated|match played 25 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -250,13 +250,13 @@ In 2023, Alexander-Arnold joined the investment group of the [[Alpine F1 Team|Al
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|86758|2026|access-date=27 July 2026}}</ref>
 |La Liga
-|5||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||6||0
+|6||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||7||0
 |-
 !colspan="2"|Total
-!26!!0!!0!!0!!colspan="2"|—!!10!!0!!5!!0!!41!!0
+!27!!0!!0!!0!!colspan="2"|—!!10!!0!!5!!0!!42!!0
 |-
 !colspan="3"|Career total
-!285!!18!!13!!1!!10!!0!!77!!3!!10!!1!!395!!23
+!286!!18!!13!!1!!10!!0!!77!!3!!10!!1!!396!!23
 |}
 {{notelist}}
 
