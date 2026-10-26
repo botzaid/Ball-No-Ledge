@@ -1,4 +1,4 @@
-<!-- 2026–27 Real Madrid CF season | revision 2026-10-25T22:35:25Z -->
+<!-- 2026–27 Real Madrid CF season | revision 2026-10-26T18:47:58Z -->
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
 |season             = [[2026–27 in Spanish football|2026–27]]
@@ -630,8 +630,8 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 }}
 {{footballbox collapsible
 |round      = 13
-|date       = 22 November 2026
-|time       = {{UTZ|--:--|1}}
+|date       = 21 November 2026
+|time       = {{UTZ|21:00|1}}
 |team1      = Real Madrid
 |score      = 
 |report     = https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-rc-celta-13
