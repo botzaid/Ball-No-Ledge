@@ -1,4 +1,4 @@
-<!-- Bernardo Silva | revision 2026-10-25T22:04:08Z -->
+<!-- Bernardo Silva | revision 2026-11-01T17:20:09Z -->
 {{short description|Portuguese footballer (born 1994)}}
 {{about|the Portuguese international footballer|other people}}
 {{Portuguese name|Mota Veiga|Carvalho e Silva}}
@@ -39,7 +39,7 @@
 | goals5 = 45
 | years6 = 2026–
 | clubs6 = [[Real Madrid CF|Real Madrid]]
-| caps6 = 8
+| caps6 = 9
 | goals6 = 0
 | national_years1 = 2012–2013
 | national_team1 = [[Portugal national under-19 football team|Portugal U19]]
@@ -62,7 +62,7 @@
 {{medal|3rd|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
 {{Medal|Comp|[[UEFA European Under-21 Championship]]|}}
 {{medal|RU|[[2015 UEFA European Under-21 Championship|2015 Czech Republic]]|}}
-| club_update = 22:04, 25 October 2026 (UTC)
+| club_update = 17:20, 1 November 2026 (UTC)
 | national_team_update = 18:18, 5 October 2026 (UTC)
 }}
 '''Bernardo Mota Veiga de Carvalho e Silva'''{{efn-ua|{{IPA|pt|bɨɾˈnaɾðu ˈsilvɐ}}}} (born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Portugal national football team|Portugal national team]]. 
@@ -117,7 +117,7 @@ He was appointed as Manchester City's new [[Captain (association football)|capta
 
 On 5 April 2026, Manchester City assistant manager [[Pepijn Lijnders|Pep Lijnders]] announced that Silva would leave the club in the summer when his contract expired.<ref>{{Cite news |last=Jackson |first=Jamie |date=2026-04-05 |title=Bernardo Silva will leave Manchester City this summer, reveals Pep Lijnders |url=https://www.theguardian.com/football/2026/apr/05/bernardo-silva-pep-lijnders-manchester-city-captain-leaving-summer |access-date=2026-04-05 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Later that month, on 16 April, it was confirmed that he would leave the club as a free agent at the end of the season.<ref>{{Cite web |last=Leigh |first=Neil |date=2026-04-16 |title=Bernardo Silva to leave Manchester City at the end of the season |url=https://www.mancity.com/news/mens/Bernardo%20Silva%20to%20leave%20Manchester%20City%20at%20the%20end%20of%20the%20season |access-date=2026-06-11 |publisher=Manchester City F.C. |language=en }}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref><ref>{{cite web |last=Collins |first=Ben |url=https://www.bbc.com/sport/football/articles/c624x7wvlv4o |title=Captain Silva to leave Man City at end of season |publisher=BBC Sport |date=16 April 2026 }}</ref> 
 
-Silva made his final appearance for Manchester City on 24 May, captaining the side in a 2–1 defeat to Aston Villa on the final day of the Premier League season. He departed the club after nine years, which he became one of the defining players of the Pep Guardiola era, winning multiple major honours including six Premier League titles and the UEFA Champions League in 2023. Silva received a farewell from supporters, teammates and coaching staff, ending his City career with more than 450 appearances across all competitions.<ref>{{Cite web |last=Ruthven |first=Graham |title=How Will Manchester City Replace Bernardo Silva After His Departure? |url=https://www.forbes.com/sites/grahamruthven/2026/05/24/how-will-manchester-city-replace-bernardo-silva-after-his-departure/ |access-date=24 May 2026 |website=Forbes |language=en}}</ref>
+Silva made his final appearance for Manchester City on 24 May, captaining the side in a 2–1 defeat to Aston Villa on the final day of the Premier League season. He departed the club after nine years, during which he became one of the defining players of the Pep Guardiola era, winning multiple major honours including six Premier League titles and the UEFA Champions League in 2023. Silva received a farewell from supporters, teammates and coaching staff, ending his City career with more than 450 appearances across all competitions.<ref>{{Cite web |last=Ruthven |first=Graham |title=How Will Manchester City Replace Bernardo Silva After His Departure? |url=https://www.forbes.com/sites/grahamruthven/2026/05/24/how-will-manchester-city-replace-bernardo-silva-after-his-departure/ |access-date=24 May 2026 |website=Forbes |language=en}}</ref>
 
 ===Real Madrid===
 On 17 June 2026, Silva moved to Spain and signed for [[La Liga]] club [[Real Madrid CF|Real Madrid]] on a two-year contract.<ref>{{cite web|title=Official Announcement: Bernardo Silva|url=https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-bernardo-silva-17-06-2026|publisher=[[Real Madrid CF]]|date=17 June 2026|access-date=17 June 2026|archive-date=17 June 2026|archive-url=https://web.archive.org/web/20260617104329/https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-bernardo-silva-17-06-2026|url-status=live}}</ref> He made his debut on 22 August, in a 2–1 win over [[RCD Espanyol|Espanyol]].<ref>{{cite web|title=Real Madrid snatch late win at Espanyol on Mourinho's return|url=https://sports.yahoo.com/articles/real-madrid-beat-espanyol-in-mourinhos-first-game-on-return-213945958.html|publisher=yahoo.com|date=22 August 2026|access-date=22 August 2026}}</ref>
@@ -152,7 +152,7 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}
+{{updated|match played 1 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -241,10 +241,10 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|75983|2026|access-date=15 June 2026}}</ref>
 |[[La Liga]]
-|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||10||1
+|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||11||1
 |-
 !colspan="3"|Career total
-!452||76||46||12||31||2||118||19||11||3||658||112
+!453||76||46||12||31||2||118||19||11||3||659||112
 |}
 {{notelist}}
 

@@ -1,18 +1,18 @@
-<!-- Yan Diomande | revision 2026-10-26T01:12:51Z -->
+<!-- Yan Diomande | revision 2026-11-02T00:29:49Z -->
 {{short description|Ivorian footballer (born 2006)}}
 {{Use dmy dates|date=August 2026}}
 {{Infobox football biography
 | name = Yan Diomande
 | image = Yan Diomande Cote D'Ivoire v Ecuador 14 June 2026-17 (cropped).jpg
-| caption = Diomande with [[Ivory Coast national football team|Ivory Coast]] in 2026
+| caption = Diomande with the [[Ivory Coast national football team|Ivory Coast]] in 2026
 | birth_place = [[Abidjan]], Ivory Coast<ref name=DME>{{cite web|url=https://dmeacademy.com/players/yan-diomande/|title=Diomande, Yan|publisher=DME Sports|accessdate=31 March 2025|archive-date=6 October 2025|archive-url=https://web.archive.org/web/20251006044625/https://dmeacademy.com/players/yan-diomande/|url-status=live}}</ref>
 | height = 1.82m<ref name=DME/>
 | birth_date = {{birth date and age|2006|11|14|df=y}}
 | position = [[Midfielder#winger|winger]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 25
-| youthyears1 = 2022–2024
-| youthclubs1 = [[DME Academy]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 25
+| youth_years1 = 2022–2024
+| youth_clubs1 = [[DME Academy]]
 | years1 = 2023
 | clubs1 = AS Frenzi
 | caps1 = 
@@ -31,22 +31,22 @@
 | goals4 = 12
 | years5 = 2026–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 10
-| goals5 = 2
-| nationalyears1 = 2022
-| nationalteam1 = [[Ivory Coast national under-17 football team|Ivory Coast U17]]
-| nationalcaps1 = 1
-| nationalgoals1 = 1
-| nationalyears2 = 2025–
-| nationalteam2 = [[Ivory Coast national under-23 football team|Ivory Coast U23]]
-| nationalcaps2 = 1
-| nationalgoals2 = 0
-| nationalyears3 = 2025–
-| nationalteam3 = [[Ivory Coast national football team|Ivory Coast]]
-| nationalcaps3 = 15
-| nationalgoals3 = 3
-| pcupdate = 22:04, 25 October 2026 (UTC)
-| ntupdate = 22:16, 24 September 2026 (UTC)
+| caps5 = 11
+| goals5 = 3
+| national_years1 = 2022
+| national_team1 = [[Ivory Coast national under-17 football team|Ivory Coast U17]]
+| national_caps1 = 1
+| national_goals1 = 1
+| national_years2 = 2025–
+| national_team2 = [[Ivory Coast national under-23 football team|Ivory Coast U23]]
+| national_caps2 = 1
+| national_goals2 = 0
+| national_years3 = 2025–
+| national_team3 = [[Ivory Coast national football team|Ivory Coast]]
+| national_caps3 = 15
+| national_goals3 = 3
+| club_update = 17:16, 1 November 2026 (UTC)
+| national_team_update = 22:16, 24 September 2026 (UTC)
 }}
 '''Yan Diomande''' (born 14 November 2006) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder#|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Ivory Coast national football team|Ivory Coast national team]].
 
@@ -74,7 +74,8 @@ On 7 March 2026, Diomande scored his tenth Bundesliga goal in a 2–1 victory ov
 ===Real Madrid===
 On 6 August 2026, Diomande returned to La Liga, signing for Real Madrid on a seven-year contract until 30 June 2033.<ref>{{cite news |date=6 August 2026 |title=Official Announcement: Diomande |url=https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-diomande-06-08-2026 |archive-url=https://web.archive.org/web/20260806140626/https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-diomande-06-08-2026 |archive-date=6 August 2026 |access-date=6 August 2026 |publisher=Real Madrid CF}}</ref> The transfer fee was reported at €125 million, with up to €15 million in potential add-ons.<ref>{{cite web|last1=Cortegana|first1=Mario|last2=Stafford-Bloor|first2=Sebastian|title=Real Madrid complete €140m Yan Diomande transfer from RB Leipzig on seven-year deal|url=https://www.nytimes.com/athletic/7483871/2026/08/05/yan-diomande-real-madrid-transfer-news/|publisher=The New York Times|issn=0362-4331|work=The Athletic|date=6 August 2026|access-date=6 August 2026|archive-date=6 August 2026|archive-url=https://web.archive.org/web/20260806162454/https://www.nytimes.com/athletic/7483871/2026/08/05/yan-diomande-real-madrid-transfer-news/|url-status=live}}</ref> The move made him Real Madrid's record signing, surpassing the fee paid for midfielder [[Jude Bellingham]], and the first Ivorian player to sign for ''Los Blancos''. It also broke compatriot [[Nicolas Pépé]]'s record as the [[List of most expensive association football transfers|most expensive African player in history]].<ref>{{cite web |last=Conway |first=Elizabeth |last2=Coates |first2=Charlotte |url=https://www.bbc.com/sport/football/articles/c4g3906pz65o |title=Real Madrid sign Diomande from RB Leipzig |publisher=BBC Sport |date=6 August 2026 |access-date=6 August 2026 |archive-date=7 August 2026 |archive-url=https://web.archive.org/web/20260807090026/https://www.bbc.com/sport/football/articles/c4g3906pz65o |url-status=live }}</ref> He made his debut on 22 August, coming in as a substitute for [[Arda Güler]] in a 2–1 win at [[RCD Espanyol|Espanyol]].<ref>{{cite web|last=Rindl|first=Joe|title=Debutant Espí gives Mourinho winning Real Madrid return|url=https://www.bbc.com/sport/football/live/cmwyjzndv4xnt|publisher=BBC|work=BBC Sport|date=22 August 2026|access-date=22 August 2026|archive-date=23 August 2026|archive-url=https://web.archive.org/web/20260823180042/https://www.bbc.com/sport/football/live/cmwyjzndv4xnt|url-status=live}}</ref> 
 
-On 10 October, Diomande scored his first goal for the club, which secured a 1–0 win over [[Villarreal CF|Villarreal]].<ref>{{cite web|title=Real Madrid 1–0 Villarreal: Vinícius Jr sent off for hair pull in win|url=https://www.bbc.com/sport/football/live/cx30eppd991et|publisher=BBC Sport|date=10 October 2026|access-date=11 October 2026|archive-date=11 October 2026|archive-url=https://web.archive.org/web/20261011113723/https://www.bbc.com/sport/football/live/cx30eppd991et|url-status=live}}</ref> A week later, he registered a goal and an assist in a 4–1 win against [[Sevilla FC|Sevilla]], becoming the youngest player to score and assist in the same La Liga match for the club in the 21st century, breaking a record previously held by Jude Bellingham.<ref>{{cite web |url=https://www.goal.com/en/lists/yan-diomande-breaks-jude-bellingham-record-real-madrid-sevilla/blt904fcd89286c1c61 |title=Better than Jude! Yan Diomande shatters Bellingham record as Real Madrid starlet makes history in Sevilla thrashing |publisher=Goal.com |date=19 October 2026 |access-date=20 October 2026}}</ref> Four days later, on 21 October, he scored his first [[UEFA Champions League]] goal and provided an assist for [[Kylian Mbappé]] in a 4–1 victory over former club Leipzig after coming on as a substitute for [[Vinícius Júnior]] in the 69th minute. This made him the youngest Real Madrid substitute to score and assist in a UEFA Champions League match, breaking [[Guti]]'s record set in 1999.<ref>{{cite web |url=https://sports.yahoo.com/articles/real-madrid-summer-signing-breaks-214000819.html |title=Real Madrid summer signing breaks Guti's record in win over RB Leipzig |publisher=Yahoo Sports |access-date=22 October 2026}}</ref>
+On 10 October, Diomande scored his first goal for the club, which secured a 1–0 win over [[Villarreal CF|Villarreal]].<ref>{{cite web|title=Real Madrid 1–0 Villarreal: Vinícius Jr sent off for hair pull in win|url=https://www.bbc.com/sport/football/live/cx30eppd991et|publisher=BBC Sport|date=10 October 2026|access-date=11 October 2026|archive-date=11 October 2026|archive-url=https://web.archive.org/web/20261011113723/https://www.bbc.com/sport/football/live/cx30eppd991et|url-status=live}}</ref> A week later, he registered a goal and an assist in a 4–1 win against [[Sevilla FC|Sevilla]], becoming the youngest player to score and assist in the same La Liga match for the club in the 21st century, breaking a record previously held by Jude Bellingham.<ref>{{cite web |url=https://www.goal.com/en/lists/yan-diomande-breaks-jude-bellingham-record-real-madrid-sevilla/blt904fcd89286c1c61 |title=Better than Jude! Yan Diomande shatters Bellingham record as Real Madrid starlet makes history in Sevilla thrashing |publisher=Goal.com |date=19 October 2026 |access-date=20 October 2026}}</ref> Three days later, on 21 October, he scored his first [[UEFA Champions League]] goal and provided an assist for [[Kylian Mbappé]] in a 4–1 victory over former club Leipzig after coming on as a substitute for [[Vinícius Júnior]] in the 69th minute. This made him the youngest Real Madrid substitute to score and assist in a UEFA Champions League match, breaking [[Guti]]'s record set in 1999.<ref>{{cite web |url=https://sports.yahoo.com/articles/real-madrid-summer-signing-breaks-214000819.html |title=Real Madrid summer signing breaks Guti's record in win over RB Leipzig |publisher=Yahoo Sports |access-date=22 October 2026}}</ref>
+
 ==International career==
 [[File:Yan Diomande Cote D'Ivoire v Ecuador 14 June 2026-111.jpg|thumb|upright|Diomande playing for [[Ivory Coast national football team|Ivory Coast]] at the [[2026 FIFA World Cup]]]]
 On 27 May 2025, Diomande was called up to the [[Ivory Coast national under-23 football team|Ivory Coast U23]]s for a friendly.<ref>{{Cite web|url=https://mondialsport.ci/amical-u23-issa-fofana-abakar-sylla-malick-yalcouye-richard-kone-la-liste-des-elephanteaux-face-a-la-hollande-28847.sport|title=Amical U23: Issa Fofana, Abakar Sylla, Malick Yalcouyé, Richard Koné, … la liste des Eléphanteaux face à la Hollande|first=NAS|last=SARL|date=24 May 2025|website=Mondialsport.ci|language=fr|access-date=29 May 2025|archive-date=26 May 2026|archive-url=https://web.archive.org/web/20260526153313/https://mondialsport.ci/amical-u23-issa-fofana-abakar-sylla-malick-yalcouye-richard-kone-la-liste-des-elephanteaux-face-a-la-hollande-28847.sport|url-status=live}}</ref> He made his debut for the [[Ivory Coast national football team|senior team]] later that year in a 7–0 [[2026 FIFA World Cup qualification (CAF)|FIFA World Cup qualifying]] win over [[Seychelles national football team|Seychelles]] on 10 October 2025, where he scored his first senior international goal.<ref>{{Cite web |date=5 May 2026 |title=Les prodiges de la Coupe du Monde 2026 : Yan Diomandé |url=https://www.fifa.com/fr/tournaments/mens/worldcup/canadamexicousa2026/articles/prodiges-mondial-yan-diomande-cote-ivoire-leipzig |access-date=9 August 2026 |website=fifa.com |language=fr |archive-date=4 July 2026 |archive-url=https://web.archive.org/web/20260704042045/https://www.fifa.com/fr/tournaments/mens/worldcup/canadamexicousa2026/articles/prodiges-mondial-yan-diomande-cote-ivoire-leipzig |url-status=live }}</ref><ref>{{Cite web |date=15 May 2026 |title="Proud and thankful": Yan Diomande named in World Cup squad |url=https://rbleipzig.com/en/news/yan-diomande-interview-world-cup-squad-cote-divoire |access-date=9 August 2026 |website=rbleipzig.com |archive-date=6 June 2026 |archive-url=https://web.archive.org/web/20260606201105/https://rbleipzig.com/en/news/yan-diomande-interview-world-cup-squad-cote-divoire |url-status=live }}</ref> He was named in the squad for the [[2025 Africa Cup of Nations]].<ref>{{cite news|url=https://www.fotmob.com/en-GB/topnews/24771-yan-diomande-could-be-breakout-star-afcon|title=Yan Diomande could be the breakout star of the AFCON|last=Roberts|first=Alex|date=24 December 2025|website=FotMob|access-date=11 April 2026|archive-date=15 April 2026|archive-url=https://web.archive.org/web/20260415200847/https://www.fotmob.com/en-GB/topnews/24771-yan-diomande-could-be-breakout-star-afcon|url-status=live}}</ref><ref>{{cite news|url=https://www.goal.com/en-gb/lists/from-upsl-to-the-champions-league-yan-diomande-dominated-america-as-a-teenager-and-now-he-s-one-of-europe-s-hottest-prospects/blt1eefcc9417c33c71|title='I learned a lot' – How America shaped RB Leipzig star Yan Diomande, from UPSL to the UEFA Champions League|last=Hindle|first=Tom|date=14 January 2026|website=Goal.com|access-date=11 April 2026|archive-date=19 April 2026|archive-url=https://web.archive.org/web/20260419230108/https://www.goal.com/en-gb/lists/from-upsl-to-the-champions-league-yan-diomande-dominated-america-as-a-teenager-and-now-he-s-one-of-europe-s-hottest-prospects/blt1eefcc9417c33c71|url-status=live}}</ref>
@@ -85,11 +86,11 @@ On 15 May 2026, Diomande was selected by head coach [[Emerse Faé]] in Ivory Coa
 [[File:John Yeboah Yan Diomande Cote D'Ivoire v Ecuador 14 June 2026-178.jpg|thumb|Diomande (in orange) playing for [[Ivory Coast national football team|Ivory Coast]] in 2026]]
 Diomande is an explosive and versatile [[Midfielder#winger|winger]] who is capable of operating on either flank. He often looks to receive the ball in wide areas before using his acceleration and strength to drive past defenders or carry the ball into the penalty area. Though primarily right-footed, Diomande is comfortable using both feet, allowing him to cut inside, deliver into the box or finish from different angles.<ref>{{cite web |url=https://breakingthelines.com/@btl/from-florida-high-school-to-bundesliga-wunderkid-the-tactical-profile-of-yan-diomande |title=From Florida High School to Bundesliga Wunderkid: The Tactical Profile of Yan Diomande |publisher=Breaking The Lines |date=29 June 2026 |access-date=8 August 2026 |archive-date=9 August 2026 |archive-url=https://web.archive.org/web/20260809040403/https://breakingthelines.com/@btl/from-florida-high-school-to-bundesliga-wunderkid-the-tactical-profile-of-yan-diomande |url-status=live }}</ref>
 
-Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direct style. He is dynamic and explosive on the ball, using his pace, strength and dribbling to beat defenders in 1v1 situations.<ref>{{cite web |last=Mawson |first=Daniel |url=https://www.givemesport.com/yan-diomande-scout-report/ |title=Yan Diomande Scout Report: Ivory Coast Star's Tactical Profile |publisher=GiveMeSport |date=17 June 2026 |access-date=8 August 2026 |archive-date=9 August 2026 |archive-url=https://web.archive.org/web/20260809070637/https://www.givemesport.com/yan-diomande-scout-report/ |url-status=live }}</ref> He is capable of turning quickly, changing pace and using his close control to evade opponents in tight spaces. He frequently uses a half-turn to shift the ball away from defenders before accelerating into the space behind them. His physicality and ability to carry the ball over long distances also make him particularly dangerous in transition.<ref>{{cite web |last=Benson |first=Ryan |url=https://theanalyst.com/articles/yan-diomande-real-madrid-transfer-journey-stats |title=The Meteoric Rise of Yan Diomande: From Nomadic Triallist to Bundesliga Superstar and a €140m Real Madrid Transfer |publisher=Opta Analyst |date=6 August 2026 |access-date=8 August 2026 |archive-date=8 August 2026 |archive-url=https://web.archive.org/web/20260808142601/https://theanalyst.com/articles/yan-diomande-real-madrid-transfer-journey-stats |url-status=live }}</ref>
+Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direct style. He is dynamic and explosive on the ball, using his pace, strength and [[dribbling]] to beat defenders in 1v1 situations.<ref>{{cite web |last=Mawson |first=Daniel |url=https://www.givemesport.com/yan-diomande-scout-report/ |title=Yan Diomande Scout Report: Ivory Coast Star's Tactical Profile |publisher=GiveMeSport |date=17 June 2026 |access-date=8 August 2026 |archive-date=9 August 2026 |archive-url=https://web.archive.org/web/20260809070637/https://www.givemesport.com/yan-diomande-scout-report/ |url-status=live }}</ref> He is capable of turning quickly, changing pace and using his close control to evade opponents in tight spaces. He frequently uses a half-turn to shift the ball away from defenders before accelerating into the space behind them. His physicality and ability to carry the ball over long distances also make him particularly dangerous in transition.<ref>{{cite web |last=Benson |first=Ryan |url=https://theanalyst.com/articles/yan-diomande-real-madrid-transfer-journey-stats |title=The Meteoric Rise of Yan Diomande: From Nomadic Triallist to Bundesliga Superstar and a €140m Real Madrid Transfer |publisher=Opta Analyst |date=6 August 2026 |access-date=8 August 2026 |archive-date=8 August 2026 |archive-url=https://web.archive.org/web/20260808142601/https://theanalyst.com/articles/yan-diomande-real-madrid-transfer-journey-stats |url-status=live }}</ref>
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}
+{{updated|match played 1 November 2026}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -121,10 +122,10 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|204661|2026|access-date=21 October 2026}}</ref>
 |La Liga
-|10||2||0||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||13||3
+|11||3||0||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||14||4
 |-
 !colspan="3"|Career total
-!56!!16!!3!!1!!3!!1!!0!!0!!62!!18
+!57!!17!!3!!1!!3!!1!!0!!0!!63!!19
 |}
 {{notelist}}
 

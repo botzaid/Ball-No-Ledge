@@ -1,4 +1,4 @@
-<!-- Joselu | revision 2026-10-22T14:04:57Z -->
+<!-- Joselu | revision 2026-10-30T01:30:56Z -->
 {{short description|Spanish footballer (born 1990)}}
 {{For|other footballers named Joselu|Joselu (disambiguation)}}
 {{Use dmy dates|date=July 2024}}
@@ -11,12 +11,12 @@
 | birth_place = [[Stuttgart]], [[West Germany]]
 | height = 1.92 m<ref>{{Cite web |url=https://www.realmadrid.com/en/football/squad/joselu-mato |title=Joselu Mato |publisher=Real Madrid CF |access-date=5 September 2023}}</ref>
 | position = [[Striker (association football)|Striker]]
-| currentclub = [[Al-Sailiya SC|Al-Sailiya]]
-| clubnumber = 
-| youthyears1 = 2000–2002
-| youthclubs1 = SD Silleda
-| youthyears2 = 2002–2008
-| youthclubs2 = [[Celta de Vigo|Celta]]
+| current_club = [[Al-Sailiya SC|Al-Sailiya]]
+| club_number = 13
+| youth_years1 = 2000–2002
+| youth_clubs1 = SD Silleda
+| youth_years2 = 2002–2008
+| youth_clubs2 = [[Celta de Vigo|Celta]]
 | years1 = 2008–2009
 | clubs1 = [[Celta de Vigo B|Celta B]]
 | caps1 = 21
@@ -81,37 +81,37 @@
 | clubs16 = [[Al-Gharafa SC|Al-Gharafa]]
 | caps16 = 33
 | goals16 = 15
-| nationalyears1 = 2008–2009
-| nationalteam1 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps1 = 11
-| nationalgoals1 = 3
-| nationalyears2 = 2009
-| nationalteam2 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps2 = 1
-| nationalgoals2 = 0
-| nationalyears3 = 2009–2010
-| nationalteam3 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps3 = 4
-| nationalgoals3 = 1
-| nationalyears4 = 2016
-| nationalteam4 = [[Galicia national football team|Galicia]]
-| nationalcaps4 = 1
-| nationalgoals4 = 0
-| nationalyears5 = 2023–2024
-| nationalteam5 = [[Spain national football team|Spain]]
-| nationalcaps5 = 17
-| nationalgoals5 = 6
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2008–2009
+| national_team1 = [[Spain national under-19 football team|Spain U19]]
+| national_caps1 = 11
+| national_goals1 = 3
+| national_years2 = 2009
+| national_team2 = [[Spain national under-20 football team|Spain U20]]
+| national_caps2 = 1
+| national_goals2 = 0
+| national_years3 = 2009–2010
+| national_team3 = [[Spain national under-21 football team|Spain U21]]
+| national_caps3 = 4
+| national_goals3 = 1
+| national_years4 = 2016
+| national_team4 = [[Galicia national football team|Galicia]]
+| national_caps4 = 1
+| national_goals4 = 0
+| national_years5 = 2023–2024
+| national_team5 = [[Spain national football team|Spain]]
+| national_caps5 = 17
+| national_goals5 = 6
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{Medal|Competition|[[UEFA European Championship]]}}
 {{Medal|W|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Spain|Team]]}}
 {{Medal|Competition|[[UEFA Nations League]]}}
 {{Medal|W|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Spain|Team]]}}
-| club-update = 17 January 2026
-| nationalteam-update = 23:15, 15 October 2024 (UTC)
+| club_update = 30 October 2026
+| national_team_update = 23:15, 15 October 2024 (UTC)
 | clubs17 = [[Al-Sailiya SC|Al-Sailiya]]
-| caps17 = 0
-| goals17 = 0
+| caps17 = 3
+| goals17 = 1
 | years17 = 2026–
 }}
 '''José Luis Mato Sanmartín''' (born 27 March 1990), known as '''Joselu''', is a Spanish professional [[Association football|footballer]] who plays as a [[Striker (association football)|striker]] for [[Qatar Stars League]] club [[Al-Sailiya SC|Al-Sailiya FC]].

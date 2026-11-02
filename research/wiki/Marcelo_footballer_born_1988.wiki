@@ -1,4 +1,4 @@
-<!-- Marcelo (footballer, born 1988) | revision 2026-09-27T12:11:12Z -->
+<!-- Marcelo (footballer, born 1988) | revision 2026-10-30T13:59:00Z -->
 {{Short description|Brazilian footballer (born 1988)}}
 {{protection padlock|small=yes}}
 {{Use dmy dates|date=September 2020}}
@@ -12,10 +12,10 @@
 | birth_place = [[Rio de Janeiro]], Brazil
 | height = 1.74 m<ref>{{cite web|title=Player Profile|work=Real Madrid C.F. - Web Oficial |url=http://www.realmadrid.com/en/football/squad/marcelo-vieira-da-silva|publisher=Real Madrid C.F Official Web Site|access-date=6 February 2014|archive-date=17 May 2021|archive-url=https://web.archive.org/web/20210517125815/http://www.realmadrid.com/en/football/squad/marcelo-vieira-da-silva|url-status=live}}</ref>
 | position = [[Left-back]]
-| currentclub = 
-| clubnumber = 
-| youthyears1 = 2002–2005
-| youthclubs1 = [[Fluminense FC|Fluminense]]
+| current_club = 
+| club_number = 
+| youth_years1 = 2002–2005
+| youth_clubs1 = [[Fluminense FC|Fluminense]]
 | years1 = 2005–2007
 | clubs1 = [[Fluminense FC|Fluminense]]
 | caps1 = 30
@@ -32,29 +32,29 @@
 | clubs4 = [[Fluminense FC|Fluminense]]
 | caps4 = 43
 | goals4 = 3
-| totalcaps = 464
-| totalgoals = 36
-| nationalyears1 = 2005
-| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
-| nationalcaps1 = 3
-| nationalgoals1 = 1
-| nationalyears2 = 2007
-| nationalteam2 = [[Brazil national under-20 football team|Brazil U20]]
-| nationalcaps2 = 4
-| nationalgoals2 = 0
-| nationalyears3 = 2008
-| nationalteam3 = [[Brazil national under-23 football team|Brazil U23]]
-| nationalcaps3 = 6
-| nationalgoals3 = 1
-| nationalyears4 = 2012
-| nationalteam4 = [[Brazil national under-23 football team|Brazil Olympic]] ([[List of overage players in Olympic football|O.P.]])
-| nationalcaps4 = 6
-| nationalgoals4 = 0
-| nationalyears5 = 2006–2018
-| nationalteam5 = [[Brazil national football team|Brazil]]
-| nationalcaps5 = 58
-| nationalgoals5 = 6
-| medaltemplates = {{MedalCountry|{{fb|BRA}}}}
+| total_caps = 464
+| total_goals = 36
+| national_years1 = 2005
+| national_team1 = [[Brazil national under-17 football team|Brazil U17]]
+| national_caps1 = 3
+| national_goals1 = 1
+| national_years2 = 2007
+| national_team2 = [[Brazil national under-20 football team|Brazil U20]]
+| national_caps2 = 4
+| national_goals2 = 0
+| national_years3 = 2008
+| national_team3 = [[Brazil national under-23 football team|Brazil U23]]
+| national_caps3 = 6
+| national_goals3 = 1
+| national_years4 = 2012
+| national_team4 = [[Brazil national under-23 football team|Brazil Olympic]] ([[List of overage players in Olympic football|O.P.]])
+| national_caps4 = 6
+| national_goals4 = 0
+| national_years5 = 2006–2018
+| national_team5 = [[Brazil national football team|Brazil]]
+| national_caps5 = 58
+| national_goals5 = 6
+| medal_templates = {{MedalCountry|{{fb|BRA}}}}
 {{MedalCompetition|[[FIFA Confederations Cup]]}}
 {{Medal|Winner|[[2013 Confederations Cup|2013 Brazil]]|}}
 {{MedalCompetition|[[Football at the Summer Olympics|Summer Olympics]]}}

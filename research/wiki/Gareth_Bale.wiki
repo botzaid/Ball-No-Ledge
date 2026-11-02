@@ -1,4 +1,4 @@
-<!-- Gareth Bale | revision 2026-10-24T06:29:58Z -->
+<!-- Gareth Bale | revision 2026-10-31T00:00:34Z -->
 {{short description|Welsh footballer (born 1989)}}
 {{pp-blp|small=yes}}
 {{Use British English|date=May 2020}}
@@ -12,11 +12,11 @@
 | birth_place = [[Cardiff]], Wales
 | height = {{convert|1.86|m|order=flip}}<ref name="NameBirthHeight" />
 | position = [[Right winger]], [[Forward (association football)|forward]]
-| currentclub = 
-| youthyears1 = 
-| youthclubs1 = [[Cardiff Civil Service F.C.|Cardiff Civil Service]]
-| youthyears2 = 1999–2006
-| youthclubs2 = [[Southampton F.C. Under-23s and Academy|Southampton]]
+| current_club = 
+| youth_years1 = 
+| youth_clubs1 = [[Cardiff Civil Service F.C.|Cardiff Civil Service]]
+| youth_years2 = 1999–2006
+| youth_clubs2 = [[Southampton F.C. Under-23s and Academy|Southampton]]
 | years1 = 2006–2007
 | clubs1 = [[Southampton F.C.|Southampton]]
 | caps1 = 40
@@ -37,24 +37,24 @@
 | clubs5 = [[Los Angeles FC]]
 | caps5 = 12
 | goals5 = 2
-| totalcaps = 394
-| totalgoals = 141
-| nationalyears1 = 2005–2006
-| nationalteam1 = [[Wales national under-17 football team|Wales U17]]
-| nationalcaps1 = 7
-| nationalgoals1 = 1
-| nationalyears2 = 2006
-| nationalteam2 = [[Wales national under-19 football team|Wales U19]]
-| nationalcaps2 = 1
-| nationalgoals2 = 1
-| nationalyears3 = 2006–2008
-| nationalteam3 = [[Wales national under-21 football team|Wales U21]]
-| nationalcaps3 = 4
-| nationalgoals3 = 2
-| nationalyears4 = 2006–2022
-| nationalteam4 = [[Wales national football team|Wales]]
-| nationalcaps4 = 111
-| nationalgoals4 = [[List of international goals scored by Gareth Bale|41]]
+| total_caps = 394
+| total_goals = 141
+| national_years1 = 2005–2006
+| national_team1 = [[Wales national under-17 football team|Wales U17]]
+| national_caps1 = 7
+| national_goals1 = 1
+| national_years2 = 2006
+| national_team2 = [[Wales national under-19 football team|Wales U19]]
+| national_caps2 = 1
+| national_goals2 = 1
+| national_years3 = 2006–2008
+| national_team3 = [[Wales national under-21 football team|Wales U21]]
+| national_caps3 = 4
+| national_goals3 = 2
+| national_years4 = 2006–2022
+| national_team4 = [[Wales national football team|Wales]]
+| national_caps4 = 111
+| national_goals4 = [[List of international goals scored by Gareth Bale|41]]
 }}
 '''Gareth Frank Bale''' (born 16 July 1989) is a Welsh former professional [[Association football|footballer]] who played as a [[right winger]], most notably for [[Tottenham Hotspur F.C.|Tottenham Hotspur]], [[Real Madrid CF|Real Madrid]], and the [[Wales national football team|Wales national team]]. A five-time [[UEFA Champions League]] winner, he is widely regarded as one of the best players of his generation and the greatest Welsh player of all time. Bale was appointed [[Member of the Order of the British Empire]] (MBE) in the [[2022 Birthday Honours]] for his contributions to association football and various charities.
 

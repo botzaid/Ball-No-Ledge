@@ -1,4 +1,4 @@
-<!-- Fran García (footballer, born 1999) | revision 2026-10-21T21:03:23Z -->
+<!-- Fran García (footballer, born 1999) | revision 2026-10-31T19:50:59Z -->
 {{short description|Spanish footballer (born 1999)}}
 {{other people|Fran García}}
 {{Use dmy dates|date=February 2025}}
@@ -11,12 +11,12 @@
 | birth_place = [[Bolaños de Calatrava]], Spain
 | height = 1.69 m
 | position = [[Left-back]]
-| currentclub = [[Real Betis|Betis]]
-| clubnumber = 11
-| youthyears1 = 2009–2013
-| youthclubs1 = Bolaños
-| youthyears2 = 2013–2018
-| youthclubs2 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = [[Real Betis|Betis]]
+| club_number = 11
+| youth_years1 = 2009–2013
+| youth_clubs1 = Bolaños
+| youth_years2 = 2013–2018
+| youth_clubs2 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2018–2020
 | clubs1 = [[Real Madrid Castilla|Real Madrid B]]
 | caps1 = 57
@@ -39,39 +39,39 @@
 | goals5 = 2
 | years6 = 2026–
 | clubs6 = [[Real Betis|Betis]]
-| caps6 = 8
+| caps6 = 9
 | goals6 = 0
-| nationalyears1 = 2014–2015
-| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
-| nationalcaps1 = 8
-| nationalgoals1 = 1
-| nationalyears2 = 2016
-| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
-| nationalcaps2 = 8
-| nationalgoals2 = 2
-| nationalyears3 = 2017
-| nationalteam3 = [[Spain national under-18 football team|Spain U18]]
-| nationalcaps3 = 2
-| nationalgoals3 = 1
-| nationalyears4 = 2017–2018
-| nationalteam4 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps4 = 4
-| nationalgoals4 = 0
-| nationalyears5 = 2019
-| nationalteam5 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps5 = 6
-| nationalgoals5 = 0
-| nationalyears6 = 2020
-| nationalteam6 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps6 = 1
-| nationalgoals6 = 0
-| nationalyears7 = 2023–
-| nationalteam7 = [[Spain national football team|Spain]]
-| nationalcaps7 = 3
-| nationalgoals7 = 0
-| club-update = 18:57, 17 October 2026 (UTC)
-| nationalteam-update = 20:43, 3 October 2026 (UTC)
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2014–2015
+| national_team1 = [[Spain national under-16 football team|Spain U16]]
+| national_caps1 = 8
+| national_goals1 = 1
+| national_years2 = 2016
+| national_team2 = [[Spain national under-17 football team|Spain U17]]
+| national_caps2 = 8
+| national_goals2 = 2
+| national_years3 = 2017
+| national_team3 = [[Spain national under-18 football team|Spain U18]]
+| national_caps3 = 2
+| national_goals3 = 1
+| national_years4 = 2017–2018
+| national_team4 = [[Spain national under-19 football team|Spain U19]]
+| national_caps4 = 4
+| national_goals4 = 0
+| national_years5 = 2019
+| national_team5 = [[Spain national under-20 football team|Spain U20]]
+| national_caps5 = 6
+| national_goals5 = 0
+| national_years6 = 2020
+| national_team6 = [[Spain national under-21 football team|Spain U21]]
+| national_caps6 = 1
+| national_goals6 = 0
+| national_years7 = 2023–
+| national_team7 = [[Spain national football team|Spain]]
+| national_caps7 = 3
+| national_goals7 = 0
+| club_update = 18:57, 31 October 2026 (UTC)
+| national_team_update = 20:43, 3 October 2026 (UTC)
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{Medal|Competition|[[UEFA Nations League]]}}
 {{Medal|Winner|[[2023 UEFA Nations League Finals|2023 Netherlands]]|}}
@@ -106,7 +106,7 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026}}<ref name=SW>{{Soccerway|francisco-garcia/439039|access-date=23 September 2025}}</ref>
+{{updated|match played 31 October 2026}}<ref name=SW>{{Soccerway|francisco-garcia/439039|access-date=23 September 2025}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,10 +173,10 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 |[[Real Betis]]
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|8||0||0||0||3{{efn|name=UCL}}||0||colspan="2"|—||11||0
+|9||0||0||0||3{{efn|name=UCL}}||0||colspan="2"|—||12||0
 |-
 !colspan="3"|Career total
-!243!!7!!20!!1!!23!!0!!15!!1!!300!!9
+!244!!7!!20!!1!!23!!0!!15!!1!!301!!9
 |}
 {{notelist}}
 

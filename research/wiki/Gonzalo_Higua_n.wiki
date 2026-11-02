@@ -1,4 +1,4 @@
-<!-- Gonzalo Higuaín | revision 2026-09-27T14:17:52Z -->
+<!-- Gonzalo Higuaín | revision 2026-10-28T09:18:47Z -->
 {{short description|Argentine footballer (born 1987)}}
 {{Use dmy dates|date=October 2020}}
 {{Infobox football biography
@@ -10,12 +10,12 @@
 | birth_place = [[Brest, France|Brest]], France
 | height = 1.86 m<ref>{{cite web|url=https://it.eurosport.com/calcio/gonzalohiguain_prs105843/person.shtml|title=Gonzalo Higuaín|publisher=Eurosport|language=it|access-date=27 November 2019}}</ref><ref>{{cite web|url=https://www.foxsports.it/calcio/gonzalo-higuain|title=Gonzalo Higuain|work=Fox Sports|language=it|access-date=27 November 2019|archive-url=https://web.archive.org/web/20190406075257/https://www.foxsports.it/calcio/gonzalo-higuain/|archive-date=6 April 2019|url-status=dead}}</ref>
 | position = [[Forward (association football)#Striker|Striker]]
-| currentclub = [[Inter Miami CF|Inter Miami]] (player development coach)
-| clubnumber = 
-| youthclubs1 = [[Club Atlético Palermo|Palermo]]
-| youthyears1 = 
-| youthclubs2 = [[Club Atlético River Plate|River Plate]]
-| youthyears2 = 1997–2005
+| current_club = [[Inter Miami CF|Inter Miami]] (player development coach)
+| club_number = 
+| youth_clubs1 = [[Club Atlético Palermo|Palermo]]
+| youth_years1 = 
+| youth_clubs2 = [[Club Atlético River Plate|River Plate]]
+| youth_years2 = 1997–2005
 | years1 = 2005–2007
 | clubs1 = [[Club Atlético River Plate|River Plate]]
 | caps1 = 35
@@ -44,17 +44,17 @@
 | clubs7 = [[Inter Miami CF|Inter Miami]]
 | caps7 = 67
 | goals7 = 29
-| totalcaps = 530
-| totalgoals = 279
-| nationalyears1 = 2008
-| nationalyears2 = 2009–2018
-| nationalteam1 = [[Argentina national under-23 football team|Argentina U23]]
-| nationalteam2 = [[Argentina national football team|Argentina]]
-| nationalcaps1 = 1
-| nationalcaps2 = 75
-| nationalgoals1 = 2
-| nationalgoals2 = 31
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| total_caps = 530
+| total_goals = 279
+| national_years1 = 2008
+| national_years2 = 2009–2018
+| national_team1 = [[Argentina national under-23 football team|Argentina U23]]
+| national_team2 = [[Argentina national football team|Argentina]]
+| national_caps1 = 1
+| national_caps2 = 75
+| national_goals1 = 2
+| national_goals2 = 31
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|ARG}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|RU|[[2014 FIFA World Cup|2014 Brazil]]|}}

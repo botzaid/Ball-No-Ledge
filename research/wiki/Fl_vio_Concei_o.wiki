@@ -1,4 +1,4 @@
-<!-- Flávio Conceição | revision 2026-06-27T16:23:35Z -->
+<!-- Flávio Conceição | revision 2026-10-31T11:49:00Z -->
 {{short description|Brazilian footballer (born 1974)}}
 {{Use dmy dates|date=November 2021}}
 {{Infobox football biography
@@ -6,13 +6,13 @@
 | image = 
 | image_size = 
 | caption = 
-| fullname = Flávio da Conceição
+| full_name = Flávio da Conceição
 | birth_date = {{Birth date and age|1974|6|12|df=yes}}
 | birth_place = [[Santa Maria da Serra]], Brazil
 | height = 1.77 m
 | position = [[Midfielder]]
-| currentclub = 
-| youthyears1 = | youthclubs1 = 
+| current_club = 
+| youth_years1 = | youth_clubs1 = 
 | years1 = 1992–1993 | clubs1 = [[Rio Branco Esporte Clube|Rio Branco-SP]] | caps1 = 22 | goals1 = 2
 | years2 = 1993–1996 | clubs2 = [[Sociedade Esportiva Palmeiras|Palmeiras]] | caps2 = 52 | goals2 = 5
 | years3 = 1996–2000 | clubs3 = [[Deportivo de La Coruña|Deportivo La Coruña]] | caps3 = 97 | goals3 = 9
@@ -20,9 +20,9 @@
 | years5 = 2003–2004 | clubs5 = → [[Borussia Dortmund]] (loan) | caps5 = 14 | goals5 = 1
 | years6 = 2004–2005 | clubs6 = [[Galatasaray S.K. (football)|Galatasaray]] | caps6 = 27 | goals6 = 2
 | years7 = 2005–2006 | clubs7 = [[Panathinaikos F.C.|Panathinaikos]] | caps7 = 14 | goals7 = 1
-| totalcaps = 271 | totalgoals = 21
-| nationalyears1 = 1995–2000 | nationalteam1 = [[Brazil national football team|Brazil]] | nationalcaps1 = 45 | nationalgoals1 = 4
-| medaltemplates = 
+| total_caps = 271 | total_goals = 21
+| national_years1 = 1995–2000 | national_team1 = [[Brazil national football team|Brazil]] | national_caps1 = 45 | national_goals1 = 4
+| medal_templates = 
 {{MedalCountry|{{BRA}}}}
 {{MedalSport|Men's [[Football at the Summer Olympics|Football]]}}
 {{MedalBronze|[[1996 Summer Olympics|1996 Atlanta]]|[[Football at the 1996 Summer Olympics|Team competition]]}}

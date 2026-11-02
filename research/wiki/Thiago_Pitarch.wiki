@@ -1,24 +1,24 @@
-<!-- Thiago Pitarch | revision 2026-10-03T19:47:46Z -->
+<!-- Thiago Pitarch | revision 2026-10-29T11:04:38Z -->
 {{Short description|Spanish footballer (born 2007)}}
 {{family name hatnote|Pitarch|Pinar|lang=Spanish}}
 {{Use dmy dates|date=August 2026}}
 {{Infobox football biography
 | name = Thiago Pitarch
-| fullname = Thiago Pitarch Pinar<ref name="U20WC">{{cite web |url=https://fdp.fifa.org/assetspublic/ce243/pdf/SquadLists-English.pdf |title=FIFA U-20 World Cup Chile 2025™ Squad List: Spain (ESP) |publisher=[[FIFA]] |page=22 |date=27 September 2025}}</ref>
+| full_name = Thiago Pitarch Pinar<ref name="U20WC">{{cite web |url=https://fdp.fifa.org/assetspublic/ce243/pdf/SquadLists-English.pdf |title=FIFA U-20 World Cup Chile 2025™ Squad List: Spain (ESP) |publisher=[[FIFA]] |page=22 |date=27 September 2025}}</ref>
 | birth_date = {{Birth date and age|2007|8|3|df=y}}<ref name="U20WC"/>
 | birth_place = [[Fuenlabrada]], Spain
 | height = 1.75 m<ref name="U20WC"/>
 | position = [[Midfielder]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 27
-| youthyears1 = 2013–2018
-| youthclubs1 = [[Atlético Madrid (youth)|Atlético Madrid]]
-| youthyears2 = 2018–2022
-| youthclubs2 = [[Getafe CF|Getafe]]
-| youthyears3 = 2022–2023
-| youthclubs3 = [[CD Leganés|Leganés]]
-| youthyears4 = 2023–2026
-| youthclubs4 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 27
+| youth_years1 = 2013–2018
+| youth_clubs1 = [[Atlético Madrid (youth)|Atlético Madrid]]
+| youth_years2 = 2018–2022
+| youth_clubs2 = [[Getafe CF|Getafe]]
+| youth_years3 = 2022–2023
+| youth_clubs3 = [[CD Leganés|Leganés]]
+| youth_years4 = 2023–2026
+| youth_clubs4 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2025–2026
 | clubs1 = [[Real Madrid C]]
 | caps1 = 2
@@ -31,17 +31,17 @@
 | clubs3 = [[Real Madrid CF|Real Madrid]]
 | caps3 = 10
 | goals3 = 0
-| nationalyears1 = 2026
-| nationalteam1 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps1 = 9
-| nationalgoals1 = 0
-| nationalyears2 = 2025–
-| nationalteam2 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps2 = 7
-| nationalgoals2 = 1
-| pcupdate = 08:44, 24 May 2026 (UTC)
-| ntupdate = 08:35, 1 October 2026 (UTC)
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2026
+| national_team1 = [[Spain national under-19 football team|Spain U19]]
+| national_caps1 = 9
+| national_goals1 = 0
+| national_years2 = 2025–
+| national_team2 = [[Spain national under-20 football team|Spain U20]]
+| national_caps2 = 7
+| national_goals2 = 1
+| club_update = 08:44, 24 May 2026 (UTC)
+| national_team_update = 08:35, 1 October 2026 (UTC)
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{ESP}}}}
 {{Medal|Comp|[[UEFA European Under-19 Championship]]}}
 {{Medal|Winner|[[2026 UEFA European Under-19 Championship|2026 Wales]]|}}

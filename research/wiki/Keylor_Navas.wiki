@@ -1,4 +1,4 @@
-<!-- Keylor Navas | revision 2026-10-18T09:55:36Z -->
+<!-- Keylor Navas | revision 2026-10-29T23:49:52Z -->
 {{Short description|Costa Rican footballer (born 1986)}}
 {{family name hatnote|Navas|Gamboa|lang=Spanish}}
 {{Use dmy dates|date=December 2022}}
@@ -12,10 +12,10 @@
 | birth_place = [[San Isidro de El General]], Costa Rica
 | height = 1.85 m<ref name="FIFA"/>
 | position = [[Goalkeeper (association football)|Goalkeeper]]
-| currentclub = [[Pumas UNAM]]<ref>{{cite web|title=Keylor Navas Joins Pumas UNAM in Major Liga MX Transfer|url=https://ticotimes.net/2025/07/21/keylor-navas-joins-pumas-unam-in-major-liga-mx-transfer|website=The Tico Times|access-date=22 July 2025|date=21 July 2025}}</ref>
-| clubnumber = 1
-| youthyears1 = 1999–2005
-| youthclubs1 = [[Deportivo Saprissa|Saprissa]]
+| current_club = [[Pumas UNAM]]<ref>{{cite web|title=Keylor Navas Joins Pumas UNAM in Major Liga MX Transfer|url=https://ticotimes.net/2025/07/21/keylor-navas-joins-pumas-unam-in-major-liga-mx-transfer|website=The Tico Times|access-date=22 July 2025|date=21 July 2025}}</ref>
+| club_number = 1
+| youth_years1 = 1999–2005
+| youth_clubs1 = [[Deportivo Saprissa|Saprissa]]
 | years1 = 2005–2010
 | clubs1 = [[Deportivo Saprissa|Saprissa]]
 | caps1 = 73
@@ -50,22 +50,22 @@
 | goals8 = 0
 | years9 = 2025–
 | clubs9 = [[Pumas UNAM]]
-| caps9 = 48
+| caps9 = 52
 | goals9 = 0
-| nationalyears1 = 2003
-| nationalteam1 = [[Costa Rica national under-17 football team|Costa Rica U17]]
-| nationalcaps1 = 3
-| nationalgoals1 = 0
-| nationalyears2 = 2006
-| nationalteam2 = Costa Rica U21
-| nationalcaps2 = 6
-| nationalgoals2 = 0
-| nationalyears3 = 2008–
-| nationalteam3 = [[Costa Rica national football team|Costa Rica]]
-| nationalcaps3 = 129
-| nationalgoals3 = 0
-| club-update = 23:39, 27 September 2026 (UTC)
-| nationalteam-update = 4 October 2026
+| national_years1 = 2003
+| national_team1 = [[Costa Rica national under-17 football team|Costa Rica U17]]
+| national_caps1 = 3
+| national_goals1 = 0
+| national_years2 = 2006
+| national_team2 = Costa Rica U21
+| national_caps2 = 6
+| national_goals2 = 0
+| national_years3 = 2008–
+| national_team3 = [[Costa Rica national football team|Costa Rica]]
+| national_caps3 = 129
+| national_goals3 = 0
+| club_update = 23:39, 27 September 2026 (UTC)
+| national_team_update = 4 October 2026
 }}
 '''Keilor Antonio Navas Gamboa''' ({{IPA|es|ˈkej.lor anˈto.njo ˈna.βas ɣamˈbo.a|lang}};<ref>{{cite web|date=23 March 2017|title=Entrevista a Keylor Navas - Portero Real Madrid|trans-title=Interview with Keylor Navas - Real Madrid Goalkeeper|url=https://www.youtube.com/watch?v=pNsicQ-iFKY&t=16s|access-date=22 February 2024|website=[[YouTube]]|publisher=Fútbol Emotion|language=es}}</ref> born 15 December 1986), known as '''Keylor Navas''', is a Costa Rican professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for and captains [[Liga MX]] club [[Pumas UNAM]] and the [[Costa Rica national football team|Costa Rica national team]]. He is regarded as one of the best goalkeepers of his generation, and one of the greatest ever [[CONCACAF]] goalkeepers.<ref>{{cite news|last=Fernandez|first=Ileana|date=12 March 2023|title=Keylor Navas included in IFFHS men's all time world best goalkeeper ranking|url=https://ticotimes.net/2023/03/12/keylor-navas-included-in-iffhs-mens-all-time-world-best-goalkeeper-ranking|access-date=25 June 2024|work=[[The Tico Times]]}}</ref><ref>{{cite news|date=15 January 2021|title=Keylor Navas ranked among the best goalkeepers of the decade|last=Claro|first=Marco|url=https://www.marca.com/en/football/international-football/2021/01/15/6001eb34ca474191768b45d6.html|access-date=23 February 2026|work=[[Marca (newspaper)|Marca]]}}</ref><ref>{{cite web|last=Sharpless|first=Hunter|date=29 July 2019|title=Real Madrid's Keylor Navas Is The Greatest Concacaf Goalkeeper Of All Time|url=https://www.flofc.com/articles/6542848-real-madrids-keylor-navas-is-the-greatest-concacaf-goalkeeper-of-all-time|access-date=25 June 2024|website=FloFC}}</ref><ref>{{cite web|last=Rachini|first=Mouhamad|date=23 April 2020|title=The 50: Top 10 North & Central American goalkeepers of all time.|url=https://btsgoalies.com/2020/04/23/top-10-north-central-america-goalkeepers/|access-date=25 June 2024|website=Between the Sticks}}</ref>
 
@@ -118,7 +118,7 @@ Ahead of the [[2021–22 Paris Saint-Germain F.C. season|2021–22 season]], PSG
 Following the long-term injury to [[Dean Henderson]], on 31 January 2023, Navas signed for [[Premier League]] club [[Nottingham Forest F.C.|Nottingham Forest]] on loan until the end of the season.<ref>{{cite web|date=31 January 2023|title=Keylor Navas joins Nottingham Forest on loan|url=https://en.psg.fr/teams/first-team/content/keylor-navas-paris-saint-germain-joins-nottingham-forest-fc-on-loan|access-date=31 January 2023|publisher=[[Paris Saint-Germain F.C.]]|archive-url=https://web.archive.org/web/20230131235417/https://en.psg.fr/teams/first-team/content/keylor-navas-paris-saint-germain-joins-nottingham-forest-fc-on-loan|archive-date=31 January 2023|url-status=dead}}</ref> He made his debut for Forest on 5 February, keeping a clean sheet in a 1–0 win over [[Leeds United F.C.|Leeds United]], and was named player of the match.<ref>{{cite news|url=https://apnews.com/article/sports-soccer-leeds-united-brennan-johnson-keylor-navas-09d9c696f57dad5cfe4113d1cf1fda09|title=Keylor Navas stars on debut as Forest beats Leeds 1-0 in EPL|agency=[[Associated Press]]|date=5 February 2023|access-date=23 February 2026}}</ref>
 
 Following his return to PSG, Navas was included in the Champions League squad for the [[2023–24 UEFA Champions League|2023–24 season]], having rejected a transfer to Saudi club [[Al Hilal SFC|Al Hilal]].<ref>{{cite web|last=Sévérac|first=Dominique|url=https://www.leparisien.fr/sports/football/psg/mercato-keylor-navas-reste-finalement-au-psg-pourquoi-luis-enrique-sen-frotte-les-mains-07-09-2023-TZMYKYOG6JHQJPHG72MSNXNVUI.php?ts=1694094908817|title=Mercato : Keylor Navas reste finalement au PSG, pourquoi Luis Enrique s'en frotte les mains|publisher=Le Parisien|language=fr|date=7 September 2023|access-date=23 February 2026}}</ref> On 11 May 2024, he announced his departure from PSG at the end of the season.<ref>{{cite web|date=11 May 2024|title=«Chaque seconde passée au Parc des Princes a été merveilleuse» : Navas va quitter le PSG|last=Remise|first=Christophe|url=https://www.lefigaro.fr/sports/football/ligue-1/psg-apres-mbappe-le-gardien-keylor-navas-annonce-son-depart-du-club-20240511|access-date=23 February 2026|website=Le Figaro|language=fr}}</ref>
-[[File:Keylor Navas UNAM.jpg|thumb|Navas playing for [[Pumas UNAM|Pumas]] in 2025]]
+[[File:Keylor Navas UNAM.jpg|thumb|Navas playing for [[Pumas UNAM]] in 2025]]
 
 ===Newell's Old Boys===
 On January 21, 2025, Navas joined [[Newell's Old Boys]] on a free transfer.<ref>{{cite web|title=Keylor Navas: Former Real Madrid goalkeeper joins Newell's Old Boys|url=https://www.nytimes.com/athletic/6074790/2025/01/22/keylor-navas-transfer-newells-old-boys/|work=[[The New York Times]]|date=22 January 2025|access-date=23 February 2026}}</ref> A month later, on 2 February, he made his debut in a 1–0 win against [[Club Atlético Aldosivi|Aldosivi]].<ref>{{cite web|url=https://ticotimes.net/2025/02/03/costa-ricas-keylor-navas-shines-in-debut-for-newells-old-boys|title=Costa Rica's Keylor Navas Shines In Debut for Newell’s Old Boys|publisher=Tico Times|date=3 February 2025|access-date=23 February 2026}}</ref>
@@ -128,7 +128,7 @@ In June 2025 Navas began to seek his departure from the team due to relationship
 After several weeks of failed sale negotiations,<ref>{{cite web|title=Newell's rechaza la primera oferta formal de Pumas por Keylor Navas|url=https://mexico.as.com/futbol/futbol-mexicano/newells-rechaza-la-primera-oferta-formal-de-pumas-por-keylor-navas-n/|website=AS México|access-date=22 July 2025|language=es|date=14 July 2025}}</ref> Newell's announced Navas's departure from the club on July 21, 2025, six months after joining the team.<ref>{{cite web|title=Keylor Navas se va de Newell’s tras los conflictos con el club: la reacción de Fabbiani y los arqueros que podrían reemplazarlo|url=https://www.infobae.com/deportes/2025/07/21/keylor-navas-se-va-de-newells-tras-los-conflictos-con-el-club-la-reaccion-de-fabbiani-y-los-arqueros-que-podrian-reemplazarlo/|website=Infobae|access-date=22 July 2025|language=es|date=21 July 2025}}</ref>
 
 ===Pumas===
-On 24 July 2025, [[Liga MX]] club [[Pumas UNAM|Pumas]] officially announced the signing of Navas.<ref>{{cite web|title=Newell's Old Boys hace oficial fichaje de Keylor Navas con Pumas|url=https://www.tudn.com/futbol/liga-mx/newells-old-boys-hace-oficial-fichaje-keylor-navas-pumas|last=Marroquín|first=Emmanuel R.|website=TUDN|access-date=23 February 2026|language=es|date=21 July 2025}}</ref>
+On 24 July 2025, [[Liga MX]] club Pumas UNAM officially announced the signing of Navas.<ref>{{cite web|title=Newell's Old Boys hace oficial fichaje de Keylor Navas con Pumas|url=https://www.tudn.com/futbol/liga-mx/newells-old-boys-hace-oficial-fichaje-keylor-navas-pumas|last=Marroquín|first=Emmanuel R.|website=TUDN|access-date=23 February 2026|language=es|date=21 July 2025}}</ref>
 
 ==International career==
 ===Youth career and early senior career===

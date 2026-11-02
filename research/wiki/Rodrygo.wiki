@@ -1,4 +1,4 @@
-<!-- Rodrygo | revision 2026-10-23T02:08:53Z -->
+<!-- Rodrygo | revision 2026-10-27T04:55:55Z -->
 {{short description|Brazilian footballer (born 2001)}}
 {{Portuguese name|Silva|de Goes}}
 {{Use dmy dates|date=October 2025}}
@@ -12,10 +12,10 @@
 | birth_place = [[Osasco]], Brazil
 | height = 1.74 m<ref name="FIFA"/>
 | position = [[Winger (association football)|Winger]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 11
-| youthyears1 = 2011–2017
-| youthclubs1 = [[Santos FC Reserves and Academy|Santos]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 11
+| youth_years1 = 2011–2017
+| youth_clubs1 = [[Santos FC Reserves and Academy|Santos]]
 | years1 = 2017–2019
 | clubs1 = [[Santos FC|Santos]]
 | caps1 = 41
@@ -28,24 +28,24 @@
 | clubs3 = [[Real Madrid CF|Real Madrid]]
 | caps3 = 191
 | goals3 = 33
-| nationalyears1 = 2017–2018
-| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
-| nationalcaps1 = 4
-| nationalgoals1 = 3
-| nationalyears2 = 2018–2019
-| nationalteam2 = [[Brazil national under-20 football team|Brazil U20]]
-| nationalcaps2 = 10
-| nationalgoals2 = 3
-| nationalyears3 = 2019–2021
-| nationalteam3 = [[Brazil national under-23 football team|Brazil U23]]
-| nationalcaps3 = 5
-| nationalgoals3 = 1
-| nationalyears4 = 2019–
-| nationalteam4 = [[Brazil national football team|Brazil]]
-| nationalcaps4 = 37
-| nationalgoals4 = 9
-| club-update = 15:25, 3 March 2026 (UTC)
-| nationalteam-update = 23:12, 18 November 2025 (UTC)
+| national_years1 = 2017–2018
+| national_team1 = [[Brazil national under-17 football team|Brazil U17]]
+| national_caps1 = 4
+| national_goals1 = 3
+| national_years2 = 2018–2019
+| national_team2 = [[Brazil national under-20 football team|Brazil U20]]
+| national_caps2 = 10
+| national_goals2 = 3
+| national_years3 = 2019–2021
+| national_team3 = [[Brazil national under-23 football team|Brazil U23]]
+| national_caps3 = 5
+| national_goals3 = 1
+| national_years4 = 2019–
+| national_team4 = [[Brazil national football team|Brazil]]
+| national_caps4 = 37
+| national_goals4 = 9
+| club_update = 15:25, 3 March 2026 (UTC)
+| national_team_update = 23:12, 18 November 2025 (UTC)
 }}
 '''Rodrygo Silva de Goes''' ({{IPA|pt-BR|ʁoˈdɾiɡu ˈsiwvɐ dʒi ˈɡɔjs|lang}};<ref>{{Cite web |last=Team |first=Forvo |title=Rodrygo Goes pronunciation: How to pronounce Rodrygo Goes in Portuguese |url=https://forvo.com/word/rodrygo_goes/ |archive-url=https://web.archive.org/web/20190328203310/https://forvo.com/word/rodrygo_goes/ |archive-date=28 March 2019 |access-date=11 May 2025 |website=Forvo.com |language=en}}</ref> born 9 January 2001), better known as '''Rodrygo''', is a Brazilian professional [[Association football|footballer]] who plays primarily as a [[Winger (association football)|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
 

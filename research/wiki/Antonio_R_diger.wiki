@@ -1,9 +1,9 @@
-<!-- Antonio Rüdiger | revision 2026-10-24T20:33:51Z -->
+<!-- Antonio Rüdiger | revision 2026-10-27T05:37:22Z -->
 {{Short description|German footballer (born 1993)}}
 {{Use dmy dates|date=April 2025}}
 {{Infobox football biography
 | name = Antonio Rüdiger
-| image = Antonio Rudiger Ecuador v Germany 25 June 2026-055 (cropped).jpg
+| image = Antonio Rudiger Ecuador v Germany 25 June 2026-002.jpg
 | caption = Rüdiger with [[Germany national football team|Germany]] in 2026<!-- Please do not expand this caption per [[MOS:CAPLENGTH]] -->
 | full_name = Antonio Rüdiger<ref>{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Germany |publisher=FIFA |page=12 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
 | birth_date = {{birth date and age|1993|3|3|df=y}}<ref>{{cite web |url=https://www.espn.co.uk/football/player/_/id/169438/antonio-rudiger |title=Antonio Rüdiger: Overview |publisher=ESPN |access-date=28 June 2020}}</ref>

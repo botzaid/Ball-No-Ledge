@@ -1,4 +1,4 @@
-<!-- Pedro Munitis | revision 2026-09-08T05:05:42Z -->
+<!-- Pedro Munitis | revision 2026-10-29T09:18:26Z -->
 {{Short description|Spanish footballer and manager (born 1975)}}
 {{family name hatnote|Munitis|Álvarez|lang=Spanish}}
 {{Use dmy dates|date=May 2019}}
@@ -6,13 +6,13 @@
 | name = Pedro Munitis
 | image = Pedro Munitis 2013.jpg
 | caption = Munitis in 2013
-| fullname = Pedro Munitis Álvarez<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/072/328.html|title=Pedro MUNITIS Álvarez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=11 May 2021}}</ref>
+| full_name = Pedro Munitis Álvarez<ref name=Bio>{{cite news|url=https://www.elmundo.es/elmundodeporte/envivos/fichas/1/072/328.html|title=Pedro MUNITIS Álvarez|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|access-date=11 May 2021}}</ref>
 | birth_date = {{birth date and age|1975|6|19|df=y}}<ref name=Bio/>
 | birth_place = [[Santander, Spain]]<ref name=Bio/>
 | height = 1.67 m<ref>{{cite web|url=https://www.premierleague.com/players/36021/Pedro-Munitis/overview|title=Pedro Munitis|publisher=[[Premier League]]|access-date=28 August 2024}}</ref>
 | position = [[Forward (association football)|Forward]]
-| currentclub =
-| youthyears1 = | youthclubs1 = [[Santoña CF|Santoña]]
+| current_club =
+| youth_years1 = | youth_clubs1 = [[Santoña CF|Santoña]]
 | years1 = 1992–1993 | clubs1 = [[Santoña CF|Santoña]] | caps1 = | goals1 = 
 | years2 = 1993–1997 | clubs2 = [[Rayo Cantabria|Racing B]] | caps2 = | goals2 = 
 | years3 = 1995–2000 | clubs3 = [[Racing de Santander|Racing Santander]] | caps3 = 83 | goals3 = 14
@@ -21,17 +21,17 @@
 | years6 = 2002–2003 | clubs6 = → [[Racing de Santander|Racing Santander]] (loan) | caps6 = 30 | goals6 = 8
 | years7 = 2003–2006 | clubs7 = [[Deportivo de La Coruña|Deportivo La Coruña]] | caps7 = 90 | goals7 = 5
 | years8 = 2006–2012 | clubs8 = [[Racing de Santander|Racing Santander]] | caps8 = 191 | goals8 = 12
-| totalcaps = 475 | totalgoals = 53
-| nationalyears1 = 1999–2002 | nationalteam1 = [[Spain national football team|Spain]] | nationalcaps1 = 21 | nationalgoals1 = 2
-| manageryears1 = 2012–2014 | managerclubs1 = [[SD Reocín (women)|Reocín Women]]
-| manageryears2 = 2014–2015 | managerclubs2 = Bansander (youth)
-| manageryears3 = 2015 | managerclubs3 = [[Racing de Santander|Racing Santander]] (assistant)
-| manageryears4 = 2015–2016 | managerclubs4 = [[Racing de Santander|Racing Santander]]
-| manageryears5 = 2016–2017 | managerclubs5 = [[SD Ponferradina|Ponferradina]]
-| manageryears6 = 2018–2019 | managerclubs6 = [[UCAM Murcia CF|UCAM Murcia]]
-| manageryears7 = 2020 | managerclubs7 = [[CD Badajoz|Badajoz]]
-| manageryears8 = 2021–2022 | managerclubs8 = [[CE Sabadell FC|Sabadell]]
-| manageryears9 = 2023 | managerclubs9 = [[CD Lugo|Lugo]]
+| total_caps = 475 | total_goals = 53
+| national_years1 = 1999–2002 | national_team1 = [[Spain national football team|Spain]] | national_caps1 = 21 | national_goals1 = 2
+| manager_years1 = 2012–2014 | manager_clubs1 = [[SD Reocín (women)|Reocín Women]]
+| manager_years2 = 2014–2015 | manager_clubs2 = Bansander (youth)
+| manager_years3 = 2015 | manager_clubs3 = [[Racing de Santander|Racing Santander]] (assistant)
+| manager_years4 = 2015–2016 | manager_clubs4 = [[Racing de Santander|Racing Santander]]
+| manager_years5 = 2016–2017 | manager_clubs5 = [[SD Ponferradina|Ponferradina]]
+| manager_years6 = 2018–2019 | manager_clubs6 = [[UCAM Murcia CF|UCAM Murcia]]
+| manager_years7 = 2020 | manager_clubs7 = [[CD Badajoz|Badajoz]]
+| manager_years8 = 2021–2022 | manager_clubs8 = [[CE Sabadell FC|Sabadell]]
+| manager_years9 = 2023 | manager_clubs9 = [[CD Lugo|Lugo]]
 }}
 '''Pedro Munitis Álvarez''' (born 19 June 1975) is a Spanish former professional [[Association football|footballer]] who played mainly as a [[Forward (association football)|forward]], currently a [[Manager (association football)|manager]].
 

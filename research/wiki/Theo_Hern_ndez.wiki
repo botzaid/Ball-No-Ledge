@@ -1,4 +1,4 @@
-<!-- Théo Hernandez | revision 2026-10-23T20:12:01Z -->
+<!-- Théo Hernandez | revision 2026-10-31T20:18:57Z -->
 {{short description|French footballer (born 1997)}}
 {{Use dmy dates|date=December 2022}}
 {{Infobox football biography
@@ -7,15 +7,15 @@
 | caption = Hernandez with [[France national football team|France]] in 2026
 | full_name = Théo Bernard François Hernandez<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup Qatar 2022: France (FRA) |publisher=FIFA |page=12 |date=15 November 2022 |access-date=15 November 2022}}</ref>
 | birth_date = {{birth date and age|1997|10|6|df=y}}<ref name=FIFA>{{cite web |url=http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf |title=FIFA Club World Cup UAE 2017: List of players: Real Madrid CF |publisher=FIFA |page=5 |date=30 November 2017|access-date=23 December 2017|archive-url=https://web.archive.org/web/20180527201433/http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf|archive-date=27 May 2018}}</ref>
-| birth_place = [[Marseille]], France
+| birth_place = [[Marseille]], Bouches-du-Rhône, France
 | height = 1.84 m<ref>{{cite web |url=https://www.acmilan.com/en/teams/men-first-team/players/theo-hernandez/biography |title=Theo Hernandez: Biography |publisher=AC Milan |access-date=1 July 2022 |archive-url=https://web.archive.org/web/20211106214914/https://www.acmilan.com/en/teams/men-first-team/players/theo-hernandez/biography |archive-date=6 November 2021 |url-status=live }}</ref>
 | position = [[Left-back]]
-| currentclub = [[Al Hilal SFC|Al Hilal]]
-| clubnumber = 19
-| youthyears1 = 2006–2007
-| youthclubs1 = [[CF Rayo Majadahonda|Rayo Majadahonda]]<ref>{{cite news |url=https://real-sociedad.diariovasco.com/theohernandez-20181025003102-ntvo.html |title="Desde críos se veía que Lucas y Theo Hernández tenían condiciones"|trans-title=«One could see Lucas and Theo Hernández were skilled since when they were kids» |newspaper=[[El Diario Vasco]] |first=Axel |last=Guerra |language=es |date=25 October 2018|access-date=1 August 2020}}</ref>
-| youthyears2 = 2007–2015
-| youthclubs2 = [[Atlético Madrid (youth)|Atlético Madrid]]
+| current_club = [[Al Hilal SFC|Al Hilal]]
+| club_number = 19
+| youth_years1 = 2006–2007
+| youth_clubs1 = [[CF Rayo Majadahonda|Rayo Majadahonda]]<ref>{{cite news |url=https://real-sociedad.diariovasco.com/theohernandez-20181025003102-ntvo.html |title="Desde críos se veía que Lucas y Theo Hernández tenían condiciones"|trans-title=«One could see Lucas and Theo Hernández were skilled since when they were kids» |newspaper=[[El Diario Vasco]] |first=Axel |last=Guerra |language=es |date=25 October 2018|access-date=1 August 2020}}</ref>
+| youth_years2 = 2007–2015
+| youth_clubs2 = [[Atlético Madrid (youth)|Atlético Madrid]]
 | years1 = 2015–2017
 | clubs1 = [[Atlético Madrid B]]
 | caps1 = 9
@@ -38,33 +38,33 @@
 | goals5 = 31
 | years6 = 2025–
 | clubs6 = [[Al Hilal SFC|Al Hilal]]
-| caps6 = 37
+| caps6 = 38
 | goals6 = 6
-| nationalyears1 = 2015
-| nationalteam1 = [[France national under-18 football team|France U18]]
-| nationalcaps1 = 4
-| nationalgoals1 = 0
-| nationalyears2 = 2015–2016
-| nationalteam2 = [[France national under-19 football team|France U19]]
-| nationalcaps2 = 9
-| nationalgoals2 = 0
-| nationalyears3 = 2016
-| nationalteam3 = [[France national under-20 football team|France U20]]
-| nationalcaps3 = 3
-| nationalgoals3 = 1
-| nationalyears4 = 2021–
-| nationalteam4 = [[France national football team|France]]
-| nationalcaps4 = 49
-| nationalgoals4 = 2
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2015
+| national_team1 = [[France national under-18 football team|France U18]]
+| national_caps1 = 4
+| national_goals1 = 0
+| national_years2 = 2015–2016
+| national_team2 = [[France national under-19 football team|France U19]]
+| national_caps2 = 9
+| national_goals2 = 0
+| national_years3 = 2016
+| national_team3 = [[France national under-20 football team|France U20]]
+| national_caps3 = 3
+| national_goals3 = 1
+| national_years4 = 2021–
+| national_team4 = [[France national football team|France]]
+| national_caps4 = 49
+| national_goals4 = 2
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|RU|[[2022 FIFA World Cup|2022 Qatar]]|}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|W|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club-update = 22:11, 23 October 2026 (UTC)
-| nationalteam-update = 23:15, 18 July 2026 (UTC)
+| club_update = 21:18, 31 October 2026 (UTC)
+| national_team_update = 23:15, 18 July 2026 (UTC)
 }}
 '''Théo Bernard François Hernandez''' ({{IPA|fr|teo ɛʁnɑ̃dɛz, - ɛʁnandɛs}};<ref>{{cite web |date=27 March 2022 |title=Le OUI-NON avec les FRÈRES Hernandez ! |trans-title=The YES-NO with the Hernandez BROTHERS ! |url=https://www.youtube.com/watch?v=Ms8PQ5ou-Xo&t=95s |access-date=2 July 2023 |website=YouTube |language=fr}}</ref> born 6 October 1997) is a French professional [[Association football|footballer]] who plays primarily as a [[left-back]] for [[Saudi Pro League]] club [[Al Hilal SFC|Al Hilal]] and the  [[France national football team|France national team]].
 
@@ -121,7 +121,7 @@ In June 2024, he was named in the squad for [[UEFA Euro 2024]] in Germany.<ref>{
 On 14 May 2026, Hernandez was selected in the 26-man squad for the [[2026 FIFA World Cup]].<ref>{{cite news|url=https://www.espn.com/soccer/story/_/id/48771039/france-2026-world-cup-squad-mbappe-camavinga-kolo-muani-dembele|title=France World Cup squad: Camavinga, Kolo Muani miss out|date=14 May 2026|access-date=17 June 2026|language=en}}</ref>
 
 ==Personal life==
-Hernandez's father, [[Jean-François Hernandez|Jean-François]], was also a footballer. A [[centre-back]] from France, he too played for [[Atlético Madrid]];<ref>{{cite news |url=https://www.ladepeche.fr/article/2018/03/21/2764068-lucas-hernandez-l-espagnol-a-l-accent-francais.html |title=Lucas Hernandez, l'Espagnol à l'accent français|trans-title=Lucas Hernandez, the Spaniard with the French accent |newspaper=[[La Dépêche du Midi]] |first=Sébastien |last=Barrère |language=fr |date=21 March 2018|access-date=1 April 2018}}</ref><ref>{{cite news |url=https://www.abc.es/atletico-madrid/noticias/20141205/abci-lucas-hernandez-atletico-201412051718.html |title=Lucas, el futuro jefe de la defensa|trans-title=Lucas, the future boss of the defence |newspaper=[[ABC (newspaper)|ABC]] |language=es |date=5 December 2014|access-date=21 July 2016}}</ref> his older brother [[Lucas Hernandez|Lucas]], who plays for [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[France national football team|France]], was also developed at the club.<ref>{{cite news |url=https://www.mundodeportivo.com/futbol/atletico-madrid/20160206/301951417690/atletico-atletico-de-madrid-atleti-lucas-hernandez-theo-hernandez.html |title=Theo y Lucas, dos hermanos del Atlético sobre el campo 60 años después|trans-title=Theo and Lucas, two brothers from Atlético on the field 60 years later |newspaper=Mundo Deportivo |first=Chema |last=G. Fuente |language=es |date=6 February 2016|access-date=21 July 2016}}</ref> In 2022, French newspaper ''[[L'Équipe]]'' found that Jean-François – who went missing in 2004 – was living in Thailand, and had allegedly been legally blocked by his ex-partner from seeing their children.<ref>{{Cite web |date=2022-11-12 |title=Father of Lucas and Theo Hernandez 'turns up' 18 years later: He's waiting for his children to call him |url=https://www.marca.com/en/football/2022/11/12/636f792ce2704e9c7f8b4590.html |access-date=2025-04-05 |website=MARCA |language=en}}</ref>
+Hernandez's father, [[Jean-François Hernandez|Jean-François]], was also a footballer and is of [[Spaniards|Spanish]] descent.<ref>{{Cite web |title=Lucas Hernandez, l'Espagnol à l'accent français |url=https://www.ladepeche.fr/article/2018/03/21/2764068-lucas-hernandez-l-espagnol-a-l-accent-francais.html |access-date=2026-10-26 |website=ladepeche.fr |language=fr}}</ref> A [[centre-back]] from France, he too played for [[Atlético Madrid]];<ref>{{cite news |url=https://www.ladepeche.fr/article/2018/03/21/2764068-lucas-hernandez-l-espagnol-a-l-accent-francais.html |title=Lucas Hernandez, l'Espagnol à l'accent français|trans-title=Lucas Hernandez, the Spaniard with the French accent |newspaper=[[La Dépêche du Midi]] |first=Sébastien |last=Barrère |language=fr |date=21 March 2018|access-date=1 April 2018}}</ref><ref>{{cite news |url=https://www.abc.es/atletico-madrid/noticias/20141205/abci-lucas-hernandez-atletico-201412051718.html |title=Lucas, el futuro jefe de la defensa|trans-title=Lucas, the future boss of the defence |newspaper=[[ABC (newspaper)|ABC]] |language=es |date=5 December 2014|access-date=21 July 2016}}</ref> his older brother [[Lucas Hernandez|Lucas]], who plays for [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[France national football team|France]], was also developed at the club.<ref>{{cite news |url=https://www.mundodeportivo.com/futbol/atletico-madrid/20160206/301951417690/atletico-atletico-de-madrid-atleti-lucas-hernandez-theo-hernandez.html |title=Theo y Lucas, dos hermanos del Atlético sobre el campo 60 años después|trans-title=Theo and Lucas, two brothers from Atlético on the field 60 years later |newspaper=Mundo Deportivo |first=Chema |last=G. Fuente |language=es |date=6 February 2016|access-date=21 July 2016}}</ref> In 2022, French newspaper ''[[L'Équipe]]'' found that Jean-François – who went missing in 2004 – was living in Thailand, and had allegedly been legally blocked by his ex-partner from seeing their children.<ref>{{Cite web |date=2022-11-12 |title=Father of Lucas and Theo Hernandez 'turns up' 18 years later: He's waiting for his children to call him |url=https://www.marca.com/en/football/2022/11/12/636f792ce2704e9c7f8b4590.html |access-date=2025-04-05 |website=MARCA |language=en}}</ref>
 
 He has been dating Italian model Zoe Cristofoli since June 2020.<ref>{{cite web |title=Theo Hernandez Girlfriend - Zoe Cristofoli |url=https://ohmyfootball.com/news/812/hernandez-wife-zoe-cristofoli|access-date=11 October 2021 |website=ohmyfootball.com |date=6 August 2021 }}</ref> On 8 April 2022, the couple's son was born.<ref>{{Cite web |title=Zoe Cristofoli e Theo Hernandez sono diventati genitori: le prime foto del figlio |url=https://www.today.it/gossip/vip/zoe-cristofoli-theo-hernandez-figlio-foto.html |access-date=2023-01-30 |website=Today |language=it}}</ref>
 

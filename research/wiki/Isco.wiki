@@ -1,4 +1,4 @@
-<!-- Isco | revision 2026-10-25T17:10:00Z -->
+<!-- Isco | revision 2026-10-31T19:51:52Z -->
 {{short description|Spanish footballer (born 1992)}}
 {{Other uses|ISCO (disambiguation){{!}}ISCO}}
 {{family name hatnote|Alarcón|Suárez|lang=Spanish}}
@@ -12,14 +12,14 @@
 | birth_place = [[Benalmádena]], Spain
 | height = 1.76 m<ref>{{cite web |url=https://www.realmadrid.com/en/football/squad/francisco-roman--alarcon |title=Isco |publisher=Real Madrid CF |access-date=16 April 2018 |archive-date=3 November 2018 |archive-url=https://web.archive.org/web/20181103113825/https://www.realmadrid.com/en/football/squad/francisco-roman--alarcon |url-status=live }}</ref>
 | position = [[Midfielder#Attacking midfielder|Attacking midfielder]], [[Winger (association football)|winger]]
-| currentclub = [[Real Betis|Betis]]
-| clubnumber = 22
-| youthyears1 = 1997–1999
-| youthclubs1 = PDM Benalmádena
-| youthyears2 = 1999–2006
-| youthclubs2 = Atlético Benamiel
-| youthyears3 = 2006–2009
-| youthclubs3 = [[Valencia CF (youth)|Valencia]]
+| current_club = [[Real Betis|Betis]]
+| club_number = 22
+| youth_years1 = 1997–1999
+| youth_clubs1 = PDM Benalmádena
+| youth_years2 = 1999–2006
+| youth_clubs2 = Atlético Benamiel
+| youth_years3 = 2006–2009
+| youth_clubs3 = [[Valencia CF (youth)|Valencia]]
 | years1 = 2009–2011
 | clubs1 = [[Valencia CF Mestalla|Valencia B]]
 | caps1 = 52
@@ -42,41 +42,41 @@
 | goals5 = 0
 | years6 = 2023–
 | clubs6 = [[Real Betis|Betis]]
-| caps6 = 68
+| caps6 = 69
 | goals6 = 20
-| nationalyears1 = 2008
-| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
-| nationalcaps1 = 3
-| nationalgoals1 = 1
-| nationalyears2 = 2008–2009
-| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
-| nationalcaps2 = 21
-| nationalgoals2 = 6
-| nationalyears3 = 2010
-| nationalteam3 = [[Spain national under-18 football team|Spain U18]]
-| nationalcaps3 = 1
-| nationalgoals3 = 1
-| nationalyears4 = 2010–2011
-| nationalteam4 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps4 = 12
-| nationalgoals4 = 7
-| nationalyears5 = 2011
-| nationalteam5 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps5 = 6
-| nationalgoals5 = 1
-| nationalyears6 = 2011–2014
-| nationalteam6 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps6 = 19
-| nationalgoals6 = 14
-| nationalyears7 = 2012
-| nationalteam7 = [[Spain national under-23 football team|Spain U23]]
-| nationalcaps7 = 5
-| nationalgoals7 = 0
-| nationalyears8 = 2013–
-| nationalteam8 = [[Spain national football team|Spain]]
-| nationalcaps8 = 39
-| nationalgoals8 = 12
-| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+| national_years1 = 2008
+| national_team1 = [[Spain national under-16 football team|Spain U16]]
+| national_caps1 = 3
+| national_goals1 = 1
+| national_years2 = 2008–2009
+| national_team2 = [[Spain national under-17 football team|Spain U17]]
+| national_caps2 = 21
+| national_goals2 = 6
+| national_years3 = 2010
+| national_team3 = [[Spain national under-18 football team|Spain U18]]
+| national_caps3 = 1
+| national_goals3 = 1
+| national_years4 = 2010–2011
+| national_team4 = [[Spain national under-19 football team|Spain U19]]
+| national_caps4 = 12
+| national_goals4 = 7
+| national_years5 = 2011
+| national_team5 = [[Spain national under-20 football team|Spain U20]]
+| national_caps5 = 6
+| national_goals5 = 1
+| national_years6 = 2011–2014
+| national_team6 = [[Spain national under-21 football team|Spain U21]]
+| national_caps6 = 19
+| national_goals6 = 14
+| national_years7 = 2012
+| national_team7 = [[Spain national under-23 football team|Spain U23]]
+| national_caps7 = 5
+| national_goals7 = 0
+| national_years8 = 2013–
+| national_team8 = [[Spain national football team|Spain]]
+| national_caps8 = 39
+| national_goals8 = 12
+| medal_templates = {{MedalSport|Men's [[association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{Medal|Competition|[[UEFA Nations League]]}}
 {{Medal|Runner-up|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
@@ -84,8 +84,8 @@
 {{Medal|3rd|[[2009 FIFA U-17 World Cup|2009 Nigeria]]|[[2009 FIFA U-17 World Cup squads#Spain|Team]]}}
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}
 {{Medal|W|[[2013 UEFA European Under-21 Championship|2013 Israel]]| [[2013 UEFA European Under-21 Championship squads#Spain|Team]]}}
-| club-update = 23:49, 25 October 2026 (UTC)
-| nationalteam-update = 8 June 2025 (UTC)
+| club_update = 23:49, 31 October 2026 (UTC)
+| national_team_update = 8 June 2025 (UTC)
 }}
 '''Francisco Román Alarcón Suárez''' ({{IPA|es|fɾanˈθisk roˈman alaɾˈkon ˈswaɾeθ}}; born 21 April 1992), commonly known as '''Isco''' ({{IPA|es|ˈisko|}}), is a Spanish professional [[Association football|footballer]] who plays as an [[Midfielder|attacking midfielder]] or [[left winger]] for [[La Liga]] club [[Real Betis]], which he [[Captain (association football)|captains]], and the [[Spain national football team|Spain national team]].
 
@@ -131,9 +131,9 @@ In the January transfer window, Isco came close to signing with [[Bundesliga]] c
 ===Betis===
 On 26 July 2023, Isco joined Sevilla's rivals [[Real Betis]] on a one-year deal.<ref>{{cite web |url=https://www.realbetisbalompie.es/noticias/actualidad/isco-nuevo-jugador-del-real-betis-balompie-29269 |title=Isco, nuevo jugador del Real Betis Balompié |trans-title=Isco, new player of Real Betis Balompié |publisher=Real Betis |date=26 July 2023 |access-date=26 July 2023 |language=Spanish |archive-date=19 January 2026 |archive-url=https://web.archive.org/web/20260119182754/https://www.realbetisbalompie.es/noticias/actualidad/isco-nuevo-jugador-del-real-betis-balompie-29269 |url-status=live }}</ref> On 13 August 2023, during the opening matchday of La Liga, Isco played his first game for Betis, facing off against Villarreal.<ref>{{Cite web |title=Villarreal CF vs Real Betis - LALIGA EA SPORTS |url=https://www.laliga.com/en-GB/match/temporada-2023-2024-laliga-easports-villarreal-cf-real-betis-1 |access-date=2023-08-29 |website=LA LIGA EA SPORTS |language=es |archive-date=24 July 2023 |archive-url=https://web.archive.org/web/20230724201321/https://www.laliga.com/en-GB/match/temporada-2023-2024-laliga-easports-villarreal-cf-real-betis-1 |url-status=live }}</ref> Later, on 28 August, he netted his first goal for Betis when they played against [[Athletic Bilbao]], marking an end to his year-long absence from the scoresheet. However, despite his goal, Betis suffered a 4–2 defeat.<ref>{{Cite web |date=2023-08-28 |title=Athletic 4-2 Betis: results, summary and goals |url=https://en.as.com/resultados/futbol/primera/2023_2024/directo/regular_a_3_441122/ |access-date=2023-08-29 |website=AS US |language=en-us |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829071536/https://en.as.com/resultados/futbol/primera/2023_2024/directo/regular_a_3_441122/ |url-status=live }}</ref>
 
-On 28 December 2023, Isco extended his contract with Betis until June 2027.<ref>{{Cite web |date=28 December 2023 |title=Isco renueva su contrato con el Real Betis |trans-title=Isco renews his contract with Real Betis |url=https://www.realbetisbalompie.es/noticias/actualidad/isco-renueva-su-contrato-con-el-real-betis-29748 |access-date=29 December 2023 |publisher=Real Betis Balompié |language=es-ES}}</ref> In the [[2023–24 La Liga|2023–24 season]], he was the player with most man of the match awards in La Liga, having received it in 19 occasions.<ref>{{cite web |url=https://getfootballnewsspain.com/how-many-man-of-the-match-awards-has-isco-received-with-real-betis-this-season/ |title=How many Man of the Match awards has Isco received with Real Betis this season? |publisher=Get Spanish Football News |date=13 May 2024 |access-date=5 July 2024 |archive-date=26 May 2025 |archive-url=https://web.archive.org/web/20250526105333/https://getfootballnewsspain.com/how-many-man-of-the-match-awards-has-isco-received-with-real-betis-this-season/ |url-status=live }}</ref>
+On 28 December 2023, Isco extended his contract with Betis until June 2027.<ref>{{Cite web |date=28 December 2023 |title=Isco renueva su contrato con el Real Betis |trans-title=Isco renews his contract with Real Betis |url=https://www.realbetisbalompie.es/noticias/actualidad/isco-renueva-su-contrato-con-el-real-betis-29748 |access-date=29 December 2023 |publisher=Real Betis Balompié |language=es-ES}}</ref> In the [[2023–24 La Liga|2023–24 season]], he was the player with most man of the match awards in La Liga, having received it in 19 occasions.<ref>{{cite web |url=https://getfootballnewsspain.com/how-many-man-of-the-match-awards-has-isco-received-with-real-betis-this-season/ |title=How many Man of the Match awards has Isco received with Real Betis this season? |publisher=Get Spanish Football News |date=13 May 2024 |access-date=5 July 2024 |archive-date=26 May 2025 |archive-url=https://web.archive.org/web/20250526105333/https://getfootballnewsspain.com/how-many-man-of-the-match-awards-has-isco-received-with-real-betis-this-season/ |url-status=live }}</ref> He also became one of Real Betis' captains following the departure of [[Andrés Guardado]], first wearing the captain's armband in a league match against [[RCD Mallorca|Mallorca]] on 27 January 2024.<ref>{{cite web |last=Santamaría |first=Jordi |url=https://www.mundodeportivo.com/futbol/betis/20240213/1002189955/isco-ejerce-capitan-betis.html |title=Isco ya ejerce como capitán en el Betis |publisher=Mundo Deportivo |language=es |date=13 February 2024 }}</ref>
 
-In the 2024–2025 season, Isco led Real Betis to the [[2025 UEFA Conference League final|UEFA Europa Conference League Final]]—the club’s first-ever European final. On May 28, 2025, he assisted [[Abde Ezzalzouli|Abde Ezzalzouli’s]] opening goal, but Betis ultimately suffered a 4–1 defeat to Chelsea F.C in the final. Despite the loss, Isco was named the [[UEFA Europa League 2#Awards|UEFA Europa Conference League Player of the Season]]: [[2024–25 UEFA Europa Conference League#Player of the Season|2024–25]]<ref name="UCL player" />
+In the 2024–25 season, Isco led Real Betis to the [[2025 UEFA Conference League final|UEFA Europa Conference League Final]]—the club’s first-ever European final. On May 28, 2025, he assisted [[Abde Ezzalzouli]]'s opening goal, but Betis ultimately suffered a 4–1 defeat to Chelsea F.C in the final. Despite the loss, Isco was named the [[UEFA Europa League 2#Awards|UEFA Europa Conference League Player of the Season]].<ref name="UCL player" /> The following season, he suffered a broken leg and subsequently sustained an ankle injury, causing him to miss most of the campaign.<ref>{{cite web |url=https://sports.yahoo.com/articles/doctor-outlines-isco-return-date-091800982.html |title=Doctor outlines Isco return date following surgery announcement |publisher=Yahoo! Sports |date=31 December 2025 }}</ref> On 8 September 2026, he featured in a 3–2 away victory over [[Lille OSC|Lille]] in the [[2026–27 UEFA Champions League]], becoming the first player to represent five clubs from the same country in the competition.<ref>{{Cite web |last=Pancho |first=Javier |date=2026-09-09 |title=Isco Alarcón hace historia en la Champions League |url=https://www.superdeporte.es/futbol/2026/09/09/isco-alarcon-historia-champions-league-134100165.html |access-date=2026-09-09 |website=Superdeporte |language=es}}</ref> A month later, on 14 October, he scored a penalty to secure a 3–2 victory over [[FC Porto|Porto]].<ref>{{cite web |last=Hanafi |first=Alvino |url=https://www.goal.com/en/lists/real-betis-3-2-porto-isco-pellegrini-champions-league-quotes/blta51744de077fe18b |title=Magic Isco! Former Real Madrid maestro penalty fires Betis to thrilling Porto comeback victory |publisher=Goal.com |date=15 October 2026 }}</ref>
 
 ==International career==
 [[File:Francisco Román Alarcón Suárez.jpg|thumb|Isco in 2010]]
@@ -167,7 +167,7 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
+{{updated|match played 31 October 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -270,13 +270,13 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 |-
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|9||2||0||0||3{{efn|name=UCL}}||2||colspan="2"|—||12||4
+|10||2||0||0||3{{efn|name=UCL}}||2||colspan="2"|—||13||4
 |-
 !colspan="2"|Total
-!68!!20!!3!!1!!19!!5!!colspan="2"|—!!90!!26
+!69!!20!!3!!1!!19!!5!!colspan="2"|—!!91!!26
 |-
 !colspan="3"|Career total
-!451!!87!!39!!10!!99!!15!!16!!3!!605!!115
+!452!!87!!39!!10!!99!!15!!16!!3!!606!!115
 |}
 {{notelist}}
 

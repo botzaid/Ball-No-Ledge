@@ -1,4 +1,4 @@
-<!-- Raphaël Varane | revision 2026-10-24T01:13:28Z -->
+<!-- Raphaël Varane | revision 2026-10-31T00:16:17Z -->
 {{Short description|French footballer (born 1993)}}
 {{redirect|Varane}}
 {{Use dmy dates|date=August 2026}}
@@ -11,12 +11,12 @@
 | birth_place = [[Lille]], Nord, France
 | height = 1.91 m<ref>{{cite web |url=https://www.realmadrid.com/en/football/squad/raphael-varane |title=R. Varane |publisher=Real Madrid CF |access-date=13 April 2021}}</ref>
 | position = [[Centre-back]]
-| currentclub = 
-| clubnumber = 
-| youthyears1 = 2000–2002
-| youthclubs1 = Hellemmes
-| youthyears2 = 2002–2010
-| youthclubs2 = [[RC Lens|Lens]]
+| current_club = 
+| club_number = 
+| youth_years1 = 2000–2002
+| youth_clubs1 = Hellemmes
+| youth_years2 = 2002–2010
+| youth_clubs2 = [[RC Lens|Lens]]
 | years1 = 2010
 | clubs1 = [[RC Lens|Lens II]]
 | caps1 = 9
@@ -37,25 +37,25 @@
 | clubs5 = [[Como 1907|Como]]
 | caps5 = 0
 | goals5 = 0
-| totalcaps = 336
-| totalgoals = 12
-| nationalyears1 = 2010
-| nationalteam1 = [[France national under-18 football team|France U18]]
-| nationalcaps1 = 2
-| nationalgoals1 = 1
-| nationalyears2 = 2012
-| nationalteam2 = [[France national under-20 football team|France U20]]
-| nationalcaps2 = 1
-| nationalgoals2 = 0
-| nationalyears3 = 2011–2012
-| nationalteam3 = [[France national under-21 football team|France U21]]
-| nationalcaps3 = 13
-| nationalgoals3 = 3
-| nationalyears4 = 2013–2022
-| nationalteam4 = [[France national football team|France]]
-| nationalcaps4 = 93
-| nationalgoals4 = 5
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 336
+| total_goals = 12
+| national_years1 = 2010
+| national_team1 = [[France national under-18 football team|France U18]]
+| national_caps1 = 2
+| national_goals1 = 1
+| national_years2 = 2012
+| national_team2 = [[France national under-20 football team|France U20]]
+| national_caps2 = 1
+| national_goals2 = 0
+| national_years3 = 2011–2012
+| national_team3 = [[France national under-21 football team|France U21]]
+| national_caps3 = 13
+| national_goals3 = 3
+| national_years4 = 2013–2022
+| national_team4 = [[France national football team|France]]
+| national_caps4 = 93
+| national_goals4 = 5
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|W|[[2018 FIFA World Cup|2018]]|}}

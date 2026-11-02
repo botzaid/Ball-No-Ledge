@@ -1,4 +1,4 @@
-<!-- Denzel Dumfries | revision 2026-10-25T22:05:49Z -->
+<!-- Denzel Dumfries | revision 2026-10-30T02:00:00Z -->
 {{short description|Dutch  footballer (born 1996)}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
@@ -11,12 +11,12 @@
 | birth_place = [[Rotterdam]], Netherlands
 | height = 1.88 m<ref>{{cite web |url=https://www.inter.it/en/teams/first-team/denzel-dumfries |title=Dumfries - Inter | access-date = 1 January 2023 | publisher = Inter Milan}}</ref>
 | position = [[Right-back]], [[right wing-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 24
-| youthyears1 = 2002–2013
-| youthclubs1 = [[VV Smitshoek|Smitshoek]]
-| youthyears2 = 2013–2014
-| youthclubs2 = [[BVV Barendrecht]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 24
+| youth_years1 = 2002–2013
+| youth_clubs1 = [[VV Smitshoek|Smitshoek]]
+| youth_years2 = 2013–2014
+| youth_clubs2 = [[BVV Barendrecht]]
 | years1 = 2014–2017
 | clubs1 = [[Sparta Rotterdam]]
 | caps1 = 65
@@ -37,30 +37,30 @@
 | clubs5 = [[Real Madrid CF|Real Madrid]]
 | caps5 = 8
 | goals5 = 0
-| nationalyears1 = 2014
-| nationalteam1 = [[Aruba national football team|Aruba]]
-| nationalcaps1 = 2
-| nationalgoals1 = 1
-| nationalyears2 = 2016
-| nationalteam2 = [[Netherlands national under-20 football team|Netherlands U20]]
-| nationalcaps2 = 4
-| nationalgoals2 = 0
-| nationalyears3 = 2016–2018
-| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
-| nationalcaps3 = 5
-| nationalgoals3 = 0
-| nationalyears4 = 2018–
-| nationalteam4 = [[Netherlands national football team|Netherlands]]
-| nationalcaps4 = 80
-| nationalgoals4 = 11
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2014
+| national_team1 = [[Aruba national football team|Aruba]]
+| national_caps1 = 2
+| national_goals1 = 1
+| national_years2 = 2016
+| national_team2 = [[Netherlands national under-20 football team|Netherlands U20]]
+| national_caps2 = 4
+| national_goals2 = 0
+| national_years3 = 2016–2018
+| national_team3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| national_caps3 = 5
+| national_goals3 = 0
+| national_years4 = 2018–
+| national_team4 = [[Netherlands national football team|Netherlands]]
+| national_caps4 = 80
+| national_goals4 = 11
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|NED}}}}
 {{Medal|Comp|[[UEFA European Championship]]}}
 {{Medal|Bronze|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Netherlands|Team]]}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
-| club-update = 22:05, 25 October 2026 (UTC)
-| nationalteam-update = 16:05, 5 October 2026 (UTC)
+| club_update = 22:05, 25 October 2026 (UTC)
+| national_team_update = 16:05, 5 October 2026 (UTC)
 }}
 '''Denzel Justus Morris Dumfries''' (born 18 April 1996) is a Dutch professional footballer who plays as a [[right-back]] or [[right wing-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Netherlands national football team|Netherlands national team]].
 

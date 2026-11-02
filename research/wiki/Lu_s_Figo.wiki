@@ -1,4 +1,4 @@
-<!-- Luís Figo | revision 2026-10-14T08:26:08Z -->
+<!-- Luís Figo | revision 2026-10-29T20:07:27Z -->
 {{short description|Portuguese footballer (born 1972)}}
 {{Portuguese name|Madeira|Caeiro Figo}}
 {{Use dmy dates|date=June 2026}}
@@ -13,10 +13,10 @@ Luis Figo 2023.jpg
 | birth_place = [[Almada]], Portugal
 | height = 1.80 m<ref name="fbdb">{{cite web|title=Figo Stats|url=http://www.footballdatabase.com/index.php?page=player&Id=715&b=true&pn=Lu%C3%ADs_Filipe_Madeira_Caeiro|publisher=FootballDatabase.com|access-date=23 December 2006}}</ref>
 | position = [[Winger (association football)|Winger]]
-| youthyears1 = 1984–1985
-| youthclubs1 = [[U.F.C. Os Pastilhas|Os Pastilhas]]
-| youthyears2 = 1985–1989
-| youthclubs2 = [[Sporting CP]]
+| youth_years1 = 1984–1985
+| youth_clubs1 = [[U.F.C. Os Pastilhas|Os Pastilhas]]
+| youth_years2 = 1985–1989
+| youth_clubs2 = [[Sporting CP]]
 | years1 = 1989–1995
 | clubs1 = [[Sporting CP]]
 | caps1 = 129
@@ -33,37 +33,37 @@ Luis Figo 2023.jpg
 | clubs4 = [[Inter Milan]]
 | caps4 = 105
 | goals4 = 9
-| totalcaps = 570
-| totalgoals = 93 <!-- LEAGUE ONLY -->
-| nationalyears1 = 1988–1989
-| nationalteam1 = [[Portugal national under-16 football team|Portugal 16]]<ref name="FPF.pt – Luís Figo">{{cite web |url=https://www.fpf.pt/Jogadores/Jogador/playerId/1174042 |title=Luís Figo |website=FPF.pt |publisher=[[Portuguese Football Federation]] |access-date=14 October 2026 |language=pt |archive-date=14 October 2026 |archive-url=https://megalodon.jp/2026-1014-1659-29/https://www.fpf.pt:443/Jogadores/Jogador/playerId/1174042 |url-status=live }}</ref>
-| nationalcaps1 = 15
-| nationalgoals1 = 8
-| nationalyears2 = 1988–1990
-| nationalteam2 = [[Portugal national under-18 football team|Portugal 18]]<ref name="FPF.pt – Luís Figo"/>
-| nationalcaps2 = 21
-| nationalgoals2 = 8
-| nationalyears3 = 1989
-| nationalteam3 = [[Portugal national under-17 football team|Portugal 17]]<ref name="FPF.pt – Luís Figo"/>
-| nationalcaps3 = 6
-| nationalgoals3 = 2
-| nationalyears4 = 1990–1991
-| nationalteam4 = [[Portugal national under-20 football team|Portugal U20]]<ref name="FPF.pt – Luís Figo"/>
-| nationalcaps4 = 12
-| nationalgoals4 = 0
-| nationalyears5 = 1991
-| nationalteam5 = [[Portugal national under-19 football team|Portugal U19]]<ref name="BeSoccer – Luís Figo">{{cite web |url=https://www.besoccer.com/player/career-path/figo-257740 |title=Profile of Luís Figo: Info, news, matches and statistics |website=BeSoccer.com |access-date=14 October 2026 |archive-date=14 October 2026 |archive-url=https://web.archive.org/web/20261014080436/https://www.besoccer.com/player/career-path/figo-257740 |url-status=live }}</ref>
-| nationalcaps5 = 1
-| nationalgoals5 = 0
-| nationalyears6 = 1991–1994
-| nationalteam6 = [[Portugal national under-21 football team|Portugal U21]]<ref name="FPF.pt – Luís Figo"/><ref name="BeSoccer – Luís Figo"/>
-| nationalcaps6 = 7
-| nationalgoals6 = 0
-| nationalyears7 = 1991–2006
-| nationalteam7 = [[Portugal national football team|Portugal]]<ref name="FPF.pt – Luís Figo"/>
-| nationalcaps7 = 127
-| nationalgoals7 = 32
-| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+| total_caps = 570
+| total_goals = 93 <!-- LEAGUE ONLY -->
+| national_years1 = 1988–1989
+| national_team1 = [[Portugal national under-16 football team|Portugal 16]]<ref name="FPF.pt – Luís Figo">{{cite web |url=https://www.fpf.pt/Jogadores/Jogador/playerId/1174042 |title=Luís Figo |website=FPF.pt |publisher=[[Portuguese Football Federation]] |access-date=14 October 2026 |language=pt |archive-date=14 October 2026 |archive-url=https://megalodon.jp/2026-1014-1659-29/https://www.fpf.pt:443/Jogadores/Jogador/playerId/1174042 |url-status=live }}</ref>
+| national_caps1 = 15
+| national_goals1 = 8
+| national_years2 = 1988–1990
+| national_team2 = [[Portugal national under-18 football team|Portugal 18]]<ref name="FPF.pt – Luís Figo"/>
+| national_caps2 = 21
+| national_goals2 = 8
+| national_years3 = 1989
+| national_team3 = [[Portugal national under-17 football team|Portugal 17]]<ref name="FPF.pt – Luís Figo"/>
+| national_caps3 = 6
+| national_goals3 = 2
+| national_years4 = 1990–1991
+| national_team4 = [[Portugal national under-20 football team|Portugal U20]]<ref name="FPF.pt – Luís Figo"/>
+| national_caps4 = 12
+| national_goals4 = 0
+| national_years5 = 1991
+| national_team5 = [[Portugal national under-19 football team|Portugal U19]]<ref name="BeSoccer – Luís Figo">{{cite web |url=https://www.besoccer.com/player/career-path/figo-257740 |title=Profile of Luís Figo: Info, news, matches and statistics |website=BeSoccer.com |access-date=14 October 2026 |archive-date=14 October 2026 |archive-url=https://web.archive.org/web/20261014080436/https://www.besoccer.com/player/career-path/figo-257740 |url-status=live }}</ref>
+| national_caps5 = 1
+| national_goals5 = 0
+| national_years6 = 1991–1994
+| national_team6 = [[Portugal national under-21 football team|Portugal U21]]<ref name="FPF.pt – Luís Figo"/><ref name="BeSoccer – Luís Figo"/>
+| national_caps6 = 7
+| national_goals6 = 0
+| national_years7 = 1991–2006
+| national_team7 = [[Portugal national football team|Portugal]]<ref name="FPF.pt – Luís Figo"/>
+| national_caps7 = 127
+| national_goals7 = 32
+| medal_templates = {{MedalSport|Men's [[association football|football]]}}
 {{MedalCountry|{{fb|POR}}}}
 {{MedalCompetition|[[FIFA U-20 World Cup]]}}
 {{Medal|W|[[1991 FIFA World Youth Championship|1991 Portugal]]|}}

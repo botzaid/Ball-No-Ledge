@@ -1,4 +1,4 @@
-<!-- Federico Valverde | revision 2026-10-25T22:58:35Z -->
+<!-- Federico Valverde | revision 2026-10-30T02:22:38Z -->
 {{short description|Uruguayan footballer (born 1998)}}
 {{pp-blp|small=yes}} 
 {{Use dmy dates|date=July 2024}}
@@ -11,13 +11,13 @@
 | birth_date = {{birth date and age|1998|7|22|df=y}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Uruguay |publisher=FIFA |page=30 |date=18 December 2022 |access-date=22 October 2024 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
 | birth_place = [[Montevideo]], Uruguay
 | height = 1.82 m<ref>{{Cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/federico-santiago-valverde-dipetta|title=Valverde |publisher=Real Madrid CF |access-date=27 December 2018}}</ref>
-| position = {{hlist|[[Defender (association football)#Full-back|right-back]], [[Midfielder#central midfielder|central midfielder]]}}
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 8
-| youthyears1 = 2001–2008
-| youthclubs1 = Estudiantes de la Unión
-| youthyears2 = 2008–2015
-| youthclubs2 = [[Peñarol]]
+| position = [[Central midfielder]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 8
+| youth_years1 = 2001–2008
+| youth_clubs1 = Estudiantes de la Unión
+| youth_years2 = 2008–2015
+| youth_clubs2 = [[Peñarol]]
 | years1 = 2015–2016
 | clubs1 = [[Peñarol]]
 | caps1 = 12
@@ -34,34 +34,34 @@
 | clubs4 = → [[Deportivo La Coruña]] (loan)
 | caps4 = 24
 | goals4 = 0
-| nationalyears1 = 2012–2013
-| nationalteam1 = [[Uruguay national under-15 football team|Uruguay U15]]
-| nationalcaps1 = 25
-| nationalgoals1 = 7
-| nationalyears2 = 2014–2015
-| nationalteam2 = [[Uruguay national under-17 football team|Uruguay U17]]
-| nationalcaps2 = 24
-| nationalgoals2 = 11
-| nationalyears3 = 2015
-| nationalteam3 = [[Uruguay national under-18 football team|Uruguay U18]]
-| nationalcaps3 = 7
-| nationalgoals3 = 3
-| nationalyears4 = 2015–2017
-| nationalteam4 = [[Uruguay national under-20 football team|Uruguay U20]]
-| nationalcaps4 = 15
-| nationalgoals4 = 2
-| nationalyears5 = 2017–
-| nationalteam5 = [[Uruguay national football team|Uruguay]]
-| nationalcaps5 = 76
-| nationalgoals5 = 9
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2012–2013
+| national_team1 = [[Uruguay national under-15 football team|Uruguay U15]]
+| national_caps1 = 25
+| national_goals1 = 7
+| national_years2 = 2014–2015
+| national_team2 = [[Uruguay national under-17 football team|Uruguay U17]]
+| national_caps2 = 24
+| national_goals2 = 11
+| national_years3 = 2015
+| national_team3 = [[Uruguay national under-18 football team|Uruguay U18]]
+| national_caps3 = 7
+| national_goals3 = 3
+| national_years4 = 2015–2017
+| national_team4 = [[Uruguay national under-20 football team|Uruguay U20]]
+| national_caps4 = 15
+| national_goals4 = 2
+| national_years5 = 2017–
+| national_team5 = [[Uruguay national football team|Uruguay]]
+| national_caps5 = 76
+| national_goals5 = 9
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|URU}}}}
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|3rd|[[2024 Copa América|2024 United States]]|}}
-| club-update = 22:03, 25 October 2026 (UTC)
-| nationalteam-update = 02:15, 27 June 2026 (UTC)
+| club_update = 22:03, 25 October 2026 (UTC)
+| national_team_update = 02:15, 27 June 2026 (UTC)
 }}
-'''Federico Santiago Valverde Dipetta''' ({{IPA|es|feðeˈɾiko βalˈβeɾðe}};{{refn|group=note|In isolation, ''Valverde'' is pronounced {{IPA|es|balˈβeɾðe|}}.}} born 22 July 1998) is a Uruguayan professional [[association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] or [[Midfielder#central midfielder|central midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]],<ref>{{cite news |last=Cortegana |first=Mario |date=12 March 2025 |title=Federico Valverde is Real Madrid's jack of all trades… who literally dreamed of playing for them |url=https://www.nytimes.com/athletic/6194831/2025/03/12/federico-valverde-real-madrid-right-back/ |access-date=7 July 2025 |work=The New York Times |issn=0362-4331}}</ref><ref>{{cite web |date=29 June 2022 |title=Federico Valverde: The tale of the boy who didn't want to run |url=https://www.fifa.com/fifaplus/en/articles/the-tale-of-the-boy-who-didnt-want-to-run |access-date=21 September 2023 |publisher=FIFA}}</ref> which he [[Captain (association football)|captains]], and the [[Uruguay national football team|Uruguay national team]]. Considered one of the best midfielders in the world, he is known for his versatility, work rate, pace and vigorous shooting.<ref>{{cite web |date=20 March 2026 |title=Ballon d'Or 2026 Power Rankings: Erling Haaland's hopes are slipping away while Harry Kane continues to put his foot down |url=https://www.goal.com/en-in/lists/ballon-dor-2026-power-rankings/blte900f51820beae01 |access-date=27 March 2026 |website=Goal.com}}</ref><ref>{{cite web |last=Swan |first=Rob |last2=Malyan |first2=Christy |last3=Murray |first3=Will |last4=Hepburn |first4=Daniel |date=10 November 2023 |title=The 30 best footballers in the world right now - ranked in order |url=https://www.givemesport.com/best-football-players-in-the-world/ |access-date=27 March 2026 |website=GiveMeSport}}</ref> 
+'''Federico Santiago Valverde Dipetta''' ({{IPA|es|feðeˈɾiko βalˈβeɾðe}};{{refn|group=note|In isolation, ''Valverde'' is pronounced {{IPA|es|balˈβeɾðe|}}.}} born 22 July 1998) is a Uruguayan professional [[association football|footballer]] who plays as a [[central midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]], which he [[Captain (association football)|captains]], and the [[Uruguay national football team|Uruguay national team]]. Considered one of the best midfielders in the world, he is known for his versatility, work rate, pace and vigorous shooting.<ref>{{cite web |date=20 March 2026 |title=Ballon d'Or 2026 Power Rankings: Erling Haaland's hopes are slipping away while Harry Kane continues to put his foot down |url=https://www.goal.com/en-in/lists/ballon-dor-2026-power-rankings/blte900f51820beae01 |access-date=27 March 2026 |website=Goal.com}}</ref><ref>{{cite web |last=Swan |first=Rob |last2=Malyan |first2=Christy |last3=Murray |first3=Will |last4=Hepburn |first4=Daniel |date=10 November 2023 |title=The 30 best footballers in the world right now - ranked in order |url=https://www.givemesport.com/best-football-players-in-the-world/ |access-date=27 March 2026 |website=GiveMeSport}}</ref> Valverde mainly plays as a central midfielder but can also be deployed as a [[right-back]].<ref>{{cite news |last=Cortegana |first=Mario |date=12 March 2025 |title=Federico Valverde is Real Madrid's jack of all trades… who literally dreamed of playing for them |url=https://www.nytimes.com/athletic/6194831/2025/03/12/federico-valverde-real-madrid-right-back/ |access-date=7 July 2025 |work=The New York Times |issn=0362-4331}}</ref><ref>{{cite web |date=29 June 2022 |title=Federico Valverde: The tale of the boy who didn't want to run |url=https://www.fifa.com/fifaplus/en/articles/the-tale-of-the-boy-who-didnt-want-to-run |access-date=21 September 2023 |publisher=FIFA}}</ref>
 
 Valverde began his professional career with [[Peñarol]] in 2015, winning the [[Uruguayan Primera División]] in his first season. In 2016, he joined Real Madrid, initially playing for the club's [[Real Madrid Castilla|reserve team]]. He made his first-team debut in 2017 and has since gone on to make over 300 appearances for the club, winning three La Liga titles, two [[FIFA Club World Cup]]s, two [[UEFA Champions League]] titles, two [[UEFA Super Cup]]s, and the [[Copa del Rey]].
 

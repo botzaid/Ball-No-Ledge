@@ -1,4 +1,4 @@
-<!-- Thibaut Courtois | revision 2026-10-22T15:06:31Z -->
+<!-- Thibaut Courtois | revision 2026-11-01T17:18:10Z -->
 {{short description|Belgian footballer (born 1992)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -8,14 +8,14 @@
 | full_name = Thibaut Nicolas Marc Courtois<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=14518 |title=Acta del Partido celebrado el 28 de agosto de 2011, en Madrid |trans-title=Minutes of the Match held on 28 August 2011, in Madrid |publisher=Royal Spanish Football Federation |language=es |archive-url=https://web.archive.org/web/20211117205023/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=14518 |archive-date=17 November 2021}}</ref>
 | birth_date = {{birth date and age|1992|5|11|df=y}}<ref>{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Belgium |publisher=FIFA |page=3 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
 | birth_place = [[Bree, Belgium]]
-| height = 2.01 m<ref>{{cite web |url=https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino/plantilla/thibaut-courtois |title=Thibaut Courtois |publisher=Real Madrid CF |access-date=21 January 2019}}</ref>
+| height = 2.01 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/thibaut-courtois |title=Thibaut Courtois |publisher=Real Madrid CF |access-date=21 January 2019}}</ref>
 | position = [[Goalkeeper (association football)|Goalkeeper]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 1
-| youthyears1 = 1997–1999
-| youthclubs1 = Bilzen V.V.
-| youthyears2 = 1999–2009
-| youthclubs2 = [[KRC Genk|Genk]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 1
+| youth_years1 = 1997–1999
+| youth_clubs1 = Bilzen V.V.
+| youth_years2 = 1999–2009
+| youth_clubs2 = [[KRC Genk|Genk]]
 | years1 = 2009–2011
 | clubs1 = [[KRC Genk|Genk]]
 | caps1 = 41
@@ -30,22 +30,22 @@
 | goals3 = 0
 | years4 = 2018–
 | clubs4 = [[Real Madrid CF|Real Madrid]]
-| caps4 = 241
+| caps4 = 242
 | goals4 = 0
-| nationalyears1 = 2009–2010
-| nationalteam1 = [[Belgium national under-18 football team|Belgium U18]]
-| nationalcaps1 = 4
-| nationalgoals1 = 0
-| nationalyears2 = 2011–
-| nationalteam2 = [[Belgium national football team|Belgium]]
-| nationalcaps2 = 115
-| nationalgoals2 = 0
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2009–2010
+| national_team1 = [[Belgium national under-18 football team|Belgium U18]]
+| national_caps1 = 4
+| national_goals1 = 0
+| national_years2 = 2011–
+| national_team2 = [[Belgium national football team|Belgium]]
+| national_caps2 = 115
+| national_goals2 = 0
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|BEL}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|3rd|[[2018 FIFA World Cup|2018 Russia]]}}
-| club-update = 21:06, 18 October 2026 (UTC)
-| nationalteam-update = 22:10, 10 July 2026 (UTC)
+| club_update = 17:18, 1 November 2026 (UTC)
+| national_team_update = 22:10, 10 July 2026 (UTC)
 }}
 '''Thibaut Nicolas Marc Courtois'''{{efn-ua|{{IPA|fr|tibo kuʁtwa}}<br>{{IPA|nl|ˈtiboː kurˈtʋaː}}}} (born 11 May 1992) is a Belgian professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Belgium national football team|Belgium national team]]. He is regarded as one of the greatest goalkeepers of all time.<ref>{{cite news |date=24 January 2025 |title=Ranking the 15 greatest goalkeepers in football history |url=https://onefootball.com/en/news/ranking-the-15-greatest-goalkeepers-in-football-history-38974080 |access-date=24 January 2025 |website=OneFootball}}</ref><ref>{{cite web |last=Murray |first=Will |date=15 April 2020 |title=Ranking the 20 Greatest Goalkeepers in Football History |url=https://www.givemesport.com/football-soccer-best-goalkeepers-history/ |access-date=24 January 2025 |website=GiveMeSport}}</ref><ref name="Best Soccer Goalkeepers">{{cite web |url=https://www.si.com/soccer/best-soccer-goalkeepers-of-all-time |title=Best Soccer Goalkeepers of All Time |publisher=Sports Illustrated |first=Amanda |last= Langell |date=19 November 2024 |access-date=24 January 2025 }}</ref>{{Additional citation needed|date=October 2026|reason=}}<!-- We need a source saying that he is regarded as X. Simply citing several rankings is synthesis (original research). Please see WP:SYNTH. -->
 
@@ -208,7 +208,7 @@ In February 2026, Courtois invested in the Brazilian fund Outfield through his i
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 October 2026|<ref name=Soccerway>{{Soccerway|access-date=23 September 2025}}</ref><ref>{{cite news |title=Thibaut Courtois Premier League Player Profile |url=http://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |publisher=Premier League |access-date=10 February 2015 |archive-date=12 April 2020 |archive-url=https://web.archive.org/web/20200412162842/https://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |url-status=dead }}</ref>}}
+{{updated|match played 1 November 2026|<ref name=Soccerway>{{Soccerway|access-date=23 September 2025}}</ref><ref>{{cite news |title=Thibaut Courtois Premier League Player Profile |url=http://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |publisher=Premier League |access-date=10 February 2015 |archive-date=12 April 2020 |archive-url=https://web.archive.org/web/20200412162842/https://www.premierleague.com/en-gb/players/profile.overview.html/thibaut-courtois |url-status=dead }}</ref>}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -310,13 +310,13 @@ In February 2026, Courtois invested in the Brazilian fund Outfield through his i
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|9||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||12||0
+|10||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||13||0
 |-
 !colspan="2"|Total
-!241!!0!!8!!0!!colspan="2"|—!!74!!0!!22!!0!!345!!0
+!242!!0!!8!!0!!colspan="2"|—!!74!!0!!22!!0!!346!!0
 |-
 !colspan="3"|Career total
-!519!!0!!29!!0!!3!!0!!120!!0!!27!!0!!701!!0
+!520!!0!!29!!0!!3!!0!!120!!0!!27!!0!!702!!0
 |}
 {{notelist}}
 

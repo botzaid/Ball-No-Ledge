@@ -1,4 +1,4 @@
-<!-- Luka Jović | revision 2026-10-14T08:05:17Z -->
+<!-- Luka Jović | revision 2026-11-01T22:46:51Z -->
 {{Short description |Serbian footballer}}
 {{Distinguish|Jovo Lukić}}
 {{Use dmy dates|date=November 2022}}
@@ -11,10 +11,10 @@
 | birth_place = [[Loznica]], [[Republic of Serbia (1992–2006)|Serbia]], [[Serbia and Montenegro|FR Yugoslavia]]
 | height = 1.82 m<ref>{{Cite web | url=https://www.aekfc.gr/pld/louka-giovits-132851.htm?lang=en&path=957016886 | title=Luca Jovic | publisher=AEK Athens F.C. | access-date=17 November 2025 | archive-date=9 August 2025 | archive-url=https://web.archive.org/web/20250809001603/https://www.aekfc.gr/pld/louka-giovits-132851.htm?lang=en&path=957016886 | url-status=live }}</ref>
 | position = [[Striker (association football)|Striker]]
-| currentclub = [[AEK Athens F.C.|AEK Athens]]
-| clubnumber = 9
-| youthyears1 = 2005–2014
-| youthclubs1 = [[Red Star Belgrade]]
+| current_club = [[AEK Athens F.C.|AEK Athens]]
+| club_number = 9
+| youth_years1 = 2005–2014
+| youth_clubs1 = [[Red Star Belgrade]]
 | years1 = 2014–2016
 | clubs1 = [[Red Star Belgrade]]
 | caps1 = 42
@@ -53,26 +53,26 @@
 | goals9 = 8
 | years10 = 2025–
 | clubs10 = [[AEK Athens F.C.|AEK Athens]]
-| caps10 = 35
+| caps10 = 37
 | goals10 = 21
-| nationalyears1 = 2013–2014
-| nationalteam1 = [[Serbia national under-17 football team|Serbia U17]]
-| nationalcaps1 = 8
-| nationalgoals1 = 5
-| nationalyears2 = 2014–2016
-| nationalteam2 = [[Serbia national under-19 football team|Serbia U19]]
-| nationalcaps2 = 13
-| nationalgoals2 = 9
-| nationalyears3 = 2015–2019
-| nationalteam3 = [[Serbia national under-21 football team|Serbia U21]]
-| nationalcaps3 = 13
-| nationalgoals3 = 7
-| nationalyears4 = 2018–
-| nationalteam4 = [[Serbia national football team|Serbia]]
-| nationalcaps4 = 56
-| nationalgoals4 = 12
-| club-update = 11 October 2026
-| nationalteam-update = 4 October 2026
+| national_years1 = 2013–2014
+| national_team1 = [[Serbia national under-17 football team|Serbia U17]]
+| national_caps1 = 8
+| national_goals1 = 5
+| national_years2 = 2014–2016
+| national_team2 = [[Serbia national under-19 football team|Serbia U19]]
+| national_caps2 = 13
+| national_goals2 = 9
+| national_years3 = 2015–2019
+| national_team3 = [[Serbia national under-21 football team|Serbia U21]]
+| national_caps3 = 13
+| national_goals3 = 7
+| national_years4 = 2018–
+| national_team4 = [[Serbia national football team|Serbia]]
+| national_caps4 = 56
+| national_goals4 = 12
+| club_update = 1 November 2026
+| national_team_update = 4 October 2026
 }}
 
 '''Luka Jović''' ({{lang-sr-Cyrl|Лука Јовић}}; born 23 December 1997) is a Serbian professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[Super League Greece]] club [[AEK Athens F.C.|AEK Athens]] and the [[Serbia national football team|Serbia national team]].
@@ -163,7 +163,7 @@ On 25 February 2019, Jović became a father of a baby boy, David, with his forme
 
 ==Career statistics==
 ===Club===
-{{updated|match played 11 October 2026}}<ref>{{ForaDeJogo|access-date=3 January 2017}}</ref><ref name="Soccerway">{{Soccerway|access-date=15 March 2019}}</ref>
+{{updated|match played 1 November 2026}}<ref>{{ForaDeJogo|access-date=3 January 2017}}</ref><ref name="Soccerway">{{Soccerway|access-date=15 March 2019}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -266,13 +266,13 @@ On 25 February 2019, Jović became a father of a baby boy, David, with his forme
 |29||17||3||0||colspan="2"|—||11{{efn|Appearances in UEFA Conference League}}||4||colspan="2"|—||43||21
 |-
 |[[2026–27 AEK Athens F.C. season|2026–27]]
-|6||4||0||0||colspan="2"|—||3{{efn|name=UCL}}||1||1{{efn|Appearance in [[Greek Super Cup]]}}||1||10||6
+|8||4||1||1||colspan="2"|—||5{{efn|name=UCL}}||1||1{{efn|Appearance in [[Greek Super Cup]]}}||1||15||7
 |-
 !colspan="2"|Total
-!35||21||3||0||colspan="2"|—||14||5||1||1||53||27
+!37||21||4||1||colspan="2"|—||16||5||1||1||58||28
 |-
 !colspan="3"|Career total
-!274!!83!!25!!7!!1!!0!!60!!22!!4!!1!!364!!113
+!276!!83!!26!!8!!1!!0!!62!!22!!4!!1!!369!!114
 |}
 {{notelist}}
 

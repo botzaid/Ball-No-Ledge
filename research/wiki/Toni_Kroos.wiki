@@ -1,4 +1,4 @@
-<!-- Toni Kroos | revision 2026-10-14T08:40:17Z -->
+<!-- Toni Kroos | revision 2026-10-30T14:06:40Z -->
 {{short description|German footballer (born 1990)}}
 {{pp-pc}}
 {{Use dmy dates|date=July 2024}}
@@ -11,12 +11,12 @@
 | birth_place = [[Greifswald]], East Germany
 | height = 1.83 m<ref>{{Cite web |title=Kroos |url=https://www.realmadrid.com/en/football/squad/toni-kroos |access-date=27 June 2020 |publisher=Real Madrid CF |archive-date=12 July 2019 |archive-url=https://web.archive.org/web/20190712220615/https://www.realmadrid.com/en/football/squad/toni-kroos |url-status=live }}</ref>
 | position = [[Midfielder]]
-| youthyears1 = 1997–2002
-| youthclubs1 = [[Greifswalder SC]]
-| youthyears2 = 2002–2006
-| youthclubs2 = [[F.C. Hansa Rostock|Hansa Rostock]]
-| youthyears3 = 2006–2007
-| youthclubs3 = [[Bayern Munich Junior Team|Bayern Munich]]
+| youth_years1 = 1997–2002
+| youth_clubs1 = [[Greifswalder SC]]
+| youth_years2 = 2002–2006
+| youth_clubs2 = [[F.C. Hansa Rostock|Hansa Rostock]]
+| youth_years3 = 2006–2007
+| youth_clubs3 = [[Bayern Munich Junior Team|Bayern Munich]]
 | years1 = 2007–2008
 | clubs1 = [[FC Bayern Munich II|Bayern Munich II]]
 | caps1 = 13
@@ -33,25 +33,25 @@
 | clubs4 = [[Real Madrid CF|Real Madrid]]
 | caps4 = 306<!-- LEAGUE ONLY-->
 | goals4 = 22
-| totalcaps = 492
-| totalgoals = 49
-| nationalyears1 = 2005–2007
-| nationalteam1 = [[Germany national youth football team|Germany U17]]
-| nationalcaps1 = 34
-| nationalgoals1 = 17
-| nationalyears2 = 2009
-| nationalteam2 = [[Germany national youth football team|Germany U19]]
-| nationalcaps2 = 5
-| nationalgoals2 = 3
-| nationalyears3 = 2008–2009
-| nationalteam3 = [[Germany national under-21 football team|Germany U21]]
-| nationalcaps3 = 10
-| nationalgoals3 = 2
-| nationalyears4 = 2010–2024
-| nationalteam4 = [[Germany national football team|Germany]]
-| nationalcaps4 = 114
-| nationalgoals4 = 17
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| total_caps = 492
+| total_goals = 49
+| national_years1 = 2005–2007
+| national_team1 = [[Germany national youth football team|Germany U17]]
+| national_caps1 = 34
+| national_goals1 = 17
+| national_years2 = 2009
+| national_team2 = [[Germany national youth football team|Germany U19]]
+| national_caps2 = 5
+| national_goals2 = 3
+| national_years3 = 2008–2009
+| national_team3 = [[Germany national under-21 football team|Germany U21]]
+| national_caps3 = 10
+| national_goals3 = 2
+| national_years4 = 2010–2024
+| national_team4 = [[Germany national football team|Germany]]
+| national_caps4 = 114
+| national_goals4 = 17
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|GER}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|Winner|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads#Germany|Team]]}}

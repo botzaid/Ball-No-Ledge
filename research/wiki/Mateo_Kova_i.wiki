@@ -1,4 +1,4 @@
-<!-- Mateo Kovačić | revision 2026-10-09T19:11:41Z -->
+<!-- Mateo Kovačić | revision 2026-10-30T19:12:41Z -->
 {{Short description|Croatian footballer (born 1994)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
@@ -11,12 +11,12 @@
 | birth_place = [[Linz]], Austria
 | height = 1.77 m<ref>{{cite web |url=https://www.chelseafc.com/en/teams/profile/mateo-kovacic |title=Mateo Kovacic |publisher=Chelsea F.C. |access-date=29 April 2023 |archive-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429230140/https://www.chelseafc.com/en/teams/profile/mateo-kovacic |url-status=dead }}</ref>
 | position = [[Central midfielder]]
-| currentclub = [[Manchester City F.C.|Manchester City]]
-| clubnumber = 8
-| youthyears1 = 2000–2007
-| youthclubs1 = [[LASK]]
-| youthyears2 = 2007–2010
-| youthclubs2 = [[GNK Dinamo Zagreb Academy|Dinamo Zagreb]]
+| current_club = [[Manchester City F.C.|Manchester City]]
+| club_number = 8
+| youth_years1 = 2000–2007
+| youth_clubs1 = [[LASK]]
+| youth_years2 = 2007–2010
+| youth_clubs2 = [[GNK Dinamo Zagreb Academy|Dinamo Zagreb]]
 | years1 = 2010–2013
 | clubs1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
 | caps1 = 43
@@ -39,41 +39,41 @@
 | goals5 = 4
 | years6 = 2023–
 | clubs6 = [[Manchester City F.C.|Manchester City]]
-| caps6 = 69
+| caps6 = 70
 | goals6 = 7
-| nationalyears1 = 2008
-| nationalteam1 = Croatia U14
-| nationalcaps1 = 2
-| nationalgoals1 = 1
-| nationalyears2 = 2008
-| nationalteam2 = [[Croatia national under-15 football team|Croatia U15]]
-| nationalcaps2 = 2
-| nationalgoals2 = 0
-| nationalyears3 = 2009–2011
-| nationalteam3 = [[Croatia national under-17 football team|Croatia U17]]
-| nationalcaps3 = 15
-| nationalgoals3 = 0
-| nationalyears4 = 2011–2012
-| nationalteam4 = [[Croatia national under-19 football team|Croatia U19]]
-| nationalcaps4 = 6
-| nationalgoals4 = 0
-| nationalyears5 = 2011–2014
-| nationalteam5 = [[Croatia national under-21 football team|Croatia U21]]
-| nationalcaps5 = 7
-| nationalgoals5 = 0
-| nationalyears6 = 2013–
-| nationalteam6 = [[Croatia national football team|Croatia]]
-| nationalcaps6 = 121
-| nationalgoals6 = 5
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2008
+| national_team1 = Croatia U14
+| national_caps1 = 2
+| national_goals1 = 1
+| national_years2 = 2008
+| national_team2 = [[Croatia national under-15 football team|Croatia U15]]
+| national_caps2 = 2
+| national_goals2 = 0
+| national_years3 = 2009–2011
+| national_team3 = [[Croatia national under-17 football team|Croatia U17]]
+| national_caps3 = 15
+| national_goals3 = 0
+| national_years4 = 2011–2012
+| national_team4 = [[Croatia national under-19 football team|Croatia U19]]
+| national_caps4 = 6
+| national_goals4 = 0
+| national_years5 = 2011–2014
+| national_team5 = [[Croatia national under-21 football team|Croatia U21]]
+| national_caps5 = 7
+| national_goals5 = 0
+| national_years6 = 2013–
+| national_team6 = [[Croatia national football team|Croatia]]
+| national_caps6 = 121
+| national_goals6 = 5
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|CRO}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|RU|[[2018 FIFA World Cup|2018 Russia]]|}}
 {{Medal|3rd|[[2022 FIFA World Cup|2022 Qatar]]|}}
 {{Medal|Competition|[[UEFA Nations League]]}}
 {{Medal|RU|[[2023 UEFA Nations League Finals|2023 Netherlands]]|}}
-| club-update = 23:05, 28 August 2026 (UTC)
-| nationalteam-update = 18:18, 7 October 2026 (UTC)
+| club_update = 23:05, 17 October 2026 (UTC)
+| national_team_update = 18:18, 7 October 2026 (UTC)
 }}
 '''Mateo Kovačić''' ({{IPA|hr|matěo kǒʋatʃitɕ}};<ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=e1tnXBk%3D&keyword=Sv.|title=Màtej|quote=Matèo|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh|archive-date=1 March 2020|archive-url=https://web.archive.org/web/20200301183838/http://hjp.znanje.hr/index.php?show=search_by_id&id=e1tnXBk%3D&keyword=Sv.|url-status=live}}</ref><ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=ellgUBQ%3D|title=kòvati|quote=Kòvačič|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh|archive-date=17 December 2019|archive-url=https://web.archive.org/web/20191217035538/http://hjp.znanje.hr/index.php?show=search_by_id&id=ellgUBQ=|url-status=live}}</ref> born 6 May 1994) is a <!-- Do not add Austrian born or Croatian! Per MOS:BLPLEAD, MOS:CONTEXTBIO, WP:MOSETHNICITY, and WP:FOOTY, unless ethnicity contributes to notability, it should not be mentioned in the lede. It should be left ambiguous, as he was born in a nation different than that which he represents internationally. --> professional [[Association football|footballer]] who plays as a [[central midfielder]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Croatia national football team|Croatia national team]].
 
@@ -176,7 +176,7 @@ In 2017, Kovačić married his longtime girlfriend Izabel Andrijanić.<ref>{{cit
 
 ==Career statistics==
 ===Club===
-{{updated|match played 17 September 2026}}
+{{updated|match played 28 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -279,13 +279,13 @@ In 2017, Kovačić married his longtime girlfriend Izabel Andrijanić.<ref>{{cit
 |-
 |[[2026–27 Manchester City F.C. season|2026–27]]<ref>{{soccerbase season|58067|2026|name=Mateo Kovacic|access-date=16 August 2026}}</ref>
 |Premier League
-|2||0||0||0||1||0||1{{efn|name=UCL}}||0||1{{efn|name=FACS}}||0||5||0
+|3||0||0||0||2||1||1{{efn|name=UCL}}||0||1{{efn|name=FACS}}||0||7||1
 |-
 !colspan="2"|Total
-!69||7||10||1||3||0||14||1||6||1||102||10
+!70||7||10||1||4||1||14||1||6||1||104||11
 |-
 !colspan="3"|Career total
-!406||23||52||2||17||0||111||9||15||1||602||35
+!407||23||52||2||18||1||111||9||15||1||604||36
 |}
 {{notelist}}
 

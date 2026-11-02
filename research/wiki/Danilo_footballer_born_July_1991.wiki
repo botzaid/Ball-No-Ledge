@@ -1,4 +1,4 @@
-<!-- Danilo (footballer, born July 1991) | revision 2026-10-12T16:08:40Z -->
+<!-- Danilo (footballer, born July 1991) | revision 2026-10-30T15:18:56Z -->
 {{Short description|Brazilian footballer}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
@@ -10,12 +10,12 @@
 | birth_place = [[Bicas]], Minas Gerais, Brazil<ref name="RMAProfile"/>
 | height = 1.84 m<ref name="RMAProfile">{{cite web|url=http://www.realmadrid.com/futbol/plantilla/danilo-luiz-da-silva?pid=1378720068423|title=Danilo|work=Real Madrid C.F. - Web Oficial |publisher=[[Real Madrid CF]]|access-date=16 June 2022|archive-url=https://web.archive.org/web/20170708221114/http://www.realmadrid.com/futbol/plantilla/danilo-luiz-da-silva?pid=1378720068423|archive-date=8 July 2017}}</ref>
 | position = [[Centre-back (association football)|Centre-back]], [[Full-back (association football)|right-back]]
-| currentclub = [[CR Flamengo|Flamengo]]
-| clubnumber = 13
-| youthyears1 = 2004–2005
-| youthclubs1 = [[Tupynambás Futebol Clube|Tupynambás]]
-| youthyears2 = 2006–2009
-| youthclubs2 = [[América Futebol Clube (MG)|América Mineiro]]
+| current_club = [[CR Flamengo|Flamengo]]
+| club_number = 13
+| youth_years1 = 2004–2005
+| youth_clubs1 = [[Tupynambás Futebol Clube|Tupynambás]]
+| youth_years2 = 2006–2009
+| youth_clubs2 = [[América Futebol Clube (MG)|América Mineiro]]
 | years1 = 2009–2010
 | clubs1 = [[América Futebol Clube (MG)|América Mineiro]]
 | caps1 = 29
@@ -44,25 +44,25 @@
 | clubs7 = [[CR Flamengo|Flamengo]]
 | caps7 = 38
 | goals7 = 2
-| nationalyears1 = 2011
-| nationalteam1 = [[Brazil national under-20 football team|Brazil U20]]
-| nationalcaps1 = 15
-| nationalgoals1 = 2
-| nationalyears2 = 2012
-| nationalteam2 = [[Brazil national under-23 football team|Brazil Olympic]]
-| nationalcaps2 = 4
-| nationalgoals2 = 1
-| nationalyears3 = 2011–2026
-| nationalteam3 = [[Brazil national football team|Brazil]]
-| nationalcaps3 = 75
-| nationalgoals3 = 1
-| medaltemplates = {{MedalCountry|{{fb|BRA}}}} 
+| national_years1 = 2011
+| national_team1 = [[Brazil national under-20 football team|Brazil U20]]
+| national_caps1 = 15
+| national_goals1 = 2
+| national_years2 = 2012
+| national_team2 = [[Brazil national under-23 football team|Brazil Olympic]]
+| national_caps2 = 4
+| national_goals2 = 1
+| national_years3 = 2011–2026
+| national_team3 = [[Brazil national football team|Brazil]]
+| national_caps3 = 75
+| national_goals3 = 1
+| medal_templates = {{MedalCountry|{{fb|BRA}}}} 
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|RU|[[2021 Copa América|2021 Brazil]]|}}
 {{MedalCompetition|[[Football at the Summer Olympics|Summer Olympics]]}}
 {{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Football at the 2012 Summer Olympics – Men's tournament|Team]]}}
-| club-update = 23:37, 11 October 2026 (UTC)
-| nationalteam-update = 22:20, 5 July 2026 (UTC)
+| club_update = 23:37, 11 October 2026 (UTC)
+| national_team_update = 22:20, 5 July 2026 (UTC)
 }}
 '''Danilo Luiz da Silva''' (born 15 July 1991), known as '''Danilo''' ({{IPA|pt-BR|dɐ̃ˈnilu|lang}}), is a Brazilian professional [[Association football|footballer]] who plays as a [[centre-back]] or [[Defender (association football)|right-back]] for [[Campeonato Brasileiro Série A]] club [[Clube de Regatas do Flamengo|Flamengo]].
 

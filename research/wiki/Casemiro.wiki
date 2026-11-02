@@ -1,4 +1,4 @@
-<!-- Casemiro | revision 2026-10-24T22:37:58Z -->
+<!-- Casemiro | revision 2026-10-30T02:44:10Z -->
 {{short description|Brazilian footballer (born 1992)}}
 {{other uses|Casimiro}}
 {{Use British English|date=June 2025}}
@@ -12,10 +12,10 @@
 | birth_place = [[São José dos Campos]], São Paulo, Brazil
 | height = 1.85 m<ref>{{cite web |title=Casemiro Manchester United Midfielder, Profile & Stats |url=https://www.premierleague.com/players/5793/Casemiro/overview |access-date=2025-05-16 |publisher=Premier League}}</ref>
 | position = [[Defensive midfielder]]
-| currentclub = [[Inter Miami CF|Inter Miami]]
-| clubnumber = 5
-| youthyears1 = {{0|0000}}–2010
-| youthclubs1 = [[São Paulo FC (youth)|São Paulo]]
+| current_club = [[Inter Miami CF|Inter Miami]]
+| club_number = 5
+| youth_years1 = {{0|0000}}–2010
+| youth_clubs1 = [[São Paulo FC (youth)|São Paulo]]
 | years1 = 2010–2013
 | clubs1 = [[São Paulo FC|São Paulo]]
 | caps1 = 92
@@ -44,19 +44,19 @@
 | clubs7 = [[Inter Miami CF|Inter Miami]]
 | caps7 = 14
 | goals7 = 3
-| nationalyears1 = 2009
-| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
-| nationalcaps1 = 7
-| nationalgoals1 = 1
-| nationalyears2 = 2011
-| nationalteam2 = [[Brazil national under-20 football team|Brazil U20]]
-| nationalcaps2 = 15
-| nationalgoals2 = 3
-| nationalyears3 = 2011–
-| nationalteam3 = [[Brazil national football team|Brazil]]
-| nationalcaps3 = 91
-| nationalgoals3 = 10
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2009
+| national_team1 = [[Brazil national under-17 football team|Brazil U17]]
+| national_caps1 = 7
+| national_goals1 = 1
+| national_years2 = 2011
+| national_team2 = [[Brazil national under-20 football team|Brazil U20]]
+| national_caps2 = 15
+| national_goals2 = 3
+| national_years3 = 2011–
+| national_team3 = [[Brazil national football team|Brazil]]
+| national_caps3 = 91
+| national_goals3 = 10
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|BRA}}}}
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|W|[[2019 Copa América|2019 Brazil]]|}}
@@ -67,8 +67,8 @@
 {{Medal|W|[[2011 South American Youth Championship|2011 Peru]]|}}
 {{MedalCompetition|[[South American U-17 Championship]]}}
 {{Medal|W|[[2009 South American U-20 Championship|2009 Venezuela]]|}}
-| club-update = 03:00, 18 October 2026 (UTC)
-| nationalteam-update = 22:13, 5 July 2026 (UTC)
+| club_update = 03:00, 18 October 2026 (UTC)
+| national_team_update = 22:13, 5 July 2026 (UTC)
 }}
 '''Carlos Henrique Casimiro''' (born 23 February 1992), also known [[mononym]]ously as '''Casemiro''' ({{IPA|pt-BR|kazeˈmiɾu|lang}}),<ref>{{cite news |date=4 June 2017 |title="Aonde você vai, Casemiro?" A história do segredo mais bem guardado do Real Madrid |language=pt |trans-title="Where are you going, Casemiro?" The story of Real Madrid's best kept secret |newspaper=El País |url=https://brasil.elpais.com/brasil/2017/06/04/deportes/1496603217_401643.html |access-date=17 November 2017}}</ref> is a Brazilian professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Major League Soccer]] club [[Inter Miami CF|Inter Miami]] and the [[Brazil national football team|Brazil national team]].
 

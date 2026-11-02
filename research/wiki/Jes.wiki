@@ -1,4 +1,4 @@
-<!-- Jesé | revision 2026-09-23T08:37:06Z -->
+<!-- Jesé | revision 2026-10-29T20:02:34Z -->
 {{Short description|Spanish footballer (born 1993)}}
 {{good article}}
 {{Use dmy dates|date=February 2022}}
@@ -8,19 +8,19 @@
 | image = 2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–018.jpg
 | image_size = 
 | caption = Jesé with [[Paris Saint-Germain FC|Paris Saint-Germain]] in 2019
-| fullname = Jesé Rodríguez Ruiz<ref>{{cite web |url=https://www.premierleague.com/news/465277 |title=Squads for 2017/18 Premier League confirmed |publisher=Premier League |date=1 September 2017 |access-date=21 December 2017 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612141954/https://www.premierleague.com/news/465277 |url-status=live }}</ref>
+| full_name = Jesé Rodríguez Ruiz<ref>{{cite web |url=https://www.premierleague.com/news/465277 |title=Squads for 2017/18 Premier League confirmed |publisher=Premier League |date=1 September 2017 |access-date=21 December 2017 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612141954/https://www.premierleague.com/news/465277 |url-status=live }}</ref>
 | birth_date = {{birth date and age|1993|2|26|df=y}}<ref name=PSG>{{cite news|url=http://www.psg.fr/en/First-Team/300002/Player-sheet/4061/Rodriguez-Jese|title=Jesé Rodríguez|website=PSG|access-date=24 December 2016|archive-date=24 December 2016|archive-url=https://web.archive.org/web/20161224233941/http://www.psg.fr/en/First-Team/300002/Player-sheet/4061/Rodriguez-Jese|url-status=dead}}</ref>
 | birth_place = [[Las Palmas]], Spain<ref name=PSG/>
 | height = 1.78 m<ref name=PSG/>
 | position = [[winger (association football)|Winger]], [[Forward (association football)|forward]]
-| currentclub = [[UD Las Palmas|Las Palmas]]
-| clubnumber = 10
-| youthyears1 = 2003–2005
-| youthclubs1 = El Pilar
-| youthyears2 = 2005–2007
-| youthclubs2 = [[AD Huracán|Huracán]]
-| youthyears3 = 2007–2011
-| youthclubs3 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = [[UD Las Palmas|Las Palmas]]
+| club_number = 10
+| youth_years1 = 2003–2005
+| youth_clubs1 = El Pilar
+| youth_years2 = 2005–2007
+| youth_clubs2 = [[AD Huracán|Huracán]]
+| youth_years3 = 2007–2011
+| youth_clubs3 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2011–2013
 | clubs1 = [[Real Madrid Castilla|Real Madrid B]]
 | caps1 = 77
@@ -73,37 +73,37 @@
 | clubs13 = [[UD Las Palmas|Las Palmas]]
 | caps13 = 33
 | goals13 = 10
-| nationalyears1 = 2009
-| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
-| nationalcaps1 = 3
-| nationalgoals1 = 1
-| nationalyears2 = 2010
-| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
-| nationalcaps2 = 7
-| nationalgoals2 = 1
-| nationalyears3 = 2011
-| nationalteam3 = [[Spain national under-18 football team|Spain U18]]
-| nationalcaps3 = 2
-| nationalgoals3 = 1
-| nationalyears4 = 2010–2012
-| nationalteam4 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps4 = 11
-| nationalgoals4 = 6
-| nationalyears5 = 2013
-| nationalteam5 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps5 = 8
-| nationalgoals5 = 5
-| nationalyears6 = 2013–2014
-| nationalteam6 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps6 = 5
-| nationalgoals6 = 2
-| medaltemplates = {{MedalSport|Men's [[Association football|Football]]}} 
+| national_years1 = 2009
+| national_team1 = [[Spain national under-16 football team|Spain U16]]
+| national_caps1 = 3
+| national_goals1 = 1
+| national_years2 = 2010
+| national_team2 = [[Spain national under-17 football team|Spain U17]]
+| national_caps2 = 7
+| national_goals2 = 1
+| national_years3 = 2011
+| national_team3 = [[Spain national under-18 football team|Spain U18]]
+| national_caps3 = 2
+| national_goals3 = 1
+| national_years4 = 2010–2012
+| national_team4 = [[Spain national under-19 football team|Spain U19]]
+| national_caps4 = 11
+| national_goals4 = 6
+| national_years5 = 2013
+| national_team5 = [[Spain national under-20 football team|Spain U20]]
+| national_caps5 = 8
+| national_goals5 = 5
+| national_years6 = 2013–2014
+| national_team6 = [[Spain national under-21 football team|Spain U21]]
+| national_caps6 = 5
+| national_goals6 = 2
+| medal_templates = {{MedalSport|Men's [[Association football|Football]]}} 
  {{MedalCountry|{{ESP}} }}
 {{MedalCompetition|[[UEFA European Under-19 Championship|European Under-19 Championship]]}}
 {{Medal|W|[[2012 UEFA European Under-19 Championship|2012 Estonia]]|}}
 {{MedalCompetition|[[UEFA European Under-17 Championship|European Under-17 Championship]]}}
 {{Medal|RU|[[2010 UEFA European Under-17 Championship|2010 Liechtenstein]]|}}
-| club-update = 3 June 2026
+| club_update = 3 June 2026
 }}
 
 '''Jesé Rodríguez Ruiz''' ({{IPA|es|xeˈse roˈðɾiɣeθ ˈrwiθ}}; born 26 February 1993) is a Spanish professional [[Association football|footballer]] who plays as [[Winger (football)|winger]] or [[Forward (association football)|forward]] for [[Segunda División]] club [[UD Las Palmas|Las Palmas]].

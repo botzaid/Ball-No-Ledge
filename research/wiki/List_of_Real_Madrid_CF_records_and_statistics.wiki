@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF records and statistics | revision 2026-10-22T00:02:30Z -->
+<!-- List of Real Madrid CF records and statistics | revision 2026-11-01T20:06:01Z -->
 {{Short description|None}}
 {{Use dmy dates|date=September 2018}}
 [[File:Ronaldo vs. FC Schalke 04 (16854146922).jpg|thumb|upright|[[Cristiano Ronaldo]] is [[Real Madrid CF|Real Madrid]]'s all-time leading goalscorer with 450 goals in 438 games in total.|alt=A man in a white shirt and shorts looking upwards.]]
@@ -1347,7 +1347,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 
 === Appearances ===
 [[File:V.l.n.r. Amancio, Miguel Muñoz (trainer), Gento, Bestanddeelnr 924-4486 (Munoz cropped).jpg|thumbnail|upright|[[Miguel Muñoz]] is the manager who has coached the most matches in the history of Real Madrid.]]
-''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 21 October 2026.''<ref>[https://www.bdfutbol.com/en/e/eentr2.html Managers list of Real Madrid] bdfutbol.com</ref>
+''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 1 November 2026.''<ref>[https://www.bdfutbol.com/en/e/eentr2.html Managers list of Real Madrid] bdfutbol.com</ref>
 {| class="wikitable sortable" style="text-align:leftErkin dth:70%;"
 !Rank!!Manager!!Years!![[La Liga|League]]!![[Copa del Rey|Cup]]!!Europe{{ref label|Europe|A|}}!!Other{{ref label|Other|B|}}!!Total
 |-
@@ -1361,7 +1361,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |-
 |5||{{flagicon|NED}} [[Leo Beenhakker]]||{{nowrap|1986–1989, 1992}}||139||28||28||2||'''197'''
 |-
-|6||{{flagicon|POR}} '''[[José Mourinho]]'''||2010–2013<br />2026–present||123||24||39||4||'''190'''
+|6||{{flagicon|POR}} '''[[José Mourinho]]'''||2010–2013<br />2026–present||125||24||39||4||'''192'''
 |-
 |7||{{Flagicon|ESP}} [[Luis Molowny]]||1974, 1977–1979<br />1982, 1985–1986||122||34||19||8||'''183'''
 |-
@@ -1373,7 +1373,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |}
 
 === Most wins ===
-''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 21 October 2026.''
+''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 1 November 2026.''
 {| class="wikitable sortable" style="text-align:leftErkin dth:70%;"
 !Rank!!Manager!!Years!![[La Liga|League]]!![[Copa del Rey|Cup]]!!Europe{{ref label|Europe|A|}}!!Other{{ref label|Other|B|}}!!Total
 |-
@@ -1383,7 +1383,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |-
 |3||{{flagicon|FRA}} [[Zinedine Zidane]]||2016–2018<br />2019–2021||124||8||31||9||'''172'''
 |-
-|4||{{flagicon|POR}} '''[[José Mourinho]]'''||{{nowrap|2010–2013<br />2026–present}}||94||16||27||1||'''138'''
+|4||{{flagicon|POR}} '''[[José Mourinho]]'''||{{nowrap|2010–2013<br />2026–present}}||96||16||27||1||'''140'''
 |-
 |5||{{flagicon|ESP}} [[Vicente del Bosque]]||1994, 1996<br />1999–2003||84||10||34||5||'''133'''
 |}

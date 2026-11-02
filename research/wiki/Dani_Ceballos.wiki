@@ -1,4 +1,4 @@
-<!-- Dani Ceballos | revision 2026-10-25T17:08:08Z -->
+<!-- Dani Ceballos | revision 2026-10-31T19:57:22Z -->
 {{short description|Spanish footballer (born 1996)}}
 {{Use British English|date=September 2020}}
 {{Use dmy dates|date=July 2024}}
@@ -11,14 +11,14 @@
 | birth_place = [[Utrera]], Spain
 | height = 1.79 m<ref>{{cite web |url=https://www.premierleague.com/players/7163/Dani-Ceballos/overview |title=Dani Ceballos: Overview |publisher=Premier League |access-date=20 June 2020}}</ref>
 | position = [[Central midfielder]]<ref>{{cite web |url=https://www.worldfootball.net/person/pe351497/dani-ceballos/ |title=Dani Ceballos: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=1 July 2021}}</ref>
-| currentclub = [[Real Betis|Betis]]
-| clubnumber = 25
-| youthyears1 = 2004–2009
-| youthclubs1 = [[Sevilla FC (youth)|Sevilla]]
-| youthyears2 = 2009–2011
-| youthclubs2 = [[CD Utrera|Utrera]]
-| youthyears3 = 2011–2014
-| youthclubs3 = [[Real Betis cantera|Betis]]
+| current_club = [[Real Betis|Betis]]
+| club_number = 25
+| youth_years1 = 2004–2009
+| youth_clubs1 = [[Sevilla FC (youth)|Sevilla]]
+| youth_years2 = 2009–2011
+| youth_clubs2 = [[CD Utrera|Utrera]]
+| youth_years3 = 2011–2014
+| youth_clubs3 = [[Real Betis cantera|Betis]]
 | years1 = 2014–2015
 | clubs1 = [[Real Betis B|Betis B]]
 | caps1 = 4
@@ -37,27 +37,27 @@
 | goals4 = 0
 | years5 = 2026–
 | clubs5 = [[Real Betis|Betis]]
-| caps5 = 6
+| caps5 = 7
 | goals5 = 0
-| nationalyears1 = 2014–2015
-| nationalteam1 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps1 = 13
-| nationalgoals1 = 0
-| nationalyears2 = 2015–2019
-| nationalteam2 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps2 = 29
-| nationalgoals2 = 8
-| nationalyears3 = 2021
-| nationalteam3 = [[Spain Olympic football team|Spain Olympic]] ([[List of overage players in Olympic football#Spain|O.P.]])
-| nationalcaps3 = 2
-| nationalgoals3 = 0
-| nationalyears4 = 2018–2023
-| nationalteam4 = [[Spain national football team|Spain]]
-| nationalcaps4 = 13
-| nationalgoals4 = 1
-| club-update = 18:46, 25 October 2026 (UTC)
-| nationalteam-update = 
-| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+| national_years1 = 2014–2015
+| national_team1 = [[Spain national under-19 football team|Spain U19]]
+| national_caps1 = 13
+| national_goals1 = 0
+| national_years2 = 2015–2019
+| national_team2 = [[Spain national under-21 football team|Spain U21]]
+| national_caps2 = 29
+| national_goals2 = 8
+| national_years3 = 2021
+| national_team3 = [[Spain Olympic football team|Spain Olympic]] ([[List of overage players in Olympic football#Spain|O.P.]])
+| national_caps3 = 2
+| national_goals3 = 0
+| national_years4 = 2018–2023
+| national_team4 = [[Spain national football team|Spain]]
+| national_caps4 = 13
+| national_goals4 = 1
+| club_update = 18:46, 31 October 2026 (UTC)
+| national_team_update = 
+| medal_templates = {{MedalSport|Men's [[association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
 {{MedalSilver|[[2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
@@ -122,7 +122,7 @@ Since 2023, Ceballos has been in a relationship with Luna Serrat, granddaughter 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}
+{{updated|match played 31 October 2026}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -209,10 +209,10 @@ Since 2023, Ceballos has been in a relationship with Luna Serrat, granddaughter 
 |Real Betis
 |[[2026–27 Real Betis season|2026–27]]<ref>{{soccerbase season|75577|2026|access-date=2 September 2026}}</ref>
 |La Liga
-|6||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—||8||0
+|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—||9||0
 |-
 !colspan="3"|Career total
-!292||12||37||2||5||0||55||2||20||0||409||16
+!293||12||37||2||5||0||55||2||20||0||410||16
 |}
 {{notelist}}
 

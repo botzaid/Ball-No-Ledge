@@ -1,4 +1,4 @@
-<!-- José Callejón | revision 2026-06-11T01:49:47Z -->
+<!-- José Callejón | revision 2026-10-30T17:56:56Z -->
 {{Short description|Spanish footballer (born 1987)}}
 {{family name hatnote|Callejón|Bueno|lang=Spanish}}
 {{Use dmy dates|date=February 2023}}
@@ -12,10 +12,10 @@
 | birth_place = [[Motril]], Spain
 | height = 1.78 m<ref>{{cite web|url=http://www.sscnapoli.it/Squadra/Jose-Maria-Callejon|title=Josè Maria Callejon|publisher=SSC Napoli|language=it|access-date=2 November 2018|archive-url=https://web.archive.org/web/20181117130837/http://www.sscnapoli.it/Squadra/Jose-Maria-Callejon|archive-date=17 November 2018}}</ref>
 | position = [[Forward (association football)|Forward]], [[winger (association football)|winger]]
-| currentclub =
-| clubnumber =
-| youthyears1 = | youthclubs1 = Costa Tropical
-| youthyears2 = 2002–2006 | youthclubs2 = [[Real Madrid CF|Real Madrid]]
+| current_club =
+| club_number =
+| youth_years1 = | youth_clubs1 = Costa Tropical
+| youth_years2 = 2002–2006 | youth_clubs2 = [[Real Madrid CF|Real Madrid]]
 | years1 = 2006–2007 | clubs1 = [[Real Madrid C]] | caps1 = 4 | goals1 = 0
 | years2 = 2007–2008 | clubs2 = [[Real Madrid Castilla|Real Madrid B]] | caps2 = 41 | goals2 = 21
 | years3 = 2008–2011 | clubs3 = [[RCD Espanyol|Espanyol]] | caps3 = 97 | goals3 = 10
@@ -24,11 +24,11 @@
 | years6 = 2020–2022 | clubs6 = [[ACF Fiorentina|Fiorentina]] | caps6 = 50 | goals6 = 1
 | years7 = 2022–2024 | clubs7 = [[Granada CF|Granada]] | caps7 = 67 | goals7 = 4
 | years8 = 2024–2025 | clubs8 = [[Marbella FC|Marbella]] | caps8 = 38 | goals8 = 11
-| totalcaps = 607 | totalgoals = 119
-| nationalyears1 = 2008–2009 | nationalteam1 = [[Spain national under-21 football team|Spain U21]] | nationalcaps1 = 4 | nationalgoals1 = 1
-| nationalyears2 = 2014–2017 | nationalteam2 = [[Spain national football team|Spain]] | nationalcaps2 = 5 | nationalgoals2 = 0
-| club-update =
-| nationalteam-update =
+| total_caps = 607 | total_goals = 119
+| national_years1 = 2008–2009 | national_team1 = [[Spain national under-21 football team|Spain U21]] | national_caps1 = 4 | national_goals1 = 1
+| national_years2 = 2014–2017 | national_team2 = [[Spain national football team|Spain]] | national_caps2 = 5 | national_goals2 = 0
+| club_update =
+| national_team_update =
 }}
 '''José María Callejón Bueno''' ({{IPA|es|xoˈse kaʎeˈxon}}; born 11 February 1987) is a Spanish former professional [[association football|footballer]] who played as a [[forward (association football)|forward]] or [[winger (association football)|winger]].
 

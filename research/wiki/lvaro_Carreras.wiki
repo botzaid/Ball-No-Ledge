@@ -1,4 +1,4 @@
-<!-- Álvaro Carreras | revision 2026-10-22T15:07:39Z -->
+<!-- Álvaro Carreras | revision 2026-10-30T12:59:11Z -->
 {{Short description|Spanish footballer (born 2003)}}
 {{redirect|Álvaro Fernandez|other people with similar names|Álvaro Fernández (disambiguation)}}{{Family name hatnote|Fernández|Carreras|lang=Spanish}}
 {{Use dmy dates|date=July 2025}}
@@ -11,16 +11,16 @@
 | birth_place = [[Ferrol, Spain]]<ref name=wf/>
 | height = 1.86 m<ref name="FIFA Club World Cup 25"/>
 | position = [[Defender (association football)#Full-back|Left-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 18
-| youthyears1 = 2007–2012
-| youthclubs1 = [[Racing de Ferrol|Racing Ferrol]]
-| youthyears2 = 2012–2017
-| youthclubs2 = [[Deportivo de La Coruña|Deportivo La Coruña]]
-| youthyears3 = 2017–2020
-| youthclubs3 = [[Real Madrid CF (youth)|Real Madrid]]
-| youthyears4 = 2020–2022
-| youthclubs4 = [[Manchester United F.C. Reserves and Academy|Manchester United]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 18
+| youth_years1 = 2007–2012
+| youth_clubs1 = [[Racing de Ferrol|Racing Ferrol]]
+| youth_years2 = 2012–2017
+| youth_clubs2 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+| youth_years3 = 2017–2020
+| youth_clubs3 = [[Real Madrid CF (youth)|Real Madrid]]
+| youth_years4 = 2020–2022
+| youth_clubs4 = [[Manchester United F.C. Reserves and Academy|Manchester United]]
 | years1 = 2022–2024
 | clubs1 = [[Manchester United F.C.|Manchester United]]
 | caps1 = 0
@@ -45,20 +45,20 @@
 | clubs6 = [[Real Madrid CF|Real Madrid]]
 | caps6 = 33
 | goals6 = 3
-| nationalyears1 = 2021
-| nationalteam1 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps1 = 2
-| nationalgoals1 = 0
-| nationalyears2 = 2023–2024
-| nationalteam2 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps2 = 9
-| nationalgoals2 = 0
-| nationalyears3 = 2024
-| nationalteam3 = [[Galicia national football team|Galicia]]
-| nationalcaps3 = 1
-| nationalgoals3 = 0
-| club-update = 22:00, 10 October 2026 (UTC)
-| nationalteam-update = 14:24, 26 May 2025 (UTC)
+| national_years1 = 2021
+| national_team1 = [[Spain national under-19 football team|Spain U19]]
+| national_caps1 = 2
+| national_goals1 = 0
+| national_years2 = 2023–2024
+| national_team2 = [[Spain national under-21 football team|Spain U21]]
+| national_caps2 = 9
+| national_goals2 = 0
+| national_years3 = 2024
+| national_team3 = [[Galicia national football team|Galicia]]
+| national_caps3 = 1
+| national_goals3 = 0
+| club_update = 22:00, 10 October 2026 (UTC)
+| national_team_update = 14:24, 26 May 2025 (UTC)
 }}
 '''Álvaro Fernández Carreras''' (born 23 March 2003) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]].
 

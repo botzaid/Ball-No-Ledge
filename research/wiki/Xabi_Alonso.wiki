@@ -1,4 +1,4 @@
-<!-- Xabi Alonso | revision 2026-10-26T00:15:37Z -->
+<!-- Xabi Alonso | revision 2026-10-31T14:26:10Z -->
 {{short description|Spanish football manager and player (born 1981)}}
 {{Use dmy dates|date=June 2025}}
 {{good article}}
@@ -455,7 +455,7 @@ Alonso is related to footballer [[Eliseo Mouriño]], who was a member of [[Argen
 |}
 
 ==Managerial statistics==
-{{updated|match played 24 October 2026}}
+{{updated|match played 31 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
@@ -496,11 +496,11 @@ Alonso is related to footballer [[Eliseo Mouriño]], who was a member of [[Argen
 |align="left"|[[Chelsea F.C.|Chelsea]]
 |align="left"|1 July 2026
 |align="left"|Present
-{{WDL|10|6|1|3|for=25|against=18|diff=yes}}
+{{WDL|12|7|2|3|for=28|against=19|diff=yes}}
 |<ref name="Sofascore"/><ref name="Soccerbase"/><ref>{{Cite web|url=https://uk.soccerway.com/team/chelsea/4fGZN2oK/results/|title=Chelsea results|publisher=Soccerway|access-date=24 August 2026|archive-date=26 August 2026|archive-url=https://web.archive.org/web/20260826060146/https://uk.soccerway.com/team/chelsea/4fGZN2oK/results/|url-status=live}}</ref>
 |-
 !colspan="3"|Career Total
-{{WDLtot|282|158|61|63|for=543|against=325|diff=yes}}
+{{WDLtot|284|159|62|63|for=546|against=326|diff=yes}}
 ! 
 |}
 
@@ -546,6 +546,9 @@ Alonso is related to footballer [[Eliseo Mouriño]], who was a member of [[Argen
 *DFB-Pokal: [[2023–24 DFB-Pokal|2023–24]]<ref name="DFB2024"/>
 *DFL-Supercup: [[2024 DFL-Supercup|2024]]<ref>{{cite news |date=17 August 2024 |title=Bayer Leverkusen battle back to beat VfB Stuttgart on penalties in Supercup |url=https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-supercup-preview-live-blog-report-alonso-28479 |access-date=17 August 2024 |publisher=Bundesliga |archive-date=19 August 2024 |archive-url=https://web.archive.org/web/20240819112341/https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-supercup-preview-live-blog-report-alonso-28479 |url-status=live }}</ref>
 *[[UEFA Europa League]] runner-up: [[2023–24 UEFA Europa League|2023–24]]<ref>{{cite news |date=22 May 2024 |title=Atalanta 3–0 Leverkusen: Lookman treble brings UEFA Europa League glory to Bergamo |url=https://www.uefa.com/uefaeuropaleague/news/028d-1af3bf5e7e68-7d9202792002-1000--atalanta-3-0-leverkusen-lookman-treble-brings-uefa-europ/ |publisher=UEFA |access-date=23 May 2024 |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522221609/https://www.uefa.com/uefaeuropaleague/news/028d-1af3bf5e7e68-7d9202792002-1000--atalanta-3-0-leverkusen-lookman-treble-brings-uefa-europ/ |url-status=live }}</ref>
+
+'''Real Madrid'''
+*[[Supercopa de España]] runner-up: [[2026 Supercopa de España|2026]]<ref name=super26>{{cite web |first= |last= |title=Barcelona vs Real Madrid Highlights, El Clasico Supercopa Final: Barcelona Beat Real Madrid 3-2 In Thriller, Clinch 1st Trophy Of Season| url=https://sports.ndtv.com/football/barcelona-vs-real-madrid-live-updates-supercopa-de-espana-final-live-score-super-cup-live-streaming-mbappe-vinicius-raphinha-lamine-yamal-10688288| access-date=12 January 2026|website=NDTV}}</ref>
 
 '''Individual'''
 *[[Globe Soccer Awards#Best Coach of the Year Award|Globe Soccer Best Coach of the Year]]: 2024

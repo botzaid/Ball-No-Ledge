@@ -1,4 +1,4 @@
-<!-- Eden Hazard | revision 2026-10-17T21:17:25Z -->
+<!-- Eden Hazard | revision 2026-10-30T13:50:12Z -->
 {{Short description|Belgian footballer (born 1991)}}
 {{Good article}}
 {{Use British English|date=May 2023}}
@@ -12,12 +12,12 @@
 | birth_place = [[La Louvière]], Belgium
 | height = 1.75 m<ref>{{cite web |url=https://www.realmadrid.com/en/football/squad/eden-hazard |title=Eden Hazard |publisher=Real Madrid CF |access-date=4 July 2020 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608174039/https://www.realmadrid.com/en/football/squad/eden-hazard |url-status=dead }}</ref>
 | position = [[Left winger]], [[attacking midfielder]]
-| youthyears1 = 1995–2003
-| youthclubs1 = [[Royal Stade Brainois]]
-| youthyears2 = 2003–2005
-| youthclubs2 = [[AFC Tubize]]
-| youthyears3 = 2005–2007
-| youthclubs3 = [[Lille OSC|Lille]]
+| youth_years1 = 1995–2003
+| youth_clubs1 = [[Royal Stade Brainois]]
+| youth_years2 = 2003–2005
+| youth_clubs2 = [[AFC Tubize]]
+| youth_years3 = 2005–2007
+| youth_clubs3 = [[Lille OSC|Lille]]
 | years1 = 2007–2008
 | clubs1 = [[Lille OSC II|Lille II]]
 | caps1 = 13
@@ -34,29 +34,29 @@
 | clubs4 = [[Real Madrid CF|Real Madrid]]
 | caps4 = 54
 | goals4 = 4
-| totalcaps = 459
-| totalgoals = 126
-| nationalyears1 = 2006
-| nationalteam1 = [[Belgium national youth football team|Belgium U15]]
-| nationalcaps1 = 5
-| nationalgoals1 = 1
-| nationalyears2 = 2006
-| nationalteam2 = [[Belgium national youth football team|Belgium U16]]
-| nationalcaps2 = 4
-| nationalgoals2 = 2
-| nationalyears3 = 2006–2008
-| nationalteam3 = [[Belgium national under-17 football team|Belgium U17]]
-| nationalcaps3 = 17
-| nationalgoals3 = 2
-| nationalyears4 = 2007–2009
-| nationalteam4 = [[Belgium national under-19 football team|Belgium U19]]
-| nationalcaps4 = 11
-| nationalgoals4 = 6
-| nationalyears5 = 2008–2022
-| nationalteam5 = [[Belgium national football team|Belgium]]
-| nationalcaps5 = 126
-| nationalgoals5 = 33
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| total_caps = 459
+| total_goals = 126
+| national_years1 = 2006
+| national_team1 = [[Belgium national youth football team|Belgium U15]]
+| national_caps1 = 5
+| national_goals1 = 1
+| national_years2 = 2006
+| national_team2 = [[Belgium national youth football team|Belgium U16]]
+| national_caps2 = 4
+| national_goals2 = 2
+| national_years3 = 2006–2008
+| national_team3 = [[Belgium national under-17 football team|Belgium U17]]
+| national_caps3 = 17
+| national_goals3 = 2
+| national_years4 = 2007–2009
+| national_team4 = [[Belgium national under-19 football team|Belgium U19]]
+| national_caps4 = 11
+| national_goals4 = 6
+| national_years5 = 2008–2022
+| national_team5 = [[Belgium national football team|Belgium]]
+| national_caps5 = 126
+| national_goals5 = 33
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|BEL}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|3rd|[[2018 FIFA World Cup|2018 Russia]]|}}

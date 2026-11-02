@@ -1,4 +1,4 @@
-<!-- Aurélien Tchouaméni | revision 2026-10-25T22:04:26Z -->
+<!-- Aurélien Tchouaméni | revision 2026-11-01T17:19:51Z -->
 {{short description|French footballer (born 2000)}}
 {{Use British English|date=December 2022}}
 {{Use dmy dates|date=July 2024}}
@@ -11,12 +11,12 @@
 | birth_place = [[Rouen]], Seine-Maritime, France
 | height = 1.87 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/aurelien-tchouameni |title=Tchouaméni |publisher=Real Madrid CF |access-date=16 October 2026 }}</ref>
 | position = [[Defensive midfielder]], [[centre-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 14
-| youthyears1 = 2006–2011
-| youthclubs1 = SJ D'Artigues
-| youthyears4 = 2011–2018
-| youthclubs4 = [[FC Girondins de Bordeaux|Bordeaux]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 14
+| youth_years1 = 2006–2011
+| youth_clubs1 = SJ D'Artigues
+| youth_years4 = 2011–2018
+| youth_clubs4 = [[FC Girondins de Bordeaux|Bordeaux]]
 | years1 = 2017–2018
 | clubs1 = [[FC Girondins de Bordeaux II|Bordeaux II]]
 | caps1 = 16
@@ -31,45 +31,45 @@
 | goals3 = 5
 | years4 = 2022–
 | clubs4 = [[Real Madrid CF|Real Madrid]]
-| caps4 = 131
+| caps4 = 132
 | goals4 = 4
-| nationalyears1 = 2015–2016
-| nationalteam1 = [[France national under-16 football team|France U16]]
-| nationalcaps1 = 11
-| nationalgoals1 = 0
-| nationalyears2 = 2016–2017
-| nationalteam2 = [[France national under-17 football team|France U17]]
-| nationalcaps2 = 14
-| nationalgoals2 = 0
-| nationalyears3 = 2017–2018
-| nationalteam3 = [[France national under-18 football team|France U18]]
-| nationalcaps3 = 11
-| nationalgoals3 = 1
-| nationalyears4 = 2018
-| nationalteam4 = [[France national under-19 football team|France U19]]
-| nationalcaps4 = 7
-| nationalgoals4 = 0
-| nationalyears5 = 2019
-| nationalteam5 = [[France national under-20 football team|France U20]]
-| nationalcaps5 = 5
-| nationalgoals5 = 0
-| nationalyears6 = 2021
-| nationalteam6 = [[France national under-21 football team|France U21]]
-| nationalcaps6 = 4
-| nationalgoals6 = 0
-| nationalyears7 = 2021–
-| nationalteam7 = [[France national football team|France]]
-| nationalcaps7 = 50
-| nationalgoals7 = 3
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2015–2016
+| national_team1 = [[France national under-16 football team|France U16]]
+| national_caps1 = 11
+| national_goals1 = 0
+| national_years2 = 2016–2017
+| national_team2 = [[France national under-17 football team|France U17]]
+| national_caps2 = 14
+| national_goals2 = 0
+| national_years3 = 2017–2018
+| national_team3 = [[France national under-18 football team|France U18]]
+| national_caps3 = 11
+| national_goals3 = 1
+| national_years4 = 2018
+| national_team4 = [[France national under-19 football team|France U19]]
+| national_caps4 = 7
+| national_goals4 = 0
+| national_years5 = 2019
+| national_team5 = [[France national under-20 football team|France U20]]
+| national_caps5 = 5
+| national_goals5 = 0
+| national_years6 = 2021
+| national_team6 = [[France national under-21 football team|France U21]]
+| national_caps6 = 4
+| national_goals6 = 0
+| national_years7 = 2021–
+| national_team7 = [[France national football team|France]]
+| national_caps7 = 50
+| national_goals7 = 3
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|RU|[[2022 FIFA World Cup|2022 Qatar]]|}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|W|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club-update = 22:04, 25 October 2026 (UTC)
-| nationalteam-update = 16:10, 15 July 2026 (UTC)
+| club_update = 17:19, 1 November 2026 (UTC)
+| national_team_update = 16:10, 15 July 2026 (UTC)
 }}
 '''Aurélien Djani Tchouaméni''' ({{IPA|fr|oʁeljɛ̃ dʒani tʃuameni, tʃwa-}}<!--This is an IPA transcription based on the actual pronunciation and following [[MOS:PRON]] and [[H:IPA-FR]]. Please do not remove it.-->; born 27 January 2000) is a French professional [[Association football|footballer]] who plays as a [[defensive midfielder]] or a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]].
 
@@ -100,7 +100,7 @@ Tchouaméni made his official debut for the club on 10 August, coming on as a la
 On 7 May 2026, Tchouaméni and teammate [[Federico Valverde]] got into a fight after a training session.<ref>{{Cite web |last= |date=7 May 2026 |title=Real Madrid's Federico Valverde taken to hospital after second Aurélien Tchouaméni fight - sources |url=https://www.espn.co.uk/football/story/_/id/48703097/real-madrid-federico-valverde-taken-hospital-second-aurelien-tchouameni-fight-sources |access-date=7 May 2026 |website=[[ESPN.com]] |language=en}}</ref> Valverde reportedly needed stitches and was brought to the hospital after getting cut during the altercation. Further on, after striking his head, Valverde experienced partial memory loss and was discovered by his teammates on the ground, drenched in blood and half-conscious.<ref>{{Cite web |last=Díaz |first=José Félix |last2=López |first2=Sergio |date=7 May 2026 |title=How the Valverde-Tchouaméni fight unfolded: accusations, punch, Fede in a wheelchair |url=https://en.as.com/soccer/how-the-valverde-tchouameni-fight-unfolded-f202605-n/ |access-date=7 May 2026 |website=AS USA |language=en-us}}</ref> After the altercation, Real Madrid initiated a disciplinary investigation. The process concluded in both players extending mutual apologies to each other. As a result, the club imposed a fine of €500 thousand on each player and formally concluded the internal inquiry.<ref>{{Cite web |title=Comunicado Oficial |url=https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-07-05-2026 |access-date=7 May 2026 |publisher=Real Madrid CF|date=7 May 2026}}</ref>
 
 ==International career==
-[[File:Aurelien Tchouameni France v Norway 26 June 26-101.jpg|thumb|300x300px|Tchouaméni playing for [[France national football team|France]] at the 2026 FIFA World Cup]]
+[[File:Aurelien Tchouameni France v Norway 26 June 26-101.jpg|thumb|300x300px|Tchouaméni playing for [[France national football team|France]] at the [[2026 FIFA World Cup]]]]
 On 26 August 2021, Tchouaméni received his first call up to the [[France national football team|France]] senior squad.<ref>{{cite web |url=https://www.fff.fr/article/3280-la-liste-des-vingt-trois-bleus.html |title=La liste des vingt-trois Bleus |publisher=French Football Federation |date=26 August 2021 |access-date=26 August 2021|language=fr|archive-date=26 August 2021 |archive-url=https://web.archive.org/web/20210826143014/https://www.fff.fr/article/3280-la-liste-des-vingt-trois-bleus.html |url-status=live }}</ref> On 1 September, he made his international debut in a [[2022 FIFA World Cup qualification|2022 FIFA World Cup qualifying]] game against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] replacing [[Thomas Lemar]] in the 46th minute.<ref>{{cite web|first=Ben|last=McAleer|url=https://www.theguardian.com/football/who-scored-blog/2021/oct/13/aurelien-tchouameni-exciting-rise-monaco-france |title=The rise of the Monaco and France midfielder Aurélien Tchouaméni |website=The Guardian |date=13 October 2021 |access-date=11 December 2022 |archive-date=11 December 2022 |archive-url=https://web.archive.org/web/20221211004310/https://www.theguardian.com/football/who-scored-blog/2021/oct/13/aurelien-tchouameni-exciting-rise-monaco-france |url-status=live }}</ref> On 25 March 2022, Tchouaméni scored his first goal for the national team in a [[Friendly (association football)|friendly]] against [[Ivory Coast national football team|Ivory Coast]].<ref>{{cite web |url=https://www.besoccer.com/new/france-2-1-ivory-coast-tchouameni-completes-late-turnaround-for-les-bleus-1119478 |title=France 2–1 Ivory Coast: Tchouameni completes late turnaround for Les Bleus |website=BeSoccer |date=25 March 2022 |access-date=11 December 2022 |archive-date=11 December 2022 |archive-url=https://web.archive.org/web/20221211004316/https://www.besoccer.com/new/france-2-1-ivory-coast-tchouameni-completes-late-turnaround-for-les-bleus-1119478 |url-status=live }}</ref>
 
 In November 2022, Tchouaméni was named in France's squad for the [[2022 FIFA World Cup]].<ref>{{cite news |url=https://www.lequipe.fr/Football/Actualites/Bleus-une-liste-de-25-pour-la-coupe-du-monde-avec-giroud-mandanda-et-saliba/1364022 |title=Bleus : une liste de 25 pour la Coupe du monde avec Giroud, Mandanda et Saliba |trans-title=A 25-player list for the World Cup with Giroud, Mandanda and Saliba |newspaper=L'Équipe |language=fr |date=9 November 2022 |access-date=9 November 2022 |archive-date=14 November 2022 |archive-url=https://web.archive.org/web/20221114210253/https://www.lequipe.fr/Football/Actualites/Bleus-une-liste-de-25-pour-la-coupe-du-monde-avec-giroud-mandanda-et-saliba/1364022 |url-status=live }}</ref> On 10 December, he scored his first World Cup goal in a 2–1 victory over [[England national football team|England]] in the quarter-finals.<ref>{{cite web |url=https://www.goal.com/en/news/france-tchouameni-england-world-cup-quarter-final/bltfa47e4a95acb36f8 |title=Watch: France star Tchouameni smashes long-range strike past England in World Cup quarter-final |website=Goal |date=10 December 2022 |access-date=11 December 2022 |archive-date=11 December 2022 |archive-url=https://web.archive.org/web/20221211004310/https://www.goal.com/en/news/france-tchouameni-england-world-cup-quarter-final/bltfa47e4a95acb36f8 |url-status=live }}</ref>
@@ -111,7 +111,7 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}<ref>{{cite web |url=https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
+{{updated|match played 1 November 2026}}<ref>{{cite web |url=https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -179,13 +179,13 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|6||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||8||0
+|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||9||0
 |-
 !colspan="2"|Total
-!131||4||11||2||colspan="2"|—||44||1||17||0||203||7
+!132||4||11||2||colspan="2"|—||44||1||17||0||204||7
 |-
 !colspan="3"|Career total
-!246!!12!!22!!4!!2!!0!!64!!3!!17!!0!!352!!19
+!247!!12!!22!!4!!2!!0!!64!!3!!17!!0!!353!!19
 |}
 
 {{notelist}}
@@ -251,7 +251,7 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 *[[FIFA Intercontinental Cup]]: [[2024 FIFA Intercontinental Cup|2024]]<ref>{{cite web|url= https://www.bbc.com/sport/football/live/c205nv1yr6pt|title=Real Madrid 3–0 Pachuca: Kylian Mbappé scores in intercontinentalscores in Intercontinental Cup final|date=18 December 2024|work=BBC Sport|accessdate=19 December 2024}}</ref>
 
 '''France'''
-*[[UEFA Nations League]]: [[2020–21 UEFA Nations League|2020–21]];<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/ |title=France beat Spain to win Nations League |publisher=UEFA |date=10 October 2021 |access-date=10 October 2021 |archive-date=13 October 2021 |archive-url=https://web.archive.org/web/20211013125424/https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/ |url-status=live }}</ref> third place: [[2024–25 UEFA Nations League|2024–25]]<ref>{{Cite web |date=2025-06-08 |title=Ligue des Nations : la France décroche la troisième place en battant l'Allemagne |url=https://www.france24.com/fr/sports/20250608-ligue-des-nations-la-france-d%C3%A9croche-la-troisi%C3%A8me-place-en-battant-l-allemagne |access-date=2025-06-16 |website=France 24 |language=fr}}</ref>
+*[[UEFA Nations League]]: [[2020–21 UEFA Nations League|2020–21]];<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/ |title=France beat Spain to win Nations League |publisher=UEFA |date=10 October 2021 |access-date=10 October 2021 |archive-date=13 October 2021 |archive-url=https://web.archive.org/web/20211013125424/https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/ |url-status=live }}</ref> third place: [[2024–25 UEFA Nations League|2024–25]]<ref>{{Cite web |date=8 June 2025 |title=Ligue des Nations : la France décroche la troisième place en battant l'Allemagne |url=https://www.france24.com/fr/sports/20250608-ligue-des-nations-la-france-d%C3%A9croche-la-troisi%C3%A8me-place-en-battant-l-allemagne |access-date=16 June 2025 |website=France 24 |language=fr}}</ref>
 *[[FIFA World Cup]] runner-up: [[2022 FIFA World Cup|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63932622 |title=Argentina 3–3 France |first=Phil |last=McNulty |website=BBC Sport |date=18 December 2022 |access-date=18 December 2022 |archive-date=28 December 2022 |archive-url=https://web.archive.org/web/20221228151929/https://www.bbc.co.uk/sport/football/63932622 |url-status=live }}</ref>
 
 '''Individual'''

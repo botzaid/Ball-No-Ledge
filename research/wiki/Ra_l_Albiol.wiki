@@ -1,4 +1,4 @@
-<!-- Raúl Albiol | revision 2026-09-23T08:24:33Z -->
+<!-- Raúl Albiol | revision 2026-10-31T00:16:25Z -->
 {{Short description|Spanish footballer (born 1985)}}
 {{family name hatnote|Albiol|Tortajada|lang=Spanish}}
 {{Use dmy dates|date=May 2023}}
@@ -11,11 +11,11 @@
 | birth_place = [[Vilamarxant]], Spain
 | height = 1.90 m<ref>{{cite web|url=http://www.sscnapoli.it/Team/Raul-Albiol|title=Raul Albiol|publisher=S.S.C. Napoli|access-date=14 November 2017|archive-url=https://web.archive.org/web/20181116091956/http://www.sscnapoli.it/Squadra/Ra%C3%BAl-Albiol|archive-date=16 November 2018}}</ref>
 | position = [[Centre-back]]
-| currentclub = 
-| clubnumber = 
-| youthyears1 = 1994–1996 | youthclubs1 = [[Ribarroja CF|Ribarroja]]
-| youthyears2 = 1996–1997 | youthclubs2 = [[Vilamarxant CF|Vilamarxant]]
-| youthyears3 = 1997–2003 | youthclubs3 = [[Valencia CF|Valencia]]
+| current_club = 
+| club_number = 
+| youth_years1 = 1994–1996 | youth_clubs1 = [[Ribarroja CF|Ribarroja]]
+| youth_years2 = 1996–1997 | youth_clubs2 = [[Vilamarxant CF|Vilamarxant]]
+| youth_years3 = 1997–2003 | youth_clubs3 = [[Valencia CF|Valencia]]
 | years1 = 2003–2004 | clubs1 = [[Valencia CF Mestalla|Valencia B]] | caps1 = 35 | goals1 = 2
 | years2 = 2004–2009 | clubs2 = [[Valencia CF|Valencia]] | caps2 = 131 | goals2 = 5
 | years3 = 2004–2005 | clubs3 = → [[Getafe CF|Getafe]] (loan) | caps3 = 17 | goals3 = 1
@@ -23,19 +23,19 @@
 | years5 = 2013–2019 | clubs5 = [[SSC Napoli|Napoli]] | caps5 = 180 | goals5 = 6
 | years6 = 2019–2025 | clubs6 = [[Villarreal CF|Villarreal]] | caps6 = 165 | goals6 = 1
 | years7 = 2025–2026 | clubs7 = [[Pisa SC|Pisa]] | caps7 = 8 | goals7 = 0
-| totalcaps = | totalgoals =
-| nationalyears1 = 2004 | nationalteam1 = [[Spain national under-19 football team|Spain U19]] | nationalcaps1 = 7 | nationalgoals1 = 0
-| nationalyears2 = 2003–2005 | nationalteam2 = [[Spain national under-20 football team|Spain U20]] | nationalcaps2 = 4 | nationalgoals2 = 0
-| nationalyears3 = 2005–2006 | nationalteam3 = [[Spain national under-21 football team|Spain U21]] | nationalcaps3 = 7 | nationalgoals3 = 0
-| nationalyears4 = 2007–2021 | nationalteam4 = [[Spain national football team|Spain]] | nationalcaps4 = 58 | nationalgoals4 = 0
-| medaltemplates = {{MedalCountry|{{fb|ESP}}}}
+| total_caps = | total_goals =
+| national_years1 = 2004 | national_team1 = [[Spain national under-19 football team|Spain U19]] | national_caps1 = 7 | national_goals1 = 0
+| national_years2 = 2003–2005 | national_team2 = [[Spain national under-20 football team|Spain U20]] | national_caps2 = 4 | national_goals2 = 0
+| national_years3 = 2005–2006 | national_team3 = [[Spain national under-21 football team|Spain U21]] | national_caps3 = 7 | national_goals3 = 0
+| national_years4 = 2007–2021 | national_team4 = [[Spain national football team|Spain]] | national_caps4 = 58 | national_goals4 = 0
+| medal_templates = {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|W|[[2010 FIFA World Cup|2010 South Africa]]|}}
 {{MedalCompetition|[[UEFA European Championship]]}}
 {{Medal|W|[[UEFA Euro 2008|2008 Austria–Switzerland]]|}}
 {{Medal|W|[[UEFA Euro 2012|2012 Poland–Ukraine]]|}}
-| club-update = 16:45, 22 March 2026 (UTC)
-| nationalteam-update =
+| club_update = 16:45, 22 March 2026 (UTC)
+| national_team_update =
 }}
 '''Raúl Albiol Tortajada''' (born 4 September 1985) is a Spanish professional [[association football|footballer]] who plays as a [[central defender]].
 

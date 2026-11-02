@@ -1,4 +1,4 @@
-<!-- Jude Bellingham | revision 2026-10-25T22:05:05Z -->
+<!-- Jude Bellingham | revision 2026-11-01T17:15:53Z -->
 {{short description|English footballer (born 2003)}}
 {{for|the New Zealand opera singer|Judy Bellingham}}
 {{distinguish|text=his brother, [[Jobe Bellingham]]}}
@@ -14,12 +14,12 @@
 | birth_place = [[Stourbridge]], West Midlands, England
 | height = {{convert|1.86|m|order=flip}}<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/jude-bellingham |title=Bellingham |publisher=Real Madrid CF |access-date=19 July 2026 |archive-url=https://web.archive.org/web/20260714171622/https://www.realmadrid.com/en-US/football/first-team/players/jude-bellingham |archive-date=14 July 2026 |url-status=live}}</ref>
 | position = [[Attacking midfielder]], [[central midfielder]]<ref>{{cite web |url=https://www.worldfootball.net/person/pe541929/jude-bellingham/ |title=Jude Bellingham: Profile |website=worldfootball.net |publisher=Heimspiel Medien |access-date=9 July 2026 |archive-date=14 July 2026 |archive-url=https://web.archive.org/web/20260714140012/https://www.worldfootball.net/person/pe541929/jude-bellingham/ |url-status=live }}</ref>
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 5
-| youthyears1 = 2009–2010
-| youthclubs1 = [[Stourbridge F.C.|Stourbridge Juniors]]
-| youthyears2 = 2010–2019
-| youthclubs2 = [[Birmingham City F.C. Reserves and Academy|Birmingham City]]<ref>{{cite web |url=https://www.bcfc.com/news/archive/bellingham-expresses-his-gratitude |title=Bellingham expresses his gratitude |publisher=Birmingham City F.C. |date=23 July 2020 |access-date=3 September 2022 |archive-date=11 February 2021 |archive-url=https://web.archive.org/web/20210211030128/https://www.bcfc.com/news/articles/2020/bellingham-expresses-his-gratitude/ |url-status=live}}</ref>
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 5
+| youth_years1 = 2009–2010
+| youth_clubs1 = [[Stourbridge F.C.|Stourbridge Juniors]]
+| youth_years2 = 2010–2019
+| youth_clubs2 = [[Birmingham City F.C. Reserves and Academy|Birmingham City]]<ref>{{cite web |url=https://www.bcfc.com/news/archive/bellingham-expresses-his-gratitude |title=Bellingham expresses his gratitude |publisher=Birmingham City F.C. |date=23 July 2020 |access-date=3 September 2022 |archive-date=11 February 2021 |archive-url=https://web.archive.org/web/20210211030128/https://www.bcfc.com/news/articles/2020/bellingham-expresses-his-gratitude/ |url-status=live}}</ref>
 | years1 = 2019–2020
 | clubs1 = [[Birmingham City F.C.|Birmingham City]]
 | caps1 = 41
@@ -30,31 +30,31 @@
 | goals2 = 12
 | years3 = 2023–
 | clubs3 = [[Real Madrid CF|Real Madrid]]
-| caps3 = 97<!--La Liga matches only-->
-| goals3 = 37<!--La Liga matches only-->
-| nationalyears1 = 2016–2018
-| nationalteam1 = England U15
-| nationalcaps1 = 8
-| nationalgoals1 = 1
-| nationalyears2 = 2018–2019
-| nationalteam2 = [[England national under-16 football team|England U16]]
-| nationalcaps2 = 11
-| nationalgoals2 = 4
-| nationalyears3 = 2019
-| nationalteam3 = [[England national under-17 football team|England U17]]
-| nationalcaps3 = 3
-| nationalgoals3 = 2
-| nationalyears4 = 2020
-| nationalteam4 = [[England national under-21 football team|England U21]]
-| nationalcaps4 = 4
-| nationalgoals4 = 1
-| nationalyears5 = 2020–
-| nationalteam5 = [[England national football team|England]]
-| nationalcaps5 = 60
-| nationalgoals5 = 14
-| club-update = 22:05, 25 October 2026 (UTC)
-| nationalteam-update = 16:10, 7 October 2026 (UTC)
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| caps3 = 98<!--La Liga matches only-->
+| goals3 = 38<!--La Liga matches only-->
+| national_years1 = 2016–2018
+| national_team1 = England U15
+| national_caps1 = 8
+| national_goals1 = 1
+| national_years2 = 2018–2019
+| national_team2 = [[England national under-16 football team|England U16]]
+| national_caps2 = 11
+| national_goals2 = 4
+| national_years3 = 2019
+| national_team3 = [[England national under-17 football team|England U17]]
+| national_caps3 = 3
+| national_goals3 = 2
+| national_years4 = 2020
+| national_team4 = [[England national under-21 football team|England U21]]
+| national_caps4 = 4
+| national_goals4 = 1
+| national_years5 = 2020–
+| national_team5 = [[England national football team|England]]
+| national_caps5 = 60
+| national_goals5 = 14
+| club_update = 17:16, 1 November 2026 (UTC)
+| national_team_update = 16:10, 7 October 2026 (UTC)
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ENG}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|3rd|[[2026 FIFA World Cup|2026 Canada–Mexico–US]]|}}
@@ -166,7 +166,7 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}
+{{updated|match played 1 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -217,13 +217,13 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|123255|2026|access-date=30 August 2026}}</ref>
 |La Liga
-|10||3||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||13||3
+|11||4||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||14||4
 |-
 !colspan="2"|Total
-!97||37||6||1||colspan="2"|—||36||9||14||2||153||49
+!98||38||6||1||colspan="2"|—||36||9||14||2||154||50
 |-
 !colspan="3"|Career total
-!230||53||21||5||1||0||61||17||16||2||329||77
+!231||54||21||5||1||0||61||17||16||2||330||78
 |}
 
 {{notelist}}

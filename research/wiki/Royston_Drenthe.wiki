@@ -1,4 +1,4 @@
-<!-- Royston Drenthe | revision 2026-02-04T23:41:31Z -->
+<!-- Royston Drenthe | revision 2026-10-30T02:29:15Z -->
 {{short description|Dutch former association footballer (born 1987)}}
 {{Use dmy dates|date=January 2025}}
 {{Infobox football biography
@@ -10,13 +10,13 @@
 | birth_place = [[Rotterdam]], Netherlands
 | height = 1.67 m
 | position = [[Left winger]], [[left-back]]
-| currentclub = 
-| youthyears1 = 1992–2000
-| youthclubs1 = SC Neptunus
-| youthyears2 = 2000–2003
-| youthclubs2 = [[Feyenoord]]
-| youthyears3 = 2003–2005
-| youthclubs3 = [[Excelsior Rotterdam|Excelsior]]
+| current_club = 
+| youth_years1 = 1992–2000
+| youth_clubs1 = SC Neptunus
+| youth_years2 = 2000–2003
+| youth_clubs2 = [[Feyenoord]]
+| youth_years3 = 2003–2005
+| youth_clubs3 = [[Excelsior Rotterdam|Excelsior]]
 | years1 = 2005–2007
 | clubs1 = [[Feyenoord]]
 | caps1 = 29
@@ -77,29 +77,29 @@
 | clubs15 = [[Kozakken Boys]]
 | caps15 = 5
 | goals15 = 0
-| totalcaps = 284
-| totalgoals = 38
-| nationalyears1 = 2005
-| nationalteam1 = Netherlands U18
-| nationalcaps1 = 1
-| nationalgoals1 = 0
-| nationalyears2 = 2005–2006
-| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
-| nationalcaps2 = 6
-| nationalgoals2 = 0
-| nationalyears3 = 2006–2008
-| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
-| nationalcaps3 = 17
-| nationalgoals3 = 4
-| nationalyears4 = 2008
-| nationalteam4 = [[Netherlands national football team|Netherlands B]]
-| nationalcaps4 = 1
-| nationalgoals4 = 0
-| nationalyears5 = 2010
-| nationalteam5 = [[Netherlands national football team|Netherlands]]
-| nationalcaps5 = 1
-| nationalgoals5 = 0
-| medaltemplates = {{MedalCountry|{{fb|NED}}}}
+| total_caps = 284
+| total_goals = 38
+| national_years1 = 2005
+| national_team1 = Netherlands U18
+| national_caps1 = 1
+| national_goals1 = 0
+| national_years2 = 2005–2006
+| national_team2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| national_caps2 = 6
+| national_goals2 = 0
+| national_years3 = 2006–2008
+| national_team3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| national_caps3 = 17
+| national_goals3 = 4
+| national_years4 = 2008
+| national_team4 = [[Netherlands national football team|Netherlands B]]
+| national_caps4 = 1
+| national_goals4 = 0
+| national_years5 = 2010
+| national_team5 = [[Netherlands national football team|Netherlands]]
+| national_caps5 = 1
+| national_goals5 = 0
+| medal_templates = {{MedalCountry|{{fb|NED}}}}
 {{MedalCompetition|[[UEFA European Under-21 Football Championship|UEFA U-21 Euro]]}}
 {{Medal|W|[[2007 UEFA European Under-21 Championship|2007 Netherlands]]|}}
 }}

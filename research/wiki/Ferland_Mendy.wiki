@@ -1,4 +1,4 @@
-<!-- Ferland Mendy | revision 2026-10-24T01:10:33Z -->
+<!-- Ferland Mendy | revision 2026-10-26T23:39:23Z -->
 {{short description|French footballer (born 1995)}}
 {{Use British English|date=June 2019}}
 {{Use dmy dates|date=July 2024}}
@@ -11,16 +11,16 @@
 | birth_place = [[Meulan-en-Yvelines]], France
 | height = 1.80 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/ferland-mendy|title=F. Mendy |publisher=Real Madrid CF |access-date=2 July 2019}}</ref>
 | position = [[Left-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 23
-| youthyears1 = 2002–2004
-| youthclubs1 = Ecquevilly EFC
-| youthyears2 = 2004–2012
-| youthclubs2 = [[Paris Saint-Germain Academy|Paris Saint-Germain]]
-| youthyears3 = 2012–2013
-| youthclubs3 = [[FC Mantois 78|Mantois]]
-| youthyears4 = 2013–2015
-| youthclubs4 = [[Le Havre AC|Le Havre]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 23
+| youth_years1 = 2002–2004
+| youth_clubs1 = Ecquevilly EFC
+| youth_years2 = 2004–2012
+| youth_clubs2 = [[Paris Saint-Germain Academy|Paris Saint-Germain]]
+| youth_years3 = 2012–2013
+| youth_clubs3 = [[FC Mantois 78|Mantois]]
+| youth_years4 = 2013–2015
+| youth_clubs4 = [[Le Havre AC|Le Havre]]
 | years1 = 2013–2016
 | clubs1 = [[Le Havre AC II|Le Havre II]]
 | caps1 = 56
@@ -37,12 +37,12 @@
 | clubs4 = [[Real Madrid CF|Real Madrid]]
 | caps4 = 133
 | goals4 = 4
-| nationalyears1 = 2018–2024
-| nationalteam1 = [[France national football team|France]]
-| nationalcaps1 = 10
-| nationalgoals1 = 0
-| club-update = 17:24, 4 May 2026 (UTC)
-| nationalteam-update = 
+| national_years1 = 2018–2024
+| national_team1 = [[France national football team|France]]
+| national_caps1 = 10
+| national_goals1 = 0
+| club_update = 17:24, 4 May 2026 (UTC)
+| national_team_update = 
 }}
 '''Ferland Sinna Mendy''' (born 8 June 1995) is a French professional [[Association football|footballer]] who plays as a [[left-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]].
 

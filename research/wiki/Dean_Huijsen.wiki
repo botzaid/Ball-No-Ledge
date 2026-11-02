@@ -1,4 +1,4 @@
-<!-- Dean Huijsen | revision 2026-10-25T22:08:36Z -->
+<!-- Dean Huijsen | revision 2026-11-01T17:17:45Z -->
 {{Short description|Footballer (born 2005)}}
 {{Redirect|Huijsen|the historian|Coos Huijsen}}
 {{family name hatnote|Huijsen|lang=Spanish|Wijsmuller}}
@@ -12,14 +12,14 @@
 | birth_place = [[Amsterdam]], Netherlands
 | height = 1.96 m<ref name="RMProfile"/>
 | position = [[Centre-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 4
-| youthyears1 = 2010–2015
-| youthclubs1 = Costa Unida CF
-| youthyears2 = 2015–2021
-| youthclubs2 = [[Málaga CF|Málaga]]
-| youthyears3 = 2021–2023
-| youthclubs3 = [[Juventus FC Youth Sector|Juventus]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 4
+| youth_years1 = 2010–2015
+| youth_clubs1 = Costa Unida CF
+| youth_years2 = 2015–2021
+| youth_clubs2 = [[Málaga CF|Málaga]]
+| youth_years3 = 2021–2023
+| youth_clubs3 = [[Juventus FC Youth Sector|Juventus]]
 | years1 = 2023
 | clubs1 = [[Juventus Next Gen]]
 | caps1 = 27
@@ -38,29 +38,29 @@
 | goals4 = 3
 | years5 = 2025–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 36<!-- Only league matches -->
+| caps5 = 37<!-- Only league matches -->
 | goals5 = 2
-| nationalyears1 = 2021–2022
-| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
-| nationalcaps1 = 11
-| nationalgoals1 = 2
-| nationalyears2 = 2022–2023
-| nationalteam2 = [[Netherlands national under-18 football team|Netherlands U18]]
-| nationalcaps2 = 4
-| nationalgoals2 = 0
-| nationalyears3 = 2023–2024
-| nationalteam3 = [[Netherlands national under-19 football team|Netherlands U19]]
-| nationalcaps3 = 3
-| nationalgoals3 = 0
-| nationalyears4 = 2024
-| nationalteam4 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps4 = 7
-| nationalgoals4 = 1
-| nationalyears5 = 2025–
-| nationalteam5 = [[Spain national football team|Spain]]
-| nationalcaps5 = 8
-| nationalgoals5 = 0
-| medaltemplates =
+| national_years1 = 2021–2022
+| national_team1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| national_caps1 = 11
+| national_goals1 = 2
+| national_years2 = 2022–2023
+| national_team2 = [[Netherlands national under-18 football team|Netherlands U18]]
+| national_caps2 = 4
+| national_goals2 = 0
+| national_years3 = 2023–2024
+| national_team3 = [[Netherlands national under-19 football team|Netherlands U19]]
+| national_caps3 = 3
+| national_goals3 = 0
+| national_years4 = 2024
+| national_team4 = [[Spain national under-21 football team|Spain U21]]
+| national_caps4 = 7
+| national_goals4 = 1
+| national_years5 = 2025–
+| national_team5 = [[Spain national football team|Spain]]
+| national_caps5 = 8
+| national_goals5 = 0
+| medal_templates =
 {{MedalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|Netherlands}}}}
 {{MedalCompetition|[[UEFA European Under-17 Championship]]}}
@@ -68,10 +68,10 @@
 {{Medal|Country|{{fb|ESP}}}}
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club-update = 22:03, 25 October 2026 (UTC)
-| nationalteam-update = 21:16, 29 September 2026 (UTC)
+| club_update = 17:20, 1 November 2026 (UTC)
+| national_team_update = 21:16, 29 September 2026 (UTC)
 }}
-'''Dean Donny Huijsen Wijsmuller''' ({{IPA|es|ˈdiŋ ˈxawsen|lang}},<ref>{{cite tweet|user=RMadridInfo|author=Real Madrid Info|number=1922791884058996970|title=Dean Huijsen about how he prefers his name to be pronounced|accessdate=16 May 2025|language=es}}</ref><ref>{{Cite web |date=10 April 2025 |title=LOS AMIGOS DE EDU {{!}} DEAN HUIJSEN {{!}} ENTREVISTA COMPLETA |trans-title=EDU'S FRIENDS {{!}} DEAN HUIJSEN {{!}} FULL INTERVIEW |url=https://www.youtube.com/watch?v=oEuiYYrJm8M&t=33s |access-date=21 September 2026 |website=[[YouTube]] |language=es|publisher=Chiringuito Inside}}</ref> {{IPA|nl|ˈdiːn ˈɦœy.sə(n)|lang}}; born 14 April 2005) is a [[Dutch]] professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in the Netherlands, he plays for the [[Spain national football team|Spain national team]].
+'''Dean Donny Huijsen Wijsmuller''' ({{IPA|es|ˈdiŋ ˈxawsen|lang}},<ref>{{cite tweet|user=RMadridInfo|author=Real Madrid Info|number=1922791884058996970|title=Dean Huijsen about how he prefers his name to be pronounced|accessdate=16 May 2025|language=es}}</ref><ref>{{Cite web |date=10 April 2025 |title=LOS AMIGOS DE EDU {{!}} DEAN HUIJSEN {{!}} ENTREVISTA COMPLETA |trans-title=EDU'S FRIENDS {{!}} DEAN HUIJSEN {{!}} FULL INTERVIEW |url=https://www.youtube.com/watch?v=oEuiYYrJm8M&t=33s |access-date=21 September 2026 |website=[[YouTube]] |language=es|publisher=Chiringuito Inside}}</ref> {{IPA|nl|ˈdiːn ˈɦœy.sə(n)|lang}}; born 14 April 2005) is a professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in the Netherlands, he plays for the [[Spain national football team|Spain national team]].
 
 Huijsen made his senior debut for [[Juventus FC|Juventus]]'s reserve team [[Juventus Next Gen]] in January 2023, and made his [[Serie A]] debut with the first team the following October. Following a loan spell at [[AS Roma|Roma]], Huijsen signed for [[Premier League]] side [[AFC Bournemouth|Bournemouth]] in July 2024. One year later in May 2025, he moved to La Liga club Real Madrid.
 
@@ -120,7 +120,7 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
+{{updated|match played 1 November 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,13 +173,13 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|171180|2026|access-date=9 August 2026}}</ref>
 |La Liga
-|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||10||0
+|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||11||0
 |-
 !colspan="2"|Total
-!36!!2!!2!!0!!colspan="2"|—!!11!!0!!6!!0!!55!!2
+!37!!2!!2!!0!!colspan="2"|—!!11!!0!!6!!0!!56!!2
 |-
 !colspan="3"|Career total
-!109!!8!!6!!0!!1!!0!!11!!0!!9!!2!!136!!10
+!110!!8!!6!!0!!1!!0!!11!!0!!9!!2!!137!!10
 |}
 {{notelist}}
 
@@ -206,6 +206,9 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 
 '''Spain'''
 * [[UEFA Nations League]] runner-up: [[2024–25 UEFA Nations League|2024–25]]<ref>{{cite web|url=https://www.uefa.com/uefanationsleague/match/2044949--portugal-vs-spain/|title=Portugal vs Spain - UEFA Nations League Final 2025|website=UEFA.com|accessdate=8 June 2025}}</ref>
+=== Individual ===
+
+* [[IFFHS#The World's Best Youth (U20) Player|IFFHS Men's World Youth (U20) Team]]: 2025<ref>{{cite web |title=Arda Guler, Kenan Yildiz named in IFFHS' Best U-20 World Team of 2025 |url=https://www.turkiyetoday.com/sports/arda-guler-kenan-yildiz-named-in-2025-iffhs-best-u-20-world-team-3212079 |publisher=Türkiye Today |date=29 December 2025 |access-date=30 October 2026}}</ref>
 
 ==References==
 {{reflist}}

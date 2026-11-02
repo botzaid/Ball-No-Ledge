@@ -1,4 +1,4 @@
-<!-- David Alaba | revision 2026-10-18T13:35:38Z -->
+<!-- David Alaba | revision 2026-11-01T01:55:10Z -->
 {{short description|Austrian footballer (born 1992)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -10,14 +10,14 @@
 | birth_place = [[Vienna]], Austria
 | height = 1.80 m<ref name="da">{{cite web |url=https://fcbayern.com/en/teams/first-team/former-players/david-alaba |title=David Alaba |publisher=FC Bayern Munich |access-date=26 August 2026}}</ref>
 | position = [[Centre-back]], [[left-back]]
-| currentclub = [[Udinese Calcio|Udinese]]
-| clubnumber = 5
-| youthyears1 = 2001–2002
-| youthclubs1 = SV Aspern
-| youthyears2 = 2002–2008
-| youthclubs2 = [[FK Austria Wien|Austria Wien]]
-| youthyears3 = 2008–2009
-| youthclubs3 = [[Bayern Munich Junior Team|Bayern Munich]]
+| current_club = [[Udinese Calcio|Udinese]]
+| club_number = 5
+| youth_years1 = 2001–2002
+| youth_clubs1 = SV Aspern
+| youth_years2 = 2002–2008
+| youth_clubs2 = [[FK Austria Wien|Austria Wien]]
+| youth_years3 = 2008–2009
+| youth_clubs3 = [[Bayern Munich Junior Team|Bayern Munich]]
 | years1 = 2007–2008
 | clubs1 = [[FK Austria Wien II|Austria Wien II]]
 | caps1 = 5
@@ -42,24 +42,24 @@
 | clubs6 = [[Udinese Calcio|Udinese]]
 | caps6 = 2
 | goals6 = 0
-| nationalyears1 = 2007–2009
-| nationalteam1 = [[Austria national under-17 football team|Austria U17]]
-| nationalcaps1 = 20
-| nationalgoals1 = 5
-| nationalyears2 = 2010
-| nationalteam2 = [[Austria national under-19 football team|Austria U19]]<ref name=Kickero>{{cite web | url = http://www.oefb.at/18-spieler-von-alaba-bis-weimann-news17340 | title = Heraf nominiert Kader für U19-EM! 18 Spieler – von Alaba bis Weimann | language = de | publisher = oefb.at | access-date = 23 April 2014 | archive-date = 23 October 2014 | archive-url = https://web.archive.org/web/20141023115500/http://www.oefb.at/18-spieler-von-alaba-bis-weimann-news17340 | url-status = dead }}</ref>
-| nationalcaps2 = 5
-| nationalgoals2 = 1
-| nationalyears3 = 2009–2010
-| nationalteam3 = [[Austria national under-21 football team|Austria U21]]
-| nationalcaps3 = 5
-| nationalgoals3 = 0
-| nationalyears4 = 2009–
-| nationalteam4 = [[Austria national football team|Austria]]
-| nationalcaps4 = 117
-| nationalgoals4 = 15
-| club-update = 23:38, 18 October 2026 (UTC)
-| nationalteam-update = 18:18, 3 July 2026 (UTC)
+| national_years1 = 2007–2009
+| national_team1 = [[Austria national under-17 football team|Austria U17]]
+| national_caps1 = 20
+| national_goals1 = 5
+| national_years2 = 2010
+| national_team2 = [[Austria national under-19 football team|Austria U19]]<ref name=Kickero>{{cite web | url = http://www.oefb.at/18-spieler-von-alaba-bis-weimann-news17340 | title = Heraf nominiert Kader für U19-EM! 18 Spieler – von Alaba bis Weimann | language = de | publisher = oefb.at | access-date = 23 April 2014 | archive-date = 23 October 2014 | archive-url = https://web.archive.org/web/20141023115500/http://www.oefb.at/18-spieler-von-alaba-bis-weimann-news17340 | url-status = dead }}</ref>
+| national_caps2 = 5
+| national_goals2 = 1
+| national_years3 = 2009–2010
+| national_team3 = [[Austria national under-21 football team|Austria U21]]
+| national_caps3 = 5
+| national_goals3 = 0
+| national_years4 = 2009–
+| national_team4 = [[Austria national football team|Austria]]
+| national_caps4 = 117
+| national_goals4 = 15
+| club_update = 23:38, 18 October 2026 (UTC)
+| national_team_update = 18:18, 3 July 2026 (UTC)
 }}
 '''David Olatukunbo Alaba''' ({{IPA|de-at|ˈdeɪvɪd ˈalaba, ˈdaːv-|lang|audio=David Alaba.wav}};<ref>{{Cite web |date=4 December 2022 |title=David Alaba: München oder Madrid? |trans-title=David Alaba: Munich or Madrid? |url=https://www.youtube.com/watch?v=V0K1zKT_aZQ&t=5s |access-date=18 May 2023 |website=[[YouTube]] |language=German |archive-date=18 May 2023 |archive-url=https://web.archive.org/web/20230518044931/https://www.youtube.com/watch?v=V0K1zKT_aZQ&t=5s |url-status=live }}</ref> born 24 June 1992) is an Austrian professional [[Association football|footballer]] who plays as a [[centre-back]] for {{Italian football updater|Udinese}} club [[Udinese Calcio|Udinese]] and [[Captain (association football)|captains]] the [[Austria national football team|Austria national team]]. He was previously deployed primarily as a [[left-back]], and was considered one of the best in the world at this position.<ref>{{cite web | url = https://www.hitc.com/en-gb/2019/12/26/7-greatest-left-backs-of-the-decade// | title = 7 greatest left-backs of the decade | date = 26 December 2019 | publisher = HITC Sevens | access-date = 1 June 2020 | archive-date = 26 December 2019 | archive-url = https://web.archive.org/web/20191226210211/https://www.hitc.com/en-gb/2019/12/26/7-greatest-left-backs-of-the-decade/ | url-status = live }}</ref><ref>{{cite web | url = https://footballiconic.com/top-25-best-left-backs-in-football-in-the-21st-century/ | title = Top 25 best left-backs in football in the 21st century | publisher = Football Iconic | access-date = 1 June 2020 | archive-date = 12 February 2021 | archive-url = https://web.archive.org/web/20210212171103/https://footballiconic.com/top-25-best-left-backs-in-football-in-the-21st-century/ | url-status = live }}</ref>
 
@@ -441,6 +441,7 @@ Alaba was chosen to be on the cover of ''[[FIFA 15]]'' and ''[[FIFA 16]]'' in Au
 [[Category:Bundesliga players]]
 [[Category:3. Liga players]]
 [[Category:La Liga players]]
+[[Category:Serie A players]]
 [[Category:UEFA Champions League–winning players]]
 [[Category:Austria men's youth international footballers]]
 [[Category:Austria men's under-21 international footballers]]

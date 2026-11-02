@@ -1,4 +1,4 @@
-<!-- Álvaro Arbeloa | revision 2026-10-26T01:45:59Z -->
+<!-- Álvaro Arbeloa | revision 2026-11-01T10:32:14Z -->
 {{Short description|Spanish football manager and player (born 1983)}} 
 {{family name hatnote|Arbeloa|Coca|lang=Spanish}}
 {{Use dmy dates|date=March 2021}}
@@ -227,7 +227,7 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 |}
 
 ==Managerial statistics==
-{{updated|24 October 2026}}
+{{updated|31 October 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
@@ -265,11 +265,11 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 |{{flagicon|England}}
 |align="left"|7 July 2026
 |align="left"|Present
-{{WDL|10|4|2|4|for=14|against=12|diff=yes}}
+{{WDL|12|4|3|5|for=15|against=14|diff=yes}}
 |
 |-
 !colspan="4"|Career Total
-{{WDLtot|57|32|5|20|for=96|against=69|diff=yes}}
+{{WDLtot|59|32|6|21|for=97|against=71|diff=yes}}
 !
 |}
 
@@ -289,6 +289,11 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 *[[FIFA World Cup]]: [[2010 FIFA World Cup|2010]]<ref name=SW/>
 *[[UEFA European Championship]]: [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]]<ref name=SW/>
 *[[FIFA Confederations Cup]] runner-up: [[2013 FIFA Confederations Cup|2013]]; third place: [[2009 FIFA Confederations Cup|2009]]<ref name=SW/>
+===Individual===
+* Medal for Sporting Merit of [[Aragon]]: 2010<ref>{{cite web |title=Álvaro Arbeloa, Medalla al Mérito Deportivo del Gobierno de Aragón |url=https://www.aragondigital.es/articulo/deportes/alvaro-arbeloa-medalla-merito-deportivo-gobierno-aragon/20100720220500648176.amp.html |website=Aragón Digital |date=20 July 2010 |language=es}}</ref>
+* Trofeo Cesaraugusta Masculino: 2011<ref>{{cite web |title=XI Gala del Deporte 'Ciudad de Zaragoza' |url=https://zaragozadeporte.com/Evento.asp?id=1124 |website=Zaragoza Deporte |date=7 February 2011 |language=es}}</ref>
+* Gold Medal of the [[Royal Order of Sports Merit]]: 2011<ref>{{cite web |title=Resolución de 19 de septiembre de 2011 |url=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-15205 |website=Boletín Oficial del Estado |date=27 September 2011 |language=es}}</ref>
+* ISDE Sports Convention Career Achievement Award: 2024<ref>{{cite web |title=Arbeloa recibe el Premio a la Trayectoria Deportiva en el ISDE Sports Convention 2024 |url=https://www.realmadrid.com/es-ES/noticias/club/actualidad/arbeloa-recibe-el-premio-a-la-trayectoria-deportiva-07-06-2024 |website=Real Madrid CF |date=7 June 2024 |language=es}}</ref>
 
 ==References==
 {{reflist|30em}}

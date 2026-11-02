@@ -1,4 +1,4 @@
-<!-- Lucas Vázquez | revision 2026-10-25T12:24:12Z -->
+<!-- Lucas Vázquez | revision 2026-11-02T02:25:03Z -->
 {{short description|Spanish footballer (born 1991)}}
 {{Use dmy dates|date=September 2020}}
 {{family name hatnote|Vázquez|Iglesias|lang=Spanish}}
@@ -11,14 +11,14 @@
 | birth_place = [[Curtis, Spain|Curtis]], Spain
 | height = 1.73 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/lucas-vazquez-iglesias |title=Lucas Vazquez Iglesias |publisher=Real Madrid CF |access-date=10 September 2026 |archive-date=13 August 2025 |archive-url=https://web.archive.org/web/20250813153040/https://www.realmadrid.com/en-US/football/first-team/players/lucas-vazquez-iglesias |url-status=dead }}</ref>
 | position = [[Right-back]], [[Winger (association football)|winger]]
-| currentclub = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
-| clubnumber = 17
-| youthyears1 = 2000–2004
-| youthclubs1 = Curtis
-| youthyears2 = 2004–2007
-| youthclubs2 = Ural
-| youthyears3 = 2007–2010
-| youthclubs3 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| club_number = 17
+| youth_years1 = 2000–2004
+| youth_clubs1 = Curtis
+| youth_years2 = 2004–2007
+| youth_clubs2 = Ural
+| youth_years3 = 2007–2010
+| youth_clubs3 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2010–2011
 | clubs1 = [[Real Madrid C]]
 | caps1 = 14
@@ -37,13 +37,13 @@
 | goals4 = 26
 | years5 = 2025–
 | clubs5 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
-| caps5 = 15
+| caps5 = 16
 | goals5 = 1
-| nationalyears1 = 2016–2018
-| nationalteam1 = [[Spain national football team|Spain]]
-| nationalcaps1 = 9
-| nationalgoals1 = 0
-| pcupdate = 17:30, 20 September 2026 (UTC)
+| national_years1 = 2016–2018
+| national_team1 = [[Spain national football team|Spain]]
+| national_caps1 = 9
+| national_goals1 = 0
+| club_update = 17:30, 31 October 2026 (UTC)
 }}
 
 '''Lucas Vázquez Iglesias''' (born 1 July 1991) is a Spanish professional [[Association football|footballer]] who plays as a [[right-back]] or [[Winger (association football)|winger]] for {{German football updater|BaLeverk}} club [[Bayer 04 Leverkusen|Bayer Leverkusen]].
@@ -97,7 +97,7 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 22 October 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
+{{updated|match played 31 October 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -188,13 +188,13 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 |-
 |[[2026–27 Bayer 04 Leverkusen season|2026–27]]
 |Bundesliga
-|4||0||1||1||3{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0|| colspan="2" |—||8||1
+|5||0||2||2||3{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0|| colspan="2" |—||10||2
 |-
 ! colspan="2" |Total
-!15!!1!!3!!1!!8!!0!!colspan="2"|—!!25!!2
+!16!!1!!4!!2!!8!!0!!colspan="2"|—!!27!!3
 |-
 !colspan="3"|Career total
-!428!!47!!35!!10!!85!!4!!24!!0!!572!!61
+!429!!47!!36!!11!!85!!4!!24!!0!!574!!62
 |}
 {{notelist}}
 

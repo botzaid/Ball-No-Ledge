@@ -1,4 +1,4 @@
-<!-- Éder Militão | revision 2026-10-18T21:10:13Z -->
+<!-- Éder Militão | revision 2026-10-30T05:26:05Z -->
 {{short description|Brazilian footballer (born 1998)}}
 {{Portuguese name|Militão|Pinheiro}}
 {{Use dmy dates|date=July 2024}}
@@ -11,10 +11,10 @@
 | birth_place = [[Sertãozinho]], São Paulo, Brazil
 | height = 1.86 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/eder-gabriel-militao|title=Éder Militão |publisher=Real Madrid CF |access-date=11 July 2019}}</ref>
 | position = [[Centre-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 3
-| youthyears1 = 2010–2017
-| youthclubs1 = [[São Paulo FC (youth)|São Paulo]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 3
+| youth_years1 = 2010–2017
+| youth_clubs1 = [[São Paulo FC (youth)|São Paulo]]
 | years1 = 2017–2018
 | clubs1 = [[São Paulo FC|São Paulo]]
 | caps1 = 49
@@ -27,21 +27,21 @@
 | clubs3 = [[Real Madrid CF|Real Madrid]]
 | caps3 = 135
 | goals3 = 10
-| nationalyears1 = 2015
-| nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
-| nationalcaps1 = 5
-| nationalgoals1 = 0
-| nationalyears2 = 2018–
-| nationalteam2 = [[Brazil national football team|Brazil]]
-| nationalcaps2 = 38
-| nationalgoals2 = 2
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2015
+| national_team1 = [[Brazil national under-17 football team|Brazil U17]]
+| national_caps1 = 5
+| national_goals1 = 0
+| national_years2 = 2018–
+| national_team2 = [[Brazil national football team|Brazil]]
+| national_caps2 = 38
+| national_goals2 = 2
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|BRA}}}}
 {{Medal|Competition|[[Copa América]]}}
 {{Medal|W|[[2019 Copa América|2019 Brazil]]|}}
 {{Medal|RU|[[2021 Copa América|2021 Brazil]]|}}
-| club-update = 21:10, 18 October 2026 (UTC)
-| nationalteam-update = 23:09, 18 November 2025 (UTC)
+| club_update = 21:10, 18 October 2026 (UTC)
+| national_team_update = 23:09, 18 November 2025 (UTC)
 }}
 '''Éder Gabriel Militão Pinheiro''' ({{IPA|pt-BR|ˈɛdeʁ miliˈtɐ̃w̃|lang}}; born 18 January 1998) is a Brazilian professional [[Association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
 

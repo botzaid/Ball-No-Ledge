@@ -1,4 +1,4 @@
-<!-- James Rodríguez | revision 2026-10-15T20:29:01Z -->
+<!-- James Rodríguez | revision 2026-10-29T19:57:20Z -->
 {{Short description|Colombian footballer (born 1991)}}
 {{other people}}
 {{protection padlock|small=yes}}
@@ -73,7 +73,7 @@
 | goals13 = 0
 | years14 = 2026–
 | clubs14 = [[Atlético Nacional]]
-| caps14 = 5
+| caps14 = 7
 | goals14 = 0
 | nationalyears1 = 2007
 | nationalteam1 = [[Colombia national under-17 football team|Colombia U17]]
@@ -92,7 +92,7 @@
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|RU|[[2024 Copa América|2024 United States]]|}}
 {{Medal|3rd|[[Copa América Centenario|2016 United States]]|}}
-| club-update = 22:37, 8 October 2026 (UTC)
+| club-update = 22:37, 25 October 2026 (UTC)
 }}
 
 '''James David Rodríguez Rubio''' (born 12 July 1991) is a Colombian professional [[Association football|footballer]] who plays as an [[attacking midfielder]] for [[Liga DIMAYOR|Categoría Primera A]] club [[Atlético Nacional]].<ref>{{cite web|url=https://bolavip.com/mundial/en-pleno-mundial-con-colombia-revelan-el-posible-nuevo-club-de-james-rodriguez|title=En pleno Mundial con Colombia revelan el posible nuevo club de James Rodríguez|access-date=11 July 2026|date=7 July 2026|website=Bolavip|language=es}}</ref><ref>{{Cite web |last=Ascencio |first=Jose Orlando |date=2026-09-10 |title=Es oficial: James Rodríguez, refuerzo de lujo para Atlético Nacional, vuelve a Colombia luego de 19 años |url=https://www.eltiempo.com/deportes/futbol-colombiano/es-oficial-james-rodriguez-refuerzo-de-lujo-para-atletico-nacional-vuelve-a-colombia-luego-de-19-anos-3585232 |access-date=2026-09-11 |website=El Tiempo |language=spanish}}</ref> From 2009 to 2019, various performance analyses and statistical models in European football positioned Rodríguez as the best attacking midfielder in the world, and he is widely considered one of the greatest players in Colombian history.<ref name="bundesliga" /><ref name="james_el_mejor">{{cite web |date=7 May 2017 |title=James, el mejor centrocampista de Europa: nadie marca o asiste tanto |url=https://okdiario.com/deportes/james-mejor-centrocampista-europa-238888 |access-date=5 July 2026 |website=OkDiario |language=es}}</ref><ref name="james_es_el">{{cite web |date=21 May 2015 |title=James es el mejor volante ofensivo de Europa según científicos |url=https://www.diariolasamericas.com/deportes/james-es-el-mejor-volante-ofensivo-europa-segun-cientificos-n3114903 |access-date=5 July 2026 |website=Diario Las Américas |language=es}}</ref><ref>{{cite web|url=https://www.marca.com/futbol/copa-america/2024/07/11/668f1dac268e3e531b8b456c.html|title=James, esa pierna izquierda era para haber ganado un Balón de Oro|access-date=11 July 2024|date=11 July 2024|website=Marca|language=es}}</ref> 
@@ -298,7 +298,7 @@ During his early days playing in South America, Rodríguez was approached by [[A
 
 ==Career statistics==
 ===Club===
-{{updated|match played 14 October 2026}}
+{{updated|match played 25 October 2026}}
 
 {| class="wikitable" Style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -449,10 +449,10 @@ During his early days playing in South America, Rodríguez was approached by [[A
 |[[Atlético Nacional]]
 |[[2026 Liga DIMAYOR|2026]]
 |Categoría Primera A
-|5||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||0
+|7||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||0
 |-
 !colspan="3"|Career total
-!421!!111!!41!!10!!10!!1!!76!!11!!15!!2!!562!!136
+!423!!111!!41!!10!!10!!1!!76!!11!!15!!2!!564!!136
 |}
 {{notelist}}
 

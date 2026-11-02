@@ -1,4 +1,4 @@
-<!-- Sávio (footballer, born 1974) | revision 2026-09-27T17:46:03Z -->
+<!-- Sávio (footballer, born 1974) | revision 2026-11-01T08:48:08Z -->
 {{short description|Brazilian footballer (born 1974)}}
 {{Portuguese name|Bortolini|Pimentel}} 
 {{Use dmy dates|date=November 2020}}
@@ -12,9 +12,9 @@
 | birth_place = [[Vila Velha]], Brazil
 | height = 1.76 m
 | position = [[Winger (association football)|Winger]]
-| currentclub = 
-| youthyears1 = 1986–1988 | youthclubs1 = [[Desportiva Capixaba]]
-| youthyears2 = 1988–1993 | youthclubs2 = [[Clube de Regatas do Flamengo|Flamengo]] | caps1 = 74 | goals1 = 20
+| current_club = 
+| youth_years1 = 1986–1988 | youth_clubs1 = [[Desportiva Capixaba]]
+| youth_years2 = 1988–1993 | youth_clubs2 = [[Clube de Regatas do Flamengo|Flamengo]] | caps1 = 74 | goals1 = 20
 | years1 = 1993–1997 | clubs1 = [[Clube de Regatas do Flamengo|Flamengo]] | caps2 = 105 | goals2 = 16
 | years2 = 1998–2003 | clubs2 = [[Real Madrid C.F.|Real Madrid]] | caps3 = 27 | goals3 = 7
 | years3 = 2002–2003 | clubs3 = → [[FC Girondins de Bordeaux|Bordeaux]] (loan)
@@ -25,9 +25,9 @@
 | years8 = 2008 | clubs8 = [[Desportiva Capixaba]] | caps8 = 9 | goals8 = 6
 | years9 = 2008–2009 | clubs9 = [[Anorthosis Famagusta FC|Anorthosis]] | caps9 = 16 | goals9 = 4
 | years10 = 2010 | clubs10 = [[Avaí Futebol Clube|Avaí]] | caps10 = 8 | goals10 = 0
-| totalcaps = 375 | totalgoals = 74
-| nationalyears1 = 1994–2000 | nationalteam1 = [[Brazil national football team|Brazil]] | nationalcaps1 = 21 | nationalgoals1 = 4
-| medaltemplates = 
+| total_caps = 375 | total_goals = 74
+| national_years1 = 1994–2000 | national_team1 = [[Brazil national football team|Brazil]] | national_caps1 = 21 | national_goals1 = 4
+| medal_templates = 
 {{MedalCountry|{{flagu|Brazil}}}}
 {{MedalSport|Men's [[Football at the Summer Olympics|Football]]}}
 {{MedalBronze|[[1996 Summer Olympics|1996 Atlanta]]|[[Football at the 1996 Summer Olympics|Team competition]]}}

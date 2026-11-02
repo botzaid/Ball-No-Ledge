@@ -1,4 +1,4 @@
-<!-- Marc Cucurella | revision 2026-10-25T22:03:49Z -->
+<!-- Marc Cucurella | revision 2026-11-01T17:19:28Z -->
 {{short description|Spanish footballer (born 1998)}}
 {{pp-blp|small=yes}}
 {{Distinguish|Mark Cucuzzella}}
@@ -15,12 +15,12 @@
 | birth_place = [[Alella]], Spain
 | height = 1.73 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026 |archive-date=June 2, 2026 |archive-url=https://web.archive.org/web/20260602035422/https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |url-status=live }}</ref>
 | position = [[Left-back]], [[left wing-back]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 17
-| youthyears1 = 2006–2012
-| youthclubs1 = [[RCD Espanyol|Espanyol]]
-| youthyears2 = 2012–2016
-| youthclubs2 = [[FC Barcelona|Barcelona]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 17
+| youth_years1 = 2006–2012
+| youth_clubs1 = [[RCD Espanyol|Espanyol]]
+| youth_years2 = 2012–2016
+| youth_clubs2 = [[FC Barcelona|Barcelona]]
 | years1 = 2016–2018
 | clubs1 = [[FC Barcelona B|Barcelona B]]
 | caps1 = 48
@@ -51,37 +51,37 @@
 | goals7 = 6
 | years8 = 2026–
 | clubs8 = [[Real Madrid CF|Real Madrid]]
-| caps8 = 10
+| caps8 = 11
 | goals8 = 0
-| nationalyears1 = 2014
-| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
-| nationalcaps1 = 3
-| nationalgoals1 = 0
-| nationalyears2 = 2014–2015
-| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
-| nationalcaps2 = 16
-| nationalgoals2 = 2
-| nationalyears3 = 2016–2017
-| nationalteam3 = [[Spain national under-19 football team|Spain U19]]
-| nationalcaps3 = 6
-| nationalgoals3 = 0
-| nationalyears4 = 2016
-| nationalteam4 = [[Spain national under-20 football team|Spain U20]]
-| nationalcaps4 = 6
-| nationalgoals4 = 0
-| nationalyears5 = 2019–2021
-| nationalteam5 = [[Spain national under-21 football team|Spain U21]]
-| nationalcaps5 = 11
-| nationalgoals5 = 1
-| nationalyears6 = 2021
-| nationalteam6 = [[Spain national under-23 football team|Spain U23]]
-| nationalcaps6 = 6
-| nationalgoals6 = 0
-| nationalyears7 = 2021–
-| nationalteam7 = [[Spain national football team|Spain]]
-| nationalcaps7 = 35
-| nationalgoals7 = 1
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2014
+| national_team1 = [[Spain national under-16 football team|Spain U16]]
+| national_caps1 = 3
+| national_goals1 = 0
+| national_years2 = 2014–2015
+| national_team2 = [[Spain national under-17 football team|Spain U17]]
+| national_caps2 = 16
+| national_goals2 = 2
+| national_years3 = 2016–2017
+| national_team3 = [[Spain national under-19 football team|Spain U19]]
+| national_caps3 = 6
+| national_goals3 = 0
+| national_years4 = 2016
+| national_team4 = [[Spain national under-20 football team|Spain U20]]
+| national_caps4 = 6
+| national_goals4 = 0
+| national_years5 = 2019–2021
+| national_team5 = [[Spain national under-21 football team|Spain U21]]
+| national_caps5 = 11
+| national_goals5 = 1
+| national_years6 = 2021
+| national_team6 = [[Spain national under-23 football team|Spain U23]]
+| national_caps6 = 6
+| national_goals6 = 0
+| national_years7 = 2021–
+| national_team7 = [[Spain national football team|Spain]]
+| national_caps7 = 35
+| national_goals7 = 1
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|W|[[FIFA World Cup 2026|2026 Canada–Mexico–US]]}}
@@ -91,8 +91,8 @@
 {{Medal|RU|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 {{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
 {{MedalSilver|[[2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
-| club-update = 22:03, 25 October 2026 (UTC)
-| ntupdate = 18:10, 7 October 2026 (UTC)
+| club_update = 17:19, 1 November 2026 (UTC)
+| national_team_update = 18:10, 7 October 2026 (UTC)
 }}
 '''Marc Cucurella Saseta''' ({{IPA|ca|ˈmaɾ(k) kukuˈɾeʎə səˈzɛtə}}; born 22 July 1998) is a Spanish professional [[Association football|footballer]] who plays as a [[left-back]] or [[left wing-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Spain national football team|Spain national team]]. He is considered to be one of the best left-backs in the world.<ref>{{cite web|url=https://www.fourfourtwo.com/features/ranked-best-left-backs-in-the-world|title=Ranked! The 10 best left-backs in the world|publisher=[[FourFourTwo]]|first=Mark|last=White|date=16 June 2025|access-date=18 December 2025}}</ref><ref>{{cite web|url=https://www.si.com/soccer/the-best-left-backs-in-world-soccer-ranked|title=The 25 Best Left Backs in World Soccer — Ranked|publisher=[[Sports Illustrated]]|date=14 July 2025|access-date=18 December 2025}}</ref>
 
@@ -152,7 +152,7 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
+{{updated|match played 1 November 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/marc-cucurella-saseta/105483|title=Cucurella|website=Soccerway|publisher=Perform Group|access-date=1 May 2025}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -234,10 +234,10 @@ Cucurella met his partner, Claudia Rodríguez, in 2018. The couple have three ch
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|105483|2026|access-date=15 June 2026}}</ref>
 |La Liga
-|10||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||13||0
+|11||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||14||0
 |-
 !colspan="3"|Career total
-!314!!13!!15!!2!!10!!0!!37!!2!!11!!0!!387!!17
+!315!!13!!15!!2!!10!!0!!37!!2!!11!!0!!388!!17
 |}
 {{notelist}}
 
