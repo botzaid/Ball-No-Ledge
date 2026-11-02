@@ -1,4 +1,4 @@
-<!-- 2026–27 Real Madrid CF season | revision 2026-11-01T17:45:10Z -->
+<!-- 2026–27 Real Madrid CF season | revision 2026-11-02T13:49:01Z -->
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
 |season             = [[2026–27 in Spanish football|2026–27]]
@@ -1176,7 +1176,7 @@ The league phase draw was held on 27 August 2026.<ref>{{cite web|url=https://www
 |stadium    = [[Agia Sophia Stadium]]
 |location   = [[Athens]], Greece
 |attendance = 
-|referee    = 
+|referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
 |result     = 
 }}
 {{footballbox collapsible

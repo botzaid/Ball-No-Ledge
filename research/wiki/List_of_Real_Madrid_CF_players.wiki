@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF players | revision 2026-11-01T22:59:51Z -->
+<!-- List of Real Madrid CF players | revision 2026-11-02T12:54:00Z -->
 {{Short description|none}}
 [[File:Raul Gonzalez 10mar2007 (cropped).jpg|thumb|upright|[[Raúl González|Raúl]] is Real Madrid's all-time appearance record holder.]]
 [[File:Cristiano Ronaldo, 2012 2.JPG|thumb|upright|[[Cristiano Ronaldo]] is Real Madrid's all-time record goalscorer.]]
@@ -1695,7 +1695,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | FW || 1944–1945 || {{hs|0}}— || '''7''' || 0 || 4 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} {{ill|Rafa Verdú|es}} †
-| FW || style=background:#ffddff;" | 1949–1950 || {{hs|0}}— || '''7''' || 0 || 1 ||
+| FW || style=background:#ffddff;" | 1949–1950 || {{hs|0}}— || '''7''' || 0 || 2 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[Juan González Lorenzo|Juanito]] †
 | GK || 1953–1957 || {{hs|0}}— || '''7''' || 0 || 0 ||
