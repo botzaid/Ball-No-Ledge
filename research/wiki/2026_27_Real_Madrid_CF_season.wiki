@@ -1,4 +1,4 @@
-<!-- 2026–27 Real Madrid CF season | revision 2026-11-04T21:58:00Z -->
+<!-- 2026–27 Real Madrid CF season | revision 2026-11-06T20:14:57Z -->
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
 |season             = [[2026–27 in Spanish football|2026–27]]
@@ -397,7 +397,7 @@ On 9 July 2026, Real Madrid announced they would play against [[Deportivo de A C
 | updated=1 November 2026
 | header=Round
 | label1=Ground
-| res1=A/H/H/A/H/A/A/H/H/A/A/A/H/H/A/H/A/H/H/A/H/A/A/H/A/H/A/H/A/H/A/A/H/A/H/H/A/H
+| res1=A/H/H/A/H/A/A/H/H/A/A/A/H/H/A/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/H/A/H
 | label2=Result
 | res2=W/W/W/L/W/W/L/W/W/W/W///////////////////////////
 | label3=Position
@@ -631,7 +631,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |stadium    = [[Mestalla Stadium|Mestalla]]
 |location   = [[Valencia]]
 |attendance = 
-|referee    = 
+|referee    = Francisco José Hernández Maeso
 |result     = 
 }}
 {{footballbox collapsible
@@ -652,8 +652,8 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 }}
 {{footballbox collapsible
 |round      = 14
-|date       = 29 November 2026
-|time       = {{UTZ|--:--|1}}
+|date       = 28 November 2026
+|time       = {{UTZ|21:00|1}}
 |team1      = Real Madrid
 |score      = 
 |report     = https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-deportivo-alaves-14
@@ -667,7 +667,24 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = [[El Viejo Clásico|15]]
+|round      = 15
+|date       = 2 December 2026
+|time       = {{UTZ|19:00|1}}
+|team1      = [[Real Sociedad]]
+|score      = 
+|report     = https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-real-madrid-23
+|team2      = Real Madrid
+|goals1     = 
+|goals2     = 
+|stadium    = [[Anoeta Stadium|Anoeta]]
+|location   = [[San Sebastián]]
+|attendance = 
+|referee    = 
+|result     = 
+|note       = The match date was pushed forward due to both clubs' involvement in the [[2027 Supercopa de España]].
+}}
+{{footballbox collapsible
+|round      = [[El Viejo Clásico|16]]
 |date       = 6 December 2026
 |time       = {{UTZ|--:--|1}}
 |team1      = [[Athletic Bilbao]]
@@ -683,7 +700,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 16
+|round      = 17
 |date       = 13 December 2026
 |time       = {{UTZ|--:--|1}}
 |team1      = Real Madrid
@@ -699,7 +716,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 17
+|round      = 18
 |date       = 20 December 2026
 |time       = {{UTZ|--:--|1}}
 |team1      = [[Deportivo de A Coruña|Deportivo A Coruña]]
@@ -715,7 +732,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 18
+|round      = 19
 |date       = 3 January 2027
 |time       = {{UTZ|--:--|1}}
 |team1      = Real Madrid
@@ -731,7 +748,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 19
+|round      = 20
 |date       = 10 January 2027
 |time       = {{UTZ|--:--|1}}
 |team1      = Real Madrid
@@ -747,7 +764,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 20
+|round      = 21
 |date       = 17 January 2027
 |time       = {{UTZ|--:--|1}}
 |team1      = [[Málaga CF|Málaga]]
@@ -763,7 +780,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 21
+|round      = 22
 |date       = 24 January 2027
 |time       = {{UTZ|--:--|1}}
 |team1      = Real Madrid
@@ -779,7 +796,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |result     = 
 }}
 {{footballbox collapsible
-|round      = 22
+|round      = 23
 |date       = 31 January 2027
 |time       = {{UTZ|--:--|1}}
 |team1      = [[Rayo Vallecano]]
@@ -790,22 +807,6 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 |goals2     = 
 |stadium    = [[Vallecas Stadium|Vallecas]]
 |location   = Madrid
-|attendance = 
-|referee    = 
-|result     = 
-}}
-{{footballbox collapsible
-|round      = 23
-|date       = 7 February 2027
-|time       = {{UTZ|--:--|1}}
-|team1      = [[Real Sociedad]]
-|score      = 
-|report     = https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-real-madrid-23
-|team2      = Real Madrid
-|goals1     = 
-|goals2     = 
-|stadium    = [[Anoeta Stadium|Anoeta]]
-|location   = [[San Sebastián]]
 |attendance = 
 |referee    = 
 |result     = 
