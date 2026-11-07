@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF players | revision 2026-11-04T23:23:50Z -->
+<!-- List of Real Madrid CF players | revision 2026-11-07T14:02:05Z -->
 {{Short description|none}}
 [[File:Raul Gonzalez 10mar2007 (cropped).jpg|thumb|upright|[[Raúl González|Raúl]] is Real Madrid's all-time appearance record holder.]]
 [[File:Cristiano Ronaldo, 2012 2.JPG|thumb|upright|[[Cristiano Ronaldo]] is Real Madrid's all-time record goalscorer.]]
@@ -690,7 +690,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | DF || 1973–1977 || {{hs|0}}— || '''98''' || 8 || 13 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[Guillermo Pont]] †
-| DF || 1945–1952 || {{hs|0}}— || '''97''' || 0 || ||
+| DF || 1945–1952 || {{hs|0}}— || '''97''' || 0 || 6 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[José Araquistáin]] †
 | GK || 1961–1968 || {{hs|0}}— || '''97''' || 0 || 0 || {{ref label|Zamora|<small>Zamora</small>|e}}
@@ -765,7 +765,7 @@ As of 22 August 2026, a total of 806 players have played at least one official m
 | DF || 1931–1936 || {{hs|0}}— || '''87''' || 0 || 0 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[José Montalvo (footballer)|José Montalvo]] †
-| MF || 1947–1953 || {{hs|0}}— || '''87''' || 3 || ||
+| MF || 1947–1953 || {{hs|0}}— || '''87''' || 3 || 8 ||
 |-
 | align="left" | {{flagicon|ESP|1945}} [[José María Vidal]] †
 | MF || style=background:#ffddff;" | 1959–1963 || {{hs|0}}— || '''87''' || 3 || ||
