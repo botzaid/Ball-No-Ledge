@@ -1,4 +1,4 @@
-<!-- Lucas Vázquez | revision 2026-11-02T02:25:03Z -->
+<!-- Lucas Vázquez | revision 2026-11-08T21:16:51Z -->
 {{short description|Spanish footballer (born 1991)}}
 {{Use dmy dates|date=September 2020}}
 {{family name hatnote|Vázquez|Iglesias|lang=Spanish}}
@@ -97,7 +97,7 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 31 October 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
+{{updated|match played 5 November 2026}}<ref>{{Soccerway|access-date=25 July 2015}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -130,7 +130,7 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 |40||8||colspan="2"|—||colspan="2"|—||colspan="2"|—||40||8
 |-
 !colspan="2"|Total
-!89!!15!!0!!0!!0!!0!!3!!0!!92!!15
+!89!!15!!colspan="2"|—!!colspan="2"|—!!3!!0!!92!!15
 |-
 |valign="center"|[[RCD Espanyol|Espanyol]] (loan)
 |[[2014–15 RCD Espanyol season|2014–15]]
@@ -184,17 +184,17 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 | rowspan="3" |[[Bayer 04 Leverkusen|Bayer Leverkusen]]
 |[[2025–26 Bayer 04 Leverkusen season|2025–26]]
 |[[Bundesliga]]
-|11||1||2||0||5{{efn|name=UCL}}||0|| colspan="2" |—||17||1||
+|11||1||2||0||5{{efn|name=UCL}}||0||colspan="2"|—||17||1
 |-
 |[[2026–27 Bayer 04 Leverkusen season|2026–27]]
 |Bundesliga
-|5||0||2||2||3{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0|| colspan="2" |—||10||2
+|5||0||2||2||4{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0||colspan="2"|—||11||2
 |-
 ! colspan="2" |Total
-!16!!1!!4!!2!!8!!0!!colspan="2"|—!!27!!3
+!16!!1!!4!!2!!9!!0!!colspan="2"|—!!28!!3
 |-
 !colspan="3"|Career total
-!429!!47!!36!!11!!85!!4!!24!!0!!574!!62
+!429!!47!!36!!11!!86!!4!!24!!0!!575!!62
 |}
 {{notelist}}
 
@@ -227,6 +227,8 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 *[[UEFA Super Cup]]: [[2016 UEFA Super Cup|2016]], [[2017 UEFA Super Cup|2017]], [[2022 UEFA Super Cup|2022]],<ref>{{cite news |url=https://www.uefa.com/uefasupercup/news/0278-15d6268709ab-38bef8ec34df-1000--report-real-madrid-win-the-super-cup/ |title=Real Madrid 2–0 Eintracht Frankfurt: Five-star Madrid triumph in Helsinki |website=[[UEFA]] |publisher=Union of European Football Associations |date=10 August 2022 |access-date=11 August 2022}}</ref> [[2024 UEFA Super Cup|2024]]<ref>{{cite web|url=https://www.bbc.com/sport/football/live/c77ljv4e5z5t|title=Real Madrid 2–0 Atalanta|publisher=BBC Sport|first=Steven|last=Sutcliffe|date=14 August 2024|access-date=15 August 2024}}</ref>
 *[[FIFA Club World Cup]]: [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]],<ref>{{Cite news |last=Association |first=Press |date=2017-12-16 |title=Cristiano Ronaldo free-kick fires Real Madrid to Club World Cup glory |url=https://www.theguardian.com/football/2017/dec/16/real-madrid-gremio-club-world-cup-cristiano-ronaldo |access-date=2026-08-12 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> [[2018 FIFA Club World Cup|2018]]
 *[[FIFA Intercontinental Cup]]: [[2024 FIFA Intercontinental Cup|2024]]<ref>{{cite web|url= https://www.bbc.com/sport/football/live/c205nv1yr6pt|title=Real Madrid 3–0 Pachuca: Kylian Mbappé scores in intercontinentalscores in Intercontinental Cup final|date=18 December 2024|work=BBC Sport|accessdate=19 December 2024}}</ref>
+===Individual===
+*[[EA Sports]] La Liga Team of the Season: 2020–21<ref>{{cite web |title=FIFA 21 La Liga TOTS: Official squad release |url=https://www.ginx.tv/en/fifa-21-la-liga-tots-official-squad-release |website=GINX TV |date=7 May 2021 |access-date=8 November 2026}}</ref>
 
 ==References==
 {{reflist}}

@@ -1,4 +1,4 @@
-<!-- Casemiro | revision 2026-10-30T02:44:10Z -->
+<!-- Casemiro | revision 2026-11-08T04:05:28Z -->
 {{short description|Brazilian footballer (born 1992)}}
 {{other uses|Casimiro}}
 {{Use British English|date=June 2025}}
@@ -42,7 +42,7 @@
 | goals6 = 15
 | years7 = 2026–
 | clubs7 = [[Inter Miami CF|Inter Miami]]
-| caps7 = 14
+| caps7 = 18
 | goals7 = 3
 | national_years1 = 2009
 | national_team1 = [[Brazil national under-17 football team|Brazil U17]]
@@ -67,7 +67,7 @@
 {{Medal|W|[[2011 South American Youth Championship|2011 Peru]]|}}
 {{MedalCompetition|[[South American U-17 Championship]]}}
 {{Medal|W|[[2009 South American U-20 Championship|2009 Venezuela]]|}}
-| club_update = 03:00, 18 October 2026 (UTC)
+| club_update = 23:00, 7 November 2026 (UTC)
 | national_team_update = 22:13, 5 July 2026 (UTC)
 }}
 '''Carlos Henrique Casimiro''' (born 23 February 1992), also known [[mononym]]ously as '''Casemiro''' ({{IPA|pt-BR|kazeˈmiɾu|lang}}),<ref>{{cite news |date=4 June 2017 |title="Aonde você vai, Casemiro?" A história do segredo mais bem guardado do Real Madrid |language=pt |trans-title="Where are you going, Casemiro?" The story of Real Madrid's best kept secret |newspaper=El País |url=https://brasil.elpais.com/brasil/2017/06/04/deportes/1496603217_401643.html |access-date=17 November 2017}}</ref> is a Brazilian professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Major League Soccer]] club [[Inter Miami CF|Inter Miami]] and the [[Brazil national football team|Brazil national team]].
@@ -152,7 +152,7 @@ On 4 June 2024, it was announced that Casemiro would be investing in Spanish low
 
 ==Career statistics==
 ===Club===
-{{updated|match played 17 October 2026<ref>{{cite web |title=Casemiro Stats |url=https://www.soccerway.com/player/casemiro/Ukeq3c0b/ |website=Soccerway |access-date=13 September 2026}}</ref>}}
+{{updated|match played 7 November 2026<ref>{{cite web |title=Casemiro Stats |url=https://www.soccerway.com/player/casemiro/Ukeq3c0b/ |website=Soccerway |access-date=13 September 2026}}</ref>}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -266,10 +266,10 @@ On 4 June 2024, it was announced that Casemiro would be investing in Spanish low
 |[[Inter Miami CF|Inter Miami]]
 |[[2026 Inter Miami CF season|2026]]<ref name="Soccerway"/>
 |[[Major League Soccer|MLS]]
-|14||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4{{efn|Three appearances in [[Leagues Cup]], one appearance and one goal in [[Campeones Cup]]}}||1||18||4
+|18||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4{{efn|Three appearances in [[Leagues Cup]], one appearance and one goal in [[Campeones Cup]]}}||1||22||4
 |-
 !colspan="3"|Career total
-!451!!52!!31!!3!!50!!5!!12!!4!!115!!11!!22!!2!!681!!77
+!455!!52!!31!!3!!50!!5!!12!!4!!115!!11!!22!!2!!685!!77
 |}
 {{notelist}}
 

@@ -1,11 +1,11 @@
-<!-- Ibrahima Konaté | revision 2026-11-01T17:19:07Z -->
+<!-- Ibrahima Konaté | revision 2026-11-07T21:59:56Z -->
 {{Short description|French footballer (born 1999)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
 {{Infobox football biography
 | name = Ibrahima Konaté
 | image = Ibrahima Konate France v Senegal 16 June 2026-516 (cropped).jpg
-| caption = Konaté with [[France national football team|France]] at the [[2026 FIFA World Cup]]
+| caption = Konaté with [[France national football team|France]] in 2026<!--Please do not expand this caption per [[MOS:CAPLENGTH]]-->
 | full_name = Ibrahima Konaté
 | birth_date = {{birth date and age|1999|5|25|df=y}}
 | birth_place = [[Paris]], France
@@ -35,7 +35,7 @@
 | goals4 = 2
 | years5 = 2026–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 10
+| caps5 = 11
 | goals5 = 0
 | national_years1 = 2014–2015
 | national_team1 = [[France national under-16 football team|France U16]]
@@ -61,7 +61,7 @@
 | national_team6 = [[France national football team|France]]
 | national_caps6 = 30
 | national_goals6 = 0
-| club_update = 17:19, 1 November 2026 (UTC)
+| club_update = 21:59, 7 November 2026 (UTC)
 | national_team_update = 23:15, 18 July 2026 (UTC)
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
@@ -70,7 +70,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 }}
-'''Ibrahima Konaté''' ({{IPA|fr|ibʁaimˈa konatˈe}}; born 25 May 1999) is a French professional [[Association football|footballer]] who plays as a [[centre-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]].
+'''Ibrahima Konaté'''{{efn-ua|{{IPA|fr|ibʁaimˈa konatˈe}}}} (born 25 May 1999) is a French professional [[Association football|footballer]] who plays as a [[centre-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]].
 
 Konaté started off his professional career with [[FC Sochaux-Montbéliard|Sochaux]], and moved to [[RB Leipzig]] in 2017. After four years with the club, [[Liverpool F.C.|Liverpool]] signed him in 2021 for a fee of £36&nbsp;million. He won the [[EFL Cup]] and [[FA Cup]] in his first season, and later won the Premier League title with the club in the [[2024–25 Premier League|2024–25 season]], exiting the club as a free agent in July 2026 to join Real Madrid.
 
@@ -128,7 +128,7 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 
 ==Career statistics==
 ===Club===
-{{updated|match played 1 November 2026}}
+{{updated|match played 7 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -201,10 +201,10 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|100656|2026|name=Ibrahima Konate|access-date=17 July 2026}}</ref>
 |[[La Liga]]
-|10||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||12||0
+|11||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||13||0
 |-
 !colspan="3"|Career total
-!215!!6!!24!!1!!14!!0!!58!!6!!1!!0!!312!!13
+!216!!6!!24!!1!!14!!0!!58!!6!!1!!0!!313!!13
 |}
 
 {{notelist}}
@@ -245,7 +245,8 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 '''France'''
 * [[FIFA World Cup]] runner-up: [[2022 FIFA World Cup|2022]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63932622 |title=Argentina 3–3 France |first=Phil |last=McNulty |website=BBC Sport |date=18 December 2022 |access-date=18 December 2022}}</ref>
 * [[UEFA Nations League]] third place: [[2024–25 UEFA Nations League|2024–25]]<ref>{{cite web|date=8 June 2025|title=Germany 0–2 France report: Kylian Mbappé scores landmark goal as Les Bleus clinch Nations League third place|url=https://www.uefa.com/uefanationsleague/news/029a-1df3af7eedc9-c3b6e51cf3f1-1000--germany-0-2-france-report-kylian-mbappe-scores-landmark-g/|access-date=8 June 2025|publisher=[[UEFA]]}}</ref>
-
+==Notes==
+{{notelist-ua}}
 ==References==
 {{reflist}}
 

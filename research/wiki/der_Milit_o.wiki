@@ -1,4 +1,4 @@
-<!-- Éder Militão | revision 2026-10-30T05:26:05Z -->
+<!-- Éder Militão | revision 2026-11-04T19:42:23Z -->
 {{short description|Brazilian footballer (born 1998)}}
 {{Portuguese name|Militão|Pinheiro}}
 {{Use dmy dates|date=July 2024}}
@@ -96,7 +96,7 @@ On 7 November 2022, Militão was named in the squad for the [[2022 FIFA World Cu
 
 ==Career statistics==
 ===Club===
-{{updated|match played 18 October 2026}}<ref>{{Soccerway|access-date=16 September 2025}}</ref><ref>{{cite web|url=https://www.sofascore.com/player/eder-militao/822519|title=Éder Militão|publisher=SofaScore|access-date=16 September 2025}}</ref>
+{{updated|match played 4 November 2026}}<ref>{{Soccerway|access-date=16 September 2025}}</ref><ref>{{cite web|url=https://www.sofascore.com/player/eder-militao/822519|title=Éder Militão|publisher=SofaScore|access-date=16 September 2025}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -160,13 +160,13 @@ On 7 November 2022, Militão was named in the squad for the [[2022 FIFA World Cu
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|1||0||colspan="2"|—||0||0||colspan="2"|—||0||0||0||0||1||0
+|1||0||colspan="2"|—||0||0||colspan="2"|—||1{{efn|name=UCL}}|||0||0||0||2||0
 |-
 !colspan="2"|Total
-!135||10||0||0||11||3||0||0||42||1||7||0||195||14
+!135||10||0||0||11||3||0||0||43||1||7||0||196||14
 |-
 !colspan="3"|Career total
-!199!!16!!14!!2!!23!!4!!3!!0!!53!!3!!7!!0!!299!!23
+!199!!16!!14!!2!!23!!4!!3!!0!!54!!3!!7!!0!!300!!23
 |}
 {{notelist}}
 

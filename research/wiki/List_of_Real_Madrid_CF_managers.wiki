@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF managers | revision 2026-09-16T21:28:23Z -->
+<!-- List of Real Madrid CF managers | revision 2026-11-09T10:16:22Z -->
 {{Short description|none}} 
 {{Use dmy dates|date=December 2023}}
 [[File:Fenerbahce manager Jose Mourinho and Ali Koç, June 2024 (cropped).jpg|thumb|300x300px|[[José Mourinho]] is the current head coach of Real Madrid]]
@@ -577,7 +577,7 @@ The complete list of Real Madrid managers is shown in the following table:<ref n
 |align=center|{{flagicon|POR}}
 |align=left|11 June 2026
 |align=left|''Present''
-{{WDL|7|6|0|1|for=19|against=7|align=right}}
+{{WDL|16|14|0|2|for=44|against=17|align=right}}
 |align=left|
 |
 |-

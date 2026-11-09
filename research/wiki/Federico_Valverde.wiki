@@ -1,4 +1,4 @@
-<!-- Federico Valverde | revision 2026-10-30T02:22:38Z -->
+<!-- Federico Valverde | revision 2026-11-07T21:58:18Z -->
 {{short description|Uruguayan footballer (born 1998)}}
 {{pp-blp|small=yes}} 
 {{Use dmy dates|date=July 2024}}
@@ -28,8 +28,8 @@
 | goals2 = 3
 | years3 = 2017–
 | clubs3 = [[Real Madrid CF|Real Madrid]]
-| caps3 = 254
-| goals3 = 25
+| caps3 = 255
+| goals3 = 26
 | years4 = 2017–2018
 | clubs4 = → [[Deportivo La Coruña]] (loan)
 | caps4 = 24
@@ -58,7 +58,7 @@
 {{MedalCountry|{{fb|URU}}}}
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|3rd|[[2024 Copa América|2024 United States]]|}}
-| club_update = 22:03, 25 October 2026 (UTC)
+| club_update = 21:58, 7 November 2026 (UTC)
 | national_team_update = 02:15, 27 June 2026 (UTC)
 }}
 '''Federico Santiago Valverde Dipetta''' ({{IPA|es|feðeˈɾiko βalˈβeɾðe}};{{refn|group=note|In isolation, ''Valverde'' is pronounced {{IPA|es|balˈβeɾðe|}}.}} born 22 July 1998) is a Uruguayan professional [[association football|footballer]] who plays as a [[central midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]], which he [[Captain (association football)|captains]], and the [[Uruguay national football team|Uruguay national team]]. Considered one of the best midfielders in the world, he is known for his versatility, work rate, pace and vigorous shooting.<ref>{{cite web |date=20 March 2026 |title=Ballon d'Or 2026 Power Rankings: Erling Haaland's hopes are slipping away while Harry Kane continues to put his foot down |url=https://www.goal.com/en-in/lists/ballon-dor-2026-power-rankings/blte900f51820beae01 |access-date=27 March 2026 |website=Goal.com}}</ref><ref>{{cite web |last=Swan |first=Rob |last2=Malyan |first2=Christy |last3=Murray |first3=Will |last4=Hepburn |first4=Daniel |date=10 November 2023 |title=The 30 best footballers in the world right now - ranked in order |url=https://www.givemesport.com/best-football-players-in-the-world/ |access-date=27 March 2026 |website=GiveMeSport}}</ref> Valverde mainly plays as a central midfielder but can also be deployed as a [[right-back]].<ref>{{cite news |last=Cortegana |first=Mario |date=12 March 2025 |title=Federico Valverde is Real Madrid's jack of all trades… who literally dreamed of playing for them |url=https://www.nytimes.com/athletic/6194831/2025/03/12/federico-valverde-real-madrid-right-back/ |access-date=7 July 2025 |work=The New York Times |issn=0362-4331}}</ref><ref>{{cite web |date=29 June 2022 |title=Federico Valverde: The tale of the boy who didn't want to run |url=https://www.fifa.com/fifaplus/en/articles/the-tale-of-the-boy-who-didnt-want-to-run |access-date=21 September 2023 |publisher=FIFA}}</ref>
@@ -134,7 +134,7 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}<ref>{{Soccerway|access-date=14 March 2026}}</ref>
+{{updated|match played 7 November 2026}}<ref>{{Soccerway|access-date=14 March 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -198,13 +198,13 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|10||0||0||0||3{{efn|name=UCL}}||1||0||0||13||1
+|11||1||0||0||4{{efn|name=UCL}}||2||0||0||15||3
 |-
 !colspan="2"|Total
-!254||25||26||2||82||7||24||8||386||42
+!255||26||26||2||83||8||24||8||388||44
 |-
 !colspan="3"|Career total
-!320!!28!!26!!2!!83!!7!!24!!8!!453!!45
+!321!!29!!26!!2!!84!!8!!24!!8!!455!!47
 |}
 {{noteslist}}
 

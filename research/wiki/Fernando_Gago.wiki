@@ -1,4 +1,4 @@
-<!-- Fernando Gago | revision 2026-10-29T06:14:45Z -->
+<!-- Fernando Gago | revision 2026-11-06T20:17:20Z -->
 {{short description|Argentine footballer and manager}}
 {{Use dmy dates|date=October 2026}}
 {{Infobox football biography
@@ -332,7 +332,7 @@ On 19 June 2026, Gago was rushed to [[Clínica Alemana de Santiago]] with a [[my
 |}
 
 ==Managerial statistics==
-{{updated|7 October 2026}}
+{{updated|5 November 2026}}
 
 {| class="wikitable" tyle="text-align: center"
 |+ Managerial record by team and tenure
@@ -384,10 +384,10 @@ On 19 June 2026, Gago was rushed to [[Clínica Alemana de Santiago]] with a [[my
 |rowspan="1|{{flagicon|Chile}}
 |align=center|20 March 2026
 |align=center|present
-{{WDL|27|15|4|8|for=45|against=25|diff=yes}}
+{{WDL|31|18|4|9|for=59|against=27|diff=yes}}
 |-
 !colspan="4"|Total
-{{WDLtot|250|114|60|76|for=372|against=291|diff=yes}}
+{{WDLtot|254|117|60|77|for=386|against=293|diff=yes}}
 |}
 
 ==Honours==

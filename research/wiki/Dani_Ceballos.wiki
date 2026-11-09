@@ -1,4 +1,4 @@
-<!-- Dani Ceballos | revision 2026-10-31T19:57:22Z -->
+<!-- Dani Ceballos | revision 2026-11-08T15:03:27Z -->
 {{short description|Spanish footballer (born 1996)}}
 {{Use British English|date=September 2020}}
 {{Use dmy dates|date=July 2024}}
@@ -37,7 +37,7 @@
 | goals4 = 0
 | years5 = 2026–
 | clubs5 = [[Real Betis|Betis]]
-| caps5 = 7
+| caps5 = 8
 | goals5 = 0
 | national_years1 = 2014–2015
 | national_team1 = [[Spain national under-19 football team|Spain U19]]
@@ -55,7 +55,7 @@
 | national_team4 = [[Spain national football team|Spain]]
 | national_caps4 = 13
 | national_goals4 = 1
-| club_update = 18:46, 31 October 2026 (UTC)
+| club_update = 18:46, 8 November 2026 (UTC)
 | national_team_update = 
 | medal_templates = {{MedalSport|Men's [[association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
@@ -122,7 +122,7 @@ Since 2023, Ceballos has been in a relationship with Luna Serrat, granddaughter 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 31 October 2026}}
+{{updated|match played 8 November 2026}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -209,10 +209,10 @@ Since 2023, Ceballos has been in a relationship with Luna Serrat, granddaughter 
 |Real Betis
 |[[2026–27 Real Betis season|2026–27]]<ref>{{soccerbase season|75577|2026|access-date=2 September 2026}}</ref>
 |La Liga
-|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—||9||0
+|8||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||0||colspan="2"|—||11||0
 |-
 !colspan="3"|Career total
-!293||12||37||2||5||0||55||2||20||0||410||16
+!294||12||37||2||5||0||56||2||20||0||412||16
 |}
 {{notelist}}
 

@@ -1,24 +1,24 @@
-<!-- James Rodríguez | revision 2026-10-29T19:57:20Z -->
+<!-- James Rodríguez | revision 2026-11-07T16:04:52Z -->
 {{Short description|Colombian footballer (born 1991)}}
 {{other people}}
 {{protection padlock|small=yes}}
 {{family name hatnote|Rodríguez|Rubio|lang=Hispanic American}}
-{{Use dmy dates|date=September 2021}}
+{{Use dmy dates|date=November 2026}}
 {{Infobox football biography
 | name = James Rodríguez
 | image = Argentina - Colombia 2022 (28) (cropped 2).jpg
 | caption = Rodríguez with [[Colombia national football team|Colombia]] in 2022
-| fullname = James David Rodríguez Rubio<ref name="FIFA">{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Colombia |publisher=FIFA |page=5 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
+| full_name = James David Rodríguez Rubio<ref name="FIFA">{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Colombia |publisher=FIFA |page=5 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
 | birth_date = {{birth date and age|1991|7|12|df=y}}<ref name="PremProfile">{{cite web|url=https://www.premierleague.com/players/11300/James-Rodr%C3%ADguez/overview|title=James Rodríguez: Overview|publisher=Premier League|access-date=29 June 2022|archive-date=24 December 2021|archive-url=https://web.archive.org/web/20211224182356/https://www.premierleague.com/players/11300/James-Rodr%C3%ADguez/overview}}</ref>
 | birth_place = [[Cúcuta]], Norte de Santander, Colombia
 | height = 1.81 m<ref name="FCBProfile">{{cite web|url=https://fcbayern.com/en/teams/professionals/james-rodriguez|title=James Rodríguez|publisher=FC Bayern Munich|access-date=29 June 2022|archive-url=https://web.archive.org/web/20190411202207/https://fcbayern.com/en/teams/professionals/james-rodriguez|archive-date=11 April 2019}}</ref>
 | position = [[Attacking midfielder]], [[right winger]]
-| currentclub = [[Atlético Nacional]]
-| clubnumber = 23
-| youthyears1 = 2001–2005
-| youthclubs1 = Academia Tolimense de Fútbol
-| youthyears2 = 2005–2006
-| youthclubs2 = [[Envigado F.C.|Envigado]]
+| current_club = [[Atlético Nacional]]
+| club_number = 23
+| youth_years1 = 2001–2005
+| youth_clubs1 = Academia Tolimense de Fútbol
+| youth_years2 = 2005–2006
+| youth_clubs2 = [[Envigado F.C.|Envigado]]
 | years1 = 2006–2008
 | clubs1 = [[Envigado F.C.|Envigado]]
 | caps1 = 30
@@ -73,26 +73,26 @@
 | goals13 = 0
 | years14 = 2026–
 | clubs14 = [[Atlético Nacional]]
-| caps14 = 7
+| caps14 = 8
 | goals14 = 0
-| nationalyears1 = 2007
-| nationalteam1 = [[Colombia national under-17 football team|Colombia U17]]
-| nationalcaps1 = 11
-| nationalgoals1 = 3
-| nationalyears2 = 2011
-| nationalteam2 = [[Colombia national under-20 football team|Colombia U20]]
-| nationalcaps2 = 5
-| nationalgoals2 = 3
-| nationalyears3 = 2011–2026
-| nationalteam3 = [[Colombia national football team|Colombia]]
-| nationalcaps3 = 131
-| nationalgoals3 = 31
-| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+| national_years1 = 2007
+| national_team1 = [[Colombia national under-17 football team|Colombia U17]]
+| national_caps1 = 11
+| national_goals1 = 3
+| national_years2 = 2011
+| national_team2 = [[Colombia national under-20 football team|Colombia U20]]
+| national_caps2 = 5
+| national_goals2 = 3
+| national_years3 = 2011–2026
+| national_team3 = [[Colombia national football team|Colombia]]
+| national_caps3 = 131
+| national_goals3 = 31
+| medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|COL}}}}
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|RU|[[2024 Copa América|2024 United States]]|}}
 {{Medal|3rd|[[Copa América Centenario|2016 United States]]|}}
-| club-update = 22:37, 25 October 2026 (UTC)
+| club_update = 22:37, 29 October 2026 (UTC)
 }}
 
 '''James David Rodríguez Rubio''' (born 12 July 1991) is a Colombian professional [[Association football|footballer]] who plays as an [[attacking midfielder]] for [[Liga DIMAYOR|Categoría Primera A]] club [[Atlético Nacional]].<ref>{{cite web|url=https://bolavip.com/mundial/en-pleno-mundial-con-colombia-revelan-el-posible-nuevo-club-de-james-rodriguez|title=En pleno Mundial con Colombia revelan el posible nuevo club de James Rodríguez|access-date=11 July 2026|date=7 July 2026|website=Bolavip|language=es}}</ref><ref>{{Cite web |last=Ascencio |first=Jose Orlando |date=2026-09-10 |title=Es oficial: James Rodríguez, refuerzo de lujo para Atlético Nacional, vuelve a Colombia luego de 19 años |url=https://www.eltiempo.com/deportes/futbol-colombiano/es-oficial-james-rodriguez-refuerzo-de-lujo-para-atletico-nacional-vuelve-a-colombia-luego-de-19-anos-3585232 |access-date=2026-09-11 |website=El Tiempo |language=spanish}}</ref> From 2009 to 2019, various performance analyses and statistical models in European football positioned Rodríguez as the best attacking midfielder in the world, and he is widely considered one of the greatest players in Colombian history.<ref name="bundesliga" /><ref name="james_el_mejor">{{cite web |date=7 May 2017 |title=James, el mejor centrocampista de Europa: nadie marca o asiste tanto |url=https://okdiario.com/deportes/james-mejor-centrocampista-europa-238888 |access-date=5 July 2026 |website=OkDiario |language=es}}</ref><ref name="james_es_el">{{cite web |date=21 May 2015 |title=James es el mejor volante ofensivo de Europa según científicos |url=https://www.diariolasamericas.com/deportes/james-es-el-mejor-volante-ofensivo-europa-segun-cientificos-n3114903 |access-date=5 July 2026 |website=Diario Las Américas |language=es}}</ref><ref>{{cite web|url=https://www.marca.com/futbol/copa-america/2024/07/11/668f1dac268e3e531b8b456c.html|title=James, esa pierna izquierda era para haber ganado un Balón de Oro|access-date=11 July 2024|date=11 July 2024|website=Marca|language=es}}</ref> 
@@ -298,7 +298,7 @@ During his early days playing in South America, Rodríguez was approached by [[A
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 October 2026}}
+{{updated|match played 29 October 2026}}
 
 {| class="wikitable" Style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -449,10 +449,10 @@ During his early days playing in South America, Rodríguez was approached by [[A
 |[[Atlético Nacional]]
 |[[2026 Liga DIMAYOR|2026]]
 |Categoría Primera A
-|7||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||0
+|8||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
 |-
 !colspan="3"|Career total
-!423!!111!!41!!10!!10!!1!!76!!11!!15!!2!!564!!136
+!424!!111!!41!!10!!10!!1!!76!!11!!15!!2!!565!!136
 |}
 {{notelist}}
 

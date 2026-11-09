@@ -1,4 +1,4 @@
-<!-- 2012–13 Real Madrid CF season | revision 2026-10-03T04:59:02Z -->
+<!-- 2012–13 Real Madrid CF season | revision 2026-11-08T23:03:13Z -->
 {{Short description|109th season in existence of Real Madrid CF}}
 {{Use dmy dates|date=June 2021}}
 {{Infobox football club season
@@ -516,7 +516,7 @@ Sources: Real Oviedo, Benfica, LA Galaxy, Santos Laguna, Milan, Celtic, Millonar
 |goals2=[[Sofiane Feghouli|Feghouli]] {{yel|31}}<br />[[Jonas Gonçalves Oliveira|Jonas]] {{goal|42}}<br />[[Víctor Ruiz (Spanish footballer)|Ruiz]] {{yel|50}}<br />[[João Pereira (footballer, born 1984)|Pereira]] {{yel|84}}<br />[[Pablo Piatti|Piatti]] {{yel|87}}
 |location=[[Madrid]]
 |stadium=[[Santiago Bernabéu Stadium|Santiago Bernabéu]]
-|attendance=78,000<ref>{{cite web |title=Real Madrid vs. Valencia 1 – 1 |url=https://int.soccerway.com/matches/2012/08/19/spain/primera-division/real-madrid-club-de-futbol/valencia-club-de-futbol/1322543/ |publisher=Soccerway |date=19 August 2012 |access-date=19 August 2012 }}</ref>
+|attendance=78,000<ref>{{cite web |title=Real Madrid vs. Valencia 1 – 1 |url=https://int.soccerway.com/matches/2012/08/19/spain/primera-division/real-madrid-club-de-futbol/valencia-club-de-futbol/1322543/ |archive-url=https://web.archive.org/web/20230407052759/https://int.soccerway.com/matches/2012/08/19/spain/primera-division/real-madrid-club-de-futbol/valencia-club-de-futbol/1322543/ |url-status=dead |archive-date=7 April 2023 |publisher=Soccerway |date=19 August 2012 |access-date=19 August 2012 }}</ref>
 |referee=[[:es:Carlos Delgado Ferreiro|Carlos Delgado Ferreiro]] ([[Basque Country Football Federation|Basque Country]])
 |result=D
 |motm=[[Ángel Di María|Di María]], [[Gonzalo Higuaín|Higuaín]]
@@ -533,7 +533,7 @@ Sources: Real Oviedo, Benfica, LA Galaxy, Santos Laguna, Milan, Celtic, Millonar
 |goals2=[[Gonzalo Higuaín|Higuaín]] {{goal|27}}<br />[[Raúl Albiol|Albiol]] {{yel|75}}<br />[[Fábio Coentrão|Coentrão]] {{sent off|0|90+2}}<ref name="Acta del Partido celebrado el 26 de agosto de 2012, en Getafe">{{cite web |title=Acta del Partido celebrado el 26 de agosto de 2012, en Getafe |url=http://actas.rfef.es/actas/RFEF_CmpActa2?cod_primaria=1000144&CodActa=17392 |publisher=[[Royal Spanish Football Federation|RFEF.es]] |date=26 August 2012 |access-date=26 August 2012 |language=es }}{{Dead link|date=August 2026 |bot=InternetArchiveBot }}</ref>
 |location=[[Getafe]]
 |stadium=[[Coliseum Alfonso Pérez]]
-|attendance=13,000<ref>{{cite web |title=Getafe vs. Real Madrid 2 – 1 |url=https://int.soccerway.com/matches/2012/08/26/spain/primera-division/getafe-club-de-futbol/real-madrid-club-de-futbol/1322962/ |publisher=Soccerway |date=26 August 2012 |access-date=26 August 2012 }}</ref>
+|attendance=13,000<ref>{{cite web |title=Getafe vs. Real Madrid 2 – 1 |url=https://int.soccerway.com/matches/2012/08/26/spain/primera-division/getafe-club-de-futbol/real-madrid-club-de-futbol/1322962/ |archive-url=https://web.archive.org/web/20130313072714/http://int.soccerway.com/matches/2012/08/26/spain/primera-division/getafe-club-de-futbol/real-madrid-club-de-futbol/1322962/ |url-status=dead |archive-date=13 March 2013 |publisher=Soccerway |date=26 August 2012 |access-date=26 August 2012 }}</ref>
 |referee=[[:es:Miguel Ángel Pérez Lasa|Miguel Ángel Pérez Lasa]] ([[Basque Country Football Federation|Basque Country]])
 |result=L
 |motm=

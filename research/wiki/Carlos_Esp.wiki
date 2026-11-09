@@ -1,4 +1,4 @@
-<!-- Carlos Espí | revision 2026-10-26T03:22:31Z -->
+<!-- Carlos Espí | revision 2026-11-07T22:03:33Z -->
 {{short description|Spanish footballer (born 2005)}}
 {{family name hatnote|Espí|Escrihuela|lang=Spanish}}
 {{Use dmy dates|date=September 2024}}
@@ -32,7 +32,7 @@
 | goals3 = 18
 | years4 = 2026–
 | clubs4 = [[Real Madrid CF|Real Madrid]]
-| caps4 = 6
+| caps4 = 7
 | goals4 = 2
 | national_years1 = 2024
 | national_team1 = [[Spain national under-19 football team|Spain U19]]
@@ -46,7 +46,7 @@
 | national_years3 = 2026–
 | national_caps3 = 2
 | national_goals3 = 5
-| club_update = 22:06, 25 October 2026 (UTC)
+| club_update = 22:03, 7 November 2026 (UTC)
 | national_team_update = 06:56, 2 October 2026 (UTC)
 }}
 '''Carlos Espí Escrihuela''' (born 24 July 2005) is a Spanish professional [[association football|footballer]] who plays as a [[striker (association football)|striker]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]].
@@ -77,7 +77,7 @@ On 30 July 2026, Espí signed for La Liga club [[Real Madrid CF|Real Madrid]] on
 On 13 February 2024, Espí was called up to the [[Spain national under-19 football team|Spain national under-19 team]] for two friendlies against [[Norway national under-19 football team|Norway]].<ref>{{cite web|url=https://www.levanteud.com/en/news/carlos-espi-and-alvaro-moreno-make-their-debut-in-the-spanish-u-19-national-team-call-up|title=Carlos Espí and Álvaro Moreno Make Their Debut in the Spanish U-19 National Team Call-Up|publisher=Levante UD|date=13 February 2024|accessdate=22 February 2024}}</ref> He featured in both matches, scoring twice in the first one.<ref>{{cite web|url=https://www.levanteud.com/noticias/buen-debut-de-carlos-espi-y-alvaro-moreno-con-la-seleccion-espanola-sub-19|title=Buen debut de Carlos Espí y Álvaro Moreno con la Selección española Sub-19|trans-title=Good debut of Carlos Espí and Álvaro Moreno with the Spain national under-19 team|publisher=Levante UD|language=es|date=22 February 2024|accessdate=22 February 2024}}</ref>
 
 ==Career statistics==
-{{updated|match played 25 October 2026}}<ref name="JMSW">{{Soccerway|new_id=espi-carlos/WURwLTen|access-date=8 May 2026}}</ref><ref>{{LaPreferente|339246}}</ref>
+{{updated|match played 7 November 2026}}<ref name="JMSW">{{Soccerway|new_id=espi-carlos/WURwLTen|access-date=8 May 2026}}</ref><ref>{{LaPreferente|339246}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -120,10 +120,10 @@ On 13 February 2024, Espí was called up to the [[Spain national under-19 footba
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|6||2||0||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||9||3
+|7||2||0||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||11||3
 |-
 !colspan="3"|Career total
-!85!!24!!3!!2!!3!!1!!0!!0!!91!!27
+!86!!24!!3!!2!!4!!1!!0!!0!!93!!27
 |}
 {{notelist}}
 

@@ -1,4 +1,4 @@
-<!-- Mariano Díaz | revision 2026-10-15T10:46:37Z -->
+<!-- Mariano Díaz | revision 2026-11-08T06:27:10Z -->
 {{Short description|Association football player (born 1993)}}
 {{other people}}
 {{Use dmy dates|date=February 2025}}
@@ -13,18 +13,18 @@
 | birth_place = [[Premià de Mar]], Spain
 | height = 1.80 m<ref>{{cite web |url=https://www.realmadrid.com/en/football/squad/mariano-diaz|title=Mariano Díaz |publisher=Real Madrid CF |access-date=23 March 2019}}</ref>
 | position = [[Forward (association football)|Forward]]
-| currentclub = [[Deportivo Alavés|Alavés]]
-| clubnumber = 9
-| youthyears1 = 2002–2006
-| youthclubs1 = [[RCD Espanyol Cantera|Espanyol]]
-| youthyears2 = 2006–2008
-| youthclubs2 = [[CE Premià|Premià]]
-| youthyears3 = 2008–2009
-| youthclubs3 = Sánchez Llibre
-| youthyears4 = 2009–2011
-| youthclubs4 = [[CF Badalona|Badalona]]
-| youthyears5 = 2011–2012
-| youthclubs5 = [[Real Madrid CF (youth)|Real Madrid]]
+| current_club = [[Deportivo Alavés|Alavés]]
+| club_number = 9
+| youth_years1 = 2002–2006
+| youth_clubs1 = [[RCD Espanyol Cantera|Espanyol]]
+| youth_years2 = 2006–2008
+| youth_clubs2 = [[CE Premià|Premià]]
+| youth_years3 = 2008–2009
+| youth_clubs3 = Sánchez Llibre
+| youth_years4 = 2009–2011
+| youth_clubs4 = [[CF Badalona|Badalona]]
+| youth_years5 = 2011–2012
+| youth_clubs5 = [[Real Madrid CF (youth)|Real Madrid]]
 | years1 = 2011
 | clubs1 = [[CF Badalona|Badalona]]
 | caps1 = 3
@@ -55,14 +55,14 @@
 | goals7 = 0
 | years8 = 2025–
 | clubs8 = [[Deportivo Alavés|Alavés]]
-| caps8 = 18
-| goals8 = 3
-| nationalyears1 = 2013–
-| nationalteam1 = [[Dominican Republic national football team|Dominican Republic]]
-| nationalcaps1 = 7
-| nationalgoals1 = 5
-| club-update = 13 October 2026
-| nationalteam-update = 1 October 2026
+| caps8 = 21
+| goals8 = 4
+| national_years1 = 2013–
+| national_team1 = [[Dominican Republic national football team|Dominican Republic]]
+| national_caps1 = 7
+| national_goals1 = 5
+| club_update = 4 November 2026
+| national_team_update = 1 October 2026
 }}
 
 '''Mariano Díaz''' '''Mejía''' (Spanish pronunciation: [[Help:IPA/Spanish|[maˈɾjano ˈði.aθ meˈxi.a]]]; born 1 August 1993), better known as '''Mariano''', is a professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{Spanish football updater|Alavés}} club [[Deportivo Alavés|Alavés]]. Born in Spain, he plays for the [[Dominican Republic national football team|Dominican Republic national team]].
@@ -103,7 +103,7 @@ Mariano is eligible for the [[Dominican Republic national football team|Dominica
 
 ==Career statistics==
 ===Club===
-{{updated|match played 19 September 2026}}<ref name="soccerway">{{Soccerway|206423}}</ref>
+{{updated|match played 19 September 2026}}<ref name="soccerway">{{Soccerway|new_id=diaz-mariano/OQ6UIbu1|id=206423}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -203,13 +203,13 @@ Mariano is eligible for the [[Dominican Republic national football team|Dominica
 |-
 |[[2026–27 Deportivo Alavés season|2026–27]]
 |La Liga
-|8||3||0||0||colspan="2"|—||colspan="2"|—||8||3
+|11||4||0||0||colspan="2"|—||colspan="2"|—||11||4
 |-
 !colspan="2"|Total
-!18!!3!!2!!3!!colspan="2"|—!!colspan="2"|—!!20!!6
+!21!!4!!2!!3!!colspan="2"|—!!colspan="2"|—!!23!!7
 |-
 !colspan="3"|Career total
-!217!!78!!15!!9!!24!!3!!6!!2!!262!!92
+!220!!79!!15!!9!!24!!3!!6!!2!!265!!93
 |}
 {{notelist}}
 
@@ -272,7 +272,7 @@ Mariano is eligible for the [[Dominican Republic national football team|Dominica
 * [https://www.realmadrid.com/en/football/squad/mariano-diaz Profile] on Real Madrid official website
 * {{BDFutbol}}
 * {{Futbolme|19618}}
-* {{Soccerway}}
+* {{Soccerway|new_id=diaz-mariano/OQ6UIbu1}}
 * {{LFP Ligue 1|mariano-diaz-mejia}}
 
 {{Deportivo Alavés squad}}

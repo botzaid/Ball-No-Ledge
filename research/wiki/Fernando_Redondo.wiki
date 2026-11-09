@@ -1,4 +1,4 @@
-<!-- Fernando Redondo | revision 2026-10-22T04:13:39Z -->
+<!-- Fernando Redondo | revision 2026-11-03T02:24:17Z -->
 {{Short description|Argentine footballer (born 1969)}}
 {{about|the Argentine international footballer|other people}}
 {{family name hatnote|Redondo|Neri|lang=Spanish}}
@@ -281,7 +281,7 @@ An avid reader, Redondo counted [[Jorge Luis Borges]] and [[Gabriel García Már
 * {{FIFA player|76113}}
 * [https://web.archive.org/web/20060705202255/http://www.superfutbol.com.ar/jugadores/ArgentinaRedondo.htm SuperFutbol biography] {{in lang|es}}
 * [https://web.archive.org/web/20071020025222/http://futbolfactory.futbolweb.net/index.php?ff=historicos&f2=00001&idjugador=308 Futbol Factory biography] {{in lang|es}}
-* {{leqstat|id=3990}}
+* {{L'Équipe|new_id=237894|id=3990}}
 
 {{Navboxes
 | title = Argentina squads

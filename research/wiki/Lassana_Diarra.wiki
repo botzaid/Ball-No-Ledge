@@ -1,4 +1,4 @@
-<!-- Lassana Diarra | revision 2026-10-22T05:09:36Z -->
+<!-- Lassana Diarra | revision 2026-11-03T07:30:23Z -->
 {{short description|French footballer (born 1985)}}
 {{distinguish|Lassana Diarra (Malian footballer)}}
 {{Use dmy dates|date=December 2024}}
@@ -178,192 +178,132 @@ Diarra grew up supporting [[Olympique de Marseille|Marseille]].<ref name=Talents
 
 == Career statistics ==
 ===Club===
-:Source:<ref name="sway" /><ref>{{Soccerbase|41527|name=Lassana Diarra|access-date=3 November 2014}}</ref>
-
 {| class="wikitable" style="text-align: center;"
-|+ Appearances and goals by club, season and competition
+|+ Appearances and goals by club, season and competition<ref name="sway" /><ref>{{Soccerbase|41527|name=Lassana Diarra|access-date=3 November 2014}}</ref>
 |-
 !rowspan="2"|Club
 !rowspan="2"|Season
-! colspan="3" |League
-! colspan="2" |National cup
-! colspan="2" |League cup
-! colspan="2" |Continental
-! colspan="2" |Other
-! colspan="2" |Total
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coupe de France]], [[FA Cup]], [[Copa del Rey]], [[Russian Cup (football)|Russian Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup|Football League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
 |-
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
 |[[Le Havre AC|Le Havre]]
-|[[2004–05 Ligue 2|2004–05]]{{citation needed|date=December 2024}}
+|[[2004–05 Ligue 2|2004–05]]<ref>{{WorldFootball.net|pe12769}}</ref>
 |[[Ligue 2]]
-|29||0||1||0
-|1
-|0|| colspan="2" |—|| colspan="2" |—||31||0
+|29||0||1||0||1||0||colspan="2"|—||colspan="2"|—||31||0
 |-
-| rowspan="4" |[[Chelsea F.C.|Chelsea]]
+|rowspan="4" |[[Chelsea F.C.|Chelsea]]
 |[[2005–06 Chelsea F.C. season|2005–06]]
 |[[Premier League]] 
-|3||0||2||0
-|0
-|0||2||0||0
-|0||7||0
+|3||0||2||0||0||0||2{{efn|Appearance(s) in [[UEFA Champions League]]|name=UCL}}||0||0||0||7||0
 |-
 |[[2006–07 Chelsea F.C. season|2006–07]]
 |Premier League
-|10||0||4||0
-|3
-|0||5||0||1
-|0||23||0
+|10||0||4||0||3||0||5{{efn|name=UCL}}||0||1{{efn|Appearance in [[FA Community Shield]]|name=COM}}||0||23||0
 |-
 |[[2007–08 Chelsea F.C. season|2007–08]]
 |Premier League
-|0||0||0||0
-|0
-|0||0
-|0||1
-|0||1||0
+|0||0||0||0||0||0||0||0||1{{efn|name=COM}}||0||1||0
 |-
 ! colspan="2" |Total 
-!13!!0!!6!!0
-!3
-!0!!7!!0!!2!!0!!31!!0
+!13!!0!!6!!0!!3!!0!!7!!0!!2!!0!!31!!0
 |-
 |[[Arsenal F.C.|Arsenal]]
 |[[2007–08 Arsenal F.C. season|2007–08]]
 |Premier League 
-|7||0||0||0
-|3
-|0||3||0|| colspan="2" |—||13||0
+|7||0||0||0||3||0||3{{efn|name=UCL}}||0||colspan="2"|—||13||0
 |-
-| rowspan="3" |[[Portsmouth F.C.|Portsmouth]]
+|rowspan="3"|[[Portsmouth F.C.|Portsmouth]]
 |[[2007–08 Portsmouth F.C. season|2007–08]]
 |Premier League 
-|12||1||5||1
-|0
-|0|| colspan="2" |—|| colspan="2" |—||17||2
+|12||1||5||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||2
 |-
 |[[2008–09 Portsmouth F.C. season|2008–09]]
 |Premier League
-|12||0||0||0
-|0
-|0||2
-|1||1||0||15||1
+|12||0||0||0||0||0||2{{efn|Appearances in [[UEFA Europa League|UEFA Cup]]}}||1||1{{efn|name=COM}}||0||15||1
 |-
 ! colspan="2" |Total
-!24!!1!!5!!1
-!0
-!0!!2!!1!!1!!0!!32!!3
+!24!!1!!5!!1!!0!!0!!2!!1!!1!!0!!32!!3
 |-
-| rowspan="6" |[[Real Madrid CF|Real Madrid]]
+|rowspan="6"|[[Real Madrid CF|Real Madrid]]
 |[[2008–09 Real Madrid CF season|2008–09]]
 |[[La Liga]] 
-|19||0||0||0
-| colspan="2" |—||2||0||0
-|0||21||0
+|19||0||colspan="2"|—||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—||21||0
 |-
 |[[2009–10 Real Madrid CF season|2009–10]]
 |La Liga
-|23||1||1||0
-| colspan="2" |—||6||0|| colspan="2" |—||30||1
+|23||1||1||0||colspan="2"|—||6{{efn|name=UCL}}||0||colspan="2"|—||30||1
 |-
 |[[2010–11 Real Madrid CF season|2010–11]]
 |La Liga
-|26||0||3||0
-| colspan="2" |—||10||0|| colspan="2" |—||39||0
+|26||0||3||0||colspan="2"|—||10{{efn|name=UCL}}||0||colspan="2"|—||39||0
 |-
 |[[2011–12 Real Madrid CF season|2011–12]]
 |La Liga
-|17||0||4||0
-| colspan="2" |—||4||0||0
-|0||25||0
+|17||0||4||0||colspan="2"|—||4{{efn|name=UCL}}||0||0||0||25||0
 |-
 |[[2012–13 Real Madrid CF season|2012–13]]
 |La Liga
-|2||0||0||0
-| colspan="2" |—||0
-|0||0
-|0||2||0
+|2||0||0||0||colspan="2"|—||0||0||0||0||2||0
 |-
-! colspan="2" |Total
-!87!!1!!8!!0
-! colspan="2" |—!!22!!0!!0!!0!!117!!1
+!colspan="2" |Total
+!87!!1!!8!!0!!0!!0!!22!!0!!0!!0!!117!!1
 |-
-| rowspan="3" |[[FC Anzhi Makhachkala|Anzhi Makhachkala]]
+|rowspan="3"|[[FC Anzhi Makhachkala|Anzhi Makhachkala]]
 |[[2012–13 FC Anzhi Makhachkala season|2012–13]]
 |[[Russian Premier League]] 
-|14||0||3||1
-| colspan="2" |—||7
-|0|| colspan="2" |—||24||1
+|14||0||3||1||colspan="2"|—||7{{efn|Appearances in [[UEFA Europa League]]|name=UEL}}||0||colspan="2"|—||24||1
 |-
 |[[2013–14 FC Anzhi Makhachkala season|2013–14]]
 |Russian Premier League
-|4||0||0||0
-| colspan="2" |—||0
-|0|| colspan="2" |—||4||0
+|4||0||0||0||colspan="2"|—||0||0||colspan="2"|—||4||0
 |-
-! colspan="2" |Total
-!18!!0!!3!!1
-! colspan="2" |—!!7!!0!! colspan="2" |—!!28!!1
+!colspan="2" |Total
+!18!!0!!3!!1!!0!!0!!7!!0!!0!!0!!28!!1
 |-
 |[[FC Lokomotiv Moscow|Lokomotiv Moscow]]
 |[[2013–14 FC Lokomotiv Moscow season|2013–14]]
 |Russian Premier League 
-|17||1||0||0
-| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||17||1
+|17||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||1
 |-
-| rowspan="3" |[[Olympique de Marseille|Marseille]]
+|rowspan="3"|[[Olympique de Marseille|Marseille]]
 |[[2015–16 Olympique de Marseille season|2015–16]]
 |[[Ligue 1]]
-|26||1||2||0
-|1
-|0||4
-|0|| colspan="2" |—||33||1
+|26||1||2||0||1||0||4{{efn|name=UEL}}||0||colspan="2"|—||33||1
 |-
 |[[2016–17 Olympique de Marseille season|2016–17]]
 |Ligue 1
-|11||0||0||0
-|1
-|0||0||0|| colspan="2" |—||12||0
+|11||0||0||0||1||0||colspan="2"|—||colspan="2"|—||12||0
 |-
-! colspan="2" |Total 
-!37!!1!!2!!0
-!2
-!0!!4!!0!! colspan="2" |—!!45!!1
+!colspan="2"|Total 
+!37!!1!!2!!0!!2!!0!!4!!0!!0!!0!!45!!1
 |-
 |[[Al Jazira Club|Al Jazira]]
-|[[2017–18 UAE Pro-League|2017–18]]
-|[[UAE Pro League|UAE Pro-League]]
-|5||0||0||0
-|0
-|0||0
-|0||0
-|0||5||0
+|[[2017–18 UAE Pro League|2017–18]]
+|[[UAE Pro League]]
+|5||0||0||0||0||0||0||0||0||0||5||0
 |-
-| rowspan="3" |[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|rowspan="3"|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
 |[[2017–18 Paris Saint-Germain F.C. season|2017–18]]
 |Ligue 1
-|10||0||2||0
-|2
-|0||1||0||0
-|0||15||0
+|10||0||2||0||2||0||1{{efn|name=UCL}}||0||colspan="2"|—||15||0
 |-
 |[[2018–19 Paris Saint-Germain F.C. season|2018–19]]
 |Ligue 1
-|3||0||0||0
-|0
-|0||0||0||1||0||4||0
+|3||0||0||0||0||0||0||0||1{{efn|Appearance in [[Trophée des Champions]]}}||0||4||0
 |-
-! colspan="2" |Total 
-!13!!0!!2!!0
-!2
-!0!!1!!0!!1!!0!!19!!0
+!colspan="2"|Total 
+!13!!0!!2!!0!!2!!0!!1!!0!!1!!0!!19!!0
 |-
-! colspan="3" |Career total
-! 250 !! 4 !! 27 !! 2 
-!11
-!0!! 46 !! 1 !! 4 !! 0 !! 338 !! 7 
+!colspan="3"|Career total
+!250!!4!!27!!2!!11!!0!!46!!1!!4!!0!!338!!7 
 |}
+{{notelist}}
 
 ===International===
 :Source:<ref name="FFF" />

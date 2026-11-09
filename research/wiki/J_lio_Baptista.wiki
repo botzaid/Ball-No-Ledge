@@ -1,4 +1,4 @@
-<!-- Júlio Baptista | revision 2026-10-22T05:01:23Z -->
+<!-- Júlio Baptista | revision 2026-11-05T02:02:38Z -->
 {{short description|Brazilian footballer}}
 {{Use dmy dates|date=November 2020}}
 {{Portuguese name|Clemente|Baptista}}
@@ -350,7 +350,7 @@ On 27 June 2019, Baptista was named manager of the ''Juvenil'' squad of [[Real V
 '''Real Madrid'''<ref name=Eurosport/>
 *[[La Liga]]: [[2007–08 La Liga|2007–08]]
 
-'''Cruzeiro'''<ref name=Eurosport>{{cite web|url=http://www.eurosport.com/football/julio-baptista_prs206176/person.shtml|title=Julio Baptista: Profile|website=Eurosport.com}}</ref>
+'''Cruzeiro'''<ref name=Eurosport>{{cite web|url=https://www.tntsports.co.uk/football/julio-baptista_prs206176/person.shtml|title=Julio Baptista: Profile|website=[[TNT Sports]]}}</ref>
 *[[Campeonato Brasileiro Série A]]: [[2013 Campeonato Brasileiro Série A|2013]], [[2014 Campeonato Brasileiro Série A|2014]]
 *[[Campeonato Mineiro]]: 2014<ref name=soccerway>{{cite web|url=https://www.soccerway.com/players/julio-cesar-clement-baptista/3005/|title=Julio Baptista|website=Soccerway.com}}</ref>
 

@@ -1,4 +1,4 @@
-<!-- Clarence Seedorf | revision 2026-10-31T05:26:41Z -->
+<!-- Clarence Seedorf | revision 2026-11-08T23:35:20Z -->
 {{Short description|Dutch footballer (born 1976)}}
 {{Use dmy dates|date=June 2025}}
 {{Infobox football biography
@@ -424,7 +424,7 @@ Clarence's nephew, [[Collin Seedorf]], is also a professional footballer, and cu
 | [[SC Corinthians Paulista|Corinthians]]
 | 11 October 2026
 | ''Present''
-{{WDL|2|1|0|1|for=4|against=3|diff=yes}}
+{{WDL|3|1|1|1|for=4|against=3|diff=yes}}
 |-
 ! colspan="3"| Total
 {{WDLtot|65|21|17|27|for=71|against=87|diff=yes}}

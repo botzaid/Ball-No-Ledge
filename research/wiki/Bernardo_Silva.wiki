@@ -1,4 +1,4 @@
-<!-- Bernardo Silva | revision 2026-11-01T17:20:09Z -->
+<!-- Bernardo Silva | revision 2026-11-08T09:19:27Z -->
 {{short description|Portuguese footballer (born 1994)}}
 {{about|the Portuguese international footballer|other people}}
 {{Portuguese name|Mota Veiga|Carvalho e Silva}}
@@ -39,7 +39,7 @@
 | goals5 = 45
 | years6 = 2026–
 | clubs6 = [[Real Madrid CF|Real Madrid]]
-| caps6 = 9
+| caps6 = 10
 | goals6 = 0
 | national_years1 = 2012–2013
 | national_team1 = [[Portugal national under-19 football team|Portugal U19]]
@@ -62,10 +62,10 @@
 {{medal|3rd|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
 {{Medal|Comp|[[UEFA European Under-21 Championship]]|}}
 {{medal|RU|[[2015 UEFA European Under-21 Championship|2015 Czech Republic]]|}}
-| club_update = 17:20, 1 November 2026 (UTC)
+| club_update = 22:01, 7 November 2026 (UTC)
 | national_team_update = 18:18, 5 October 2026 (UTC)
 }}
-'''Bernardo Mota Veiga de Carvalho e Silva'''{{efn-ua|{{IPA|pt|bɨɾˈnaɾðu ˈsilvɐ}}}} (born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Portugal national football team|Portugal national team]]. 
+'''Bernardo Mota Veiga de Carvalho e Silva'''{{efn-ua|{{IPA|pt|bɨɾˈnaɾðu ˈsilvɐ}}}} (born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and [[Captain (association football)|captains]] the [[Portugal national football team|Portugal national team]]. 
 
 After spending most of his youth career at [[S.L. Benfica|Benfica]], Silva began his professional senior career with them, before moving to [[AS Monaco FC|Monaco]] permanently in January 2015, winning the [[Ligue 1]] title for the [[2016–17 AS Monaco FC season|2016–17 season]]. In the summer of 2017, Silva joined [[Manchester City F.C.|Manchester City]]. Across nine years with the club, he made over 450 appearances, winning 20 major honours, including six [[Premier League]] titles, three [[FA Cup]]s, four [[EFL Cup]]s, and the [[UEFA Champions League|Champions League]] in 2023, as part of City's [[Treble (association football)#Continental trebles|continental treble]] that year. In [[2017–18 Premier League|2017–18]], he helped City becoming the only Premier League team to [[Premier League records and statistics#Points|attain 100 points]] in a single league season. In [[2018–19 Premier League|2018–19]], Silva had a significant role in City becoming the first men's team in England to win a domestic treble, being named [[Manchester City F.C.|Manchester City's Player of the Year]] in 2019 and being part of the [[PFA Team of the Year|PFA Premier League Team of the Year]]. In [[2020–21 UEFA Champions League|2020–21]], he helped Manchester City reach their first UEFA Champions League [[2021 UEFA Champions League final|final]], and was an integral part of the side who sealed their first ever [[Treble (association football)|continental treble]] in [[2022–23 Manchester City F.C. season|2022–23]], their most successful season to date. In July 2026, he left Manchester City as a [[free agent]] and joined La Liga club Real Madrid.
 
@@ -144,6 +144,8 @@ On 23 March 2025, Silva featured in his 100th international match for Portugal a
 
 On 19 May 2026, Silva was selected in the 26-man squad for the [[2026 FIFA World Cup]].<ref>{{cite news|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cristiano-ronaldo-roberto-martinez-portugal-squad-announcement|title=Ronaldo set for sixth World Cup as Portugal squad named|date=19 May 2026|access-date=13 June 2026|language=en}}</ref>
 
+Following [[Cristiano Ronaldo]]’s retirement from international football in November 2026, Silva was appointed as the permanent captain of the national team under head coach [[Jorge Jesus]].<ref>{{Cite web |last=read |first=Madrid Universal·2 min |date=2026-11-06 |title=Confirmed: Real Madrid’s Bernardo Silva becomes Portugal captain after Cristiano Ronaldo retirement |url=https://sports.yahoo.com/articles/confirmed-real-madrid-bernardo-silva-150000243.html |access-date=2026-11-07 |website=Yahoo Sports |language=en-US}}</ref>
+
 ==Style of play==
 Silva is a diminutive, elegant, and creative left-footed [[playmaker]], with a slender build, who is capable of playing in several attacking and midfield positions. Throughout his career, he has been fielded in a variety of roles, including as a [[Winger (association football)|winger]] on either flank (although he favours the right side of the pitch), as a [[central midfielder]], as a [[deep-lying playmaker]], as an [[attacking midfielder]], or even as a [[second striker]]; he has also been deployed in a [[false 9]] role, or even as [[Wing-back (association football)|wing-back]] on occasion. He is mainly known for his technique, acceleration, agility, passing, ball control, vision, creativity, and [[Dribbling (association football)|dribbling]] skills, as well as his energy and defensive work-rate, which enables him to cover ground, press opponents, and start attacks after winning back possession. Although he is known for his ability to carry the ball forward, run at defences, and retain possession, he is also known to be an intelligent team player, with a strong personality, who prefers to participate in the build-up of offensive plays rather than undertaking individual dribbling runs. Despite primarily being a creative midfielder, he is also capable of scoring goals himself.<ref name="2019 Ballon d'Or Rankings">{{cite web |url=https://bleacherreport.com/articles/2839568-2019-ballon-dor-rankings-after-champions-league-and-nations-league-finals |title=2019 Ballon d'Or Rankings After Champions League and Nations League Finals |publisher=Bleacher Report |last1=Tighe |first1=Sam |date=10 June 2019 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006010229/https://bleacherreport.com/articles/2839568-2019-ballon-dor-rankings-after-champions-league-and-nations-league-finals |url-status=live }}</ref><ref>{{cite news |url=https://www.corrieredellosport.it/news/calcio/talent-scout/2015/02/04-535267/bernardo_silva_il_monaco_lo_riscatta_per_16_milioni/ |title=Bernardo Silva, il Monaco lo riscatta per 16 milioni |trans-title=Bernardo Silva, Monaco acquires him outright for 16 million |work=Il Corriere dello Sport |language=it |last1=Chioffi |first1=Stefano |date=4 February 2015 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006030737/https://www.corrieredellosport.it/news/calcio/talent-scout/2015/02/04-535267/bernardo_silva_il_monaco_lo_riscatta_per_16_milioni/ |url-status=live }}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-bernardo-silva-interview-ready-to-make-name-manchester-city-a7937211.html |title=Calm and collected: Bernardo Silva ready to make his name in the Premier League with Manchester City |work=The Independent |last1=Jack |first1=Pitt-Brooke |date=8 September 2017 |access-date=6 October 2019 |archive-date=3 April 2019 |archive-url=https://web.archive.org/web/20190403204753/https://www.independent.co.uk/sport/football/premier-league/manchester-city-bernardo-silva-interview-ready-to-make-name-manchester-city-a7937211.html |url-status=live }}</ref><ref>{{Cite news |last=Jackson |first=Jamie |date=2019-02-23 |title=Bernardo Silva: Manchester City's rising star beloved by Pep Guardiola |url=https://www.theguardian.com/football/2019/feb/23/bernardo-silva-pep-guardiola-manchester-city-carabao-cup-final |archive-url=https://web.archive.org/web/20191006030736/https://www.theguardian.com/football/2019/feb/23/bernardo-silva-pep-guardiola-manchester-city-carabao-cup-final |archive-date=6 October 2019 |access-date=2026-03-13 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{cite web |url=https://ca.sports.yahoo.com/news/bernardo-silva-why-spurs-conqueror-142851038.html |title=Bernardo Silva: Why Spurs conqueror could still end up at Manchester United |publisher=Yahoo |last1=Flanagan |first1=Chris |date=15 September 2016 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006030733/https://ca.sports.yahoo.com/news/bernardo-silva-why-spurs-conqueror-142851038.html |url-status=live }}</ref><ref>{{cite news |url=https://www.thetimes.com/article/bernardo-silva-i-have-always-been-full-of-energy-i-need-to-be-moving-222bm80l5 |title=Bernardo Silva: I have always been full of energy. I need to be moving |work=The Times |last1=Hirst |first1=Paul |date=22 January 2019 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006030733/https://www.thetimes.co.uk/article/bernardo-silva-i-have-always-been-full-of-energy-i-need-to-be-moving-222bm80l5 |url-status=live }}</ref><ref>{{cite news |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/bernardo-silva-man-city-position-15833740 |title=Bernardo Silva reveals his favourite position to play for Man City |work=Manchester Evening News |last1=Bray |first1=Joe |date=14 February 2019 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006030734/https://www.manchestereveningnews.co.uk/sport/football/football-news/bernardo-silva-man-city-position-15833740 |url-status=live }}</ref><ref>{{cite web |url=https://bleacherreport.com/articles/2795457-bernardo-silva-from-ball-boy-to-perennial-sub-to-manchester-city-star |title=Bernardo Silva: From Ball Boy to Perennial Sub to Manchester City Star |publisher=Bleacher Report |last1=Alves |first1=Marcus |date=13 December 2018 |access-date=6 October 2019 |archive-date=6 October 2019 |archive-url=https://web.archive.org/web/20191006030736/https://bleacherreport.com/articles/2795457-bernardo-silva-from-ball-boy-to-perennial-sub-to-manchester-city-star |url-status=live }}</ref><ref>{{cite web |url=https://www.fourfourtwo.com/us/features/manchester-city-how-the-false-nine-became-pep-guardiolas-plan-a |title=Manchester City: How the false nine became Pep Guardiola's Plan A |publisher=fourfourtwo.com |last1=Jolly |first1=Richard |date=5 March 2021 |access-date=29 April 2021 |archive-date=29 April 2021 |archive-url=https://web.archive.org/web/20210429034811/https://www.fourfourtwo.com/us/features/manchester-city-how-the-false-nine-became-pep-guardiolas-plan-a |url-status=live }}</ref>
 
@@ -152,7 +154,7 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 
 ==Career statistics==
 ===Club===
-{{updated|match played 1 November 2026}}
+{{updated|match played 7 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -241,10 +243,10 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref name="sb2627">{{soccerbase season|75983|2026|access-date=15 June 2026}}</ref>
 |[[La Liga]]
-|9||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||1||0||0||11||1
+|10||0||0||0||colspan="2"|—||3{{efn|name=UCL}}||1||0||0||13||1
 |-
 !colspan="3"|Career total
-!453||76||46||12||31||2||118||19||11||3||659||112
+!454||76||46||12||31||2||119||19||11||3||661||112
 |}
 {{notelist}}
 

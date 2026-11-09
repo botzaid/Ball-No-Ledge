@@ -1,4 +1,4 @@
-<!-- Dani Carvajal | revision 2026-11-01T16:09:03Z -->
+<!-- Dani Carvajal | revision 2026-11-08T00:29:04Z -->
 {{Short description|Spanish footballer (born 1992)}}
 {{Distinguish|Danny Carvajal}}
 {{Family name hatnote|Carvajal|Ramos|lang=Spanish}}
@@ -216,7 +216,7 @@ On 8 April 2026, Carvajal was put under investigation by a judge in Andorra for 
 |-
 |[[Getafe CF|Getafe]]
 |[[2026–27 Getafe CF season|2026–27]]
-|[[La Liga]]
+|La Liga
 |3||0||0||0||0||0||colspan="2"|—||3||0
 |-
 !colspan="3"|Career total

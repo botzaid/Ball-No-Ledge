@@ -1,4 +1,4 @@
-<!-- Endrick | revision 2026-11-01T17:21:22Z -->
+<!-- Endrick | revision 2026-11-07T22:03:18Z -->
 {{Short description|Brazilian footballer (born 2006)}}
 {{Other uses}}
 {{Portuguese name|Moreira|de Sousa Pessoa}}
@@ -23,7 +23,7 @@
 | goals1 = 15<!--PER [[WP:WPFCONSENSUS]]: LEAGUE AND STATE LEAGUE GOALS-->
 | years2 = 2024–
 | clubs2 = [[Real Madrid CF|Real Madrid]]
-| caps2 = 26
+| caps2 = 27
 | goals2 = 1
 | years3 = 2026
 | clubs3 = → [[Olympique Lyonnais|Lyon]] (loan)
@@ -41,7 +41,7 @@
 | national_team3 = [[Brazil national football team|Brazil]]
 | national_caps3 = 24
 | national_goals3 = 4
-| club_update = 17:21, 1 November 2026 (UTC)
+| club_update = 22:03, 7 November 2026 (UTC)
 | national_team_update = 08:52, 4 October 2026 (UTC)
 }}
 '''Endrick Felipe Moreira de Sousa Pessoa''' (born 21 July 2006), known mononymously as '''Endrick''' ({{IPA|pt-BR|ˈẽ(j̃)dɾik(i)|lang}}),<ref>{{cite web |author=Forvo Team |title=Endrick pronunciation: How to pronounce Endrick in Portuguese |url=https://forvo.com/word/endrick/ |website=Forvo.com}}</ref> is a Brazilian professional [[association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
@@ -110,7 +110,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 
 ==Career statistics==
 ===Club===
-{{updated|match played 1 November 2026}}<ref name="soccerway">{{Soccerway|endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
+{{updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -152,10 +152,10 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|3||0||colspan="2"|—||0||0||2{{efn|name=UCL}}||1||0||0||5||1
+|4||0||colspan="2"|—||0||0||3{{efn|name=UCL}}||1||0||0||7||1
 |-
 !colspan="2"|Total
-!26!!1!!colspan="2"|—!!7!!5!!12!!2!!0!!0!!45!!8
+!27!!1!!colspan="2"|—!!7!!5!!13!!2!!0!!0!!47!!8
 |-
 |[[Olympique Lyonnais|Lyon]] (loan)
 |[[2025–26 Olympique Lyonnais season|2025–26]]
@@ -163,7 +163,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |16||5||colspan="2"|—||3||2||2{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||21||8
 |-
 !colspan="3"|Career total
-!85!!20!!22!!4!!15!!7!!24!!6!!1!!0!!147!!35
+!86!!20!!22!!4!!15!!7!!25!!6!!1!!0!!149!!35
 |}
 {{notelist}}
 

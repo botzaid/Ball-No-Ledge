@@ -1,12 +1,12 @@
-<!-- Isco | revision 2026-10-31T19:51:52Z -->
+<!-- Isco | revision 2026-11-09T11:30:53Z -->
 {{short description|Spanish footballer (born 1992)}}
 {{Other uses|ISCO (disambiguation){{!}}ISCO}}
 {{family name hatnote|Alarcón|Suárez|lang=Spanish}}
 {{Use dmy dates|date=September 2020}}
 {{Infobox football biography
 | name = Isco
-| image = Liver-RM (5) (cropped).jpg
-| caption = Isco after the [[2018 UEFA Champions League final]] with [[Real Madrid CF|Real Madrid]]
+| image = Isco 2018.jpg
+| caption = Isco with [[Real Madrid]] in 2018
 | full_name = Francisco Román Alarcón Suárez<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=21826 |archive-url=https://archive.today/20190615190335/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=21826 |url-status=dead |archive-date=15 June 2019 |title=Acta del Partido celebrado el 14 de diciembre de 2013, en Pamplona |trans-title=Minutes of the Match held on 14 December 2013, in Pamplona |publisher=Royal Spanish Football Federation |access-date=15 June 2019 |language=es }}</ref>
 | birth_date = {{birth date and age|1992|4|21|df=y}}<ref>{{cite web |url=http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf |title=FIFA Club World Cup UAE 2017: List of players: Real Madrid CF |publisher=FIFA |page=5 |date=29 November 2017 |access-date=23 December 2017 |archive-url=https://web.archive.org/web/20171201043355/http://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf |archive-date=1 December 2017}}</ref>
 | birth_place = [[Benalmádena]], Spain
@@ -42,7 +42,7 @@
 | goals5 = 0
 | years6 = 2023–
 | clubs6 = [[Real Betis|Betis]]
-| caps6 = 69
+| caps6 = 70
 | goals6 = 20
 | national_years1 = 2008
 | national_team1 = [[Spain national under-16 football team|Spain U16]]
@@ -84,14 +84,14 @@
 {{Medal|3rd|[[2009 FIFA U-17 World Cup|2009 Nigeria]]|[[2009 FIFA U-17 World Cup squads#Spain|Team]]}}
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}
 {{Medal|W|[[2013 UEFA European Under-21 Championship|2013 Israel]]| [[2013 UEFA European Under-21 Championship squads#Spain|Team]]}}
-| club_update = 23:49, 31 October 2026 (UTC)
+| club_update = 23:49, 8 November 2026 (UTC)
 | national_team_update = 8 June 2025 (UTC)
 }}
 '''Francisco Román Alarcón Suárez''' ({{IPA|es|fɾanˈθisk roˈman alaɾˈkon ˈswaɾeθ}}; born 21 April 1992), commonly known as '''Isco''' ({{IPA|es|ˈisko|}}), is a Spanish professional [[Association football|footballer]] who plays as an [[Midfielder|attacking midfielder]] or [[left winger]] for [[La Liga]] club [[Real Betis]], which he [[Captain (association football)|captains]], and the [[Spain national football team|Spain national team]].
 
 Isco began his career at [[Valencia CF|Valencia]], playing mainly in [[Valencia CF Mestalla|its reserve team]], before joining [[Málaga CF|Málaga]] in 2011. His performances at Málaga earned him the [[Golden Boy (award)|Golden Boy]] award in 2012, and a €65&nbsp;million move to [[Real Madrid CF|Real Madrid]] in June 2013, with whom he won 19 major trophies including five [[UEFA Champions League]] titles, three La Liga titles, one [[Copa del Rey]] and four [[FIFA Club World Cup]] titles. He left Real Madrid at the end of the [[2021–22 Real Madrid CF season|2021–22 season]] and then joined [[Sevilla FC|Sevilla]]. In December 2022, his contract was mutually terminated and he spent the rest of the season without a club, before joining Betis in July 2023.
 
-Isco represented Spain at various youth levels, including at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympics]], and made his senior international debut in 2013, later taking part at the [[2018 FIFA World Cup]].
+Isco represented Spain at various youth levels, including at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympics]], and made his senior international debut in 2013, later taking part at the [[2018 FIFA World Cup]].He also won the golden boy in 2012 while in Malaga 
 
 ==Club career==
 ===Valencia===
@@ -167,7 +167,7 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 
 ==Career statistics==
 ===Club===
-{{updated|match played 31 October 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
+{{updated|match played 8 November 2026}}<ref>{{Soccerway|access-date=7 February 2014}}</ref><ref name= "Espn FC Profile" />
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -270,13 +270,13 @@ Isco dated Victoria Calderon; the couple had a son.<ref>{{cite journal |title=Is
 |-
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|10||2||0||0||3{{efn|name=UCL}}||2||colspan="2"|—||13||4
+|11||2||0||0||4{{efn|name=UCL}}||2||colspan="2"|—||15||4
 |-
 !colspan="2"|Total
-!69!!20!!3!!1!!19!!5!!colspan="2"|—!!91!!26
+!70!!20!!3!!1!!20!!5!!colspan="2"|—!!93!!26
 |-
 !colspan="3"|Career total
-!452!!87!!39!!10!!99!!15!!16!!3!!606!!115
+!453!!87!!39!!10!!100!!15!!16!!3!!608!!115
 |}
 {{notelist}}
 

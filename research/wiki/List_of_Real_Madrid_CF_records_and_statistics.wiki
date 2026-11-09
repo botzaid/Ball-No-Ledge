@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF records and statistics | revision 2026-11-01T20:06:01Z -->
+<!-- List of Real Madrid CF records and statistics | revision 2026-11-07T23:50:01Z -->
 {{Short description|None}}
 {{Use dmy dates|date=September 2018}}
 [[File:Ronaldo vs. FC Schalke 04 (16854146922).jpg|thumb|upright|[[Cristiano Ronaldo]] is [[Real Madrid CF|Real Madrid]]'s all-time leading goalscorer with 450 goals in 438 games in total.|alt=A man in a white shirt and shorts looking upwards.]]
@@ -688,6 +688,7 @@ Note: <u>Includes</u> direct and indirect free kicks.</div>
 * Most [[Header (association football)|headed]] goals in a season: '''17'''&nbsp;– {{flagicon|POR}} [[Cristiano Ronaldo]], [[2014–15 Real Madrid CF season|2014–15]]
 
 ==== Other methods ====
+* Most outside the box goals: '''30'''{{refn|group=note|Do not include direct free kick goals.}}{{refn|group=note|It is likely that [[Ferenc Puskás]] has already exceeded this number, as some newspapers describe many of his goals with descriptions that may indicate he scored from outside the penalty box, such as "a goal from a long distance." However, due to the lack of actual detailed distance for the goal and the absence of footage for many goals, the true number cannot be confirmed.}} – {{flag icon|POR}} [[Cristiano Ronaldo]], 2009–2018
 * Most [[bicycle kick]] goals: '''12'''&nbsp;– {{flagicon|MEX}} [[Hugo Sánchez]], 1985–1992<ref>{{cite web|url=https://www.youtube.com/watch?v=BRLy25DvrGA&t=19s |title=¿Cuántas CHILENAS y TIJERAS metió HUGO SÁNCHEZ en el REAL MADRID?
 |website=[[YouTube]]
 |date=28 March 2022
@@ -801,7 +802,7 @@ Notes: The criteria for an assist to be awarded may vary according to the source
 ** {{flagicon|POR}} [[Pepe (footballer, born 1983)|Pepe]], 2007–2017
 ** {{flagicon|FRA}} [[Karim Benzema]], 2009–2023
 ** {{flagicon|BRA}} [[Rodrygo]], 2019–
-* Most assists in [[UEFA Champions League|European Cup / UEFA Champions League]]: '''28'''&nbsp;<!-- Vinícius Júnior has 26 assists as of 21 October 2026 -->
+* Most assists in [[UEFA Champions League|European Cup / UEFA Champions League]]: '''28'''&nbsp;<!-- Vinícius Júnior has 26 Opta-assists as of 4 November 2026 -->
 ** {{flagicon|ESP|1945}} [[Paco Gento]], 1953–1971
 ** {{flagicon|POR}} [[Cristiano Ronaldo]], 2009–2018
 * Most assists in [[UEFA Cup]]: '''11'''&nbsp;– {{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]], 1982–1996
@@ -1347,7 +1348,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 
 === Appearances ===
 [[File:V.l.n.r. Amancio, Miguel Muñoz (trainer), Gento, Bestanddeelnr 924-4486 (Munoz cropped).jpg|thumbnail|upright|[[Miguel Muñoz]] is the manager who has coached the most matches in the history of Real Madrid.]]
-''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 1 November 2026.''<ref>[https://www.bdfutbol.com/en/e/eentr2.html Managers list of Real Madrid] bdfutbol.com</ref>
+''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 7 November 2026.''<ref>[https://www.bdfutbol.com/en/e/eentr2.html Managers list of Real Madrid] bdfutbol.com</ref>
 {| class="wikitable sortable" style="text-align:leftErkin dth:70%;"
 !Rank!!Manager!!Years!![[La Liga|League]]!![[Copa del Rey|Cup]]!!Europe{{ref label|Europe|A|}}!!Other{{ref label|Other|B|}}!!Total
 |-
@@ -1361,7 +1362,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |-
 |5||{{flagicon|NED}} [[Leo Beenhakker]]||{{nowrap|1986–1989, 1992}}||139||28||28||2||'''197'''
 |-
-|6||{{flagicon|POR}} '''[[José Mourinho]]'''||2010–2013<br />2026–present||125||24||39||4||'''192'''
+|6||{{flagicon|POR}} '''[[José Mourinho]]'''||2010–2013<br />2026–present||126||24||40||4||'''194'''
 |-
 |7||{{Flagicon|ESP}} [[Luis Molowny]]||1974, 1977–1979<br />1982, 1985–1986||122||34||19||8||'''183'''
 |-
@@ -1373,7 +1374,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |}
 
 === Most wins ===
-''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 1 November 2026.''
+''Competitive, professional matches only. Bold indicates manager is still active at club level. As of 7 November 2026.''
 {| class="wikitable sortable" style="text-align:leftErkin dth:70%;"
 !Rank!!Manager!!Years!![[La Liga|League]]!![[Copa del Rey|Cup]]!!Europe{{ref label|Europe|A|}}!!Other{{ref label|Other|B|}}!!Total
 |-
@@ -1383,7 +1384,7 @@ Note: It is <u>required</u> that players have participated in at least one offic
 |-
 |3||{{flagicon|FRA}} [[Zinedine Zidane]]||2016–2018<br />2019–2021||124||8||31||9||'''172'''
 |-
-|4||{{flagicon|POR}} '''[[José Mourinho]]'''||{{nowrap|2010–2013<br />2026–present}}||96||16||27||1||'''140'''
+|4||{{flagicon|POR}} '''[[José Mourinho]]'''||{{nowrap|2010–2013<br />2026–present}}||97||16||28||1||'''142'''
 |-
 |5||{{flagicon|ESP}} [[Vicente del Bosque]]||1994, 1996<br />1999–2003||84||10||34||5||'''133'''
 |}
@@ -1487,8 +1488,8 @@ Note: It is <u>required</u> that players have participated in at least one offic
 *Longest winning run in Copa del Rey: '''10''', 18 December 2013 – 2 December 2014
 *Most home wins in a row (all competitions): '''28''', 2 June 1985 – 30 April 1986
 *Most away wins in a row (all competitions): '''12'''
-** From 2 October 2011 to 14 January 2012
-** From 20 September 2014 to 12 December 2014{{refn|group=note|Does not include the win over [[Cruz Azul]] in the semi-finals of the [[2014 FIFA Club World Cup|FIFA Club World Cup]] on 16 December 2014, as it was technically a neutral venue.}}
+** 2 October 2011 – 14 January 2012
+** 20 September 2014 – 12 December 2014{{refn|group=note|Does not include the win over [[Cruz Azul]] in the semi-finals of the [[2014 FIFA Club World Cup|FIFA Club World Cup]] on 16 December 2014, as it was technically a neutral venue.}}
 *Most home league wins in a row: '''24''', 3 December 1988 – 28 January 1990
 *Most away league wins in a row: '''13''', 26 February 2017 – 14 October 2017 <span style="color:green"><sup>(Spanish record)</sup></span>
 *Longest league winning run from the first match of season: '''9''', 15 September 1968 – 16 November 1968 <span style="color:green"><sup>(Shared record)</sup></span>
@@ -1497,8 +1498,8 @@ Note: It is <u>required</u> that players have participated in at least one offic
 *Longest winning run in UEFA competitions: '''11''', 23 April 2014 – 18 February 2015
 *Longest winning run in UEFA Champions League: '''10''', 23 April 2014 – 18 February 2015
 *Most UEFA Champions League home wins in a row: '''17'''
-** From 12 October 1955 to 21 April 1960{{refn|group=note|Does not include the first five finals that Real Madrid won between 1956 and 1960, including the 1957 final against [[ACF Fiorentina|Fiorentina]], which was held at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]], as it was technically a neutral venue.}}
-** From 13 September 1978 to 16 March 1988
+** 12 October 1955 – 21 April 1960{{refn|group=note|Does not include the first five finals that Real Madrid won between 1956 and 1960, including the 1957 final against [[ACF Fiorentina|Fiorentina]], which was held at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]], as it was technically a neutral venue.}}
+** 13 September 1978 – 16 March 1988
 *Most UEFA Champions League away wins in a row: '''5''', 29 April 2014 – 18 February 2015
 
 ==== Unbeaten runs ====
@@ -1517,29 +1518,29 @@ Note: It is <u>required</u> that players have participated in at least one offic
 
 ==== Winless runs ====
 *Longest winless run: '''9'''
-** From 23 December 1984 to 17 February 1985
-** From 27 February 1991 to 7 April 1991
+** 23 December 1984 – 17 February 1985
+** 27 February 1991 – 7 April 1991
 *Longest home winless run: '''5''', 13 November 1949 – 5 February 1950
 *Longest away winless run: '''17''', 22 November 1997 – 9 May 1998
 *Longest league winless run: '''9''', 23 December 1984 – 17 February 1985
 *Longest winless run in the UEFA Champions League: '''6''', 2 October 2002 – 11 December 2002
 *Longest winless run in the UEFA Champions League (home matches): '''3'''
-** From 29 February 2000 to 4 April 2000
-** From 22 October 2002 to 11 December 2002
+** 29 February 2000 – 4 April 2000
+** 22 October 2002 – 11 December 2002
 
 ==== Draws ====
 *Most draws in a row: '''5'''
-** From 29 March 1970 to 3 May 1970
-** From 7 January 1979 to 24 January 1979
+** 29 March 1970 – 3 May 1970
+** 7 January 1979 – 24 January 1979
 *Most home draws in a row: '''5''', 13 November 1949 – 5 February 1950
 *Most away draws in a row: '''5'''
-** From 6 December 1953 to 7 February 1954
-** From 8 March 2006 to 16 April 2006
+** 6 December 1953 – 7 February 1954
+** 8 March 2006 – 16 April 2006
 *Most league draws in a row: '''4'''
-** From 21 September 1947 to 12 October 1947
-** From 2 March 1969 to 23 March 1969
-** From 29 March 1970 to 19 April 1970
-** From 17 February 2007 to 10 March 2007
+** 21 September 1947 – 12 October 1947
+** 2 March 1969 – 23 March 1969
+** 29 March 1970 – 19 April 1970
+** 17 February 2007 – 10 March 2007
 
 ==== Matches without draw ====
 *Most consecutive matches without draw: '''33''', 29 March 1922 – 26 February 1928 <span style="color:green"><sup>(Shared record)</sup></span>
@@ -1547,19 +1548,19 @@ Note: It is <u>required</u> that players have participated in at least one offic
 
 ==== Losses ====
 *Most defeats in a row: '''5'''
-** From 3 April 1985 to 21 April 1985
-** From 25 April 2004 to 23 May 2004
-** From 2 May 2009 to 31 May 2009
+** 3 April 1985 – 21 April 1985
+** 25 April 2004 – 23 May 2004
+** 2 May 2009 – 31 May 2009
 *Most home defeats in a row: '''4'''
-** From 18 June 1995 to 17 September 1995
-** From 11 April 2004 to 23 May 2004
-** From 17 February 2019 to 5 March 2019
+** 18 June 1995 – 17 September 1995
+** 11 April 2004 – 23 May 2004
+** 17 February 2019 – 5 March 2019
 *Most away defeats in a row: '''7'''
-** From 26 October 1947 to 25 January 1947
-** From 3 December 1950 to 18 March 1951
+** 26 October 1947 – 25 January 1947
+** 3 December 1950 – 18 March 1951
 *Most league defeats in a row: '''5'''
-** From 25 April 2004 to 23 May 2004
-** From 2 May 2009 to 31 May 2009
+** 25 April 2004 – 23 May 2004
+** 2 May 2009 – 31 May 2009
 
 ==== Scoring ====
 *Longest scoring run: '''73''', 30 April 2016 – 17 September 2017 <span style="color:green"><sup>(Spanish record)</sup></span>
@@ -1570,10 +1571,10 @@ Note: It is <u>required</u> that players have participated in at least one offic
 ==== Non-scoring ====
 *Longest non-scoring run: '''5''', 3 April 1985 – 21 April 1985
 *Longest league non-scoring run: '''3'''
-** From 7 April 1985 to 21 April 1985
-** From 17 September 1993 to 2 October 1993
-** From 27 April 2002 to 10 May 2002
-** From 26 September 2018 to 6 October 2018
+** 7 April 1985 – 21 April 1985
+** 17 September 1993 – 2 October 1993
+** 27 April 2002 – 10 May 2002
+** 26 September 2018 – 6 October 2018
 
 === Goals ===
 ==== In a match ====

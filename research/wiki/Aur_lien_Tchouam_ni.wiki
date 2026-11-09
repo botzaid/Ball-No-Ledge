@@ -1,4 +1,4 @@
-<!-- Aurélien Tchouaméni | revision 2026-11-01T17:19:51Z -->
+<!-- Aurélien Tchouaméni | revision 2026-11-08T09:18:58Z -->
 {{short description|French footballer (born 2000)}}
 {{Use British English|date=December 2022}}
 {{Use dmy dates|date=July 2024}}
@@ -31,7 +31,7 @@
 | goals3 = 5
 | years4 = 2022–
 | clubs4 = [[Real Madrid CF|Real Madrid]]
-| caps4 = 132
+| caps4 = 133
 | goals4 = 4
 | national_years1 = 2015–2016
 | national_team1 = [[France national under-16 football team|France U16]]
@@ -68,7 +68,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|W|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
 {{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
-| club_update = 17:19, 1 November 2026 (UTC)
+| club_update = 22:01, 7 November 2026 (UTC)
 | national_team_update = 16:10, 15 July 2026 (UTC)
 }}
 '''Aurélien Djani Tchouaméni''' ({{IPA|fr|oʁeljɛ̃ dʒani tʃuameni, tʃwa-}}<!--This is an IPA transcription based on the actual pronunciation and following [[MOS:PRON]] and [[H:IPA-FR]]. Please do not remove it.-->; born 27 January 2000) is a French professional [[Association football|footballer]] who plays as a [[defensive midfielder]] or a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[France national football team|France national team]].
@@ -111,7 +111,7 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 
 ==Career statistics==
 ===Club===
-{{updated|match played 1 November 2026}}<ref>{{cite web |url=https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
+{{updated|match played 7 November 2026}}<ref>{{cite web |url=https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -179,13 +179,13 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|7||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||9||0
+|8||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||10||0
 |-
 !colspan="2"|Total
-!132||4||11||2||colspan="2"|—||44||1||17||0||204||7
+!133||4||11||2||colspan="2"|—||44||1||17||0||205||7
 |-
 !colspan="3"|Career total
-!247!!12!!22!!4!!2!!0!!64!!3!!17!!0!!353!!19
+!248!!12!!22!!4!!2!!0!!64!!3!!17!!0!!354!!19
 |}
 
 {{notelist}}

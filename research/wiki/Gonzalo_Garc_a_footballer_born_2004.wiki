@@ -1,4 +1,4 @@
-<!-- Gonzalo García (footballer, born 2004) | revision 2026-11-01T09:36:17Z -->
+<!-- Gonzalo García (footballer, born 2004) | revision 2026-11-09T01:34:57Z -->
 {{Short description|Spanish footballer (born 2004)}}
 {{Family name hatnote|García|Torres|lang=Spanish}}
 {{Use dmy dates|date=August 2025}}
@@ -35,7 +35,7 @@
 | goals2 = 6
 | years3 = 2026–
 | clubs3 = [[Fulham F.C.|Fulham]]
-| caps3 = 8
+| caps3 = 9
 | goals3 = 1
 | national_years1 = 2021
 | national_team1 = [[Spain national under-18 football team|Spain U18]]
@@ -53,7 +53,7 @@
 | national_team4 = [[Spain national football team|Spain]]
 | national_caps4 = 1
 | national_goals4 = 0
-| club_update = 17:01, 24 October 2026 (UTC)
+| club_update = 22:02, 31 October 2026 (UTC)
 | national_team_update = 02:25, 7 October 2026 (UTC)
 }}
 
@@ -94,7 +94,7 @@ García is the second-grandnephew of Spanish-American actress [[Rita Hayworth]],
 
 ==Career statistics==
 ===Club===
-{{updated|match played 24 October 2026}}<ref>{{Soccerway|gonzalo-garcia-torres/783872|access-date=14 May 2026}}</ref>
+{{updated|match played 31 October 2026}}<ref>{{Soccerway|new_id=garcia-gonzalo/pWxyEyDA|id=gonzalo-garcia-torres/783872|access-date=14 May 2026}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -148,10 +148,10 @@ García is the second-grandnephew of Spanish-American actress [[Rita Hayworth]],
 |[[Fulham F.C.|Fulham]]
 |[[2026–27 Fulham F.C. season|2026–27]]
 |[[Premier League]]
-|8||1||0||0||2||1||colspan="2"|—||colspan="2"|—||10||2
+|9||1||0||0||3||1||colspan="2"|—||colspan="2"|—||12||2
 |-
 !colspan="3"|Career total
-!113!!37!!3!!2!!2!!1!!5!!0!!11!!5!!134!!45
+!114!!37!!3!!2!!3!!1!!5!!0!!11!!5!!136!!45
 |}
 {{notelist}}
 

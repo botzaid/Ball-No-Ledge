@@ -1,4 +1,4 @@
-<!-- Eduardo Camavinga | revision 2026-11-01T17:20:39Z -->
+<!-- Eduardo Camavinga | revision 2026-11-07T22:02:41Z -->
 {{Short description|Footballer (born 2002)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -26,7 +26,7 @@
 | goals2 = 2
 | years3 = 2021–
 | clubs3 = [[Real Madrid CF|Real Madrid]]
-| caps3 = 152
+| caps3 = 153
 | goals3 = 4
 | national_years1 = 2019–2022
 | national_team1 = [[France national under-21 football team|France U21]]
@@ -41,7 +41,7 @@
 {{MedalCountry|{{fb|FRA}}}}
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|RU|[[2022 FIFA World Cup|2022 Qatar]]|}}
-| club_update = 17:20, 1 November 2026 (UTC)
+| club_update = 22:02, 7 November 2026 (UTC)
 | national_team_update = 15:40, 6 October 2026 (UTC)
 }}
 '''Eduardo Celmi Camavinga''' (born 10 November 2002) is a<!--Do NOT add nationality here, per WikiProject Football consensus--> professional [[Association football|footballer]] who plays as a [[midfielder|central midfielder]] and occasionally as a [[left-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in Angola, he plays for the [[France national football team|France national team]].<ref>{{cite web |date=3 April 2023 |title=Casemiro, Rodri, Partey: Who is the world's best defensive midfielder? |url=https://www.givemesport.com/busquets-kante-casemiro-the-top-10-defensive-midfielders-have-been-ranked/ |access-date=11 July 2023 |website=GiveMeSport}}</ref><ref>{{cite web |last1=Cheval |first1=Bastien |title=Eduardo Camavinga on his left-back role: "It's a different way of defending." |url=https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |website=OneFootball |date=23 March 2023 |access-date=5 April 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405195253/https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |url-status=live }}</ref><ref>{{cite web |title=Didier Deschamps confirms Eduardo Camavinga as a left-back for France |website=Get French Football News |url=https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |date=16 March 2023 |access-date=14 April 2023 |archive-date=14 April 2023 |archive-url=https://web.archive.org/web/20230414083247/https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |url-status=live }}</ref> 
@@ -91,7 +91,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 1 November 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
+{{Updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -154,13 +154,13 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|10||0||0||0||colspan="2"|—||1{{efn|name=UCL}}||0||0||0||11||0
+|11||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||13||0
 |-
 !colspan="2"|Total
-!152!!4!!16!!1!!colspan="2"|—!!53!!1!!13!!0!!234!!6
+!153!!4!!16!!1!!colspan="2"|—!!54!!1!!13!!0!!236!!6
 |-
 !colspan="3"|Career total
-!236!!10!!21!!1!!1!!0!!63!!1!!14!!0!!335!!12
+!237!!10!!21!!1!!1!!0!!64!!1!!14!!0!!337!!12
 |}
 {{notelist}}
 
@@ -222,7 +222,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 
 '''Individual'''
 *[[National Union of Professional Footballers|UNFP]] Ligue 1 [[UNFP Player of the Month|Player of the Month]]: [[2019–20 Ligue 1|August 2019]]<ref>{{cite web |url=https://www.unfp.org/2019/09/eduardo-camavinga-joueur-du-mois-daout-de-la-ligue-1-conforama/ |title=EDUARDO CAMAVINGA, JOUEUR DU MOIS D'AOÛT DE LA LIGUE 1 CONFORAMA ! |language=fr |publisher=UNFP |date=16 September 2019 |access-date=16 September 2019 |archive-date=11 October 2020 |archive-url=https://web.archive.org/web/20201011195348/https://www.unfp.org/2019/09/eduardo-camavinga-joueur-du-mois-daout-de-la-ligue-1-conforama/ |url-status=live }}</ref>
-* [[Kopa Trophy]] runner-up: [[2022 Ballon d'Or#Kopa Trophy|2022]]<ref name="2022Kopa">{{cite news |url=https://www.eurosport.com/football/gavi-wins-golden-boy-2022-award-completing-kopa-trophy-double-beating-eduardo-camavinga-and-jude-bel_sto9195724/story.shtml |title=GAVI WINS GOLDEN BOY 2022 AWARD COMPLETING KOPA TROPHY DOUBLE, BEATING EDUARDO CAMAVINGA AND JUDE BELLINGHAM |website=Eurosport |date=21 October 2022 |access-date=21 October 2022 }}</ref>
+* [[Kopa Trophy]] runner-up: [[2022 Ballon d'Or#Kopa Trophy|2022]]<ref name="2022Kopa">{{cite news |url=https://www.tntsports.co.uk/football/gavi-wins-golden-boy-2022-award-completing-kopa-trophy-double-beating-eduardo-camavinga-and-jude-bel_sto9195724/story.shtml |title=GAVI WINS GOLDEN BOY 2022 AWARD COMPLETING KOPA TROPHY DOUBLE, BEATING EDUARDO CAMAVINGA AND JUDE BELLINGHAM |website=[[TNT Sports]] |date=21 October 2022 |access-date=21 October 2022 }}</ref>
 *[[IFFHS World Youth (U20) Team|IFFHS Men's Youth (U20) World Team]]: 2020,<ref>{{Cite web|url=https://iffhs.com/en/news/the-worlds-youth-men-team-of-the-year-2020-u20-by-iffhs-1036|title=IFFHS|website=www.iffhs.com|access-date=9 December 2021|archive-date=14 January 2022|archive-url=https://archive.today/20220114122901/https://www.iffhs.com/posts/1036&ved=2ahUKEwjYi-TBkNb0AhUIUWwGHecyBNkQFnoECAQQAQ&usg=AOvVaw1KsuRLOkdvcpMgQgM2DzGA|url-status=live}}</ref> 2021,<ref>{{cite web |title=IFFHS MEN'S YOUTH (U20) WORLD TEAM OF THE YEAR 2021 |url=https://iffhs.com/en/news/iffhs-mens-youth-u20-world-team-of-the-year-2021-1514 |website=iffhs.com |publisher=[[International Federation of Football History & Statistics]] |date=9 December 2021 |access-date=10 December 2021 |url-status=live |archive-url=https://web.archive.org/web/20211209090816/https://www.iffhs.com/posts/1514 |archive-date=9 December 2021 }}</ref> 2022<ref>{{cite web |title=IFFHS MEN'S YOUTH (U20) WORLD TEAM OF THE YEAR 2022 |url=https://iffhs.com/en/news/iffhs-mens-world-youth-u20-team-2022-2468 |website=iffhs.com |publisher=[[International Federation of Football History & Statistics]] |date=12 January 2023 |access-date=12 January 2023 }}</ref>
 
 ==References==

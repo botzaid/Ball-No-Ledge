@@ -1,4 +1,4 @@
-<!-- 2024–25 Real Madrid CF season | revision 2026-07-19T12:44:49Z -->
+<!-- 2024–25 Real Madrid CF season | revision 2026-11-08T23:41:03Z -->
 {{short description|121st season of Real Madrid CF}}
 {{Use dmy dates|date=March 2025}}
 {{Infobox football club season
@@ -417,7 +417,7 @@ On 19 March 2024, Real Madrid announced they would travel to the United States t
 |c5=[[2024 UEFA Super Cup|UEFA Super Cup]] |dm5=14 August 2024 |sr5=Final |fp5=Winners |w5=1 |d5=0 |l5=0 |f5=2 |a5=0
 |c6=[[2024 FIFA Intercontinental Cup|FIFA Intercontinental Cup]] |dm6=18 December 2024 |sr6=Final |fp6=Winners |w6=1 |d6=0 |l6=0 |f6=3 |a6=0
 |c7=[[2025 FIFA Club World Cup|FIFA Club World Cup]] |fm7=18 June 2025 |lm7=9 July 2025 |sr7=Group stage |fp7=Semi-finals |w7=4 |d7=1 |l7=1 |f7=11|a7=8
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

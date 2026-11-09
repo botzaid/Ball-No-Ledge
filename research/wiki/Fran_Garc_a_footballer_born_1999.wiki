@@ -1,4 +1,4 @@
-<!-- Fran García (footballer, born 1999) | revision 2026-10-31T19:50:59Z -->
+<!-- Fran García (footballer, born 1999) | revision 2026-11-08T14:57:08Z -->
 {{short description|Spanish footballer (born 1999)}}
 {{other people|Fran García}}
 {{Use dmy dates|date=February 2025}}
@@ -39,7 +39,7 @@
 | goals5 = 2
 | years6 = 2026–
 | clubs6 = [[Real Betis|Betis]]
-| caps6 = 9
+| caps6 = 10
 | goals6 = 0
 | national_years1 = 2014–2015
 | national_team1 = [[Spain national under-16 football team|Spain U16]]
@@ -69,7 +69,7 @@
 | national_team7 = [[Spain national football team|Spain]]
 | national_caps7 = 3
 | national_goals7 = 0
-| club_update = 18:57, 31 October 2026 (UTC)
+| club_update = 18:57, 8 November 2026 (UTC)
 | national_team_update = 20:43, 3 October 2026 (UTC)
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ESP}}}}
@@ -106,7 +106,7 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 
 ==Career statistics==
 ===Club===
-{{updated|match played 31 October 2026}}<ref name=SW>{{Soccerway|francisco-garcia/439039|access-date=23 September 2025}}</ref>
+{{updated|match played 8 November 2026}}<ref name=SW>{{Soccerway|francisco-garcia/439039|access-date=23 September 2025}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,10 +173,10 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 |[[Real Betis]]
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|9||0||0||0||3{{efn|name=UCL}}||0||colspan="2"|—||12||0
+|10||0||0||0||4{{efn|name=UCL}}||0||colspan="2"|—||14||0
 |-
 !colspan="3"|Career total
-!244!!7!!20!!1!!23!!0!!15!!1!!301!!9
+!245!!7!!20!!1!!24!!0!!15!!1!!303!!9
 |}
 {{notelist}}
 

@@ -1,4 +1,4 @@
-<!-- Yan Diomande | revision 2026-11-02T00:29:49Z -->
+<!-- Yan Diomande | revision 2026-11-08T18:07:09Z -->
 {{short description|Ivorian footballer (born 2006)}}
 {{Use dmy dates|date=August 2026}}
 {{Infobox football biography
@@ -12,27 +12,23 @@
 | current_club = [[Real Madrid CF|Real Madrid]]
 | club_number = 25
 | youth_years1 = 2022–2024
-| youth_clubs1 = [[DME Academy]]
-| years1 = 2023
-| clubs1 = AS Frenzi
-| caps1 = 
-| goals1 =  
+| youth_clubs1 = [[DME Academy]] 
+| years1 = 2025
+| clubs1 = [[CD Leganés B|Leganés B]]
+| caps1 = 3
+| goals1 = 0
 | years2 = 2025
-| clubs2 = [[CD Leganés B|Leganés B]]
-| caps2 = 3
-| goals2 = 0
-| years3 = 2025
-| clubs3 = [[CD Leganés|Leganés]]
-| caps3 = 10
-| goals3 = 2
-| years4 = 2025–2026
-| clubs4 = [[RB Leipzig]]
-| caps4 = 33
-| goals4 = 12
-| years5 = 2026–
-| clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 11
-| goals5 = 3
+| clubs2 = [[CD Leganés|Leganés]]
+| caps2 = 10
+| goals2 = 2
+| years3 = 2025–2026
+| clubs3 = [[RB Leipzig]]
+| caps3 = 33
+| goals3 = 12
+| years4 = 2026–
+| clubs4 = [[Real Madrid CF|Real Madrid]]
+| caps4 = 12
+| goals4 = 3
 | national_years1 = 2022
 | national_team1 = [[Ivory Coast national under-17 football team|Ivory Coast U17]]
 | national_caps1 = 1
@@ -45,14 +41,14 @@
 | national_team3 = [[Ivory Coast national football team|Ivory Coast]]
 | national_caps3 = 15
 | national_goals3 = 3
-| club_update = 17:16, 1 November 2026 (UTC)
+| club_update = 22:02, 7 November 2026 (UTC)
 | national_team_update = 22:16, 24 September 2026 (UTC)
 }}
 '''Yan Diomande''' (born 14 November 2006) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder#|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Ivory Coast national football team|Ivory Coast national team]].
 
-Diomande started his professional football career in the United States when he signed for [[DME Academy]] in 2022. He also played for AS Frenzi and helped the team winning [[United Premier Soccer League|UPSL]] Premier Division title in 2023. While playing at DME, Diomande had taken part of trials with a number of European clubs. He joined [[CD Leganés|Leganés]] in January 2025, before moving to [[RB Leipzig]] in July 2025 for a reported €20m. After one season in Germany, Diomande joined Real Madrid in August 2026 for a reported €125m plus €15m in potential add-ons, becoming the club's record signing and the [[List of most expensive association football transfers|most expensive African player in history]].
+Diomande started his career in the United States in 2022, before moving to [[CD Leganés|Leganés]] in January 2025, and six months later to [[RB Leipzig]] in July. After one season in Germany, Diomande joined Real Madrid in August 2026 for a club-record transfer worth €125 million (£107 million), becoming the [[List of most expensive association football transfers|most expensive African player in history]].
 
-Diomande represented Ivory Coast at the [[Ivory Coast national under-17 football team|under-17]] and [[Ivory Coast national under-23 football team|under-23]] levels before progressing to the senior team. He made his senior debut in 2025 and was part of the squad for the [[2025 Africa Cup of Nations]] and the [[2026 FIFA World Cup]], helping his national team reach the knockout stage for the first time in the nation's history.
+Diomande represented Ivory Coast at youth level. He made his senior debut in 2025 and was part of the squad for the [[2025 Africa Cup of Nations]] and the [[2026 FIFA World Cup]], helping his national team reach the knockout stage for the first time in the nation's history.
 
 ==Early life==
 Yan Diomande was born on 14 November 2006 in [[Abidjan]], Ivory Coast. He then moved to the United States when he was 15 and joined [[DME Academy]] in 2022.<ref>{{cite web|url=https://dmeacademy.com/diomande-players-that-dominated/|title=DME’s Yan Diomande Named to ’23 Male Players That Dominated 2023′|publisher=DME Academy|date=27 December 2023|accessdate=31 March 2025|archive-date=19 November 2025|archive-url=https://web.archive.org/web/20251119020110/https://dmeacademy.com/diomande-players-that-dominated/|url-status=live}}</ref> At DME, he was named 2023 STARI Player of the Year<ref>{{cite web|url=https://dmeacademy.com/diomande-stari-poy/|title=Yan Diomande Named STARI Player of the Year|publisher=DME Academy|date=7 September 2023|accessdate=31 March 2025|archive-date=13 November 2025|archive-url=https://web.archive.org/web/20251113170615/https://dmeacademy.com/diomande-stari-poy/|url-status=live}}</ref> and had trials with [[Rangers F.C.|Rangers]], [[Chelsea F.C.|Chelsea]], [[Crystal Palace F.C.|Crystal Palace]] and [[AFC Bournemouth|Bournemouth]], as well as a visit to [[Olympiacos F.C.|Olympiacos]].<ref>{{cite web |last=Kirkland |first=Alex |url=https://www.espn.co.uk/football/story/_/id/49486961/why-real-madrid-signed-yan-diomande-how-fits-attack-kylian-mbappe-jude-bellingham-vinicius-junior |title=Why Real Madrid signed Yan Diomande, and how he'll fit into team |publisher=ESPN |date=6 August 2026 |access-date=8 August 2026 |archive-date=8 August 2026 |archive-url=https://web.archive.org/web/20260808181953/https://www.espn.co.uk/football/story/_/id/49486961/why-real-madrid-signed-yan-diomande-how-fits-attack-kylian-mbappe-jude-bellingham-vinicius-junior |url-status=live }}</ref><ref>{{cite web |last=Bate |first=Adam |url=https://www.skysports.com/football/news/11095/13541524/yan-diomande-interview-on-the-world-cup-with-cote-divoire-his-gratitude-to-rb-leipzig-and-trials-with-crystal-palace |title=Yan Diomande interview: On the World Cup with Cote d'Ivoire, his gratitude to RB Leipzig and trials with Crystal Palace |publisher=Sky Sports |date=15 June 2026 |access-date=8 August 2026 |archive-date=8 August 2026 |archive-url=https://web.archive.org/web/20260808235146/https://www.skysports.com/football/news/11095/13541524/yan-diomande-interview-on-the-world-cup-with-cote-divoire-his-gratitude-to-rb-leipzig-and-trials-with-crystal-palace |url-status=live }}</ref> He cited [[Cristiano Ronaldo]] as an early idol and recalled former Crystal Palace players [[Michael Olise]] and [[Eberechi Eze]] praising him during his trial at the club.<ref>{{Cite web |last=Villalobos |first=Francisco |date=27 July 2026 |title=Diomande, the boy who dreamed of being Cristiano Ronaldo, impressed Olise and could play with Mbappé: "He is better"' |url=https://www.marca.com/en/football/spanish-football/2026/07/27/diomande-the-boy-who-dreamed-of-being-cristiano-ronaldo-impressed-olise-and-could-play-with-mbappe-he-is-better.html |access-date=2 September 2026 |website=MARCA |language=en-US |archive-date=3 August 2026 |archive-url=https://web.archive.org/web/20260803100103/https://www.marca.com/en/football/spanish-football/2026/07/27/diomande-the-boy-who-dreamed-of-being-cristiano-ronaldo-impressed-olise-and-could-play-with-mbappe-he-is-better.html |url-status=live }}</ref>
@@ -90,7 +86,7 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 1 November 2026}}
+{{updated|match played 7 November 2026}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -122,10 +118,10 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|204661|2026|access-date=21 October 2026}}</ref>
 |La Liga
-|11||3||0||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||14||4
+|12||3||0||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||16||4
 |-
 !colspan="3"|Career total
-!57!!17!!3!!1!!3!!1!!0!!0!!63!!19
+!58!!17!!3!!1!!4!!1!!0!!0!!65!!19
 |}
 {{notelist}}
 
