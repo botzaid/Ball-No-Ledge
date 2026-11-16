@@ -1,4 +1,4 @@
-<!-- 2021–22 Real Madrid CF season | revision 2026-11-05T06:26:25Z -->
+<!-- 2021–22 Real Madrid CF season | revision 2026-11-10T00:53:45Z -->
 {{Short description|118th season in existence of Real Madrid CF}}
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
@@ -303,7 +303,7 @@ On 28 May, Madrid faced [[Liverpool F.C.|Liverpool]] in the [[2022 UEFA Champion
 |c3=[[2022 Supercopa de España|Supercopa de España]] |fm3=12 January 2022 |lm3=16 January 2022 |sr3=Semi-finals |fp3=Winners  |w3=2 |d3=0 |l3=0 |f3=5 |a3=2
 |c4=[[2021–22 UEFA Champions League|Champions League]] |fm4=15 September 2021 |lm4=28 May 2022 |sr4=Group stage |fp4=Winners |w4=9 |d4=0 |l4=4 |f4=29|a4=14
 |u=
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

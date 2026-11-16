@@ -1,4 +1,4 @@
-<!-- Éder Militão | revision 2026-11-04T19:42:23Z -->
+<!-- Éder Militão | revision 2026-11-13T23:19:03Z -->
 {{short description|Brazilian footballer (born 1998)}}
 {{Portuguese name|Militão|Pinheiro}}
 {{Use dmy dates|date=July 2024}}
@@ -243,7 +243,7 @@ Brazil vs Argentina live score, lineups, live events, H2H and more|publisher=Glo
 * [https://www.realmadrid.com/en/football/squad/eder-gabriel-militao Éder Militão] at the Real Madrid CF website
 * [https://www.laliga.com/en-GB/player/e-militao Éder Militão] at the La Liga website
 * {{ForaDeJogo|199801180012}}
-* {{Soccerway|425510}}
+* {{Soccerway|new_id=eder-militao/zX2Rm9YG|id=425510}}
 
 {{Real Madrid CF squad}}
 {{Navboxes

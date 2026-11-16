@@ -1,4 +1,4 @@
-<!-- Yan Diomande | revision 2026-11-08T18:07:09Z -->
+<!-- Yan Diomande | revision 2026-11-15T11:07:58Z -->
 {{short description|Ivorian footballer (born 2006)}}
 {{Use dmy dates|date=August 2026}}
 {{Infobox football biography
@@ -39,10 +39,10 @@
 | national_goals2 = 0
 | national_years3 = 2025–
 | national_team3 = [[Ivory Coast national football team|Ivory Coast]]
-| national_caps3 = 15
+| national_caps3 = 16
 | national_goals3 = 3
 | club_update = 22:02, 7 November 2026 (UTC)
-| national_team_update = 22:16, 24 September 2026 (UTC)
+| national_team_update = 12:21, 14 November 2026 (UTC)
 }}
 '''Yan Diomande''' (born 14 November 2006) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder#|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Ivory Coast national football team|Ivory Coast national team]].
 
@@ -126,7 +126,7 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 {{notelist}}
 
 ===International===
-{{updated|match played 24 September 2026}}<ref name="NFT">{{NFT player|id=101347|title=Yan Diomandé}}</ref>
+{{updated|match played 12 November 2026}}<ref name="NFT">{{NFT player|id=101347|title=Yan Diomandé}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by national team and year
@@ -135,9 +135,9 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 |rowspan="2"|[[Ivory Coast national football team|Ivory Coast]]
 |2025||7||2
 |-
-|2026||8||1
+|2026||9||1
 |-
-!colspan="2"|Total!!15!!3
+!colspan="2"|Total!!16!!3
 |}
 
 :''Scores and results list Ivory Coast's goal tally first, score column indicates score after each Diomande goal.''<ref name="NFT"/>
@@ -167,7 +167,7 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 * [https://www.realmadrid.com/en-US/football/first-team/players/yan-diomande Profile] at the Real Madrid CF website
 * {{BDFutbol|103780}}
 * {{LaPreferente|603798}}
-* {{Soccerway|yan-diomande/1030655}}
+* {{Soccerway|new_id=diomande-yan/0p2ORrJi|id=yan-diomande/1030655}}
 
 {{Real Madrid CF squad}}
 {{Navboxes

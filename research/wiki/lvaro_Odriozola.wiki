@@ -1,4 +1,4 @@
-<!-- Álvaro Odriozola | revision 2026-10-29T23:03:19Z -->
+<!-- Álvaro Odriozola | revision 2026-11-13T21:56:24Z -->
 {{short description|Spanish footballer (born 1995)}}
 {{family name hatnote|Odriozola|Arzallus|lang=Spanish}}
 {{Use dmy dates|date=June 2024}}
@@ -90,7 +90,7 @@ Odriozola was named in the 23-man squad for the finals in Russia.<ref>{{cite web
 
 ==Career statistics==
 ===Club===
-{{updated|match played 21 February 2026}}<ref name=bdf>{{BDFutbol}}</ref><ref>{{Soccerway}}</ref>
+{{updated|match played 21 February 2026}}<ref name=bdf>{{BDFutbol}}</ref><ref>{{Soccerway|new_id=odriozola-alvaro/0zO9SfkA}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -250,7 +250,7 @@ Odriozola was named in the 23-man squad for the finals in Russia.<ref>{{cite web
 * [https://rfef.es/es/selecciones/jugadores/odriozola Profile] at the Royal Spanish Football Federation website {{in lang|es}}
 * {{BDFutbol}}
 * {{NFT player}}
-* {{Soccerway}}
+* {{Soccerway|new_id=odriozola-alvaro/0zO9SfkA}}
 * {{FIFA player}}
 * {{UEFA player}}
 

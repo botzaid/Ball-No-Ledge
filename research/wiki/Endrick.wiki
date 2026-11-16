@@ -1,4 +1,4 @@
-<!-- Endrick | revision 2026-11-07T22:03:18Z -->
+<!-- Endrick | revision 2026-11-14T12:23:30Z -->
 {{Short description|Brazilian footballer (born 2006)}}
 {{Other uses}}
 {{Portuguese name|Moreira|de Sousa Pessoa}}
@@ -39,10 +39,10 @@
 | national_goals2 = 2
 | national_years3 = 2023–
 | national_team3 = [[Brazil national football team|Brazil]]
-| national_caps3 = 24
+| national_caps3 = 25
 | national_goals3 = 4
 | club_update = 22:03, 7 November 2026 (UTC)
-| national_team_update = 08:52, 4 October 2026 (UTC)
+| national_team_update = 12:23, 14 November 2026 (UTC)
 }}
 '''Endrick Felipe Moreira de Sousa Pessoa''' (born 21 July 2006), known mononymously as '''Endrick''' ({{IPA|pt-BR|ˈẽ(j̃)dɾik(i)|lang}}),<ref>{{cite web |author=Forvo Team |title=Endrick pronunciation: How to pronounce Endrick in Portuguese |url=https://forvo.com/word/endrick/ |website=Forvo.com}}</ref> is a Brazilian professional [[association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
 
@@ -110,7 +110,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
+{{updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|new_id=endrick/bXHrpEJ4|id=endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -168,7 +168,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 {{notelist}}
 
 ===International===
-{{updated|match played 3 October 2026}}<ref>{{NFT player|92909|access-date=14 February 2025}}</ref>
+{{updated|match played 14 November 2026}}<ref>{{NFT player|92909|access-date=14 February 2025}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by national team and year
@@ -181,9 +181,9 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |-
 |2025||1||0
 |-
-|2026||10||1
+|2026||11||1
 |-
-!colspan="2"|Total!!24!!4
+!colspan="2"|Total!!25!!4
 |}
 
 :''Scores and results list Brazil's goal tally first, score column indicates score after each Endrick goal.''

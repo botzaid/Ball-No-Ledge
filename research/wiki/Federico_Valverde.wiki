@@ -1,4 +1,4 @@
-<!-- Federico Valverde | revision 2026-11-07T21:58:18Z -->
+<!-- Federico Valverde | revision 2026-11-14T01:37:04Z -->
 {{short description|Uruguayan footballer (born 1998)}}
 {{pp-blp|small=yes}} 
 {{Use dmy dates|date=July 2024}}
@@ -52,14 +52,14 @@
 | national_goals4 = 2
 | national_years5 = 2017–
 | national_team5 = [[Uruguay national football team|Uruguay]]
-| national_caps5 = 76
+| national_caps5 = 77
 | national_goals5 = 9
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|URU}}}}
 {{MedalCompetition|[[Copa América]]}}
 {{Medal|3rd|[[2024 Copa América|2024 United States]]|}}
 | club_update = 21:58, 7 November 2026 (UTC)
-| national_team_update = 02:15, 27 June 2026 (UTC)
+| national_team_update = 01:30, 14 November 2026 (UTC)
 }}
 '''Federico Santiago Valverde Dipetta''' ({{IPA|es|feðeˈɾiko βalˈβeɾðe}};{{refn|group=note|In isolation, ''Valverde'' is pronounced {{IPA|es|balˈβeɾðe|}}.}} born 22 July 1998) is a Uruguayan professional [[association football|footballer]] who plays as a [[central midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]], which he [[Captain (association football)|captains]], and the [[Uruguay national football team|Uruguay national team]]. Considered one of the best midfielders in the world, he is known for his versatility, work rate, pace and vigorous shooting.<ref>{{cite web |date=20 March 2026 |title=Ballon d'Or 2026 Power Rankings: Erling Haaland's hopes are slipping away while Harry Kane continues to put his foot down |url=https://www.goal.com/en-in/lists/ballon-dor-2026-power-rankings/blte900f51820beae01 |access-date=27 March 2026 |website=Goal.com}}</ref><ref>{{cite web |last=Swan |first=Rob |last2=Malyan |first2=Christy |last3=Murray |first3=Will |last4=Hepburn |first4=Daniel |date=10 November 2023 |title=The 30 best footballers in the world right now - ranked in order |url=https://www.givemesport.com/best-football-players-in-the-world/ |access-date=27 March 2026 |website=GiveMeSport}}</ref> Valverde mainly plays as a central midfielder but can also be deployed as a [[right-back]].<ref>{{cite news |last=Cortegana |first=Mario |date=12 March 2025 |title=Federico Valverde is Real Madrid's jack of all trades… who literally dreamed of playing for them |url=https://www.nytimes.com/athletic/6194831/2025/03/12/federico-valverde-real-madrid-right-back/ |access-date=7 July 2025 |work=The New York Times |issn=0362-4331}}</ref><ref>{{cite web |date=29 June 2022 |title=Federico Valverde: The tale of the boy who didn't want to run |url=https://www.fifa.com/fifaplus/en/articles/the-tale-of-the-boy-who-didnt-want-to-run |access-date=21 September 2023 |publisher=FIFA}}</ref>
 
@@ -72,7 +72,7 @@ Valverde was born on 22 July 1998 in [[Unión, Montevideo|Unión]], a neighbourh
 
 ==Club career==
 ===Peñarol===
-Valverde spent most of his youth career with [[Peñarol]], where he quickly made an impression. He made his club debut on 23 July, one day after his 17th birthday, in an international friendly against [[Cruzeiro Esporte Clube|Cruzeiro]] which they won 3–1. He later made his senior debut for the club on 16 August 2015 in their first fixture of the [[2015–16 Uruguayan Primera División season|2015–16 season]] against [[C.A. Cerro|Cerro]], during which he was guided and mentored by his childhood idol and teammate, [[Diego Forlán]].<ref name=":0" /><ref>{{cite web|url=https://int.soccerway.com/matches/2015/08/16/uruguay/primera-division/club-atletico-cerro/club-atletico-penarol/2136152/|title=CERRO VS. PEÑAROL 0 – 3|work=Soccerway}}</ref>
+Valverde spent most of his youth career with [[Peñarol]], where he quickly made an impression. He made his club debut on 23 July, one day after his 17th birthday, in an international friendly against [[Cruzeiro Esporte Clube|Cruzeiro]] which they won 3–1. He later made his senior debut for the club on 16 August 2015 in their first fixture of the [[2015–16 Uruguayan Primera División season|2015–16 season]] against [[C.A. Cerro|Cerro]], during which he was guided and mentored by his childhood idol and teammate, [[Diego Forlán]].<ref name=":0" /><ref>{{cite web|url=https://www.soccerway.com/match/ca-cerro-OMUq1t8G/penarol-r1hkKQek/?mid=vkrzPLJI|title=CERRO VS. PEÑAROL 0 – 3|work=Soccerway}}</ref>
 
 He became part of the Uruguayan national youth teams and attracted the interest of European clubs, including [[Arsenal F.C.|Arsenal]], [[FC Barcelona|Barcelona]], [[FC Chelsea|Chelsea]] and [[Real Madrid]].<ref>{{Cite web|url=https://www.offthepost.info/2015/04/13/arsenal-battle-real-madrid-uruguayan-starlet-federico-valverde/|title=Arsenal battle Real Madrid for Uruguayan starlet Federico Valverde – Off The Post|first=Rob|last=Parker}}</ref><ref>{{Cite web|url=https://metro.co.uk/2015/04/11/arsenal-launch-transfer-bid-to-sign-uruguay-starlet-federico-valverde-ahead-of-barcelona-5144874/|title=Arsenal 'launch bid to beat Barca to South America's most exciting talent'|first=Will|last=Giles|date=11 April 2015|work=Metro}}</ref><ref>{{Cite web|url=http://www.mirror.co.uk/sport/football/transfer-news/arsenal-chelsea-battling-transfer-uruguayan-5483159|title=Arsenal and Chelsea battling for transfer of Uruguayan wonderkid|first=Ed|last=Malyon|date=9 April 2015|work=Daily Mirror}}</ref>
 
@@ -209,7 +209,7 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 {{noteslist}}
 
 ===International===
-{{updated|match played 26 June 2026}}<ref name="NFT">{{NFT player}}</ref>
+{{updated|match played 13 November 2026}}<ref name="NFT">{{NFT player}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -234,9 +234,9 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 |-
 |2025||4||0
 |-
-|2026||5||1
+|2026||6||1
 |-
-!colspan="2"|Total!!76!!9
+!colspan="2"|Total!!77!!9
 |}
 
 :''Scores and results list Uruguay's goal tally first, score column indicates score after each Valverde goal.''<ref name="NFT"/>
@@ -266,7 +266,7 @@ Valverde allegedly punched [[Villarreal CF|Villarreal]] player [[Álex Baena]] i
 
 ==Honours==
 '''Peñarol'''
-*[[Uruguayan Primera División|Primera División]]: [[2015–16 Uruguayan Primera División season|2015–16]]<ref>{{cite web|title=F. VALVERDE PASSPORT|url=https://int.soccerway.com/players/federico-santiago-valverde-dipetta/397869/|work=Soccerway}}</ref>
+*[[Uruguayan Primera División|Primera División]]: [[2015–16 Uruguayan Primera División season|2015–16]]<ref>{{cite web|title=F. VALVERDE PASSPORT|url=https://www.soccerway.com/player/valverde-federico/nscfER6B/|work=Soccerway}}</ref>
 
 '''Real Madrid'''
 *[[La Liga]]: [[2019–20 La Liga|2019–20]],<ref>{{cite news|url=https://www.laliga.com/en-GB/news/real-madrid-win-2019-20-laliga-santander|title=Real Madrid win 2019/20 LaLiga Santander|date=16 July 2020|publisher=LaLiga|access-date=17 July 2020}}</ref> [[2021–22 La Liga|2021–22]],<ref>{{cite web |last=Westwood |first=James |date=30 April 2022 |title=Real Madrid clinch 35th La Liga title with four games to spare after victory over Espanyol |url=https://www.goal.com/en-us/news/real-madrid-35th-la-liga-title/bltb8dfbd27f32f5feb |access-date=30 April 2022 |website=Goal.com}}</ref> [[2023–24 La Liga|2023–24]]<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/c0x05j54l8wo|title=Real Madrid crowned champions after Barca's defeat at Girona|website=BBC Sport|date=4 May 2024|access-date=4 May 2024}}</ref>

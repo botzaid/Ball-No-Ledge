@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF managers | revision 2026-11-09T10:16:22Z -->
+<!-- List of Real Madrid CF managers | revision 2026-11-10T00:33:44Z -->
 {{Short description|none}} 
 {{Use dmy dates|date=December 2023}}
 [[File:Fenerbahce manager Jose Mourinho and Ali Koç, June 2024 (cropped).jpg|thumb|300x300px|[[José Mourinho]] is the current head coach of Real Madrid]]
@@ -11,7 +11,7 @@ The most successful coach with Real Madrid is [[Carlo Ancelotti]], as he has won
 ==List of managers==
 The complete list of Real Madrid managers is shown in the following table:<ref name="Coaches">{{cite web|title=Coaches|url=http://www.realmadrid.com/cs/Satellite/en/Club/1193041516841/Entrenadores/Coaches.htm|publisher=Real Madrid CF| access-date=4 May 2013}}</ref>{{Dead link|date=January 2026}}
 
-''Information correct as of the match played 16 September 2026. Only competitive matches are counted.''
+''Information correct as of the match played 9 November 2026. Only competitive matches are counted.''
 
 {| class="wikitable sortable" style="text-align: center;"
 |-

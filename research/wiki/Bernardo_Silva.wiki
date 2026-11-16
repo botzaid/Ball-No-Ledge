@@ -1,4 +1,4 @@
-<!-- Bernardo Silva | revision 2026-11-08T09:19:27Z -->
+<!-- Bernardo Silva | revision 2026-11-14T22:37:53Z -->
 {{short description|Portuguese footballer (born 1994)}}
 {{about|the Portuguese international footballer|other people}}
 {{Portuguese name|Mota Veiga|Carvalho e Silva}}
@@ -51,8 +51,8 @@
 | national_goals2 = 6
 | national_years3 = 2015–
 | national_team3 = [[Portugal national football team|Portugal]]
-| national_caps3 = 115
-| national_goals3 = 14
+| national_caps3 = 116
+| national_goals3 = 15
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{medal|Country|{{fb|POR}}}}
 {{Medal|Competition|[[UEFA Nations League]]}}
@@ -63,7 +63,7 @@
 {{Medal|Comp|[[UEFA European Under-21 Championship]]|}}
 {{medal|RU|[[2015 UEFA European Under-21 Championship|2015 Czech Republic]]|}}
 | club_update = 22:01, 7 November 2026 (UTC)
-| national_team_update = 18:18, 5 October 2026 (UTC)
+| national_team_update = 22:38, 14 November 2026 (UTC)
 }}
 '''Bernardo Mota Veiga de Carvalho e Silva'''{{efn-ua|{{IPA|pt|bɨɾˈnaɾðu ˈsilvɐ}}}} (born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and [[Captain (association football)|captains]] the [[Portugal national football team|Portugal national team]]. 
 
@@ -84,7 +84,7 @@ On 19 October 2013, Silva made his debut for Benfica at the age of 19, in a [[20
 [[File:CSKA-Monaco (4).jpg|thumb|Silva playing for [[AS Monaco FC|Monaco]] in the [[2016–17 UEFA Champions League|Champions League in 2016]]|303x303px]]
 On 7 August 2014, Silva joined [[AS Monaco FC|Monaco]] on one-year loan deal.<ref>{{cite news|title=Futebol: Ivan Cavaleiro e Bernardo Silva emprestados|url=http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37653/language/pt-PT/.aspx|work=SL Benfica|date=7 August 2014|url-status=dead|archive-url=https://web.archive.org/web/20140810003640/http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37653/language/pt-PT/.aspx|archive-date=10 August 2014|trans-title=Football: Ivan Cavaleiro and Bernardo Silva loaned out}}</ref> He made his debut on 17 August in a Ligue 1 away match against [[Girondins de Bordeaux|Bordeaux]], replacing [[Lucas Ocampos]] in the second half.<ref>{{cite news|title=Bordeaux – Monaco|url=https://www.bbc.com/sport/0/football/28784326|access-date=17 August 2014|work=BBC Sport|date=17 August 2014|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924211048/http://www.bbc.com/sport/0/football/28784326|url-status=live}}</ref> On 21 September, he made his first start, in a 1–0 home win against [[En Avant de Guingamp|Guingamp]].<ref>{{cite news|title=Monaco sort de la zone rouge|url=http://news.fr.msn.com/sport/monaco-sort-de-la-zone-rouge-3|access-date=24 September 2014|publisher=MSN|date=21 September 2014|language=fr|archive-date=28 November 2022|archive-url=https://web.archive.org/web/20221128220621/http://news.fr.msn.com/sport/monaco-sort-de-la-zone-rouge-3|url-status=dead|trans-title=Monaco moves out of the relegation zone}}</ref> On 14 December, he scored the only goal of a home win against [[Olympique de Marseille|Marseille]].<ref>{{cite web|url=https://www.espn.com/soccer/report/_/gameId/393536|title=AS Monaco 1–0 Marseille|publisher=ESPN|date=14 December 2014|access-date=26 June 2022|archive-date=26 June 2022|archive-url=https://web.archive.org/web/20220626062440/https://www.espn.com/soccer/report/_/gameId/393536|url-status=live}}</ref>
 
-On 20 January 2015, Benfica announced that Silva's economic and sports rights had been sold to Monaco for €15.75&nbsp;million;<ref>{{cite web|url=http://web3.cmvm.pt/sdi2004/emitentes/docs/FR53634.pdf|title=Comunicado|language=pt|trans-title=Announcement|date=20 January 2015|work=[[S.L. Benfica]]|publisher=[[Portuguese Securities Market Commission|CMVM]]|access-date=21 January 2015|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125135650/https://web3.cmvm.pt/sdi2004/emitentes/docs/FR53634.pdf|url-status=live}}</ref> he signed a contract for Monaco that would expire on 30 June 2019.<ref>{{cite web|url=http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|title=Bernardo Silva commits to the club until 2019|date=21 January 2015|website=[[AS Monaco FC]]|access-date=23 January 2015|url-status=dead|archive-url=https://web.archive.org/web/20150127002350/http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|archive-date=27 January 2015}}</ref> On 10 April, he scored twice in a 3–0 away win against [[Stade Malherbe Caen|Caen]].<ref>{{cite web|url=https://int.soccerway.com/matches/2015/04/10/france/ligue-1/stade-malherbe-caen-calvados-basse-norma/association-sportive-monaco-fc/1687321/|title=Caen vs. Monaco|date=10 April 2015|website=Soccerway|access-date=17 May 2015|archive-date=26 June 2018|archive-url=https://web.archive.org/web/20180626085736/https://int.soccerway.com/matches/2015/04/10/france/ligue-1/stade-malherbe-caen-calvados-basse-norma/association-sportive-monaco-fc/1687321/|url-status=live}}</ref> On 10 August 2015, Silva extended his contract by one year, tying him to the club until June 2020.<ref>{{cite news|url=http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|title=Bernardo Silva prolonge d'un an|publisher=AS Monaco official website|date=10 August 2015|access-date=28 May 2017|archive-url=https://web.archive.org/web/20180111164930/http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|archive-date=11 January 2018|url-status=dead}}</ref>
+On 20 January 2015, Benfica announced that Silva's economic and sports rights had been sold to Monaco for €15.75&nbsp;million;<ref>{{cite web|url=http://web3.cmvm.pt/sdi2004/emitentes/docs/FR53634.pdf|title=Comunicado|language=pt|trans-title=Announcement|date=20 January 2015|work=[[S.L. Benfica]]|publisher=[[Portuguese Securities Market Commission|CMVM]]|access-date=21 January 2015|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125135650/https://web3.cmvm.pt/sdi2004/emitentes/docs/FR53634.pdf|url-status=live}}</ref> he signed a contract for Monaco that would expire on 30 June 2019.<ref>{{cite web|url=http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|title=Bernardo Silva commits to the club until 2019|date=21 January 2015|website=[[AS Monaco FC]]|access-date=23 January 2015|url-status=dead|archive-url=https://web.archive.org/web/20150127002350/http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|archive-date=27 January 2015}}</ref> On 10 April, he scored twice in a 3–0 away win against [[Stade Malherbe Caen|Caen]].<ref>{{cite web|url=https://int.soccerway.com/matches/2015/04/10/france/ligue-1/stade-malherbe-caen-calvados-basse-norma/association-sportive-monaco-fc/1687321/|title=Caen vs. Monaco|date=10 April 2015|website=Soccerway|access-date=17 May 2015|archive-date=26 June 2018|archive-url=https://web.archive.org/web/20180626085736/https://int.soccerway.com/matches/2015/04/10/france/ligue-1/stade-malherbe-caen-calvados-basse-norma/association-sportive-monaco-fc/1687321/|url-status=dead}}</ref> On 10 August 2015, Silva extended his contract by one year, tying him to the club until June 2020.<ref>{{cite news|url=http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|title=Bernardo Silva prolonge d'un an|publisher=AS Monaco official website|date=10 August 2015|access-date=28 May 2017|archive-url=https://web.archive.org/web/20180111164930/http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|archive-date=11 January 2018|url-status=dead}}</ref>
 
 In the [[2016–17 UEFA Champions League group stage|2016–17 Champions League group stage]] away match against [[PFC CSKA Moscow|CSKA Moscow]] on 18 October 2016, Silva scored Monaco's equaliser in the 87th minute to ensure that the match finished in 1–1 draw.<ref>{{cite news|url=http://www.goal.com/en-gb/match/cska-moskva-vs-monaco/2348365?ICID=FX|title=CSKA Moscow vs Monaco, 2016–2017 UEFA Champions League group stage|work=Goal (website)|date=18 October 2016|access-date=20 October 2016|archive-date=22 October 2016|archive-url=https://web.archive.org/web/20161022193220/http://www.goal.com/en-gb/match/cska-moskva-vs-monaco/2348365?ICID=FX|url-status=live}}</ref> On 15 January 2017, he scored Monaco's last two goals in a 4–1 away win over Marseille to help Monaco move to the top of the Ligue 1 table for the first time since Week 5 of the current Ligue 1 season.<ref>{{cite news|url=http://www.ligue1.com/ligue1/article/monaco-blast-way-to-top-spot.htm|title=Monaco blast way to top spot|publisher=ligue1.com|date=15 January 2017|access-date=16 January 2017|archive-date=12 June 2018|archive-url=https://web.archive.org/web/20180612162136/http://www.ligue1.com/ligue1/article/monaco-blast-way-to-top-spot.htm|url-status=live}}</ref> The following 29 January, Silva scored an added-time equaliser in the 1–1 draw against reigning league champions [[Paris Saint-Germain F.C.|Paris Saint-Germain]] at the [[Parc des Princes]], putting his team on top of the league.<ref>{{cite news|url=http://www.ligue1.com/ligue1/article/monaco-return-to-ligue-1-summit-with-psg-draw.htm|title=Monaco return to Ligue 1 summit with PSG draw|publisher=ligue1.com|date=29 January 2017|access-date=27 May 2017|archive-date=12 June 2018|archive-url=https://web.archive.org/web/20180612140749/http://www.ligue1.com/ligue1/article/monaco-return-to-ligue-1-summit-with-psg-draw.htm|url-status=live}}</ref> He finished the 2016–17 season with 8 goals and 9 [[assist (football)|assists]] in the league and 11 goals and 12 assists in 58 matches across all competitions.<ref>{{cite news|url=https://bleacherreport.com/articles/2707934-bernardo-silva-joins-manchester-city-on-5-year-contract-from-monaco|title=Bernardo Silva Joins Manchester City on 5-Year Contract from Monaco|publisher=Bleacher Report|date=27 May 2017|access-date=28 May 2017|archive-date=1 April 2019|archive-url=https://web.archive.org/web/20190401070024/https://bleacherreport.com/articles/2707934-bernardo-silva-joins-manchester-city-on-5-year-contract-from-monaco|url-status=live}}</ref><ref name=":0">{{cite news|url=https://www.theguardian.com/football/2017/may/28/bernardo-silva-monaco-manchester-city|title=Bernardo Silva: the 'bubble gum player' bringing his magic to Manchester City|work=The Guardian|date=28 May 2017|access-date=28 May 2017|archive-date=12 November 2020|archive-url=https://web.archive.org/web/20201112025024/https://www.theguardian.com/football/2017/may/28/bernardo-silva-monaco-manchester-city|url-status=live}}</ref>
 
@@ -251,7 +251,7 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 {{notelist}}
 
 ===International===
-{{updated|match played 4 October 2026}}<ref name="NFT">{{NFT player|access-date=15 June 2021}}</ref><ref>{{cite web |last=Mamrud |first=Roberto |url=https://www.rsssf.org/miscellaneous/port-bernardo-intlg.html |title=Bernardo Mota Veiga de Carvalho e Silva – Goals in International Matches |publisher=Rec.Sport.Soccer Statistics Foundation |date=29 January 2025 }}</ref>
+{{updated|match played 14 November 2026}}<ref name="NFT">{{NFT player|access-date=15 June 2021}}</ref><ref>{{cite web |last=Mamrud |first=Roberto |url=https://www.rsssf.org/miscellaneous/port-bernardo-intlg.html |title=Bernardo Mota Veiga de Carvalho e Silva – Goals in International Matches |publisher=Rec.Sport.Soccer Statistics Foundation |date=29 January 2025 }}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -280,12 +280,12 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 |-
 |2025||9||1
 |-
-|2026||8||0
+|2026||9||1
 |-
-!colspan="2"|Total||115||14
+!colspan="2"|Total||116||15
 |}
 
-{{updated|match played 6 July 2026}}
+{{updated|match played 14 November 2026}}
 :''Portugal score listed first, score column indicates score after each Silva goal''<ref name="NFT"/>
 
 {| class="wikitable sortable"
@@ -326,6 +326,8 @@ Silva's English has been described as "perfect" by the media,<ref>{{cite web|tit
 |align="center"|13||12 October 2024||[[Stadion Narodowy]], Warsaw, Poland||align="center"|96||{{fb|POL}}||align="center"|1–0||align="center"|3–1||[[2024–25 UEFA Nations League A]]
 |-
 |align="center"|14||9 September 2025||[[Puskás Aréna]], Budapest, Hungary||align="center"|103||{{fb|HUN}}||align="center"|1–1||align="center"|3–2||[[2026 FIFA World Cup qualification]]
+|-
+|align="center"|15||14 November 2026||[[Estádio Municipal de Braga]], Braga, Portugal||align="center"|116||{{fb|DEN}}||align="center"|1–4||align="center"|1–4||[[2026–27 UEFA Nations League A]]
 |}
 
 ==Honours==

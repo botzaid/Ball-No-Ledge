@@ -1,4 +1,4 @@
-<!-- 2026–27 Real Madrid CF season | revision 2026-11-08T21:56:42Z -->
+<!-- 2026–27 Real Madrid CF season | revision 2026-11-09T18:52:54Z -->
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
 |season             = [[2026–27 in Spanish football|2026–27]]
@@ -379,7 +379,7 @@ On 9 July 2026, Real Madrid announced they would play against [[Deportivo de A C
 |c3=[[2027 Supercopa de España|Supercopa de España]] |fm3=3 February 2027 |lm3=February 2027 |sr3=Semi-finals |fp3= |w3=0 |d3=0 |l3=0 |f3=0 |a3=0
 |c4=[[2026–27 UEFA Champions League|UEFA Champions League]] |fm4=8 September 2026|lm4= |sr4=League phase |fp4= |w4=4 |d4=0 |l4=0 |f4=13|a4=7
 |u=7 November 2026
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===
@@ -1390,6 +1390,23 @@ The league phase draw was held on 27 August 2026.<ref>{{cite web|url=https://www
 
 ==Awards==
 ===Monthly awards===
+====La Liga awards====
+{| class="wikitable"
+!Award
+!Month
+!Player / Coach
+!Ref.
+|-
+!Coach of the Month
+|rowspan="2" | October
+|{{flagicon|POR}} [[José Mourinho]]
+|align=center | <ref>{{cite web|title=José Mourinho, LALIGA EA SPORTS Manager of the Month for October|url=https://www.laliga.com/en-GB/news/jose-mourinho-laliga-ea-sports-manager-of-the-month-for-october|publisher=La Liga|date=9 November 2026|access-date=9 November 2026|archive-date=9 November 2026|archive-url=https://web.archive.org/web/20261109184302/https://www.laliga.com/en-GB/news/jose-mourinho-laliga-ea-sports-manager-of-the-month-for-october|url-status=live}}</ref>
+|-
+!Player of the Month
+|{{flagicon|FRA}} [[Kylian Mbappé]]
+|align=center | <ref>{{cite web|title=Kylian Mbappé, LALIGA EA SPORTS Player of the Month for October|url=https://www.laliga.com/en-GB/news/kylian-mbappe-laliga-ea-sports-player-of-the-month-for-october|publisher=La Liga|date=9 November 2026|access-date=9 November 2026|archive-date=9 November 2026|archive-url=https://web.archive.org/web/20261109184317/https://www.laliga.com/en-GB/news/kylian-mbappe-laliga-ea-sports-player-of-the-month-for-october|url-status=live}}</ref>
+|}
+
 ====Mahou awards====
 {| class="wikitable"
 !Award
@@ -1405,6 +1422,17 @@ The league phase draw was held on 27 August 2026.<ref>{{cite web|url=https://www
 |September
 |{{flagicon|TUR}} [[Arda Güler]]
 |align=center | <ref>{{cite web|title=Arda Güler, Mahou Five-Star Player of September|url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/arda-guler-jugador-cinco-estrellas-mahou-de-septiembre-08-10-2026|publisher=Real Madrid CF|date=8 October 2026|access-date=8 October 2026|archive-date=8 October 2026|archive-url=https://web.archive.org/web/20261008125543/https://www.realmadrid.com/en-US/news/football/first-team/latest-news/arda-guler-jugador-cinco-estrellas-mahou-de-septiembre-08-10-2026|url-status=live}}</ref>
+|}
+
+===Annual Awards===
+{| class="wikitable"
+!Award
+!Player(s) / Coach
+!Ref.
+|-
+!FIFPRO Men's World 11
+|{{flagicon|ENG}} [[Jude Bellingham]]<br>{{flagicon|FRA}} [[Kylian Mbappé]]
+|align=center | <ref>{{cite web|title=Who is in the 2026 FIFPRO Men's World 11?|url=https://www.fifpro.org/en/articles/2026/11/who-is-in-the-2026-fifpro-mens-world-11|publisher=FIFPRO|date=9 November 2026|access-date=9 November 2026|archive-date=9 November 2026|archive-url=https://web.archive.org/web/20261109185211/https://www.fifpro.org/en/articles/2026/11/who-is-in-the-2026-fifpro-mens-world-11|url-status=live}}</ref>
 |}
 
 ==Notes==

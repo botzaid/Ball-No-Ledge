@@ -1,4 +1,4 @@
-<!-- 2020–21 Real Madrid CF season | revision 2026-11-05T00:23:00Z -->
+<!-- 2020–21 Real Madrid CF season | revision 2026-11-12T22:48:56Z -->
 {{Short description|117th season in existence of Real Madrid CF}}
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
@@ -282,7 +282,7 @@ On 1 May, Militao and Casemiro scored late to help Madrid post a 2–0 home win 
 |c2=[[2020–21 Copa del Rey|Copa del Rey]] |dm2=20 January 2021 |sr2=Round of 32 |fp2=Round of 32 |w2=0 |d2=0 |l2=1 |f2=1 |a2=2
 |c3=[[2020–21 Supercopa de España|Supercopa de España]] |dm3=14 January 2021 |sr3=Semi-finals |fp3=Semi-finals |w3=0 |d3=0 |l3=1 |f3=1 |a3=2
 |c4=[[2020–21 UEFA Champions League|Champions League]] |fm4=21 October 2020 |lm4=5 May 2021 |sr4=Group stage |fp4=Semi-finals |w4=6 |d4=3 |l4=3 |f4=19|a4=14
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

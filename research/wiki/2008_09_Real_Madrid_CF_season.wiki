@@ -1,4 +1,4 @@
-<!-- 2008–09 Real Madrid CF season | revision 2026-09-20T17:49:33Z -->
+<!-- 2008–09 Real Madrid CF season | revision 2026-11-10T16:48:50Z -->
 {{Infobox football club season
   | club               = [[Real Madrid C.F.|Real Madrid]]
   | season             = 2008–09
@@ -718,7 +718,7 @@ Real Madrid closes the best year in its history|date=June 2008}}
 *[[Gabriel Heinze|Heinze]] {{goal|34}}
 *[[Klaas-Jan Huntelaar|Huntelaar]] {{goal|47||61}}
 *[[Gonzalo Higuaín|Higuaín]] {{goal|85|pen.|}}
-|report=https://int.soccerway.com/matches/2009/03/14/spain/primera-division/athletic-club/real-madrid-club-de-futbol/659893/
+|report=https://www.soccerway.com/match/ath-bilbao-IP5zl0cJ/real-madrid-W8mj7MDD/?mid=KlqazYHd
 |result =W 
 }}
 {{football box collapsible

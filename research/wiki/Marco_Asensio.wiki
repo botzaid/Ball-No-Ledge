@@ -1,4 +1,4 @@
-<!-- Marco Asensio | revision 2026-11-06T04:24:19Z -->
+<!-- Marco Asensio | revision 2026-11-11T17:21:01Z -->
 {{short description|Spanish footballer (born 1996)}}
 {{family name hatnote|Asensio|Willemsen|lang=Spanish}}
 {{Use dmy dates|date=March 2025}}
@@ -230,7 +230,7 @@ In August 2025, Asensio was first romantically linked to influencer Lavinia Leó
 !31||6||5||1||10||0||1||0||47||7
 |-
 |[[Aston Villa F.C.|Aston Villa]] (loan)
-|[[2024–25 Aston Villa F.C. season|2024–25]]<ref name="Soccerway">{{cite web |title=Marco Asensio |url=https://int.soccerway.com/players/marco-asensio-willemsen/320586/ |access-date=26 April 2025 |publisher=Soccerway}}</ref>
+|[[2024–25 Aston Villa F.C. season|2024–25]]<ref name="Soccerway">{{cite web |title=Marco Asensio |url=https://www.soccerway.com/player/asensio-marco/GQMMQo6m/ |access-date=26 April 2025 |publisher=Soccerway}}</ref>
 |[[Premier League]]
 |13||3||4||2||4{{efn|name=UCL}}||3||colspan="2"|—||21||8
 |-

@@ -1,4 +1,4 @@
-<!-- 2011–12 Real Madrid CF season | revision 2026-11-05T00:08:48Z -->
+<!-- 2011–12 Real Madrid CF season | revision 2026-11-12T22:02:14Z -->
 {{Short description|108th season in existence of Real Madrid CF}}
 {{Use dmy dates|date=June 2021}}
 {{Infobox football club season
@@ -1461,7 +1461,7 @@ Source: RFEF</small>
 |goals2=[[Bakary Koné|B. Koné]] {{yel|69}}<br />[[Jimmy Briand|Briand]] {{yel|75}}
 |stadium=[[Santiago Bernabéu Stadium|Estadio Santiago Bernabéu]]
 |location=[[Madrid]], Spain
-|attendance=76,102<ref>{{cite web|title=Real Madrid vs. Olympique Lyon – 18 October 2011|url=https://int.soccerway.com/matches/2011/10/18/europe/uefa-champions-league/real-madrid-club-de-futbol/olympique-lyonnais/1209523/|publisher=Soccerway|date=18 October 2011|access-date=19 October 2011 }}</ref>
+|attendance=76,102<ref>{{cite web|title=Real Madrid vs. Olympique Lyon – 18 October 2011|url=https://int.soccerway.com/matches/2011/10/18/europe/uefa-champions-league/real-madrid-club-de-futbol/olympique-lyonnais/1209523/|archive-url=https://web.archive.org/web/20130726015740/http://int.soccerway.com/matches/2011/10/18/europe/uefa-champions-league/real-madrid-club-de-futbol/olympique-lyonnais/1209523/|url-status=dead|archive-date=26 July 2013|publisher=Soccerway|date=18 October 2011|access-date=19 October 2011 }}</ref>
 |referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])<ref name="UEFA Champions League Group D - Matchday 3 Press Kit"/>
 |motm=[[Karim Benzema|Benzema]]<ref>{{cite web|title=Player Rater > Real Madrid – Lyon |url=http://en.uclratings.uefa.com/Game/Play/2007607 |publisher=UEFA |date=18 October 2011 |access-date=18 October 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120403170241/http://en.uclratings.uefa.com/Game/Play/2007607 |archive-date=3 April 2012 }}</ref>
 |result=W

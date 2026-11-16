@@ -1,4 +1,4 @@
-<!-- Álvaro Carreras | revision 2026-11-04T19:43:58Z -->
+<!-- Álvaro Carreras | revision 2026-11-10T17:52:44Z -->
 {{Short description|Spanish footballer (born 2003)}}
 {{redirect|Álvaro Fernandez|other people with similar names|Álvaro Fernández (disambiguation)}}{{Family name hatnote|Fernández|Carreras|lang=Spanish}}
 {{Use dmy dates|date=July 2025}}
@@ -100,7 +100,7 @@ Carreras has played youth international football for Spain at [[Spain national u
 Originally known as Álvaro Fernández, he later adopted his maternal surname, Carreras, in his career. However, Manchester United listed him under his paternal surname, Fernández, for the group stage of the [[2021–22 UEFA Youth League]]. According to Álvaro, this decision made "both his mother and father happy".<ref name=Career1/><ref name=Career2/><ref name=Career3/>
 
 ==Career statistics==
-{{updated|match played 4 November 2026}}<ref>{{Soccerway|alvaro-fernandez/671002|access-date=23 September 2025}}</ref>
+{{updated|match played 4 November 2026}}<ref>{{Soccerway|new_id=carreras-alvaro/ALGEzlma|id=alvaro-fernandez/671002|access-date=23 September 2025}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition

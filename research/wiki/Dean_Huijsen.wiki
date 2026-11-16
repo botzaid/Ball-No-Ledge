@@ -1,4 +1,4 @@
-<!-- Dean Huijsen | revision 2026-11-07T22:00:49Z -->
+<!-- Dean Huijsen | revision 2026-11-15T22:14:29Z -->
 {{Short description|Footballer (born 2005)}}
 {{Redirect|Huijsen|the historian|Coos Huijsen}}
 {{family name hatnote|Huijsen|lang=Spanish|Wijsmuller}}
@@ -58,7 +58,7 @@
 | national_goals4 = 1
 | national_years5 = 2025–
 | national_team5 = [[Spain national football team|Spain]]
-| national_caps5 = 8
+| national_caps5 = 10
 | national_goals5 = 0
 | medal_templates =
 {{MedalSport|Men's [[Association football|football]]}}
@@ -69,7 +69,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 | club_update = 22:00, 7 November 2026 (UTC)
-| national_team_update = 21:16, 29 September 2026 (UTC)
+| national_team_update = 22:15, 15 November 2026 (UTC)
 }}
 '''Dean Donny Huijsen Wijsmuller''' ({{IPA|es|ˈdiŋ ˈxawsen|lang}},<ref>{{cite tweet|user=RMadridInfo|author=Real Madrid Info|number=1922791884058996970|title=Dean Huijsen about how he prefers his name to be pronounced|accessdate=16 May 2025|language=es}}</ref><ref>{{Cite web |date=10 April 2025 |title=LOS AMIGOS DE EDU {{!}} DEAN HUIJSEN {{!}} ENTREVISTA COMPLETA |trans-title=EDU'S FRIENDS {{!}} DEAN HUIJSEN {{!}} FULL INTERVIEW |url=https://www.youtube.com/watch?v=oEuiYYrJm8M&t=33s |access-date=21 September 2026 |website=[[YouTube]] |language=es|publisher=Chiringuito Inside}}</ref> {{IPA|nl|ˈdiːn ˈɦœy.sə(n)|lang}}; born 14 April 2005) is a professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in the Netherlands, he plays for the [[Spain national football team|Spain national team]].
 
@@ -120,7 +120,7 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}<ref name=SW>{{Soccerway|803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
+{{updated|match played 7 November 2026}}<ref name=SW>{{Soccerway|new_id=huijsen-dean/2V3qUZAd|id=803116|access-date=14 March 2026}}</ref><ref>{{BeSoccer|id=dean-huijsen-3192199}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -184,7 +184,7 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 {{notelist}}
 
 ===International===
-{{updated|match played 29 September 2026}}<ref>{{cite web|url=https://eu-football.info/_player.php?id=33013|title=Dean Huijsen|website=EU-Football.info|access-date=21 March 2025}}</ref>
+{{updated|match played 15 November 2026}}<ref>{{cite web|url=https://eu-football.info/_player.php?id=33013|title=Dean Huijsen|website=EU-Football.info|access-date=21 March 2025}}</ref>
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by national team and year
 !National team!!Year!!Apps!!Goals
@@ -192,9 +192,9 @@ Huijsen is a physical 1.96 m-tall centre-back.<ref>{{Cite web |date=22 December 
 |rowspan="2"|[[Spain national football team|Spain]]
 |2025||6||0
 |-
-|2026||2||0
+|2026||4||0
 |-
-!colspan="2"|Total!!8!!0
+!colspan="2"|Total!!10!!0
 |}
 
 ==Honours==

@@ -1,4 +1,4 @@
-<!-- Clarence Seedorf | revision 2026-11-08T23:35:20Z -->
+<!-- Clarence Seedorf | revision 2026-11-13T22:46:49Z -->
 {{Short description|Dutch footballer (born 1976)}}
 {{Use dmy dates|date=June 2025}}
 {{Infobox football biography
@@ -433,7 +433,7 @@ Clarence's nephew, [[Collin Seedorf]], is also a professional footballer, and cu
 ==Honours==
 <ref>{{Cite web|url=https://www.fourfourtwo.com/features/clarence-seedorf-one-one-manager-who-had-biggest-cultural-impact-me-sven-goran-eriksson|title=The big interview: Clarence Seedorf – "The manager who had the biggest cultural impact on me? Sven-Goran Eriksson"|date=24 May 2017|website=FourFourTwo|access-date=6 June 2017|archive-url=https://web.archive.org/web/20230408052934/https://www.fourfourtwo.com/features/clarence-seedorf-one-one-manager-who-had-biggest-cultural-impact-me-sven-goran-eriksson|archive-date=8 April 2023|url-status=live}}</ref>
 
-'''Ajax'''<ref name = "honours">{{cite web|url=https://int.soccerway.com/coaches/clarence-seedorf/3992/|title=Clarence Seedorf – Career Honours|work=Soccerway|access-date=20 February 2018|archive-url=https://web.archive.org/web/20230408052934/https://int.soccerway.com/coaches/clarence-seedorf/3992/|archive-date=8 April 2023|url-status=live}}</ref>
+'''Ajax'''<ref name = "honours">{{cite web|url=https://int.soccerway.com/coaches/clarence-seedorf/3992/|title=Clarence Seedorf – Career Honours|work=Soccerway|access-date=20 February 2018|archive-url=https://web.archive.org/web/20230408052934/https://int.soccerway.com/coaches/clarence-seedorf/3992/|archive-date=8 April 2023|url-status=dead}}</ref>
 * [[Eredivisie]]: [[1993–94 Eredivisie|1993–94]], [[1994–95 Eredivisie|1994–95]]
 * [[KNVB Cup]]: [[1992–93 KNVB Cup|1992–93]]
 * [[Johan Cruijff Shield]]: [[1993 Dutch Supercup|1993]]

@@ -1,4 +1,4 @@
-<!-- Lassana Diarra | revision 2026-11-03T07:30:23Z -->
+<!-- Lassana Diarra | revision 2026-11-14T05:08:56Z -->
 {{short description|French footballer (born 1985)}}
 {{distinguish|Lassana Diarra (Malian footballer)}}
 {{Use dmy dates|date=December 2024}}
@@ -193,7 +193,7 @@ Diarra grew up supporting [[Olympique de Marseille|Marseille]].<ref name=Talents
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
 |[[Le Havre AC|Le Havre]]
-|[[2004–05 Ligue 2|2004–05]]<ref>{{WorldFootball.net|pe12769}}</ref>
+|[[2004–05 Ligue 2|2004–05]]<ref>{{WorldFootball.net|new_id=pe12769}}</ref>
 |[[Ligue 2]]
 |29||0||1||0||1||0||colspan="2"|—||colspan="2"|—||31||0
 |-
@@ -337,7 +337,7 @@ Diarra grew up supporting [[Olympique de Marseille|Marseille]].<ref name=Talents
 *FA Cup: [[2007–08 FA Cup|2007–08]]<ref name="cup08" />
 
 '''Real Madrid'''
-*[[La Liga]]: [[2011–12 La Liga|2011–12]]<ref name="sway">{{cite web|title=L. Diarra|url=https://int.soccerway.com/players/lassana-diarra/2384/|publisher=Soccerway|access-date=3 November 2014}}</ref>
+*[[La Liga]]: [[2011–12 La Liga|2011–12]]<ref name="sway">{{cite web|title=L. Diarra|url=https://int.soccerway.com/players/lassana-diarra/2384/|archive-url=https://web.archive.org/web/20130208054129/http://int.soccerway.com/players/lassana-diarra/2384/|url-status=dead|archive-date=8 February 2013|publisher=Soccerway|access-date=3 November 2014}}</ref>
 *[[Copa del Rey]]: [[2010–11 Copa del Rey|2010–11]]<ref name="sway" />
 *[[Supercopa de España]]: [[2012 Supercopa de España|2012]]<ref name="sway" />
 

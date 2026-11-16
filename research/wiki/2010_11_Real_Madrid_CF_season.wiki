@@ -1,4 +1,4 @@
-<!-- 2010–11 Real Madrid CF season | revision 2026-08-27T22:06:27Z -->
+<!-- 2010–11 Real Madrid CF season | revision 2026-11-12T14:15:49Z -->
 {{Use dmy dates|date=June 2021}}
 {{Infobox football club season
 | club               = [[Real Madrid CF|Real Madrid]] 
@@ -140,7 +140,7 @@ This season was the first since [[1993–94 Real Madrid CF season|1993–94]] wi
 
 {{fb si player |bg=  |p=[[Iker Casillas]]           |eu=y |nb=ESP |n=1  |pos=GK |age={{Age|1981|05|20|2011|6|30}} |s=1999 |a=572 |g=0  |e=2017 |f=YS |cap=y }}
 {{fb si player |bg=y |p=[[Ricardo Carvalho]]        |eu=y |nb=POR |n=2  |pos=CB |age={{Age|1978|05|18|2011|6|30}} |s=2010 |a=48  |g=3  |e=2012 |f=€8M }}
-{{fb si player |bg=  |p=[[Pepe (footballer, born 1983)|Pepe]] |eu=y |nb=POR |n=3  |pos=CB |age={{Age|1983|02|26|2011|6|30}} |s=2007 |a=112 |g=2  |e=2012 |f=€30M |notes=Second nationality: Brazil }}
+{{fb si player |bg=  |p=[[Pepe (footballer, born 1983)|Pepe]] |eu=y |nb=POR |n=3  |pos=CB |age={{Age|1983|02|26|2011|6|30}} |s=2007 |a=112 |g=2  |e=2024 |f=€30M |notes=Second nationality: Brazil }}
 {{fb si player |bg=y |p=[[Sergio Ramos]]                     |eu=y |nb=ESP |n=4  |pos=RB |age={{Age|1986|03|30|2011|6|30}} |s=2005 |a=262 |g=32 |e=2016 |f=€28M |vc=VC }}
 {{fb si player |bg=  |p=[[Fernando Gago]]               |eu=y |nb=ARG |n=5  |pos=CM |age={{Age|1986|04|10|2011|6|30}} |s=2007 |a=121 |g=1  |e=2013 |f=€20M |tw=w}} |
 {{fb si player |bg=y |p=[[Emmanuel Adebayor]]       |eu=y |nb=TOG |n=6  |pos=FW |age={{Age|1984|02|26|2011|6|30}} |s=2011 |a=22  |g=8  |e=2011 |f=N/A  |tw=w |notes=#28 in [[UEFA Champions League|UCL]] }} 

@@ -1,4 +1,4 @@
-<!-- Danilo (footballer, born July 1991) | revision 2026-11-04T23:27:23Z -->
+<!-- Danilo (footballer, born July 1991) | revision 2026-11-13T01:52:13Z -->
 {{Short description|Brazilian footballer}}
 {{Use dmy dates|date=November 2026}}
 {{Infobox football biography
@@ -220,7 +220,7 @@ In 2012, ''[[Marca (newspaper)|Marca]]'' compared Danilo to compatriot and fello
 !34||4||colspan=2|—||7||0||11||0||8||0||0||0||60||4
 |-
 |rowspan=7|[[Juventus FC|Juventus]]
-|[[2019–20 Juventus FC season|2019–20]]<ref name=Soccerway>{{cite web|url=https://int.soccerway.com/players/danilo-luiz-da-silva/75848/|title=Danilo: Summary|website=Soccerway|publisher=Perform Group|access-date=8 August 2019}}</ref>
+|[[2019–20 Juventus FC season|2019–20]]<ref name=Soccerway>{{cite web|url=https://www.soccerway.com/player/danilo/KUjvgUhB/|title=Danilo: Summary|website=Soccerway|publisher=Perform Group|access-date=8 August 2019}}</ref>
 |[[Serie A]]
 |22||2||colspan=2|—||4||0||colspan=2|—||6{{efn|name=UCL}}||0||0||0||32||2
 |-
@@ -250,7 +250,7 @@ In 2012, ''[[Marca (newspaper)|Marca]]'' compared Danilo to compatriot and fello
 |rowspan=3|[[CR Flamengo|Flamengo]]
 |[[2025 CR Flamengo season|2025]]
 |Série A
-|20||1||4{{efn|name=Car|Apperances in [[Campeonato Carioca]]}}||0||2||1||colspan=2|—||6{{efn|name=Copa}}||1||4{{efn|One appearance in [[Supercopa do Brasil]], two appearances and one goal in FIFA Club World Cup, one appearance and one goal in [[FIFA Intercontinental Cup]]}}||2||36||5
+|20||1||4{{efn|name=Car|Appearances in [[Campeonato Carioca]]}}||0||2||1||colspan=2|—||6{{efn|name=Copa}}||1||4{{efn|One appearance in [[Supercopa do Brasil]], two appearances and one goal in FIFA Club World Cup, one appearance and one goal in [[FIFA Intercontinental Cup]]}}||2||36||5
 |-
 |[[2026 CR Flamengo season|2026]]
 |Série A

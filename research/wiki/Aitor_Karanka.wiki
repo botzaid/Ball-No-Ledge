@@ -1,4 +1,4 @@
-<!-- Aitor Karanka | revision 2026-10-23T02:44:08Z -->
+<!-- Aitor Karanka | revision 2026-11-12T14:03:31Z -->
 {{Short description|Spanish footballer (born 1973)}}
 {{family name hatnote|Karanka|De la Hoz|lang=Spanish}}
 {{Use dmy dates|date=November 2015}}
@@ -12,64 +12,26 @@
  | height = 1.81m<ref name=Profile/>
  | position = [[Centre-back]]
  | current_club = 
- | youth_years1 =
- | youth_clubs1 = Corazonistas
- | youth_years2 =
- | youth_clubs2 = [[Deportivo Alavés|Alavés]]
- | youth_years3 = 1991–1992
- | youth_clubs3 = [[Athletic Bilbao Cantera|Athletic Bilbao]]
- | years1 = 1992–1994
- | clubs1 = [[Athletic Bilbao B|Bilbao Athletic]]
- | caps1 = 53
- | goals1 = 2
- | years2 = 1993–1997
- | clubs2 = [[Athletic Bilbao]]
- | caps2 = 118
- | goals2 = 2
- | years3 = 1997–2002
- | clubs3 = [[Real Madrid CF|Real Madrid]]
- | caps3 = 93
- | goals3 = 0
- | years4 = 2002–2006
- | clubs4 = [[Athletic Bilbao]]
- | caps4 = 64
- | goals4 = 2
- | years5 = 2006
- | clubs5 = [[Colorado Rapids]]
- | caps5 = 27
- | goals5 = 0
- | total_caps = 355
- | total_goals = 6
- | national_years1 = 1993–1996
- | national_team1 = [[Spain national under-21 football team|Spain U21]]
- | national_caps1 = 14
- | national_goals1 = 0
- | national_years2 = 1996
- | national_team2 = [[Spain national under-23 football team|Spain U23]]
- | national_caps2 = 4
- | national_goals2 = 0
- | national_years3 = 1995
- | national_team3 = [[Spain national football team|Spain]]
- | national_caps3 = 1
- | national_goals3 = 0
- | national_years4 = 1994–2004
- | national_team4 = [[Basque Country national football team|Basque Country]]
- | national_caps4 = 6
- | national_goals4 = 0
- | manager_years1 = 2008–2010
- | manager_clubs1 = [[Spain national under-16 football team|Spain U16]]
- | manager_years2 = 2010–2013
- | manager_clubs2 = [[Real Madrid CF|Real Madrid]] (assistant)
- | manager_years3 = 2013–2017
- | manager_clubs3 = [[Middlesbrough F.C.|Middlesbrough]]
- | manager_years4 = 2018–2019
- | manager_clubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
- | manager_years5 = 2020–2021
- | manager_clubs5 = [[Birmingham City F.C.|Birmingham City]]
- | manager_years6 = 2022
- | manager_clubs6 = [[Granada CF|Granada]]
- | manager_years7 = 2023
- | manager_clubs7 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+ | youth_years1 = | youth_clubs1 = Corazonistas
+ | youth_years2 = | youth_clubs2 = [[Deportivo Alavés|Alavés]]
+ | youth_years3 = 1991–1992 | youth_clubs3 = [[Athletic Bilbao Cantera|Athletic Bilbao]]
+ | years1 = 1992–1994 | clubs1 = [[Athletic Bilbao B|Bilbao Athletic]] | caps1 = 53 | goals1 = 2
+ | years2 = 1993–1997 | clubs2 = [[Athletic Bilbao]] | caps2 = 118 | goals2 = 2
+ | years3 = 1997–2002 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 93 | goals3 = 0
+ | years4 = 2002–2006 | clubs4 = [[Athletic Bilbao]] | caps4 = 64 | goals4 = 2
+ | years5 = 2006 | clubs5 = [[Colorado Rapids]] | caps5 = 27 | goals5 = 0
+ | total_caps = 355 | total_goals = 6
+ | national_years1 = 1993–1996 | national_team1 = [[Spain national under-21 football team|Spain U21]] | national_caps1 = 14 | national_goals1 = 0
+ | national_years2 = 1996 | national_team2 = [[Spain national under-23 football team|Spain U23]] | national_caps2 = 4 | national_goals2 = 0
+ | national_years3 = 1995 | national_team3 = [[Spain national football team|Spain]] | national_caps3 = 1 | national_goals3 = 0
+ | national_years4 = 1994–2004 | national_team4 = [[Basque Country national football team|Basque Country]] | national_caps4 = 6 | national_goals4 = 0
+ | manager_years1 = 2008–2010 | manager_clubs1 = [[Spain national under-16 football team|Spain U16]]
+ | manager_years2 = 2010–2013 | manager_clubs2 = [[Real Madrid CF|Real Madrid]] (assistant)
+ | manager_years3 = 2013–2017 | manager_clubs3 = [[Middlesbrough F.C.|Middlesbrough]]
+ | manager_years4 = 2018–2019 | manager_clubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
+ | manager_years5 = 2020–2021 | manager_clubs5 = [[Birmingham City F.C.|Birmingham City]]
+ | manager_years6 = 2022 | manager_clubs6 = [[Granada CF|Granada]]
+ | manager_years7 = 2023 | manager_clubs7 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
  | medal_templates = 
 {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|ESP}}}}
@@ -87,7 +49,7 @@ Karanka started working as a coach in the late 2000s, beginning as assistant man
 ===Athletic Bilbao and Real Madrid===
 Born in [[Vitoria-Gasteiz]], [[Álava]], Karanka began his development with hometown club [[Deportivo Alavés|Alavés]] and [[Athletic Bilbao Cantera|finished it]] with [[Basque Country (autonomous community)|Basque]] neighbours [[Athletic Bilbao]].<ref>{{cite web|url=https://rfef.es/es/noticias/karanka-la-ilusion-que-se-ve-desde-fuera-esta-dentro|title=Karanka: "La ilusión que se ve desde fuera está dentro"|trans-title=Karanka: "The excitement one can see from the outside is on the inside"|publisher=[[Royal Spanish Football Federation]]|language=es|date=4 August 2025|access-date=24 March 2026}}</ref><ref name=First/> He made his senior debut with the [[Athletic Bilbao B|reserves of the latter]] in 1992, competing in the [[Segunda División]].<ref>{{cite news|url=https://www.elcorreo.com/athletic/aitor-karanka-explica-debut-athletic-marcha-real-20260122171250-nt.html|title=Aitor Karanka explica cómo fue su debut con el Athletic y su marcha al Real Madrid|trans-title=Aitor Karanka explains how his debut with Athletic Bilbao went and his move to Real Madrid|newspaper=El Correo|first1=Bruno|last=Vergara|language=es|date=22 January 2026|access-date=25 March 2026}}</ref>
 
-Karanka was promoted to the main squad by [[Jupp Heynckes]] in summer 1993 following the departure of [[Rafael Alkorta]].<ref name=First/> He made his [[La Liga]] debut on 7 November by playing 90 minutes in a 1–1 away draw against [[RC Celta de Vigo|Celta de Vigo]],<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1993/11/07/pagina-19/1479540/pdf.html|title=Heynckes lleva a cabo la revolución que anunció|trans-title=Heynckes delivers promised revolution|newspaper=[[Mundo Deportivo]]|first1=Antonio|last1=Mínguez|first2=Eduardo|last2=Castañeda|language=es|date=7 November 1993|access-date=10 January 2014}}</ref> going on to feature in exactly 100 league matches in his three full seasons before joining the German [[Coach (sport)|coach]] at [[Real Madrid CF|Real Madrid]] in August 1997 (replacing Alkorta who had just rejoined Athletic Bilbao).<ref>{{cite news|url=https://elpais.com/diario/1997/08/13/deportes/871423202_850215.html|title=Karanka, defensa central del Athletic, acepta la oferta para fichar por el Madrid|trans-title=Karanka, Athletic central defender, accepts the offer to sign for Madrid|newspaper=[[El País]]|first=Mábel|last=Galaz|language=es|date=13 August 1997|access-date=15 November 2017}}</ref><ref>{{cite news|url=http://hemeroteca-paginas.mundodeportivo.com./EMD03/HEM/1997/08/14/MD19970814-021.pdf|title=Llegó el central|trans-title=Stopper has arrived|newspaper=Mundo Deportivo|first=Carlos E.|last=Carbajosa|language=es|date=14 August 1997|access-date=7 December 2012}}</ref>
+Karanka was promoted to the main squad by [[Jupp Heynckes]] in summer 1993 following the departure of [[Rafael Alkorta]].<ref name=First/> He made his [[La Liga]] debut on 7 November by playing 90 minutes in a 1–1 away draw against [[RC Celta de Vigo|Celta de Vigo]],<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1993/11/07/pagina-19/1479540/pdf.html|title=Heynckes lleva a cabo la revolución que anunció|trans-title=Heynckes delivers promised revolution|newspaper=[[Mundo Deportivo]]|first1=Antonio|last1=Mínguez|first2=Eduardo|last2=Castañeda|language=es|date=7 November 1993|access-date=10 January 2014|archive-url=https://web.archive.org/web/20140110171115/http://hemeroteca.mundodeportivo.com/preview/1993/11/07/pagina-19/1479540/pdf.html|archive-date=10 January 2014|url-status=dead}}</ref> going on to feature in exactly 100 league matches in his three full seasons before joining the German [[Coach (sport)|coach]] at [[Real Madrid CF|Real Madrid]] in August 1997 (replacing Alkorta who had just rejoined Athletic Bilbao).<ref>{{cite news|url=https://elpais.com/diario/1997/08/13/deportes/871423202_850215.html|title=Karanka, defensa central del Athletic, acepta la oferta para fichar por el Madrid|trans-title=Karanka, Athletic central defender, accepts the offer to sign for Madrid|newspaper=[[El País]]|first=Mábel|last=Galaz|language=es|date=13 August 1997|access-date=15 November 2017}}</ref><ref>{{cite news|url=http://hemeroteca-paginas.mundodeportivo.com./EMD03/HEM/1997/08/14/MD19970814-021.pdf|title=Llegó el central|trans-title=Stopper has arrived|newspaper=Mundo Deportivo|first=Carlos E.|last=Carbajosa|language=es|date=14 August 1997|access-date=7 December 2012}}</ref>
 
 Karanka was used mostly as a backup by the capital-based team, but appeared in 33 [[UEFA Champions League]] matches for them<ref>{{cite web|url=https://www.rsssf.org/players/karanka-in-ec.html|title=Aitor Karanka de la Hoz – Matches in European Cups|publisher=[[RSSSF]]|first=Emilio|last=Pla Díaz|access-date=28 October 2006}}</ref> including [[2000 UEFA Champions League final|the final]] of the [[1999–2000 UEFA Champions League|1999–2000 edition]], a 3–0 win over against [[Valencia CF|Valencia]].<ref>{{cite news|url=https://www.theguardian.com/football/2000/may/24/championsleague.sport1|title=Real Madrid 3–0 Valencia|newspaper=[[The Guardian]]|date=24 May 2000|access-date=28 November 2017}}</ref> He missed the vast majority of the [[1998–99 La Liga|1998–99 campaign]] due to a heart condition.<ref>{{cite news|url=http://www.elmundo.es/elmundo/1998/marzo/04/deportes/karanka.html|title=Karanka y su corazón dicen hasta pronto|trans-title=Karanka and his heart say see you later|newspaper=El Mundo|first=Carlos E.|last=Carbajosa|language=es|date=4 March 1998|access-date=14 December 2010}}</ref>
 
@@ -100,13 +62,13 @@ In July 2006, Karanka signed for [[Colorado Rapids]] of [[Major League Soccer]].
 ==International career==
 Karanka's only appearance for [[Spain national football team|Spain]] at senior level took place on 26 April 1995, in a 2–0 defeat of [[Armenia national football team|Armenia]] in [[Yerevan]] for the [[UEFA Euro 1996]] [[UEFA Euro 1996 qualifying|qualifiers]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1995/04/27/pagina-4/1303698/pdf.html|title=Amavisca se estrena|trans-title=Amavisca gets his first|newspaper=Mundo Deportivo|first=Jesús|last=Gallego|language=es|date=27 April 1995|access-date=26 April 2013}}</ref> He added 14 for the [[Spain national under-21 football team|under-21s]], being a member of the team that finished runners-up at the [[1996 UEFA European Under-21 Championship|1996 European Championship]] in a final lost to [[Italy national under-21 football team|Italy]].<ref>{{cite web|url=http://www.orgullobianconero.vavel.com/2013/06/18/italia-ya-gano-un-europeo-a-espana-en-el-1996/|title=Italia ya ganó un Europeo a España en el 1996|trans-title=Italy have already won European Championships against Spain in 1996|publisher=Orgullo Bianconero|language=es|date=18 June 2013|access-date=13 November 2013|archive-url=https://web.archive.org/web/20131113165559/http://www.orgullobianconero.vavel.com/2013/06/18/italia-ya-gano-un-europeo-a-espana-en-el-1996/|archive-date=13 November 2013}}</ref>
 
-Karanka also represented [[Spain national under-23 football team|the nation]] in the [[1996 Summer Olympics]] in [[Atlanta]],<ref>{{cite web|url=https://www.gazettelive.co.uk/sport/real-aitor-karanka---part-6754039|title=The real Aitor Karanka – Part Two: Aitor and the golden generation|publisher=[[Teesside Live]]|first=Philip|last=Tallentire|date=27 February 2014|access-date=24 March 2026}}</ref><ref>{{cite web|url=https://www.athletic-club.eus/noticias/2021/07/22/el-athletic-y-los-jjoo/|title=El Athletic y los JJOO|trans-title=Athletic and the OG|publisher=Athletic Bilbao|language=es|date=22 July 2021|access-date=24 March 2026}}</ref> playing four matches in a [[Football at the 1996 Summer Olympics|quarter-final exit]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/07/21/pagina-54/1334617/pdf.html#&mode=fullScreen|title=Mágico gol de Óscar|trans-title=Óscar wonder goal|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=21 July 1996|access-date=25 March 2026}}</ref><ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/07/23/pagina-54/1336584/pdf.html|title=Óscar, otra vez vital|trans-title=Óscar, crucial again|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=23 July 1996|access-date=24 March 2026}}</ref><ref>{{cite news|url=https://hemeroteca.mundodeportivo.com/preview/1996/07/26/pagina-12/1313017/pdf.html|title=Argentina, en el camino|trans-title=Argentina, in the way|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=26 July 1996|access-date=25 March 2026}}</ref><ref>{{cite news|url=https://hemeroteca.mundodeportivo.com/preview/1996/07/29/pagina-16/1484199/pdf.html|title=Cuartos gafes|trans-title=Jinxed last-eight|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=29 July 1996|access-date=25 March 2026}}</ref>
+Karanka also represented [[Spain national under-23 football team|the nation]] in the [[1996 Summer Olympics]] in [[Atlanta]],<ref>{{cite web|url=https://www.gazettelive.co.uk/sport/real-aitor-karanka---part-6754039|title=The real Aitor Karanka – Part Two: Aitor and the golden generation|publisher=[[Teesside Live]]|first=Philip|last=Tallentire|date=27 February 2014|access-date=24 March 2026}}</ref><ref>{{cite web|url=https://www.athletic-club.eus/noticias/2021/07/22/el-athletic-y-los-jjoo/|title=El Athletic y los JJOO|trans-title=Athletic and the OG|publisher=Athletic Bilbao|language=es|date=22 July 2021|access-date=24 March 2026}}</ref> playing four matches in a [[Football at the 1996 Summer Olympics|quarter-final exit]].<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/07/21/pagina-54/1334617/pdf.html#&mode=fullScreen|title=Mágico gol de Óscar|trans-title=Óscar wonder goal|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=21 July 1996|access-date=25 March 2026|archive-url=https://web.archive.org/web/20211117190653/http://hemeroteca.mundodeportivo.com/preview/1996/07/21/pagina-54/1334617/pdf.html#&mode=fullScreen|archive-date=17 November 2021|url-status=dead}}</ref><ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1996/07/23/pagina-54/1336584/pdf.html|title=Óscar, otra vez vital|trans-title=Óscar, crucial again|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=23 July 1996|access-date=24 March 2026|archive-url=https://web.archive.org/web/20240614000958/http://hemeroteca.mundodeportivo.com/preview/1996/07/23/pagina-54/1336584/pdf.html|archive-date=14 June 2024|url-status=dead}}</ref><ref>{{cite news|url=https://hemeroteca.mundodeportivo.com/preview/1996/07/26/pagina-12/1313017/pdf.html|title=Argentina, en el camino|trans-title=Argentina, in the way|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=26 July 1996|access-date=25 March 2026}}</ref><ref>{{cite news|url=https://hemeroteca.mundodeportivo.com/preview/1996/07/29/pagina-16/1484199/pdf.html|title=Cuartos gafes|trans-title=Jinxed last-eight|newspaper=Mundo Deportivo|first=Cristina|last=Cubero|language=es|date=29 July 1996|access-date=25 March 2026}}</ref>
 
 ==Coaching career==
 ===Early career===
 Having first worked in a development role with the [[Royal Spanish Football Federation]], Karanka became head coach of the [[Spain national under-16 football team|Spain under-16 national team]] in August 2008.<ref name=Protege>{{cite web|url=https://www.bbc.co.uk/sport/football/24927835|title=Aitor Karanka: Middlesbrough pin hopes on Jose Mourinho protege|publisher=[[BBC Sport]]|first=Joe|last=Townsend|date=14 November 2013|access-date=24 June 2025}}</ref> In June 2010, he was named assistant at Real Madrid by newly appointed manager [[José Mourinho]];<ref>{{cite news|url=https://as.com/futbol/2010/06/06/mas_futbol/1275805634_850215.html|title=Karanka será el segundo entrenador que pidió Mourinho|trans-title=Karanka will be the assistant coach requested by Mourinho|newspaper=[[Diario AS]]|first=Carmen|last=Colino|language=es|date=6 June 2010|access-date=24 March 2026}}</ref> he had been recommended to the role by his former club teammates [[Luís Figo]], [[Predrag Mijatović]] and [[Clarence Seedorf]].<ref>{{cite news|url=https://www.theguardian.com/football/2014/oct/17/aitor-karanka-middlesbough-basque-manager|title=Aitor Karanka is starting to make the difference for Middlesbrough|newspaper=[[The Guardian]]|first=Louise|last=Taylor|date=17 October 2014|access-date=24 June 2025}}</ref> During their tenure, the team won the [[2010–11 Copa del Rey]],<ref>{{cite web|url=http://www.skysports.com/football/match_report/0,19764,11065_3365041,00.html|title=Madrid clinch Copa del Rey|publisher=[[Sky Sports]]|date=20 April 2011|access-date=24 June 2025|archive-url=https://web.archive.org/web/20110423012003/http://www.skysports.com/football/match_report/0%2C19764%2C11065_3365041%2C00.html|archive-date=23 April 2011}}</ref> the [[2011–12 La Liga|2011–12 national championship]] and the [[2012 Supercopa de España|2012 edition]] of the [[Supercopa de España]].<ref>{{cite web|url=http://uk.eurosport.yahoo.com/02052012/58/liga-real-madrid-win-liga-title-bilbao.html|title=Liga – Real Madrid win Liga title in Bilbao|publisher=[[Yahoo]]|date=May 2012|access-date=24 June 2025|url-status=live|archive-url=https://web.archive.org/web/20200522173227/http://uk.sports.yahoo.com/|archive-date=22 May 2020}}</ref><ref>{{cite web|url=http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330116297457/noticia/Noticia/Mourinho_is_the_only_coach_who_has_won_the_Super_Cup_in_four_different_European_countries.htm|title=Mourinho is the only coach who has won the Super Cup in four different European countries|publisher=Real Madrid CF|first=Alberto|last=Navarro|date=30 August 2012|access-date=24 June 2025|url-status=dead|archive-url=https://web.archive.org/web/20120901221356/http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330116297457/noticia/Noticia/Mourinho_is_the_only_coach_who_has_won_the_Super_Cup_in_four_different_European_countries.htm|archive-date=1 September 2012}}</ref>
 
-In July 2013, Karanka left Real after the arrival of [[Carlo Ancelotti]], who brought his own coaching staff.<ref>{{cite web|url=http://www.realmadridnews.com/aitor-karanka-and-real-madrid-part-ways/|title=Aitor Karanka and Real Madrid part ways|publisher=Real Madrid News|first=Paul|last=Collins|date=16 July 2013|access-date=4 August 2013}}</ref> Mourinho offered him the opportunity to follow him to [[Chelsea F.C.|Chelsea]], but he declined his offer in order to fulfill his ambition to pursue his own venture in management.<ref>{{cite web|url=https://www.fourfourtwo.com/news/karanka-rejected-mourinho-and-chelsea|title=Karanka rejected Mourinho and Chelsea|publisher=[[FourFourTwo]]|date=6 December 2013|access-date=24 June 2025}}</ref><ref name=Protege/>
+In July 2013, Karanka left Real after the arrival of [[Carlo Ancelotti]], who brought his own coaching staff.<ref>{{cite web|url=http://www.realmadridnews.com/aitor-karanka-and-real-madrid-part-ways/|title=Aitor Karanka and Real Madrid part ways|publisher=Real Madrid News|first=Paul|last=Collins|date=16 July 2013|access-date=4 August 2013|archive-url=https://web.archive.org/web/20131113230636/http://www.realmadridnews.com/aitor-karanka-and-real-madrid-part-ways/|archive-date=13 November 2013|url-status=dead}}</ref> Mourinho offered him the opportunity to follow him to [[Chelsea F.C.|Chelsea]], but he declined his offer in order to fulfill his ambition to pursue his own venture in management.<ref>{{cite web|url=https://www.fourfourtwo.com/news/karanka-rejected-mourinho-and-chelsea|title=Karanka rejected Mourinho and Chelsea|publisher=[[FourFourTwo]]|date=6 December 2013|access-date=24 June 2025}}</ref><ref name=Protege/>
 
 ===Middlesbrough===
 [[File:Ian Holloway Aitor Karanka December 2014.jpg|thumb|right|upright|Karanka on the sidelines ([[Millwall F.C.|Millwall]]'s [[Ian Holloway]] pictured right) in December 2014]]
@@ -306,7 +268,7 @@ Karanka's younger brother, [[David Karanka|David]], was also a footballer. A [[s
 *[[UEFA Champions League]]: [[1997–98 UEFA Champions League|1997–98]], [[1999–2000 UEFA Champions League|1999–2000]], [[2001–02 UEFA Champions League|2001–02]]<ref>{{cite news|url=https://www.20minutos.es/deportes/noticia/aitor-karanka-tres-anos-juntos-piensa-como-mourinho-2360565/0/|title=Karanka: "Tras tres años con Mourinho, pienso como él"|trans-title=Karanka: "After three years with Mourinho, I think like him"|newspaper=[[20 minutos]]|language=es|date=28 January 2015|access-date=25 June 2019}}</ref>
 
 '''Spain U21'''
-*[[UEFA European Under-21 Championship]] runner-up: [[1996 UEFA European Under-21 Championship|1996]];<ref>{{cite news|url=http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/29/085.html|title=2–1: Iván colmó un Montjuic casi vacío|trans-title=2–1: Iván brought down nearly empty Montjuic|newspaper=[[ABC (newspaper)|ABC]]|first=Enrique|last=Ortego|language=es|date=29 May 1996|access-date=25 June 2019}}</ref> third place: [[1994 UEFA European Under-21 Championship|1994]]<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1994/04/16/pagina-18/1290336/pdf.html|title=España pierde la inocencia|trans-title=Spain lose innocence|newspaper=Mundo Deportivo|first=Francesc|last=Aguilar|language=es|date=16 April 1994|access-date=25 June 2019}}</ref>
+*[[UEFA European Under-21 Championship]] runner-up: [[1996 UEFA European Under-21 Championship|1996]];<ref>{{cite news|url=http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/29/085.html|title=2–1: Iván colmó un Montjuic casi vacío|trans-title=2–1: Iván brought down nearly empty Montjuic|newspaper=[[ABC (newspaper)|ABC]]|first=Enrique|last=Ortego|language=es|date=29 May 1996|access-date=25 June 2019}}</ref> third place: [[1994 UEFA European Under-21 Championship|1994]]<ref>{{cite news|url=http://hemeroteca.mundodeportivo.com/preview/1994/04/16/pagina-18/1290336/pdf.html|title=España pierde la inocencia|trans-title=Spain lose innocence|newspaper=Mundo Deportivo|first=Francesc|last=Aguilar|language=es|date=16 April 1994|access-date=25 June 2019|archive-url=https://web.archive.org/web/20220705022505/http://hemeroteca.mundodeportivo.com/preview/1994/04/16/pagina-18/1290336/pdf.html|archive-date=5 July 2022|url-status=dead}}</ref>
 
 ===Manager===
 '''Middlesbrough'''

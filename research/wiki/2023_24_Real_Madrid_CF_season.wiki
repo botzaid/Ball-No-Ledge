@@ -1,4 +1,4 @@
-<!-- 2023–24 Real Madrid CF season | revision 2026-11-05T00:30:23Z -->
+<!-- 2023–24 Real Madrid CF season | revision 2026-11-11T10:47:50Z -->
 {{Use dmy dates|date=July 2023}}
 {{Infobox football club season
 | club = [[Real Madrid CF|Real Madrid]]
@@ -394,7 +394,7 @@ On 13 May 2023, Real Madrid announced they would travel to the United States to 
 |c2=[[2023–24 Copa del Rey|Copa del Rey]] |fm2=6 January 2024 |lm2=18 January 2024 |sr2=Round of 32 |fp2=Round of 16 |w2=1 |d2=0 |l2=1 |f2=5 |a2=5
 |c3=[[2024 Supercopa de España|Supercopa de España]] |fm3=10 January 2024 |lm3=14 January 2024 |sr3=Semi-finals |fp3=Winners |w3=2 |d3=0 |l3=0 |f3=9 |a3=4
 |c4=[[2023–24 UEFA Champions League|UEFA Champions League]] |fm4=20 September 2023 |lm4=1 June 2024 |sr4=Group stage |fp4=Winners |w4=9 |d4=4 |l4=0 |f4=28|a4=15
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

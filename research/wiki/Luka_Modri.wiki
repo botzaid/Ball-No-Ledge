@@ -1,4 +1,4 @@
-<!-- Luka Modrić | revision 2026-11-08T16:10:51Z -->
+<!-- Luka Modrić | revision 2026-11-16T10:31:37Z -->
 {{short description|Croatian footballer (born 1985)}}
 {{pp-pc}}
 {{Use British English|date=October 2026}}
@@ -6,7 +6,7 @@
 {{Infobox football biography
 | name = Luka Modrić
 | image = Luka Modric Croatia v Portugal 2 July 2026-055.jpg
-| caption = Modrić with [[Croatia national football team|Croatia]] in [[2026 FIFA World Cup]]
+| caption = Modrić with [[Croatia national football team|Croatia]] at the [[2026 FIFA World Cup]]
 | full_name = Luka Modrić<ref>{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of Players: Croatia |publisher=FIFA |page=7 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
 | birth_date = {{birth date and age|1985|9|9|df=y}}<ref>{{Cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |isbn=978-1-84596-601-0 |page=290}}</ref>
 | birth_place = [[Zadar]], SR Croatia, SFR Yugoslavia
@@ -64,10 +64,10 @@
 | national_goals5 = 2
 | national_years6 = 2006–
 | national_team6 = [[Croatia national football team|Croatia]]
-| national_caps6 = [[List of men's footballers with 100 or more international caps|206]]
+| national_caps6 = [[List of men's footballers with 100 or more international caps|208]]
 | national_goals6 = 30
-| club_update = 21:08, 8 November 2026 (UTC)
-| national_team_update = 6 October 2026 (UTC)
+| club_update = 22:14, 15 November 2026 (UTC)
+| national_team_update = 15 November 2026 (UTC)
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|CRO}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
@@ -113,7 +113,7 @@
 *(13 July 2018). "[https://en.as.com/en/2018/07/13/soccer/1531501811_756097.html Didulica hails Luka Modric as Croatia's greatest player: "He's like your little kid brother"]". [[Diario AS]]. Retrieved 13 April 2022.
 *Cvijanović, Marko (24 August 2018). "[https://www.zadarskilist.hr/clanci/24082018/suker-luka-modric-je-najveci-hrvatski-nogometas-svih-vremena Šuker: Luka Modrić is the greatest Croatian footballer of all time!]" (in Croatian). [[Zadarski list]]. Retrieved 2 September 2018.
 *Pranggon, Hassan Mehedi (13 December 2022) "[https://www.managingmadrid.com/2022/12/13/23504793/luka-modric-in-a-legendary-league-of-his-own Luka Modrić: In a legendary league of his own]". [[SB Nation]]. Retrieved 23 November 2023.
-*Hancock, Tom (14 August 2024). "[https://www.fourfourtwo.com/features/the-best-croatian-players-ever The best Croatian players ever]" (#1). FourFourTwo. Retrieved 7 February 2025.|name=xx2}} With 34 major trophies, he is the [[List of world association football records|most decorated Croatian player]] in world football. His career longevity [[List of men's footballers with 100 or more international caps|ranks third globally for all-time international appearances]] having amassed [[List of men's footballers with 1,000 or more official appearances|over 1,150 career appearances]] – the first and only Croatian to do so.
+*Hancock, Tom (14 August 2024). "[https://www.fourfourtwo.com/features/the-best-croatian-players-ever The best Croatian players ever]" (#1). FourFourTwo. Retrieved 7 February 2025.|name=xx2}} With 34 major trophies, he is the [[List of world association football records|most decorated Croatian player]] in world football. His career longevity ranks him joint-second globally for [[List of men's footballers with 100 or more international caps|all-time international appearances]] and among the players with the highest number of [[List of men's footballers with 1,000 or more official appearances|official matches ever played]], making him the first and only Croatian to reach the 1,150-appearance milestone.
 
 Modrić began his career with Croatian club [[GNK Dinamo Zagreb|Dinamo Zagreb]] from 2003 to 2008 – intermittently on loan to [[HŠK Zrinjski Mostar|Zrinjski Mostar]] and [[NK Inter Zaprešić|Inter Zaprešić]] – winning six domestic trophies. He moved to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in 2008, leading them to [[UEFA Champions League]] qualification in 2010, the club's first qualification in almost 50 years. Modrić joined [[Real Madrid CF|Real Madrid]] for a £30 million transfer fee in 2012. He won the [[2013–14 UEFA Champions League|2013–14 Champions League]] title and was named in the [[2013–14 UEFA Champions League#Squad of the season|squad of the season]]. Modrić was a key member of the team's three consecutive Champions League titles from [[2015–16 UEFA Champions League|2015–16]] to [[2017–18 UEFA Champions League|2017–18]], named to the squad of the season each time. In total, he won 28 major trophies with the club, including six UEFA Champions League titles, four [[La Liga]] titles, and two [[Copa del Rey]] titles, making him [[List of Real Madrid CF records and statistics#Titles|Real Madrid's all-time most decorated footballer]].<ref>{{cite news|url=https://www.thedubrovniktimes.com/news/croatia/item/17320-luka-modric-leads-real-madrid-to-intercontinental-glory-secures-record-28th-trophy|title=Luka Modrić Leads Real Madrid to Intercontinental Glory, Secures Record 28th Trophy|last=Thomas|first=Mark|date=19 December 2024|work=The Dubrovnik Times|access-date=19 December 2024|archive-url=https://web.archive.org/web/20260703063138/https://www.thedubrovniktimes.com/news/croatia/item/17320-luka-modric-leads-real-madrid-to-intercontinental-glory-secures-record-28th-trophy|archive-date=3 July 2026|url-status=live}}</ref> He joined AC Milan in 2025 on a free transfer.
 
@@ -478,7 +478,7 @@ Modrić was called to testify in an [[embezzlement]] and [[tax evasion]] trial i
 {{notelist}}
 
 ===International===
-{{updated|match played 6 October 2026}}<ref name="NFT"/>
+{{updated|match played 15 November 2026}}<ref name="NFT"/>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -525,12 +525,12 @@ Modrić was called to testify in an [[embezzlement]] and [[tax evasion]] trial i
 |-
 |2025||10||1
 |-
-|2026||12||2
+|2026||14||2
 |-
-!colspan="2"|Total||206||30
+!colspan="2"|Total||208||30
 |}
 
-{{updated|match played 29 September 2026}}
+{{updated|match played 15 November 2026}}
 :''Croatia score listed first, score column indicates score after each Modrić goal.''<ref name=SS>{{Sofascore|15466|access-date=21 November 2023}}</ref>
 
 {| class="wikitable sortable plainrowheaders"

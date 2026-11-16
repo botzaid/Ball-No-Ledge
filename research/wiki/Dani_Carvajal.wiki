@@ -1,4 +1,4 @@
-<!-- Dani Carvajal | revision 2026-11-08T00:29:04Z -->
+<!-- Dani Carvajal | revision 2026-11-13T22:54:38Z -->
 {{Short description|Spanish footballer (born 1992)}}
 {{Distinguish|Danny Carvajal}}
 {{Family name hatnote|Carvajal|Ramos|lang=Spanish}}
@@ -270,7 +270,7 @@ On 8 April 2026, Carvajal was put under investigation by a judge in Andorra for 
 |}
 
 ==Honours==
-'''Real Madrid Castilla'''<ref name=Soccerway>{{cite web|url=https://int.soccerway.com/players/daniel-carvajal-ramos/145430/|title=Daniel Carvajal – Trophies|publisher=Soccerway|access-date=10 August 2016}}</ref>
+'''Real Madrid Castilla'''<ref name=Soccerway>{{cite web|url=https://www.soccerway.com/player/carvajal-daniel/rZh5FTHE/|title=Daniel Carvajal – Trophies|publisher=Soccerway|access-date=10 August 2016}}</ref>
 *[[Segunda División B]]: [[2011–12 Segunda División B|2011–12]]
 
 '''Real Madrid'''<ref name=Soccerway />

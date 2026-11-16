@@ -1,4 +1,4 @@
-<!-- Fernando Hierro | revision 2026-10-22T04:13:31Z -->
+<!-- Fernando Hierro | revision 2026-11-11T18:39:37Z -->
 {{Short description|Spanish football player and manager (born 1968)}}
 {{Use dmy dates|date=August 2021}}
 {{family name hatnote|Ruiz|Hierro|lang=Spanish}}
@@ -12,48 +12,20 @@
  | height = 1.87 m<ref name=Bio/>
  | position = [[Defender (association football)|Defender]], [[defensive midfielder]]
  | current_club =
- | youth_years1 = 1973–1978
- | youth_clubs1 = [[Vélez CF|Vélez]]
- | youth_years2 = 1979
- | youth_clubs2 = [[CD Málaga|Málaga]]
- | youth_years3 = 1980–1986
- | youth_clubs3 = [[Vélez CF|Vélez]]
- | years1 = 1986–1987
- | clubs1 = [[Real Valladolid Promesas|Valladolid B]]
- | caps1 =
- | goals1 = 
- | years2 = 1987–1989
- | clubs2 = [[Real Valladolid|Valladolid]]
- | caps2 = 58
- | goals2 = 3
- | years3 = 1989–2003
- | clubs3 = [[Real Madrid CF|Real Madrid]]
- | caps3 = 439
- | goals3 = 102
- | years4 = 2003–2004
- | clubs4 = [[Al-Rayyan SC|Al-Rayyan]]
- | caps4 = 19
- | goals4 = 3
- | years5 = 2004–2005
- | clubs5 = [[Bolton Wanderers F.C.|Bolton Wanderers]]
- | caps5 = 29
- | goals5 = 1
- | total_caps = 545
- | total_goals = 109
- | national_years1 = 1989–1990
- | national_team1 = [[Spain national under-21 football team|Spain U21]]
- | national_caps1 = 5
- | national_goals1 = 2
- | national_years2 = 1989–2002
- | national_team2 = [[Spain national football team|Spain]]
- | national_caps2 = 89
- | national_goals2 = 29
- | manager_years1 = 2014–2015
- | manager_clubs1 = [[Real Madrid CF|Real Madrid]] (assistant)
- | manager_years2 = 2016–2017
- | manager_clubs2 = [[Real Oviedo|Oviedo]]
- | manager_years3 = 2018
- | manager_clubs3 = [[Spain national football team|Spain]]
+ | youth_years1 = 1973–1978 | youth_clubs1 = [[Vélez CF|Vélez]]
+ | youth_years2 = 1979 | youth_clubs2 = [[CD Málaga|Málaga]]
+ | youth_years3 = 1980–1986 | youth_clubs3 = [[Vélez CF|Vélez]]
+ | years1 = 1986–1987 | clubs1 = [[Real Valladolid Promesas|Valladolid B]] | caps1 = | goals1 = 
+ | years2 = 1987–1989 | clubs2 = [[Real Valladolid|Valladolid]] | caps2 = 58 | goals2 = 3
+ | years3 = 1989–2003 | clubs3 = [[Real Madrid CF|Real Madrid]] | caps3 = 439 | goals3 = 102
+ | years4 = 2003–2004 | clubs4 = [[Al-Rayyan SC|Al-Rayyan]] | caps4 = 19 | goals4 = 3
+ | years5 = 2004–2005 | clubs5 = [[Bolton Wanderers F.C.|Bolton Wanderers]] | caps5 = 29 | goals5 = 1
+ | total_caps = 545 | total_goals = 109
+ | national_years1 = 1989–1990 | national_team1 = [[Spain national under-21 football team|Spain U21]] | national_caps1 = 5 | national_goals1 = 2
+ | national_years2 = 1989–2002 | national_team2 = [[Spain national football team|Spain]] | national_caps2 = 89 | national_goals2 = 29
+ | manager_years1 = 2014–2015 | manager_clubs1 = [[Real Madrid CF|Real Madrid]] (assistant)
+ | manager_years2 = 2016–2017 | manager_clubs2 = [[Real Oviedo|Oviedo]]
+ | manager_years3 = 2018 | manager_clubs3 = [[Spain national football team|Spain]]
 }}
 '''Fernando Ruiz Hierro''' ({{IPA|es|feɾˈnando ˈʝero}}; born 23 March 1968) is a Spanish [[Association football|football]] executive and former player who played as a [[centre-back]], [[sweeper (association football)|sweeper]] or [[defensive midfielder]].
 

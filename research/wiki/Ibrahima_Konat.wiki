@@ -1,4 +1,4 @@
-<!-- Ibrahima Konaté | revision 2026-11-07T21:59:56Z -->
+<!-- Ibrahima Konaté | revision 2026-11-15T22:19:47Z -->
 {{Short description|French footballer (born 1999)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
@@ -59,10 +59,10 @@
 | national_goals5 = 0
 | national_years6 = 2022–
 | national_team6 = [[France national football team|France]]
-| national_caps6 = 30
+| national_caps6 = 31
 | national_goals6 = 0
 | club_update = 21:59, 7 November 2026 (UTC)
-| national_team_update = 23:15, 18 July 2026 (UTC)
+| national_team_update = 22:22, 15 November 2026 (UTC)
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
@@ -167,7 +167,7 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 |Bundesliga
 |8||0||1||0||colspan="2"|—||2{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||11||0
 |-
-|[[2020–21 RB Leipzig season|2020–21]]<ref name="Soccerway">{{cite web |url=https://int.soccerway.com/players/ibrahima-konate/416730/ |title=I. Konaté: Summary |website=Soccerway |publisher=Perform Group |access-date=17 September 2023}}</ref>
+|[[2020–21 RB Leipzig season|2020–21]]<ref name="Soccerway">{{cite web |url=https://www.soccerway.com/player/konate-ibrahima/QJlbDbQe/ |title=I. Konaté: Summary |website=Soccerway |publisher=Perform Group |access-date=17 September 2023}}</ref>
 |Bundesliga
 |14||1||1||0||colspan="2"|—||6{{efn|name=UCL}}||0||colspan="2"|—||21||1
 |-
@@ -210,7 +210,7 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 {{notelist}}
 
 ===International===
-{{updated|match played 18 July 2026}}<ref>{{cite web |url=https://www.fff.fr/equipe-nationale/joueur/8837-konate-ibrahima/fiche.html |title=Ibrahima Konaté |publisher=French Football Federation |access-date=28 June 2026 |language=fr |archive-date=14 December 2021 |archive-url=https://web.archive.org/web/20211214090143/https://www.fff.fr/equipe-nationale/joueur/8837-konate-ibrahima/fiche.html |url-status=dead }}</ref>
+{{updated|match played 15 November 2026}}<ref>{{cite web |url=https://www.fff.fr/equipe-nationale/joueur/8837-konate-ibrahima/fiche.html |title=Ibrahima Konaté |publisher=French Football Federation |access-date=28 June 2026 |language=fr |archive-date=14 December 2021 |archive-url=https://web.archive.org/web/20211214090143/https://www.fff.fr/equipe-nationale/joueur/8837-konate-ibrahima/fiche.html |url-status=dead }}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -226,9 +226,9 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 |-
 |2025||5||0
 |-
-|2026||4||0
+|2026||5||0
 |-
-!colspan="2"|Total||30||0
+!colspan="2"|Total||31||0
 |}
 
 ==Honours==

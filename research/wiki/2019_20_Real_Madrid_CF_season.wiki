@@ -1,4 +1,4 @@
-<!-- 2019–20 Real Madrid CF season | revision 2026-09-23T04:49:59Z -->
+<!-- 2019–20 Real Madrid CF season | revision 2026-11-11T10:17:52Z -->
 {{Short description|116th season in existence of Real Madrid CF}}
 {{Use dmy dates|date=June 2021}}
 {{Infobox football club season
@@ -385,7 +385,7 @@ Madrid competed at the [[2019 International Champions Cup]] and the [[2019 Audi 
 |c2=[[2019–20 Copa del Rey|Copa del Rey]]              |fm2=22 January 2020 |lm2=6 February 2020 |sr2=Round of 32 |fp2=Quarter-finals |w2=2 |d2=0 |l2=1 |f2=10|a2=5
 |c3=[[2019–20 Supercopa de España|Supercopa de España]]|fm3=8 January 2020 |lm3=12 January 2020 |sr3=Semi-finals |fp3=Winners |w3=1 |d3=1 |l3=0 |f3=3 |a3=1
 |c4=[[2019–20 UEFA Champions League|Champions League]] |fm4=18 September 2019 |lm4=7 August 2020 |sr4=Group stage |fp4=Round of 16 |w4=3 |d4=2 |l4=3 |f4=16|a4=12
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

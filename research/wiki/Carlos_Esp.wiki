@@ -1,4 +1,4 @@
-<!-- Carlos Espí | revision 2026-11-07T22:03:33Z -->
+<!-- Carlos Espí | revision 2026-11-14T12:21:55Z -->
 {{short description|Spanish footballer (born 2005)}}
 {{family name hatnote|Espí|Escrihuela|lang=Spanish}}
 {{Use dmy dates|date=September 2024}}
@@ -42,12 +42,12 @@
 | national_team2 = [[Spain national under-20 football team|Spain U20]]
 | national_caps2 = 2
 | national_goals2 = 0
-| national_team3 = [[Spain national under-21 football team|Spain U21]]
 | national_years3 = 2026–
-| national_caps3 = 2
+| national_team3 = [[Spain national under-21 football team|Spain U21]]
+| national_caps3 = 3
 | national_goals3 = 5
 | club_update = 22:03, 7 November 2026 (UTC)
-| national_team_update = 06:56, 2 October 2026 (UTC)
+| national_team_update = 12:21, 14 November 2026 (UTC)
 }}
 '''Carlos Espí Escrihuela''' (born 24 July 2005) is a Spanish professional [[association football|footballer]] who plays as a [[striker (association football)|striker]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]].
 
@@ -141,7 +141,7 @@ On 13 February 2024, Espí was called up to the [[Spain national under-19 footba
 ==External links==
 *[https://www.realmadrid.com/en-US/football/first-team/players/carlos-espi Profile] at the Real Madrid CF website
 *{{BDFutbol|205639}}
-*{{Soccerway|carlos-espi-escrihuela/943135}}
+*{{Soccerway|new_id=espi-carlos/WURwLTen|id=carlos-espi-escrihuela/943135}}
 
 {{Real Madrid CF squad}}
 

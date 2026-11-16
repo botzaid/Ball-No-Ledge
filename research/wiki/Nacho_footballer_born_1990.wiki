@@ -1,4 +1,4 @@
-<!-- Nacho (footballer, born 1990) | revision 2026-11-08T17:17:00Z -->
+<!-- Nacho (footballer, born 1990) | revision 2026-11-12T13:50:27Z -->
 {{short description|Spanish footballer}}
 {{redirect|Nacho Fernández|other Spanish footballers with the same nickname|Nacho (disambiguation)}}
 {{Distinguish|Nacho (footballer, born 1967)}}
@@ -132,7 +132,7 @@ Nacho has four children with his wife María Cortés, two daughters and two sons
 
 ==Career statistics==
 ===Club===
-{{updated|match played 9 October 2026}}<ref>{{Soccerway|access-date=20 April 2014}}</ref><ref>{{ESPN FC}}</ref>
+{{updated|match played 9 October 2026}}<ref>{{Soccerway|new_id=nacho/8Wp8ZCLG}}</ref><ref>{{ESPN FC}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -326,7 +326,7 @@ Nacho has four children with his wife María Cortés, two daughters and two sons
 *{{Futbolme|7345}}
 *{{NFT}}
 *{{FIFA}}
-*{{Soccerway}}
+*{{Soccerway|new_id=nacho/8Wp8ZCLG}}
 
 {{Al-Qadisiyah FC squad}}
 {{Navboxes

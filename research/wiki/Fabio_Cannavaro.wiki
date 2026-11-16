@@ -1,4 +1,4 @@
-<!-- Fabio Cannavaro | revision 2026-11-09T02:16:43Z -->
+<!-- Fabio Cannavaro | revision 2026-11-12T21:21:20Z -->
 {{Short description|Italian footballer (born 1973)}}
 {{Redirect|Cannavaro|his younger brother|Paolo Cannavaro}}
 {{Use British English|date=October 2025}}
@@ -415,7 +415,7 @@ In February 2015, Cannavaro, his wife Daniela and his brother Paolo were respect
 |}
 
 ==Managerial statistics==
-{{updated|match played 6 October 2026}}
+{{updated|match played 12 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
@@ -490,17 +490,17 @@ In February 2015, Cannavaro, his wife Daniela and his brother Paolo were respect
 |{{flagicon|Uzbekistan}}
 |align="left"|6 October 2025
 |align="left"|Present
-{{WDL|14|5|2|7}}
+{{WDL|15|5|2|8}}
 |
 |-
 !colspan="4"|Career Total
-{{WDLtot|278|146|60|72}}
+{{WDLtot|279|146|60|73}}
 ! 
 |}
 
 ==Honours==
 ===Player===
-'''Parma'''<ref name="Fabio Cannavaro">{{cite web|url=https://www.uefa.com/news-media/news/01ed-0ea28499bbcb-ecf590e93e22-1000--fabio-cannavaro/|title=Fabio Cannavaro|website=[[UEFA]]|date=1 January 2011|access-date=15 April 2015|archive-date=20 March 2025|archive-url=https://web.archive.org/web/20250320055554/https://www.uefa.com/news-media/news/01ed-0ea28499bbcb-ecf590e93e22-1000--fabio-cannavaro/|url-status=live}}</ref><ref name="SW">{{cite web|url=https://int.soccerway.com/coaches/fabio-cannavaro/57/|title=F. Cannavaro|work=Soccerway|access-date=17 January 2018|archive-date=18 January 2018|archive-url=https://web.archive.org/web/20180118011317/https://int.soccerway.com/coaches/fabio-cannavaro/57/|url-status=live}}</ref>
+'''Parma'''<ref name="Fabio Cannavaro">{{cite web|url=https://www.uefa.com/news-media/news/01ed-0ea28499bbcb-ecf590e93e22-1000--fabio-cannavaro/|title=Fabio Cannavaro|website=[[UEFA]]|date=1 January 2011|access-date=15 April 2015|archive-date=20 March 2025|archive-url=https://web.archive.org/web/20250320055554/https://www.uefa.com/news-media/news/01ed-0ea28499bbcb-ecf590e93e22-1000--fabio-cannavaro/|url-status=live}}</ref><ref name="SW">{{cite web|url=https://int.soccerway.com/coaches/fabio-cannavaro/57/|title=F. Cannavaro|work=Soccerway|access-date=17 January 2018|archive-date=18 January 2018|archive-url=https://web.archive.org/web/20180118011317/https://int.soccerway.com/coaches/fabio-cannavaro/57/|url-status=dead}}</ref>
 *[[Coppa Italia]]: [[1998–99 Coppa Italia|1998–99]], [[2001–02 Coppa Italia|2001–02]]
 *[[Supercoppa Italiana]]: [[1999 Supercoppa Italiana|1999]]
 *[[UEFA Europa League|UEFA Cup]]: [[1999 UEFA Cup final|1998–99]]

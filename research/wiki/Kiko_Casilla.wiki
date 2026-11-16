@@ -1,4 +1,4 @@
-<!-- Kiko Casilla | revision 2026-11-02T22:12:42Z -->
+<!-- Kiko Casilla | revision 2026-11-13T02:26:29Z -->
 {{Short description|Spanish footballer (born 1986)}}
 {{family name hatnote|Casilla|Cortés|lang=Spanish}}
 {{Use dmy dates|date=September 2022}}
@@ -96,10 +96,11 @@ Casilla represented [[Spain national football team|Spain]] at [[Spain national u
 |-
 |rowspan="3"|[[Real Madrid Castilla]]
 |[[2005–06 Segunda División|2005–06]]
-|rowspan="2"|[[Segunda División]]
+|[[Segunda División]]
 |4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
 |-
 |[[2006–07 Segunda División|2006–07]]
+|Segunda División
 |1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
 |-
 !colspan="2"|Total
@@ -110,22 +111,37 @@ Casilla represented [[Spain national football team|Spain]] at [[Spain national u
 |[[Segunda División B]]
 |25||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||25||0
 |-
-|rowspan="6"|[[RCD Espanyol|Espanyol]]
+| rowspan="7" |[[RCD Espanyol|Espanyol]]
 |[[2007–08 La Liga|2007–08]]
-|rowspan="5"|[[La Liga]]
+|[[La Liga]]
 |4||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
 |-
+|[[2010–11 RCD Espanyol season|2010–11]]
+|La Liga
+|0
+|0
+| colspan="2" |—
+| colspan="2" |—
+| colspan="2" |—
+| colspan="2" |—
+|0
+|0
+|-
 |[[2011–12 RCD Espanyol season|2011–12]]
-|16||0||5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||0
+|La Liga
+|16||0||5||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||21||0
 |-
 |[[2012–13 RCD Espanyol season|2012–13]]
-|21||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||0
+|La Liga
+|21||0||2||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||23||0
 |-
 |[[2013–14 RCD Espanyol season|2013–14]]
-|37||0||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||41||0
+|La Liga
+|37||0||4||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||41||0
 |-
 |[[2014–15 RCD Espanyol season|2014–15]]
-|37||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||0
+|La Liga
+|37||0||0||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||37||0
 |-
 !colspan="2"|Total
 !115!!0!!11!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!126!!0
@@ -149,16 +165,19 @@ Casilla represented [[Spain national football team|Spain]] at [[Spain national u
 |-
 |rowspan="5"|[[Real Madrid CF|Real Madrid]]
 |[[2015–16 Real Madrid CF season|2015–16]]
-|rowspan="4"|La Liga
+|La Liga
 |4||0||1||0||colspan="2"|—||2{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||0||0||7||0
 |-
 |[[2016–17 Real Madrid CF season|2016–17]]
+|La Liga
 |11||0||6||0||colspan="2"|—||1{{efn|name=UCL}}||0||1{{efn|Appearance in [[UEFA Super Cup]]}}||0||19||0
 |-
 |[[2017–18 Real Madrid CF season|2017–18]]
+|La Liga
 |10||0||5||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||17||0
 |-
 |[[2018–19 Real Madrid CF season|2018–19]]
+|La Liga
 |0||0||0||0||colspan="2"|—||0||0||0||0||0||0
 |-
 !colspan="2"|Total
@@ -166,10 +185,11 @@ Casilla represented [[Spain national football team|Spain]] at [[Spain national u
 |-
 |rowspan="4"|[[Leeds United F.C|Leeds United]]
 |[[2018–19 Leeds United F.C. season|2018–19]]
-|rowspan="2"|[[EFL Championship|Championship]]
+|[[EFL Championship|Championship]]
 |17||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2{{efn|name=EFL|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||19||0
 |-
 |[[2019–20 Leeds United F.C. season|2019–20]]
+|Championship
 |36||0||0||0||2{{efn|name=EFLC|Appearances in [[EFL Cup]]}}||0||colspan="2"|—||colspan="2"|—||38||0
 |-
 |[[2020–21 Leeds United F.C. season|2020–21]]

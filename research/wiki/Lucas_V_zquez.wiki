@@ -1,4 +1,4 @@
-<!-- Lucas Vázquez | revision 2026-11-08T21:16:51Z -->
+<!-- Lucas Vázquez | revision 2026-11-13T05:55:52Z -->
 {{short description|Spanish footballer (born 1991)}}
 {{Use dmy dates|date=September 2020}}
 {{family name hatnote|Vázquez|Iglesias|lang=Spanish}}
@@ -216,7 +216,7 @@ Vázquez is married to Macarena Rodríguez, with whom he has three children: Luc
 |}
 
 ==Honours==
-'''Real Madrid Castilla'''<ref name="Soccerway">{{cite web|url=https://int.soccerway.com/players/lucas-vazquez-iglesias/205807/|title=Lucas Vázquez – Trophies|publisher=Soccerway|access-date=27 July 2016}}</ref>
+'''Real Madrid Castilla'''<ref name="Soccerway">{{cite web|url=https://www.soccerway.com/player/lucas/pEjBDsSH/|title=Lucas Vázquez – Trophies|publisher=Soccerway|access-date=27 July 2016}}</ref>
 *[[Segunda División B]]: [[2011–12 Segunda División B|2011–12]]
 
 '''Real Madrid'''<ref name="Soccerway"/>

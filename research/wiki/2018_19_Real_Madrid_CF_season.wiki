@@ -1,4 +1,4 @@
-<!-- 2018–19 Real Madrid CF season | revision 2026-09-23T04:47:25Z -->
+<!-- 2018–19 Real Madrid CF season | revision 2026-11-13T20:56:55Z -->
 {{Short description|115th season in existence of Real Madrid CF}}
 {{Infobox football club season
 | club               = [[Real Madrid CF|Real Madrid]]
@@ -249,7 +249,7 @@ Net income: {{decrease}} €30.75M</small>
 |goals2       = [[Gonzalo Higuaín|Higuaín]] {{goal|4}}
 |stadium      = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
 |location     = [[Madrid]], [[Spain]]
-|attendance   = 54,294<ref>{{cite web|url=https://www.soccerway.com/matches/2018/08/11/world/club-friendlies/real-madrid-club-de-futbol/ac-milan/2890525/?ICID=HP_MS_390_01|title=Real Madrid vs. Milan - 11 August 2018 - Soccerway|website=int.soccerway.com}}</ref>
+|attendance   = 54,294<ref>{{cite web|url=https://www.soccerway.com/matches/2018/08/11/world/club-friendlies/real-madrid-club-de-futbol/ac-milan/2890525/?ICID=HP_MS_390_01|title=Real Madrid vs. Milan - 11 August 2018 - Soccerway|website=Soccerway}}</ref>
 |referee      = [[Xavier Estrada Fernández]]
 |result       = W
 }}
@@ -264,7 +264,7 @@ Net income: {{decrease}} €30.75M</small>
 |c4=[[2018 UEFA Super Cup|UEFA Super Cup]]             |fm4=15 August 2018 |lm4=15 August 2018  |sr4=Final |fp4=Runners-up |w4=0 |d4=0 |l4=1 |f4=2 |a4=4
 |c5=[[2018 FIFA Club World Cup|FIFA Club World Cup]]   |fm5=19 December 2018|lm5=22 December 2018|sr5=Semi-finals |fp5=Winners |w5=2 |d5=0 |l5=0 |f5=7 |a5=2
 |u=19 May 2019
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===
@@ -1654,7 +1654,7 @@ Madrid joined the competition in the semi-finals.
 !Copa del Rey
 !UEFA CL
 !Other<sup>1</sup>
-!Total<ref name=SW>{{cite web|url=https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/|title=Spain - Real Madrid CF - Results, fixtures, squad, statistics, photos, videos and news - Soccerway|website=www.soccerway.com}}</ref>
+!Total<ref name=SW>{{cite web|url=https://www.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/squad/|title=Spain - Real Madrid CF - Results, fixtures, squad, statistics, photos, videos and news - Soccerway|website=Soccerway}}</ref>
 |-
 |align=center|1
 |{{flagicon|FRA|1974}} [[Karim Benzema]]

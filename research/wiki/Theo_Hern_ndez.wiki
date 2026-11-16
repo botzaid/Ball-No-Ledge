@@ -1,4 +1,4 @@
-<!-- Théo Hernandez | revision 2026-10-31T20:18:57Z -->
+<!-- Théo Hernandez | revision 2026-11-11T20:55:51Z -->
 {{short description|French footballer (born 1997)}}
 {{Use dmy dates|date=December 2022}}
 {{Infobox football biography
@@ -127,7 +127,7 @@ He has been dating Italian model Zoe Cristofoli since June 2020.<ref>{{cite web 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 19 October 2026}}<ref name=Soccerway>{{cite web |url=https://int.soccerway.com/players/theo-bernard-francois-hernand/372541/ |title=T. Hernández |website=Soccerway |publisher=Perform Group|access-date=22 May 2022}}</ref><ref>{{LaPreferente|190750<!-- /theo-hernandez -->}}</ref>
+{{updated|match played 3 November 2026}}<ref name=Soccerway>{{cite web |url=https://www.soccerway.com/player/hernandez-theo/ATurLHr0/ |title=T. Hernández |website=Soccerway |publisher=Perform Group|access-date=22 May 2022}}</ref><ref>{{LaPreferente|190750<!-- /theo-hernandez -->}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -197,13 +197,13 @@ He has been dating Italian model Zoe Cristofoli since June 2020.<ref>{{cite web 
 |-
 |[[2026–27 Al Hilal SFC season|2026–27]]
 |Saudi Pro League
-|5||1||1||0||1{{efn|name=AFC}}||0||colspan="2"|—||7||1
+|7||1||1||0||3{{efn|name=AFC}}||0||colspan="2"|—||11||1
 |-
 !colspan="2"|Total
-!36!!6!!6!!2!!9!!2!!colspan="2"|—!!51!!10
+!38!!6!!6!!2!!11!!2!!colspan="2"|—!!55!!10
 |-
 !colspan="3"|Career total
-!309!!39!!38!!4!!60!!3!!5!!1!!412!!47
+!311!!39!!38!!4!!62!!3!!5!!1!!416!!47
 |}
 {{notelist}}
 

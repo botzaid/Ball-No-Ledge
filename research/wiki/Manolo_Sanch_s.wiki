@@ -1,4 +1,4 @@
-<!-- Manolo Sanchís | revision 2026-10-22T05:18:37Z -->
+<!-- Manolo Sanchís | revision 2026-11-11T18:39:42Z -->
 {{short description|Spanish footballer}}
 {{family name hatnote|Sanchís|Hontiyuelo|lang=Spanish}}
 {{Use dmy dates|date=May 2021}}
@@ -12,34 +12,14 @@
  | height = 1.77 m<ref name=Bio/>
  | position = [[Sweeper (association football)|Sweeper]]
  | current_club =
- | youth_years1 = 1979–1983
- | youth_clubs1 = [[Real Madrid CF (youth)|Real Madrid]]
- | years1 = 1983–1984
- | clubs1 = [[Real Madrid Castilla|Castilla]]
- | caps1 = 10
- | goals1 = 2
- | years2 = 1983–2001
- | clubs2 = [[Real Madrid CF|Real Madrid]]
- | caps2 = 523
- | goals2 = 33
- | total_caps = 533
- | total_goals = 35
- | national_years1 = 1983
- | national_team1 = [[Spain national under-18 football team|Spain U18]]
- | national_caps1 = 6
- | national_goals1 = 1
- | national_years2 = 1983–1986
- | national_team2 = [[Spain national under-21 football team|Spain U21]]
- | national_caps2 = 16
- | national_goals2 = 0
- | national_years3 = 1986–1987
- | national_team3 = [[Spain national under-23 football team|Spain U23]]
- | national_caps3 = 2
- | national_goals3 = 0
- | national_years4 = 1986–1992
- | national_team4 = [[Spain national football team|Spain]]
- | national_caps4 = 48
- | national_goals4 = 1
+ | youth_years1 = 1979–1983 | youth_clubs1 = [[Real Madrid CF (youth)|Real Madrid]]
+ | years1 = 1983–1984 | clubs1 = [[Real Madrid Castilla|Castilla]] | caps1 = 10 | goals1 = 2
+ | years2 = 1983–2001 | clubs2 = [[Real Madrid CF|Real Madrid]] | caps2 = 523 | goals2 = 33
+ | total_caps = 533 | total_goals = 35
+ | national_years1 = 1983 | national_team1 = [[Spain national under-18 football team|Spain U18]] | national_caps1 = 6 | national_goals1 = 1
+ | national_years2 = 1983–1986 | national_team2 = [[Spain national under-21 football team|Spain U21]] | national_caps2 = 16 | national_goals2 = 0
+ | national_years3 = 1986–1987 | national_team3 = [[Spain national under-23 football team|Spain U23]] | national_caps3 = 2 | national_goals3 = 0
+ | national_years4 = 1986–1992 | national_team4 = [[Spain national football team|Spain]] | national_caps4 = 48 | national_goals4 = 1
  | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{ESP}}}}
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}

@@ -1,4 +1,4 @@
-<!-- Aurélien Tchouaméni | revision 2026-11-08T09:18:58Z -->
+<!-- Aurélien Tchouaméni | revision 2026-11-12T06:51:56Z -->
 {{short description|French footballer (born 2000)}}
 {{Use British English|date=December 2022}}
 {{Use dmy dates|date=July 2024}}
@@ -111,7 +111,7 @@ On 14 May 2026, Tchouaméni was selected in the 26-man squad for the [[2026 FIFA
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}<ref>{{cite web |url=https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
+{{updated|match played 7 November 2026}}<ref>{{cite web |url=https://www.soccerway.com/player/tchouameni-aurelien/QkiZum3e/ |title=A. Tchouaméni: Summary |website=Soccerway |publisher=Perform Group |access-date=6 March 2026 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019214426/https://int.soccerway.com/players/aurelien-tchouaemi/466684/ |url-status=live }}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition

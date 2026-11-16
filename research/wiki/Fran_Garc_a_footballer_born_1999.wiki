@@ -1,4 +1,4 @@
-<!-- Fran García (footballer, born 1999) | revision 2026-11-08T14:57:08Z -->
+<!-- Fran García (footballer, born 1999) | revision 2026-11-12T22:34:01Z -->
 {{short description|Spanish footballer (born 1999)}}
 {{other people|Fran García}}
 {{Use dmy dates|date=February 2025}}
@@ -106,7 +106,7 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 
 ==Career statistics==
 ===Club===
-{{updated|match played 8 November 2026}}<ref name=SW>{{Soccerway|francisco-garcia/439039|access-date=23 September 2025}}</ref>
+{{updated|match played 12 November 2026}}<ref name=SW>{{Soccerway|new_id=fran-garcia/tURBbW9S|id=francisco-garcia/439039|access-date=23 September 2025}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -173,10 +173,10 @@ On 12 October 2023, García made his international debut for Spain during a [[UE
 |[[Real Betis]]
 |[[2026–27 Real Betis season|2026–27]]
 |La Liga
-|10||0||0||0||4{{efn|name=UCL}}||0||colspan="2"|—||14||0
+|10||0||1||0||4{{efn|name=UCL}}||0||colspan="2"|—||15||0
 |-
 !colspan="3"|Career total
-!245!!7!!20!!1!!24!!0!!15!!1!!303!!9
+!245!!7!!21!!1!!24!!0!!15!!1!!304!!9
 |}
 {{notelist}}
 

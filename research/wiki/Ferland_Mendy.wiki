@@ -1,4 +1,4 @@
-<!-- Ferland Mendy | revision 2026-10-26T23:39:23Z -->
+<!-- Ferland Mendy | revision 2026-11-13T03:00:54Z -->
 {{short description|French footballer (born 1995)}}
 {{Use British English|date=June 2019}}
 {{Use dmy dates|date=July 2024}}
@@ -149,7 +149,7 @@ At the age of 15, Mendy spent time in a wheelchair after hip surgery and was tol
 |La Liga
 |22||2||1||0||colspan=2|—||10{{efn|name=UCL}}||0||2{{efn|name=SC}}||0||35||2
 |-
-|[[2022–23 Real Madrid CF season|2022–23]]<ref name=Soccerway>{{cite web |url=https://int.soccerway.com/players/ferland-mendy/311836/ |title=F. Mendy: Summary |website=Soccerway |publisher=Perform Group |access-date=15 January 2023}}</ref>
+|[[2022–23 Real Madrid CF season|2022–23]]<ref name=Soccerway>{{cite web |url=https://www.soccerway.com/player/mendy-ferland/KnytnSKl/ |title=F. Mendy: Summary |website=Soccerway |publisher=Perform Group |access-date=15 January 2023}}</ref>
 |La Liga
 |18||0||2||0||colspan=2|—||5{{efn|name=UCL}}||0||3{{efn|name=USCSC|One appearance in [[UEFA Super Cup]], two appearances in Supercopa de España}}||0||28||0
 |-

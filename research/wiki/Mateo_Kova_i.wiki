@@ -1,4 +1,4 @@
-<!-- Mateo Kovačić | revision 2026-10-30T19:12:41Z -->
+<!-- Mateo Kovačić | revision 2026-11-15T23:31:23Z -->
 {{Short description|Croatian footballer (born 1994)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
@@ -63,7 +63,7 @@
 | national_goals5 = 0
 | national_years6 = 2013–
 | national_team6 = [[Croatia national football team|Croatia]]
-| national_caps6 = 121
+| national_caps6 = 123
 | national_goals6 = 5
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|CRO}}}}
@@ -73,7 +73,7 @@
 {{Medal|Competition|[[UEFA Nations League]]}}
 {{Medal|RU|[[2023 UEFA Nations League Finals|2023 Netherlands]]|}}
 | club_update = 23:05, 17 October 2026 (UTC)
-| national_team_update = 18:18, 7 October 2026 (UTC)
+| national_team_update = 23:30, 15 November 2026 (UTC)
 }}
 '''Mateo Kovačić''' ({{IPA|hr|matěo kǒʋatʃitɕ}};<ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=e1tnXBk%3D&keyword=Sv.|title=Màtej|quote=Matèo|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh|archive-date=1 March 2020|archive-url=https://web.archive.org/web/20200301183838/http://hjp.znanje.hr/index.php?show=search_by_id&id=e1tnXBk%3D&keyword=Sv.|url-status=live}}</ref><ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=ellgUBQ%3D|title=kòvati|quote=Kòvačič|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh|archive-date=17 December 2019|archive-url=https://web.archive.org/web/20191217035538/http://hjp.znanje.hr/index.php?show=search_by_id&id=ellgUBQ=|url-status=live}}</ref> born 6 May 1994) is a <!-- Do not add Austrian born or Croatian! Per MOS:BLPLEAD, MOS:CONTEXTBIO, WP:MOSETHNICITY, and WP:FOOTY, unless ethnicity contributes to notability, it should not be mentioned in the lede. It should be left ambiguous, as he was born in a nation different than that which he represents internationally. --> professional [[Association football|footballer]] who plays as a [[central midfielder]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Croatia national football team|Croatia national team]].
 
@@ -290,7 +290,7 @@ In 2017, Kovačić married his longtime girlfriend Izabel Andrijanić.<ref>{{cit
 {{notelist}}
 
 ===International===
-{{updated|match played 6 October 2026}}<ref name="wfnat">{{cite web |url=https://www.worldfootball.net/person/pe234396/mateo-kovacic/international-matches/ |title=Mateo Kovačić: Internationals |website=WorldFootball.net |publisher=HEIM:SPIEL |access-date=18 August 2024 |archive-url=https://web.archive.org/web/20230429225919/https://www.worldfootball.net/player_summary/mateo-kovacic/4/ |archive-date=29 April 2023 |url-status=live}}</ref>
+{{updated|match played 15 November 2026}}<ref name="wfnat">{{cite web |url=https://www.worldfootball.net/person/pe234396/mateo-kovacic/international-matches/ |title=Mateo Kovačić: Internationals |website=WorldFootball.net |publisher=HEIM:SPIEL |access-date=18 August 2024 |archive-url=https://web.archive.org/web/20230429225919/https://www.worldfootball.net/player_summary/mateo-kovacic/4/ |archive-date=29 April 2023 |url-status=live}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -323,9 +323,9 @@ In 2017, Kovačić married his longtime girlfriend Izabel Andrijanić.<ref>{{cit
 |-
 |2025||3||0
 |-
-|2026||10||0
+|2026||12||0
 |-
-!colspan="2"|Total||121||5
+!colspan="2"|Total||123||5
 |}
 
 {{updated|match played 2 July 2026}}

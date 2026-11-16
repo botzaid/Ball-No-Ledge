@@ -1,4 +1,4 @@
-<!-- Sami Khedira | revision 2026-11-05T03:07:47Z -->
+<!-- Sami Khedira | revision 2026-11-12T15:29:08Z -->
 {{short description|German footballer (born 1987)}}
 {{redirect|Khedira|his younger brother (also a footballer)|Rani Khedira}}
 {{pp-blp|small=yes}}
@@ -329,7 +329,7 @@ Khedira was born in [[Stuttgart]], Baden-Württemberg to a Tunisian father and a
 ==Honours==
 [[File:Sami Khedira.jpg|thumb|200px|Khedira celebrates winning the [[Bundesliga]] with [[VfB Stuttgart]] in [[2006–07 Bundesliga|2007]].]]
 
-'''VfB Stuttgart'''<ref name="soccerway">{{cite web | url = https://int.soccerway.com/players/sami-khedira/4519/ | title = S. Khedira | publisher = soccerway.com | access-date = 17 July 2014}}</ref>
+'''VfB Stuttgart'''<ref name="soccerway">{{cite web | url = https://int.soccerway.com/players/sami-khedira/4519/ | archive-url = https://web.archive.org/web/20130203223833/http://int.soccerway.com/players/sami-khedira/4519/ | url-status = dead | archive-date = 3 February 2013 | title = S. Khedira | publisher = soccerway.com | access-date = 17 July 2014}}</ref>
 *[[Bundesliga]]: [[2006–07 Bundesliga|2006–07]]<ref name="fussballdaten.de">{{cite web | url = http://www.fussballdaten.de/spieler/khedirasami/2014/ | title = Sami Khedira | language = de | publisher = fussballdaten.de | access-date = 17 July 2014}}</ref>
 
 '''Real Madrid'''<ref name="soccerway"/>

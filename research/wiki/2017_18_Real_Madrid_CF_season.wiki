@@ -1,4 +1,4 @@
-<!-- 2017–18 Real Madrid CF season | revision 2026-09-23T04:44:13Z -->
+<!-- 2017–18 Real Madrid CF season | revision 2026-11-12T22:31:49Z -->
 {{Use dmy dates|date=December 2021}}
 {{Infobox football club season
 | club               = [[Real Madrid C.F.|Real Madrid]]
@@ -314,7 +314,7 @@ Net income: {{increase}} €100.5M</small>
 |c5=[[2017 UEFA Super Cup|UEFA Super Cup]]             |dm5=8 August 2017 |sr5=Final |fp5=Winners |w5=1 |d5=0 |l5=0 |f5=2 |a5=1
 |c6=[[2017 FIFA Club World Cup|FIFA Club World Cup]]   |fm6=13 December 2017 |lm6=16 December 2017 |sr6=Semi-finals |fp6=Winners |w6=2 |d6=0 |l6=0 |f6=3 |a6=1
 |u=26 May 2018
-|s=[https://int.soccerway.com/teams/spain/real-madrid-club-de-futbol/2016/ Soccerway]
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
 }}
 
 ===La Liga===

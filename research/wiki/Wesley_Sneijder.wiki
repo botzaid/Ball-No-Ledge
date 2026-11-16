@@ -1,4 +1,4 @@
-<!-- Wesley Sneijder | revision 2026-11-05T03:32:21Z -->
+<!-- Wesley Sneijder | revision 2026-11-12T17:54:20Z -->
 {{short description|Dutch footballer (born 1984)}}
 {{Use dmy dates|date=December 2024}}
 {{Infobox football biography
@@ -125,7 +125,7 @@ Sneijder made his 100th Inter appearance on 26 February by playing the first hal
 ====2012–13: Decline and departure====
 Sneijder's season begun on 2 August by playing against [[HNK Hajduk Split|Hajduk Split]] in the first leg of [[2012–13 UEFA Europa League]] [[2012–13 UEFA Europa League qualifying phase and play-off round#Hajduk Split v Internazionale|third qualifying round]]. He scored the team's first goal of the season which contributed in a comfortable 3–0 away win.<ref>{{cite web|url=https://www.uefa.com/uefaeuropaleague/match/2009793--hajduk-split-vs-inter/|title=Hajduk Split 0-3 Internazionale|publisher=[[UEFA]]|date=2 August 2012|access-date=20 October 2018}}</ref> He was on the score-sheet again twenty-four days later in the season opener against [[Delfino Pescara 1936|Pescara]] (3–0).<ref>{{cite web|url=https://www.goal.com/en/news/723/serie-a/2012/08/26/3332773/pescara-0-3-inter-sneijder-milito-and-coutinho-secure|title=Pescara 0–3 Inter: Sneijder, Milito and Coutinho secure dominant win|publisher=Goal.com|author=Mark Doyle|date=26 August 2012|access-date=20 October 2018}}</ref>
 
-Sneijder suffered another misfortune on 26 September as he was taken off after 26 minutes in the league game against Chievo.<ref>{{cite web|url=https://int.soccerway.com/matches/2012/09/26/italy/serie-a/ac-chievo-verona/fc-internazionale-milano/1351293/|title=Chievo vs. Internazionale 0 – 2|publisher=Soccerway|date=26 September 2012|access-date=20 October 2018}}</ref> It turned out to be his last appearance for the team as he and the club didn't find a mutual agreement for the new contract.<ref name="Departure">{{cite web|url=https://www.mirror.co.uk/sport/football/news/serie-a-why-wesley-sneijder-and-inter-1473954|title=The end of the love affair: Why Wesley Sneijder and Inter are set to go their separate ways|publisher=Mirror.co.uk|author=Mina Rzouki|date=5 December 2012|access-date=20 October 2018}}</ref> Despite recovering from the injury, Sneijder wasn't called up in the squad, with president Massimo Moratti describing it as a "technical decision" of the coach.<ref name="Departure"/> The club offered him a contract running until 2016 with a wage of €6 million plus bonuses to €4 million which Sneijder, who earned around €14,7 million, turned down.<ref>{{cite web|url=https://www.mirror.co.uk/sport/football/transfer-news/wesley-sneijder-tells-inter-milan-1509833|title=Out of Dutch: Wesley Sneijder tells Inter Milan he wants to leave NOW!|publisher=Mirror.co.uk|author=Jim Hughes|date=29 December 2012|access-date=20 October 2018}}</ref>
+Sneijder suffered another misfortune on 26 September as he was taken off after 26 minutes in the league game against Chievo.<ref>{{cite web|url=https://int.soccerway.com/matches/2012/09/26/italy/serie-a/ac-chievo-verona/fc-internazionale-milano/1351293/|archive-url=https://web.archive.org/web/20140118231401/http://int.soccerway.com/matches/2012/09/26/italy/serie-a/ac-chievo-verona/fc-internazionale-milano/1351293/|url-status=dead|archive-date=18 January 2014|title=Chievo vs. Internazionale 0 – 2|publisher=Soccerway|date=26 September 2012|access-date=20 October 2018}}</ref> It turned out to be his last appearance for the team as he and the club didn't find a mutual agreement for the new contract.<ref name="Departure">{{cite web|url=https://www.mirror.co.uk/sport/football/news/serie-a-why-wesley-sneijder-and-inter-1473954|title=The end of the love affair: Why Wesley Sneijder and Inter are set to go their separate ways|publisher=Mirror.co.uk|author=Mina Rzouki|date=5 December 2012|access-date=20 October 2018}}</ref> Despite recovering from the injury, Sneijder wasn't called up in the squad, with president Massimo Moratti describing it as a "technical decision" of the coach.<ref name="Departure"/> The club offered him a contract running until 2016 with a wage of €6 million plus bonuses to €4 million which Sneijder, who earned around €14,7 million, turned down.<ref>{{cite web|url=https://www.mirror.co.uk/sport/football/transfer-news/wesley-sneijder-tells-inter-milan-1509833|title=Out of Dutch: Wesley Sneijder tells Inter Milan he wants to leave NOW!|publisher=Mirror.co.uk|author=Jim Hughes|date=29 December 2012|access-date=20 October 2018}}</ref>
 
 Sneijder left the club officially on 20 January in favour of signing with Turkey's Galatasaray, concluding his Inter spell with 116 games and 22 goals, also winning six trophies.<ref>{{cite web|url=https://www.inter.it/en/archivio_giocatore/G0856|title=Wesley Sneijder|publisher=inter.it|access-date=20 October 2018}}</ref>
 
@@ -219,7 +219,7 @@ In October 2008, Dutch magazine ''[[Voetbal International]]'' conducted a poll t
 
 ===Club===
 {| class="wikitable sortable" style="text-align:center"
-|+ Appearances and goals by club, season and competition<ref>{{Soccerway|34|access-date=8 August 2017}}</ref>
+|+ Appearances and goals by club, season and competition<ref>{{Soccerway|34|access-date=8 August 2017|archive=20241130081122}}</ref>
 |-
 !rowspan="2"|Club
 !rowspan="2"|Season
@@ -418,7 +418,7 @@ In October 2008, Dutch magazine ''[[Voetbal International]]'' conducted a poll t
 |-
 | 24. || 2 June 2012 || [[Amsterdam Arena]], [[Amsterdam]], Netherlands || {{fb|NIR}} || align=center | 2–0 || align=center | 6–0 || rowspan="2" |[[Exhibition game|Friendly]]
 |-
-| 25. || 11 June 2013 || [[Workers Stadium]], [[Beijing]], [[China]] || {{fb|CHN}} || align=center | 2–0 || align=center | 2–0 
+| 25. || 11 June 2013 || [[Workers Stadium]], [[Beijing]], China || {{fb|CHN}} || align=center | 2–0 || align=center | 2–0 
 |-
 | 26. || 15 October 2013 || [[Şükrü Saracoğlu Stadium]], [[Istanbul]], [[Turkey]] || {{fb|TUR}} || align=center | 2–0 || align=center | 2–0 || [[2014 FIFA World Cup qualification – UEFA Group D|2014 FIFA World Cup qualification]]
 |-
@@ -437,7 +437,7 @@ In October 2008, Dutch magazine ''[[Voetbal International]]'' conducted a poll t
 ==Honours==
 [[File:Sneijder Heitinga.jpg|thumb|Sneijder (left, with a [[Vuvuzela]]) and [[John Heitinga]] were teammates at Ajax]]
 
-'''Ajax'''<ref name="SW">{{cite web|url=https://int.soccerway.com/players/wesley-sneijder/34/|title=W. Sneijder|publisher=Soccerway|access-date=13 August 2016}}</ref>
+'''Ajax'''<ref name="SW">{{cite web|url=https://int.soccerway.com/players/wesley-sneijder/34/|archive-url=https://web.archive.org/web/20130203062039/http://int.soccerway.com/players/wesley-sneijder/34/|url-status=dead|archive-date=3 February 2013|title=W. Sneijder|publisher=Soccerway|access-date=13 August 2016}}</ref>
 * [[Eredivisie]]: [[2003–04 Eredivisie|2003–04]]
 * [[KNVB Cup]]: [[2005–06 KNVB Cup|2005–06]], [[2006–07 KNVB Cup|2006–07]]
 * [[Johan Cruyff Shield]]: [[2006 Johan Cruyff Shield|2006]]

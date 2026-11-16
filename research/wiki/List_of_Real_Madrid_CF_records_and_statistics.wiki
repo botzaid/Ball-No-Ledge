@@ -1,4 +1,4 @@
-<!-- List of Real Madrid CF records and statistics | revision 2026-11-07T23:50:01Z -->
+<!-- List of Real Madrid CF records and statistics | revision 2026-11-15T03:18:42Z -->
 {{Short description|None}}
 {{Use dmy dates|date=September 2018}}
 [[File:Ronaldo vs. FC Schalke 04 (16854146922).jpg|thumb|upright|[[Cristiano Ronaldo]] is [[Real Madrid CF|Real Madrid]]'s all-time leading goalscorer with 450 goals in 438 games in total.|alt=A man in a white shirt and shorts looking upwards.]]
@@ -53,12 +53,9 @@ The club currently holds the record for the most [[UEFA Champions League|Europea
 * Most appearances in [[UEFA Champions League]]: '''152''' – {{flagicon|ESP}} [[Iker Casillas]]
 * Most appearances in [[UEFA Cup Winners' Cup|European Cup Winners' Cup]]: '''16''' – {{flagicon|ESP|1945}} [[Goyo Benito]]
 * Most appearances in [[UEFA Europa League|UEFA Cup]]: '''44''' –  {{flagicon|ESP}} [[Míchel (footballer, born 1963)|Míchel]]
-
 * Most appearances in [[UEFA Super Cup]]: '''6'''
-
 **{{flagicon|ESP}} [[Dani Carvajal]]
 **{{flagicon|CRO}} [[Luka Modrić]]
-
 * Most appearances in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]: '''3'''
 **{{flagicon|ESP|1945}} [[Pachín]]
 **{{flagicon|ESP}} [[Fernando Hierro]]
@@ -375,6 +372,10 @@ This table lists players who have scored more than 40 goals in a single season. 
 ** {{flagicon|ESP|1874}} [[Gaspar Rubio]], 16 December 1928 – 27 January 1929
 ** {{flagicon|HUN}}{{flagicon|ESP|1945}} [[Ferenc Puskás]], 19 June 1960 – 1 June 1961
 *Most consecutive matches with goals in [[UEFA Champions League]]: '''11'''&nbsp;– {{flagicon|POR}} [[Cristiano Ronaldo]], 3 June 2017 – 11 April 2018<ref>{{cite web|url=https://www.tudn.com/futbol/uefa-champions-league/cristiano-el-pulverizador-de-records-primer-jugador-en-marcar-en-11-partidos-seguidos-de-champions |title=Cristiano, el pulverizador de récords: primer jugador en marcar en 11 partidos seguidos de Champions |date=11 April 2018 |publisher=TUDN |access-date=7 September 2024}}</ref> <span style="color:green"><sup>(Record)</sup></span>
+*Most consecutive home matches with goals: '''10'''
+** {{flagicon|ESP|1945}} [[Pruden]], 31 March 1946 – 17 November 1946{{refn|group=note|The run comprised four matches at the [[Estadio Chamartín|Chamartín]], which served as [[Real Madrid CF|Real Madrid]]'s home ground, and six at the [[Estadio Metropolitano de Madrid|Metropolitano de Madrid]], which the club temporarily adopted as its home venue during the 1946–1947 years. During this period, Real Madrid played its official home fixtures at the Metropolitano while construction was underway on the ''Real Madrid Football Stadium'' (now known as the [[Bernabéu (stadium)|Bernabéu]]), with the club subsequently relocating to the new stadium.}}
+** {{flagicon|ARG}}{{flagicon|COL}}{{flagicon|ESP|1945}} [[Alfredo Di Stéfano]], 15 January 1956 – 9 September 1956
+*Most consecutive away matches with goals: '''8'''&nbsp;– {{flagicon|POR}} [[Cristiano Ronaldo]], 20 September 2014 – 26 November 2014
 
 ==== Hat-tricks ====
 {{Main|List of Real Madrid CF hat-tricks}}

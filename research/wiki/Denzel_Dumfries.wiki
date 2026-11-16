@@ -1,4 +1,4 @@
-<!-- Denzel Dumfries | revision 2026-11-05T04:45:35Z -->
+<!-- Denzel Dumfries | revision 2026-11-14T05:07:16Z -->
 {{short description|Dutch  footballer (born 1996)}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
@@ -51,7 +51,7 @@
 | national_goals3 = 0
 | national_years4 = 2018–
 | national_team4 = [[Netherlands national football team|Netherlands]]
-| national_caps4 = 80
+| national_caps4 = 81
 | national_goals4 = 11
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|NED}}}}
@@ -60,7 +60,7 @@
 {{Medal|Comp|[[UEFA Nations League]]}}
 {{Medal|RU|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
 | club_update = 22:05, 25 October 2026 (UTC)
-| national_team_update = 16:05, 5 October 2026 (UTC)
+| national_team_update = 22:05, 13 November 2026 (UTC)
 }}
 '''Denzel Justus Morris Dumfries''' (born 18 April 1996) is a Dutch professional footballer who plays as a [[right-back]] or [[right wing-back]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Netherlands national football team|Netherlands national team]].
 
@@ -181,7 +181,7 @@ Dumfries is a devout [[Christianity|Christian]], and states that he prays along 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 4 November 2026}}<ref>{{Soccerway|335401|name=Denzel Dumfries|access-date=13 May 2026}}</ref>
+{{updated|match played 4 November 2026}}<ref>{{Soccerway|new_id=dumfries-denzel/QR0j1ejk|id=335401|name=Denzel Dumfries|access-date=13 May 2026}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -267,7 +267,7 @@ Dumfries is a devout [[Christianity|Christian]], and states that he prays along 
 {{notelist}}
 
 ===International===
-{{updated|match played 4 October 2026}}<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/55021/Denzel_Dumfries.html|title=Dumfries, Denzel|website=National Football Teams|access-date=18 April 2017}}</ref>
+{{updated|match played 13 November 2026}}<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/55021/Denzel_Dumfries.html|title=Dumfries, Denzel|website=National Football Teams|access-date=18 April 2017}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by national team and year
@@ -295,9 +295,9 @@ Dumfries is a devout [[Christianity|Christian]], and states that he prays along 
 |-
 |2025||6||2
 |-
-|2026||11||0
+|2026||12||0
 |-
-!colspan="2"|Total||80||11
+!colspan="2"|Total||81||11
 |}
 
 :''Scores and results list Aruba's goal tally first, score column indicates score after each Dumfries goal.''<ref name="NFT" />

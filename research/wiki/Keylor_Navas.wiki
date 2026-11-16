@@ -1,4 +1,4 @@
-<!-- Keylor Navas | revision 2026-10-29T23:49:52Z -->
+<!-- Keylor Navas | revision 2026-11-09T23:32:05Z -->
 {{Short description|Costa Rican footballer (born 1986)}}
 {{family name hatnote|Navas|Gamboa|lang=Spanish}}
 {{Use dmy dates|date=December 2022}}
@@ -50,7 +50,7 @@
 | goals8 = 0
 | years9 = 2025–
 | clubs9 = [[Pumas UNAM]]
-| caps9 = 52
+| caps9 = 54
 | goals9 = 0
 | national_years1 = 2003
 | national_team1 = [[Costa Rica national under-17 football team|Costa Rica U17]]
@@ -64,7 +64,7 @@
 | national_team3 = [[Costa Rica national football team|Costa Rica]]
 | national_caps3 = 129
 | national_goals3 = 0
-| club_update = 23:39, 27 September 2026 (UTC)
+| club_update = 23:39, 7 November 2026 (UTC)
 | national_team_update = 4 October 2026
 }}
 '''Keilor Antonio Navas Gamboa''' ({{IPA|es|ˈkej.lor anˈto.njo ˈna.βas ɣamˈbo.a|lang}};<ref>{{cite web|date=23 March 2017|title=Entrevista a Keylor Navas - Portero Real Madrid|trans-title=Interview with Keylor Navas - Real Madrid Goalkeeper|url=https://www.youtube.com/watch?v=pNsicQ-iFKY&t=16s|access-date=22 February 2024|website=[[YouTube]]|publisher=Fútbol Emotion|language=es}}</ref> born 15 December 1986), known as '''Keylor Navas''', is a Costa Rican professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for and captains [[Liga MX]] club [[Pumas UNAM]] and the [[Costa Rica national football team|Costa Rica national team]]. He is regarded as one of the best goalkeepers of his generation, and one of the greatest ever [[CONCACAF]] goalkeepers.<ref>{{cite news|last=Fernandez|first=Ileana|date=12 March 2023|title=Keylor Navas included in IFFHS men's all time world best goalkeeper ranking|url=https://ticotimes.net/2023/03/12/keylor-navas-included-in-iffhs-mens-all-time-world-best-goalkeeper-ranking|access-date=25 June 2024|work=[[The Tico Times]]}}</ref><ref>{{cite news|date=15 January 2021|title=Keylor Navas ranked among the best goalkeepers of the decade|last=Claro|first=Marco|url=https://www.marca.com/en/football/international-football/2021/01/15/6001eb34ca474191768b45d6.html|access-date=23 February 2026|work=[[Marca (newspaper)|Marca]]}}</ref><ref>{{cite web|last=Sharpless|first=Hunter|date=29 July 2019|title=Real Madrid's Keylor Navas Is The Greatest Concacaf Goalkeeper Of All Time|url=https://www.flofc.com/articles/6542848-real-madrids-keylor-navas-is-the-greatest-concacaf-goalkeeper-of-all-time|access-date=25 June 2024|website=FloFC}}</ref><ref>{{cite web|last=Rachini|first=Mouhamad|date=23 April 2020|title=The 50: Top 10 North & Central American goalkeepers of all time.|url=https://btsgoalies.com/2020/04/23/top-10-north-central-america-goalkeepers/|access-date=25 June 2024|website=Between the Sticks}}</ref>
@@ -174,7 +174,7 @@ In June 2024, a report from [[BFM TV]] detailed that a former employee filed a c
 
 ==Career statistics==
 ===Club===
-{{updated|match played 27 September 2026}}<ref>{{cite web|title=Soccer Base profile|url=http://www.soccerbase.com/players/player.sd?player_id=43024|website=Soccerbase|access-date=11 March 2015}}</ref><ref>{{Soccerway|new_id=navas-keylor/dQEusiKl|access-date=18 October 2026}}</ref><ref>{{cite web|title=As profile|url=https://as.com/resultados/ficha/deportista/navas/19252/|publisher=[[Diario AS|AS.com]]|access-date=23 February 2026}}</ref>
+{{updated|match played 7 November 2026}}<ref>{{cite web|title=Soccer Base profile|url=http://www.soccerbase.com/players/player.sd?player_id=43024|website=Soccerbase|access-date=11 March 2015}}</ref><ref>{{Soccerway|new_id=navas-keylor/dQEusiKl|access-date=18 October 2026}}</ref><ref>{{cite web|title=As profile|url=https://as.com/resultados/ficha/deportista/navas/19252/|publisher=[[Diario AS|AS.com]]|access-date=23 February 2026}}</ref>
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -284,13 +284,13 @@ In June 2024, a report from [[BFM TV]] detailed that a former employee filed a c
 |38||0||colspan=2|—||2{{efn|name=CCC}}||0||2{{efn|name=LEA|Appearances in [[Leagues Cup]]}}||0||42||0
 |-
 |[[2026–27 Liga MX season|2026–27]]
-|10||0||colspan=2|—||0||0||3{{efn|name=LEA}}||0||13||0
+|16||0||colspan=2|—||0||0||3{{efn|name=LEA}}||0||19||0
 |-
 !colspan=2|Total
-!48!!0!!colspan=2|—!!2!!0!!5!!0!!55!!0
+!54!!0!!colspan=2|—!!2!!0!!5!!0!!61!!0
 |-
 !colspan=3|Career total
-!416!!0!!35!!0!!86!!0!!17!!0!!554!!0
+!422!!0!!35!!0!!86!!0!!17!!0!!560!!0
 |}
 {{notelist}}
 

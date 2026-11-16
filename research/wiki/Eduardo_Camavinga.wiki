@@ -1,4 +1,4 @@
-<!-- Eduardo Camavinga | revision 2026-11-07T22:02:41Z -->
+<!-- Eduardo Camavinga | revision 2026-11-15T22:27:33Z -->
 {{Short description|Footballer (born 2002)}}
 {{Use dmy dates|date=July 2024}}
 {{Infobox football biography
@@ -34,7 +34,7 @@
 | national_goals1 = 2
 | national_years2 = 2020–
 | national_team2 = [[France national football team|France]]
-| national_caps2 = 33
+| national_caps2 = 35
 | national_goals2 = 2
 | medal_templates = 
 {{Medal|Sport|Men's [[Association football|football]]}}
@@ -42,7 +42,7 @@
 {{MedalCompetition|[[FIFA World Cup]]}}
 {{Medal|RU|[[2022 FIFA World Cup|2022 Qatar]]|}}
 | club_update = 22:02, 7 November 2026 (UTC)
-| national_team_update = 15:40, 6 October 2026 (UTC)
+| national_team_update = 22:30, 15 November 2026 (UTC)
 }}
 '''Eduardo Celmi Camavinga''' (born 10 November 2002) is a<!--Do NOT add nationality here, per WikiProject Football consensus--> professional [[Association football|footballer]] who plays as a [[midfielder|central midfielder]] and occasionally as a [[left-back]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]]. Born in Angola, he plays for the [[France national football team|France national team]].<ref>{{cite web |date=3 April 2023 |title=Casemiro, Rodri, Partey: Who is the world's best defensive midfielder? |url=https://www.givemesport.com/busquets-kante-casemiro-the-top-10-defensive-midfielders-have-been-ranked/ |access-date=11 July 2023 |website=GiveMeSport}}</ref><ref>{{cite web |last1=Cheval |first1=Bastien |title=Eduardo Camavinga on his left-back role: "It's a different way of defending." |url=https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |website=OneFootball |date=23 March 2023 |access-date=5 April 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405195253/https://onefootball.com/id/berita/eduardo-camavinga-on-his-left-back-role-its-a-different-way-of-defending-37030263 |url-status=live }}</ref><ref>{{cite web |title=Didier Deschamps confirms Eduardo Camavinga as a left-back for France |website=Get French Football News |url=https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |date=16 March 2023 |access-date=14 April 2023 |archive-date=14 April 2023 |archive-url=https://web.archive.org/web/20230414083247/https://www.getfootballnewsfrance.com/2023/didier-deschamps-confirms-eduardo-camavinga-as-a-left-back-for-france/ |url-status=live }}</ref> 
 
@@ -59,7 +59,7 @@ On 7 July 2020, he obtained the ''[[Baccalauréat]]'' ES (Economic and Social) [
 ===Rennes===
 [[File:Eduardo Camavinga, in Rennes, after his victory in Coupe de France, April 28th, 2019.png|thumb|upright|Camavinga in 2019]]
 
-Camavinga joined [[Stade Rennais F.C.|Rennes]]' youth system when he was eleven. He signed his first professional contract on 14 December 2018, at the age of 16 years and one month, becoming the youngest ever professional for the club at that time.<ref>{{cite web|url=https://www.staderennais.com/premier-contrat-professionnel-pour-eduardo-camavinga|title=Premier contract Professionnel pour Eduardo Camavinga|language=fr|date=14 December 2018|website=staderennais.com|publisher=Stade Rennais F.C.|access-date=4 April 2020|archive-date=19 December 2019|archive-url=https://web.archive.org/web/20191219064841/https://www.staderennais.com/premier-contrat-professionnel-pour-eduardo-camavinga|url-status=live}}</ref> He made his professional debut for Rennes in a 3–3 [[Ligue 1]] tie with [[Angers SCO|Angers]] on 6 April 2019,<ref>{{cite web|url=https://int.soccerway.com/matches/2019/04/06/france/ligue-1/angers-sporting-club-de-louest/stade-rennais-fc/2792517/|title=Angers SCO vs. Rennes – 6 April 2019|publisher=Soccerway|date=6 April 2019|access-date=4 April 2020|archive-date=18 November 2020|archive-url=https://web.archive.org/web/20201118013951/https://int.soccerway.com/matches/2019/04/06/france/ligue-1/angers-sporting-club-de-louest/stade-rennais-fc/2792517/|url-status=live}}</ref> becoming the youngest player to ever play for Rennes' first team,<ref>{{cite web|url=https://bleacherreport.com/articles/2861180-rennes-sensation-eduardo-camavinga-is-a-new-kind-of-16-year-old-footballer|title=Rennes Sensation Eduardo Camavinga Is a New Kind of 16-Year-Old Footballer|website=bleacherreport.com|publisher=Bleacher Report|date=7 November 2019|access-date=4 April 2020|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122132046/https://bleacherreport.com/articles/2861180-rennes-sensation-eduardo-camavinga-is-a-new-kind-of-16-year-old-footballer|url-status=live}}</ref> at 16 years and six months old.
+Camavinga joined [[Stade Rennais F.C.|Rennes]]' youth system when he was eleven. He signed his first professional contract on 14 December 2018, at the age of 16 years and one month, becoming the youngest ever professional for the club at that time.<ref>{{cite web|url=https://www.staderennais.com/premier-contrat-professionnel-pour-eduardo-camavinga|title=Premier contract Professionnel pour Eduardo Camavinga|language=fr|date=14 December 2018|website=staderennais.com|publisher=Stade Rennais F.C.|access-date=4 April 2020|archive-date=19 December 2019|archive-url=https://web.archive.org/web/20191219064841/https://www.staderennais.com/premier-contrat-professionnel-pour-eduardo-camavinga|url-status=live}}</ref> He made his professional debut for Rennes in a 3–3 [[Ligue 1]] tie with [[Angers SCO|Angers]] on 6 April 2019,<ref>{{cite web|url=https://www.soccerway.com/match/angers-SAlF91iL/rennes-d2nnj1IE/?mid=Kx7XUyst|title=Angers SCO vs. Rennes – 6 April 2019|publisher=Soccerway|date=6 April 2019|access-date=4 April 2020|archive-date=18 November 2020|archive-url=https://web.archive.org/web/20201118013951/https://int.soccerway.com/matches/2019/04/06/france/ligue-1/angers-sporting-club-de-louest/stade-rennais-fc/2792517/|url-status=live}}</ref> becoming the youngest player to ever play for Rennes' first team,<ref>{{cite web|url=https://bleacherreport.com/articles/2861180-rennes-sensation-eduardo-camavinga-is-a-new-kind-of-16-year-old-footballer|title=Rennes Sensation Eduardo Camavinga Is a New Kind of 16-Year-Old Footballer|website=bleacherreport.com|publisher=Bleacher Report|date=7 November 2019|access-date=4 April 2020|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122132046/https://bleacherreport.com/articles/2861180-rennes-sensation-eduardo-camavinga-is-a-new-kind-of-16-year-old-footballer|url-status=live}}</ref> at 16 years and six months old.
 
 On 18 August 2019, Camavinga recorded an assist and was awarded the man of the match award in a 2–1 win against [[Paris Saint-Germain F.C.|Paris Saint-Germain]].<ref>{{Cite web|date=19 August 2019|title=Eduardo Camavinga: Angola youngster reacts after helping Rennes stun PSG|url=https://www.goal.com/en-us/news/eduardo-camavinga-angola-youngster-reacts-after-helping/g7jidorlz4kk1vqi77uk9r801|access-date=18 August 2020|website=Goal (website)|archive-date=23 November 2020|archive-url=https://web.archive.org/web/20201123225633/https://www.goal.com/en-us/news/eduardo-camavinga-angola-youngster-reacts-after-helping/g7jidorlz4kk1vqi77uk9r801|url-status=live}}</ref> Hence, he became the youngest player to make an assist in Ligue 1, aged 16 years and 281 days.<ref>{{cite web |url=https://www.guinnessworldrecords.com/world-records/587424-youngest-player-to-make-an-assist-in-ligue-1 |title=Youngest player to make an assist in Ligue 1 |publisher=Guinness World Records }}</ref> He then won the [[UNFP Player of the Month]] award that month, to be the youngest player to achieve this feat.<ref name="auto1">{{cite web |url=https://www.goal.com/en-kw/lists/17-fun-facts-about-eduardo-camavinga/blta4a327b53e7f543e#cs1d079b032e6ef6a3 |title=17 fun facts about Eduardo Camavinga |publisher=Goal.com |date=24 April 2023 }}</ref> He scored his first goal for Rennes in a 1–0 win against [[Olympique Lyonnais|Lyon]] on 15 December 2019, in the 89th minute of the game.<ref>{{Cite web|date=15 December 2019|title=Rennes Beat Lyon|url=https://bleacherreport.com/game/olympique-lyonnais-vs-stade-rennais-fc-2019-12-14|website=Bleacher Report|access-date=19 August 2020|archive-date=31 August 2021|archive-url=https://web.archive.org/web/20210831031035/https://bleacherreport.com/game/olympique-lyonnais-vs-stade-rennais-fc-2019-12-14|url-status=dead}}</ref>
 
@@ -91,7 +91,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|eduardo-camavinga/570734}}</ref>
+{{Updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|new_id=camavinga-eduardo/6ekYsPfO|id=eduardo-camavinga/570734}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -165,7 +165,7 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 {{notelist}}
 
 ===International===
-{{updated|match played 5 October 2026}}<ref name="soccerway" />
+{{updated|match played 15 November 2026}}<ref name="soccerway" />
 
 {|class="wikitable" style="text-align: center;"
 |+ Appearances and goals by national team and year
@@ -182,9 +182,9 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 |-
 |2025||4||0
 |-
-|2026||5||0
+|2026||7||0
 |-
-!colspan="2"|Total!!33!!2
+!colspan="2"|Total!!35!!2
 |}
 
 {{updated|match played 23 March 2025}}
@@ -202,9 +202,9 @@ Camavinga played twice at the [[2022 FIFA World Cup]], in which reigning champio
 !scope="col"|Competition
 !scope = "col"| Ref.
 |-
-| align="center"|1 || 7 October 2020 || [[Stade de France]], Saint-Denis, France || align="center"|2 || {{fb|UKR}} || align="center"|1–0 || align="center"|7–1 || [[Friendly (association football)|Friendly]] || align="center"|<ref>{{cite web|url=https://int.soccerway.com/matches/2020/10/07/world/friendlies/france/ukraine/3378281/|title=France vs. Ukraine 7–1: Summary|website=Soccerway}}</ref>
+| align="center"|1 || 7 October 2020 || [[Stade de France]], Saint-Denis, France || align="center"|2 || {{fb|UKR}} || align="center"|1–0 || align="center"|7–1 || [[Friendly (association football)|Friendly]] || align="center"|<ref>{{cite web|url=https://www.soccerway.com/match/france-QkGeVG1n/ukraine-j1JtDMwo/?mid=CAGnsQCn|title=France vs. Ukraine 7–1: Summary|website=Soccerway}}</ref>
 |-
-| align="center"|2 || 10 October 2024 || [[Bozsik Aréna]], Budapest, Hungary || align="center"|22 || {{fb|ISR}} || align="center"|1–0 || align="center"|4–1 || [[2024–25 UEFA Nations League A]] || align="center"|<ref>{{cite web|url=https://int.soccerway.com/matches/2024/10/10/europe/uefa-nations-league/israel/france/4319369/|title=Israel vs. France 1–4: Summary|website=Soccerway}}</ref>
+| align="center"|2 || 10 October 2024 || [[Bozsik Aréna]], Budapest, Hungary || align="center"|22 || {{fb|ISR}} || align="center"|1–0 || align="center"|4–1 || [[2024–25 UEFA Nations League A]] || align="center"|<ref>{{cite web|url=https://www.soccerway.com/match/france-QkGeVG1n/israel-rqK1ypob/?mid=0hO4RolT|title=Israel vs. France 1–4: Summary|website=Soccerway}}</ref>
 |}
 
 ==Honours==
