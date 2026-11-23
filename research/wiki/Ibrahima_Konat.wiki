@@ -1,4 +1,4 @@
-<!-- Ibrahima Konaté | revision 2026-11-15T22:19:47Z -->
+<!-- Ibrahima Konaté | revision 2026-11-21T22:05:43Z -->
 {{Short description|French footballer (born 1999)}}
 {{Use British English|date=June 2025}}
 {{Use dmy dates|date=June 2025}}
@@ -35,7 +35,7 @@
 | goals4 = 2
 | years5 = 2026–
 | clubs5 = [[Real Madrid CF|Real Madrid]]
-| caps5 = 11
+| caps5 = 12
 | goals5 = 0
 | national_years1 = 2014–2015
 | national_team1 = [[France national under-16 football team|France U16]]
@@ -61,7 +61,7 @@
 | national_team6 = [[France national football team|France]]
 | national_caps6 = 31
 | national_goals6 = 0
-| club_update = 21:59, 7 November 2026 (UTC)
+| club_update = 22:05, 21 November 2026 (UTC)
 | national_team_update = 22:22, 15 November 2026 (UTC)
 | medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
@@ -122,13 +122,13 @@ On 14 May 2026, Konaté was selected in the 26-man squad for the [[2026 FIFA Wor
 Konaté has been compared to [[Virgil van Dijk]] due to his positional play, tackling, pace and strength.<ref name="Who is Ibrahima Konate"/><ref name=":3">{{cite news|author=Alex Young|date=29 March 2021|title=Who is Ibrahima Konaté: Liverpool target is 'the new Virgil van Dijk' but has worrying injury record|newspaper=Evening Standard|url=https://www.standard.co.uk/sport/football/who-is-ibrahima-konate-liverpool-fc-transfer-injury-record-stats-style-b926837.html|access-date=2 June 2021}}</ref> Guido Schafer said that: "he is tall, fast, good technique and he is a little bit of Virgil van Dijk. He has very high-class potential. He is a great athlete, he has good speed and there are no silly tackles – he is an intelligent player."<ref name=":3"/> Konaté is also well known for his passing and strength in the air.<ref name=":3"/>
 
 ==Personal life==
-Konaté is a practising [[Muslims|Muslim]].<ref>{{Cite web |title=Muslim football players in French national team reportedly asked to postpone their fasting |url=https://www.aa.com.tr/en/sports/muslim-football-players-in-french-national-team-reportedly-asked-to-postpone-their-fasting/2860224 |access-date=7 October 2024 |website=aa.com.tr}}</ref> He is a fan of [[anime]] and [[manga]], his favourite series being ''[[Attack on Titan]]''.<ref>{{cite news |last=Northcroft |first=Jonathan |date=27 May 2022 |title=Ibrahima Konaté: I asked Jürgen Klopp, 'If I was your son, what would you advise? |url=https://www.thetimes.co.uk/article/ibrahima-konate-i-asked-juergen-klopp-if-i-was-your-son-what-would-you-advise-f6xjg5vxj |access-date=17 April 2022 |newspaper=The Times}}</ref>
+Konaté is a practising [[Muslims|Muslim]].<ref>{{Cite web |title=Muslim football players in French national team reportedly asked to postpone their fasting |url=https://www.aa.com.tr/en/sports/muslim-football-players-in-french-national-team-reportedly-asked-to-postpone-their-fasting/2860224 |access-date=7 October 2024 |website=aa.com.tr}}</ref> He is a fan of [[anime]] and [[manga]], with his favourite series being ''[[Attack on Titan]]''.<ref>{{cite news |last=Northcroft |first=Jonathan |date=27 May 2022 |title=Ibrahima Konaté: I asked Jürgen Klopp, 'If I was your son, what would you advise? |url=https://www.thetimes.co.uk/article/ibrahima-konate-i-asked-juergen-klopp-if-i-was-your-son-what-would-you-advise-f6xjg5vxj |access-date=17 April 2022 |newspaper=The Times}}</ref>
 
-Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=Ibrahima Konate confirms dad's death after missing Liverpool match|url=https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-ibrahima-konate-confirms-father-33284080|website=Liverpool Echo|date=22 January 2026|access-date=31 January 2026|language=en|first=Mark|last=Jones}}</ref>
+Konaté's father, Hamady, died on 21 January 2026.<ref>{{Cite web|title=Ibrahima Konate confirms dad's death after missing Liverpool match|url=https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-ibrahima-konate-confirms-father-33284080|website=Liverpool Echo|date=22 January 2026|access-date=31 January 2026|language=en|first=Mark|last=Jones}}</ref>
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}
+{{updated|match played 21 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -201,10 +201,10 @@ Konaté's father, Hamady Konaté, died on 21 January 2026.<ref>{{Cite web|title=
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|100656|2026|name=Ibrahima Konate|access-date=17 July 2026}}</ref>
 |[[La Liga]]
-|11||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||13||0
+|12||0||0||0||colspan="2"|—||2{{efn|name=UCL}}||0||0||0||14||0
 |-
 !colspan="3"|Career total
-!216!!6!!24!!1!!14!!0!!58!!6!!1!!0!!313!!13
+!217!!6!!24!!1!!14!!0!!58!!6!!1!!0!!314!!13
 |}
 
 {{notelist}}

@@ -1,4 +1,4 @@
-<!-- Luís Figo | revision 2026-10-29T20:07:27Z -->
+<!-- Luís Figo | revision 2026-11-22T07:53:38Z -->
 {{short description|Portuguese footballer (born 1972)}}
 {{Portuguese name|Madeira|Caeiro Figo}}
 {{Use dmy dates|date=June 2026}}
@@ -69,8 +69,10 @@ Luis Figo 2023.jpg
 {{Medal|W|[[1991 FIFA World Youth Championship|1991 Portugal]]|}}
 {{Medal|Competition|[[UEFA European Under-16 Championship]]|}}
 {{Medal|W|[[1989 UEFA European Under-16 Championship|1989 Denmark]]|}}
+{{Medal|RU|[[1988 UEFA European Under-16 Championship|1988 Spain]]}}
 {{Medal|Comp|[[UEFA European Championship]]|}}
 {{Medal|RU|[[UEFA Euro 2004|2004 Portugal]]|}}
+{{Medal|3rd|[[UEFA Euro 2000|2000 Belgium/Netherlands]]}}
 {{Medal|Competition|[[UEFA European Under-21 Championship]]|}}
 {{Medal|RU|[[1994 UEFA European Under-21 Championship|1994 France]]|}}
 {{Medal|Competition|[[UEFA European Under-18 Championship]]|}}

@@ -1,4 +1,4 @@
-<!-- Jude Bellingham | revision 2026-11-15T21:54:15Z -->
+<!-- Jude Bellingham | revision 2026-11-21T22:03:11Z -->
 {{short description|English footballer (born 2003)}}
 {{for|the New Zealand opera singer|Judy Bellingham}}
 {{distinguish|text=his brother, [[Jobe Bellingham]]}}
@@ -30,8 +30,8 @@
 | goals2 = 12
 | years3 = 2023–
 | clubs3 = [[Real Madrid CF|Real Madrid]]
-| caps3 = 99<!--La Liga matches only-->
-| goals3 = 38<!--La Liga matches only-->
+| caps3 = 100<!--La Liga matches only-->
+| goals3 = 39<!--La Liga matches only-->
 | national_years1 = 2016–2018
 | national_team1 = England U15
 | national_caps1 = 8
@@ -52,7 +52,7 @@
 | national_team5 = [[England national football team|England]]
 | national_caps5 = 62
 | national_goals5 = 14
-| club_update = 22:02, 7 November 2026 (UTC)
+| club_update = 22:03, 21 November 2026 (UTC)
 | national_team_update = 21:50, 15 November 2026 (UTC)
 | medal_templates = {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|ENG}}}}
@@ -166,7 +166,7 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}
+{{updated|match played 21 November 2026}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -217,13 +217,13 @@ Since 2025, Bellingham has been in a relationship with Ashlyn Castro, an America
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|123255|2026|access-date=30 August 2026}}</ref>
 |La Liga
-|12||4||0||0||colspan="2"|—||4{{efn|name=UCL}}||1||0||0||16||5
+|13||5||0||0||colspan="2"|—||4{{efn|name=UCL}}||1||0||0||17||6
 |-
 !colspan="2"|Total
-!99||38||6||1||colspan="2"|—||37||10||14||2||156||51
+!100||39||6||1||colspan="2"|—||37||10||14||2||157||52
 |-
 !colspan="3"|Career total
-!232||54||21||5||1||0||62||18||16||2||332||79
+!233||55||21||5||1||0||62||18||16||2||333||80
 |}
 
 {{notelist}}

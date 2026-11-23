@@ -1,4 +1,4 @@
-<!-- Álvaro Arbeloa | revision 2026-11-07T20:34:53Z -->
+<!-- Álvaro Arbeloa | revision 2026-11-21T14:41:29Z -->
 {{Short description|Spanish football manager and player (born 1983)}} 
 {{family name hatnote|Arbeloa|Coca|lang=Spanish}}
 {{Use dmy dates|date=March 2021}}
@@ -206,10 +206,12 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 {{notelist}}
 
 ===International===
-{| class="wikitable" style="text-align:center"
-| colspan=3 | [[Spain national football team|Spain]]<ref>{{Eu-Football.info|25659}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year<ref>{{Eu-Football.info|25659}}</ref>
 |-
-!Year!!Apps!!Goals
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Spain national football team|Spain]]
 |-
 |2008||4||0
 |-
@@ -223,12 +225,11 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 |-
 |2013||11||0
 |-
-!Total!!56!!0
+!colspan="2"|Total!!56!!0
 |}
 
 ==Managerial statistics==
-{{updated|7 November 2026}}
-
+{{updated|21 November 2026}}
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
 |-
@@ -265,11 +266,11 @@ On 7 July 2026, [[Fulham F.C.|Fulham]] appointed Arbeloa as their new head coach
 |{{flagicon|England}}
 |align="left"|7 July 2026
 |align="left"|Present
-{{WDL|13|4|4|5|for=16|against=15|diff=yes}}
+{{WDL|14|4|5|5|for=17|against=16|diff=yes}}
 |
 |-
 !colspan="4"|Career Total
-{{WDLtot|60|32|7|21|for=98|against=72|diff=yes}}
+{{WDLtot|61|32|8|21|for=100|against=75|diff=yes}}
 !
 |}
 

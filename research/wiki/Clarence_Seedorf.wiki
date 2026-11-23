@@ -1,4 +1,4 @@
-<!-- Clarence Seedorf | revision 2026-11-13T22:46:49Z -->
+<!-- Clarence Seedorf | revision 2026-11-20T03:46:01Z -->
 {{Short description|Dutch footballer (born 1976)}}
 {{Use dmy dates|date=June 2025}}
 {{Infobox football biography
@@ -133,7 +133,7 @@ At the end of the [[2006–07 UEFA Champions League|2006–07 season]], Seedorf 
 With Milan, Seedorf formed a formidable midfield partnership with [[Gennaro Gattuso]] and [[Andrea Pirlo]], which began since the [[2002–03 AC Milan season|2002–03 season]]. This midfield trio was still used in the starting line-up until the [[2011–12 AC Milan season|2011–12 season]] (Pirlo left the ''Rossoneri'' in the summer of 2011), although their form had been declining. Under the guidance of coach [[Carlo Ancelotti]], their role was to support an attacking midfielder, whether it be [[Rivaldo]], [[Rui Costa]], Kaká or [[Ronaldinho]].
 
 Seedorf became the foreigner with the most appearances for Milan following a game against his former club, Sampdoria, which he scored in. At 395 appearances, he passed [[Nils Liedholm]] for this historic milestone. During the Sampdoria game, he also became the ninth-highest scoring foreigner for Milan, with 58 goals.
-On 29 March 2010, Seedorf was the target of racist chants from Lazio fans in a 1–1 draw, which led to the Rome-based club being given a €15,000 fine by the [[Italian Football Federation]] (FIGC). This led the Italy's players' union want racism stamped out in Serie A.<ref>{{cite news|title=AIC bid to kick out racism|url=http://www1.skysports.com/football/news/11095/6061583/|publisher=Sky Sports|date=29 March 2010|access-date=18 February 2012|archive-url=https://web.archive.org/web/20130522033608/http://www1.skysports.com/football/news/11095/6061583/|archive-date=22 May 2013|url-status=live}}</ref>
+On 29 March 2010, Seedorf was the target of racist chants from Lazio fans in a 1–1 draw, which led to the Rome-based club being given a €15,000 fine by the [[Italian Football Federation]] (FIGC). This led the Italy's players' union want racism stamped out in Serie A.<ref>{{cite news|title=AIC bid to kick out racism|url=https://www.skysports.com/football/news/6061583/aic-bid-to-kick-out-racism|publisher=Sky Sports|date=29 March 2010|access-date=18 February 2012|archive-url=https://web.archive.org/web/20130522033608/http://www1.skysports.com/football/news/11095/6061583/|archive-date=22 May 2013|url-status=live}}</ref>
 
 Seedorf won his second ''[[Scudetto]]'' with Milan in the [[2010–11 Serie A]] season, where he once again played a vital role. He scored four goals and made 36 appearances in the 2010–11 season.
 Seedorf added yet another medal to his trophy cabinet in the first official game of the 2011–12 season, where he played the full 90 minutes in a 2–1 comeback win over rivals Inter Milan in the [[2011 Supercoppa Italiana|Supercoppa Italiana]].<ref>[http://www.legaseriea.it/c/document_library/get_file?uuid=ba3846db-2e45-4b5c-aff3-518770cd309f&groupId=10192 Supercoppa Italiana 2011: Milan-Inter 2–1]{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}. legaseriea.it (6 August 2011).</ref> He scored the winning goal of Milan's first win of the 2011–12 Serie A campaign, a 1–0 defeat of [[AC Cesena|Cesena]] on 24 September.<ref>{{Deprecated archive|url=https://archive.today/20130103042246/http://soccernet.espn.go.com/report?id=327155&cc=5901|title=Report: AC Milan v Cesena – Italian Serie A – ESPNFC}}. Soccernet.espn.go.com (24 September 2011). Retrieved on 22 June 2013.</ref>
@@ -383,7 +383,7 @@ Clarence's nephew, [[Collin Seedorf]], is also a professional footballer, and cu
 |}
 
 ==Managerial statistics==
-{{Updated|24 October 2026}}
+{{Updated|18 November 2026}}
 
 {| class="wikitable sortable" style="text-align:center"
 |-
@@ -424,10 +424,10 @@ Clarence's nephew, [[Collin Seedorf]], is also a professional footballer, and cu
 | [[SC Corinthians Paulista|Corinthians]]
 | 11 October 2026
 | ''Present''
-{{WDL|3|1|1|1|for=4|against=3|diff=yes}}
+{{WDL|4|2|1|1|for=8|against=3|diff=yes}}
 |-
 ! colspan="3"| Total
-{{WDLtot|65|21|17|27|for=71|against=87|diff=yes}}
+{{WDLtot|69|23|18|28|for=77|against=89|diff=yes}}
 |}
 
 ==Honours==

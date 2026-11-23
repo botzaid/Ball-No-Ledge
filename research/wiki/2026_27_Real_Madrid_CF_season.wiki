@@ -1,4 +1,4 @@
-<!-- 2026–27 Real Madrid CF season | revision 2026-11-21T22:48:41Z -->
+<!-- 2026–27 Real Madrid CF season | revision 2026-11-23T11:50:34Z -->
 {{Infobox football club season
 |club               = [[Real Madrid CF|Real Madrid]]
 |season             = [[2026–27 in Spanish football|2026–27]]
@@ -400,14 +400,14 @@ On 9 July 2026, Real Madrid announced they would play against [[Deportivo de A C
 
 ====Results by round====
 {{#invoke:sports rbr table|table|legendpos=b
-| updated=21 November 2026
+| updated=22 November 2026
 | header=Round
 | label1=Ground
 | res1=A/H/H/A/H/A/A/H/H/A/A/A/H/H/A/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/A/H/A/H/H/A/H
 | label2=Result
 | res2=W/W/W/L/W/W/L/W/W/W/W/W/W/////////////////////////
 | label3=Position
-| pos3=6/2/2/3/2/2/4/4/3/3/3/2//////////////////////////
+| pos3=6/2/2/3/2/2/4/4/3/3/3/2/2/////////////////////////
 | color_W=green2|text_W=Win
 | color_D=yellow2|text_D=Draw
 | color_L=red2|text_L=Loss
@@ -713,7 +713,7 @@ The league fixtures were announced on 30 June 2026.<ref>{{cite press release|tit
 {{footballbox collapsible
 |round      = 17
 |date       = 13 December 2026
-|time       = {{UTZ|--:--|1}}
+|time       = {{UTZ|21:00|1}}
 |team1      = Real Madrid
 |score      = 
 |report     = https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-ca-osasuna-16
@@ -1209,7 +1209,7 @@ The league phase draw was held on 27 August 2026.<ref>{{cite web|url=https://www
 |stadium    = [[Bernabéu (stadium)|Bernabéu]]
 |location   = Madrid, Spain
 |attendance = 
-|referee    = 
+|referee    = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
 |result     = 
 }}
 {{footballbox collapsible

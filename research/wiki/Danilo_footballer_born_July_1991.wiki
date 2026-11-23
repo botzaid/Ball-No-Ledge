@@ -1,4 +1,4 @@
-<!-- Danilo (footballer, born July 1991) | revision 2026-11-13T01:52:13Z -->
+<!-- Danilo (footballer, born July 1991) | revision 2026-11-22T04:15:49Z -->
 {{Short description|Brazilian footballer}}
 {{Use dmy dates|date=November 2026}}
 {{Infobox football biography
@@ -42,7 +42,7 @@
 | goals6 = 8
 | years7 = 2025–
 | clubs7 = [[CR Flamengo|Flamengo]]
-| caps7 = 38
+| caps7 = 39
 | goals7 = 2
 | national_years1 = 2011
 | national_team1 = [[Brazil national under-20 football team|Brazil U20]]
@@ -61,7 +61,7 @@
 {{Medal|RU|[[2021 Copa América|2021 Brazil]]|}}
 {{MedalCompetition|[[Football at the Summer Olympics|Summer Olympics]]}}
 {{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Football at the 2012 Summer Olympics – Men's tournament|Team]]}}
-| club_update = 23:37, 11 October 2026 (UTC)
+| club_update = 23:37, 21 November 2026 (UTC)
 | national_team_update = 22:20, 5 July 2026 (UTC)
 }}
 '''Danilo Luiz da Silva''' (born 15 July 1991), known as '''Danilo''' ({{IPA|pt-BR|dɐ̃ˈnilu|lang}}), is a Brazilian professional [[Association football|footballer]] who plays as a [[centre-back]] or [[Defender (association football)|right-back]] for [[Campeonato Brasileiro Série A]] club [[Clube de Regatas do Flamengo|Flamengo]].
@@ -119,7 +119,7 @@ Courtesy of his Santos performances, Danilo made his debut for [[Brazil national
 
 Danilo represented the [[Brazil national under-23 football team|under-23 team]] at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Summer Olympics]]. He played four matches in Brazil's journey to the [[silver medal]], scoring against [[New Zealand national under-23 football team|New Zealand]] in the group stage (3–0).<ref>{{cite web|url=http://globoesporte.globo.com/olimpiadas/noticia/2012/07/brasil-duas-caras-selecao-da-show-vacila-mas-vence-egito-por-3-2.html|title=Brasil duas caras: Seleção dá show e depois vacila, mas bate o Egito|trans-title=Two-faced Brazil: National team put on a show and then falter, but beat Egypt|website=Globo Esporte|publisher=Grupo Globo|first=Márcio|last=Iannacca|language=pt|date=26 July 2012|access-date=6 July 2018}}</ref><ref>{{cite web|url=http://globoesporte.globo.com/olimpiadas/noticia/2012/07/neymar-assume-responsabilidade-brasil-vence-e-vai-quartas-de-final.html|title=Neymar assume responsabilidade, Brasil vence e vai às quartas de final|trans-title=Neymar takes on responsibility, Brazil win and reach quarter-finals|website=Globo Esporte|publisher=Grupo Globo|first=Márcio|last=Iannacca|language=pt|date=29 July 2012|access-date=6 July 2018}}</ref><ref>{{cite web|url=https://www.fifa.com/mensolympic/matches/round=256009/match=300197683/summary.html|archive-url=https://web.archive.org/web/20120804032238/http://www.fifa.com/mensolympic/matches/round=256009/match=300197683/summary.html|url-status=dead|archive-date=4 August 2012|title=Three and easy for Brazil|publisher=FIFA|date=1 August 2012|access-date=14 November 2013}}</ref><ref>{{cite news|url=https://www.lavozdegalicia.es/noticia/deportes/2012/08/04/brasil-sufre-ante-honduras-llega-semifinales-futbol-olimpico-londres-2012/00031344103779156218252.htm|title=Brasil sufre ante Honduras pero llega a semifinales del fútbol olímpico en Londres 2012|trans-title=Brazil suffer against Honduras but reach olympic football semi-finals in London 2012|newspaper=[[La Voz de Galicia]]|location=A Coruña|first=Ramón|last=Orosa|language=es|date=4 August 2012|access-date=6 July 2018}}</ref>
 
-Danilo was also named in [[Tite (football manager)|Tite]]'s [[2018 FIFA World Cup squads#Brazil|squad]] for the [[2018 FIFA World Cup]] in Russia,<ref>{{cite web|url=https://www.bbc.com/sport/football/44116590|title=World Cup: Neymar named in Brazil's 23-man squad|website=BBC Sport|date=14 May 2018|access-date=15 May 2018}}</ref> making his debut in [[FIFA World Cup|the competition]] on 17 June by playing the entire 1–1 draw to [[Switzerland national football team|Switzerland]].<ref>{{cite web|url=https://www.bbc.com/sport/football/44427968|title=Brazil 1–1 Switzerland|website=BBC Sport|first=Luke|last=Reddy|date=17 June 2018|access-date=17 June 2018}}</ref> He incurred an injury on 6 July the day before the quarter-final clash with [[Belgium national football team|Belgium]], being sidelined for the remainder of the tournament.<ref>{{cite web|url=https://soccer.nbcsports.com/2018/07/06/brazil-says-danilo-out-of-world-cup-with-ankle-injury/|title=Brazil says Danilo out of World Cup with ankle injury|website=[[NBC Sports]]|date=6 July 2018|access-date=6 July 2018}}</ref>
+Danilo was also named in [[Tite (football manager)|Tite]]'s [[2018 FIFA World Cup squads#Brazil|squad]] for the [[2018 FIFA World Cup]] in Russia,<ref>{{cite web|url=https://www.bbc.com/sport/football/44116590|title=World Cup: Neymar named in Brazil's 23-man squad|website=BBC Sport|date=14 May 2018|access-date=15 May 2018}}</ref> making his debut in [[FIFA World Cup|the competition]] on 17 June by playing the entire 1–1 draw to [[Switzerland national football team|Switzerland]].<ref>{{cite web|url=https://www.bbc.com/sport/football/44427968|title=Brazil 1–1 Switzerland|website=BBC Sport|first=Luke|last=Reddy|date=17 June 2018|access-date=17 June 2018}}</ref> He incurred an injury on 6 July the day before the quarter-final clash with [[Belgium national football team|Belgium]], being sidelined for the remainder of the tournament.<ref>{{cite web|url=https://www.nbcsports.com/soccer/news/brazil-says-danilo-out-of-world-cup-with-ankle-injury|title=Brazil says Danilo out of World Cup with ankle injury|website=[[NBC Sports]]|date=6 July 2018|access-date=6 July 2018}}</ref>
 
 Danilo scored his first senior international goal on 19 November 2019 in a 3–0 [[Exhibition game#Association football|friendly]] win against [[South Korea national football team|South Korea]] played in [[Abu Dhabi]].<ref>{{cite news|url=https://www.independent.co.uk/sport/football/international/brazil-vs-south-korea-result-philippe-coutinho-paqueta-danilo-a9209351.html  |title=Brazil vs South Korea result: Philippe Coutinho dazzles to help snap five-game winless streak |work=The Independent |last1=Rathborn |first1=Jack |date=20 November 2019 |access-date=21 November 2019 }}</ref>
 
@@ -135,7 +135,7 @@ In 2012, ''[[Marca (newspaper)|Marca]]'' compared Danilo to compatriot and fello
 
 ==Career statistics==
 ===Club===
-{{updated|match played 11 October 2026}}
+{{updated|match played 21 November 2026}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -254,13 +254,13 @@ In 2012, ''[[Marca (newspaper)|Marca]]'' compared Danilo to compatriot and fello
 |-
 |[[2026 CR Flamengo season|2026]]
 |Série A
-|11||1||3{{efn|name=Car}}||0||2||0||colspan=2|—||4{{efn|name=Copa}}||0||1{{efn|Appearance(s) in [[Recopa Sudamericana]]}}||0||21||1
+|12||1||3{{efn|name=Car}}||0||2||0||colspan=2|—||4{{efn|name=Copa}}||0||1{{efn|Appearance(s) in [[Recopa Sudamericana]]}}||0||22||1
 |-
 !colspan=2|Total
-!31||2||7||0||4||1||colspan=2|—||10||1||5||2||57||6
+!32||2||7||0||4||1||colspan=2|—||10||1||5||2||58||6
 |-
 !colspan=3|Career total
-!417||33||34||2||44||2||21||5||107||6||8||3||631||46
+!418||33||34||2||44||2||21||5||107||6||8||3||632||46
 |}
 {{notelist}}
 

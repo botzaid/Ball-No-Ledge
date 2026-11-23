@@ -1,5 +1,6 @@
-<!-- Yan Diomande | revision 2026-11-15T11:07:58Z -->
+<!-- Yan Diomande | revision 2026-11-21T22:06:53Z -->
 {{short description|Ivorian footballer (born 2006)}}
+{{pp|small=yes}} 
 {{Use dmy dates|date=August 2026}}
 {{Infobox football biography
 | name = Yan Diomande
@@ -27,7 +28,7 @@
 | goals3 = 12
 | years4 = 2026–
 | clubs4 = [[Real Madrid CF|Real Madrid]]
-| caps4 = 12
+| caps4 = 13
 | goals4 = 3
 | national_years1 = 2022
 | national_team1 = [[Ivory Coast national under-17 football team|Ivory Coast U17]]
@@ -41,7 +42,7 @@
 | national_team3 = [[Ivory Coast national football team|Ivory Coast]]
 | national_caps3 = 16
 | national_goals3 = 3
-| club_update = 22:02, 7 November 2026 (UTC)
+| club_update = 22:06, 21 November 2026 (UTC)
 | national_team_update = 12:21, 14 November 2026 (UTC)
 }}
 '''Yan Diomande''' (born 14 November 2006) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder#|winger]] for {{Spanish football updater|Real Madrid}} club [[Real Madrid CF|Real Madrid]] and the [[Ivory Coast national football team|Ivory Coast national team]].
@@ -86,7 +87,7 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}
+{{updated|match played 21 November 2026}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -118,10 +119,10 @@ Diomande has been compared to [[Sadio Mané]] and [[Antonio Nusa]] for his direc
 |[[Real Madrid CF|Real Madrid]]
 |[[2026–27 Real Madrid CF season|2026–27]]<ref>{{soccerbase season|204661|2026|access-date=21 October 2026}}</ref>
 |La Liga
-|12||3||0||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||16||4
+|13||3||0||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||17||4
 |-
 !colspan="3"|Career total
-!58!!17!!3!!1!!4!!1!!0!!0!!65!!19
+!59!!17!!3!!1!!4!!1!!0!!0!!66!!19
 |}
 {{notelist}}
 

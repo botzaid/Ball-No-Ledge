@@ -1,4 +1,4 @@
-<!-- Casemiro | revision 2026-11-13T00:05:40Z -->
+<!-- Casemiro | revision 2026-11-22T20:48:43Z -->
 {{short description|Brazilian footballer (born 1992)}}
 {{other uses|Casimiro}}
 {{Use British English|date=June 2025}}
@@ -150,9 +150,12 @@ Described as a "destroyer" in the media,<ref>{{cite web |url=https://www.marca.c
 ==Club ownership==
 On 4 June 2024, it was announced that Casemiro would be investing in Spanish lower-league club [[Marbella FC|Marbella]].<ref>{{cite web |last=Cariño |first=Carlos |url=https://as.com/futbol/mas_futbol/casemiro-se-une-al-marbella-n/ |title=Casemiro se une al Marbella |publisher=as.com |language=es |date=4 June 2024 }}</ref><ref>{{cite web |url=https://www.bbc.com/sport/football/articles/c133g4g04dpo |title=Casemiro becomes Marbella FC shareholder |work=BBC Sport |date=4 June 2024 }}</ref>
 
+==Personal life==
+Since 2011, Casemiro has been in a long-term relationship with Brazilian [[make-up artist]] and model Anna Mariana Casemiro (née Bhahm Ortega).<ref name="Mendez2026-1">{{Cite news |last=Mendez |first=Emmanuel |date=13 June 2026 |title=Who Is Casemiro's Wife? Meet Anna Mariana, a Model, Make-Up Artist & Brazil Star's Biggest Supporter |url=https://athlonsports.com/soccer/who-casemiro-wife-anna-mariana-model-artist-brazil |access-date=21 November 2026 |work=Athlon Sports |language=en}}</ref><ref name="Caras2014-1">{{Cite web |last= |first= |date=2 July 2014 |title=Casemiro, jogador do Real Madrid, se casa com empresária em Itatiba, SP |url=https://caras.com.br/noivas/casemiro-jogador-do-real-madrid-se-casa-com-empresaria-em-itatiba-sp.phtml |access-date=21 November 2026 |website=[[Caras (magazine)|Caras]] |language=pt-BR}}</ref> They married on 28 June 2014 in [[Itatiba]], São Paulo,<ref>{{Cite web |date=24 August 2022 |title=Mulher de Casemiro, jogador da seleção, celebra 4 anos de casamento |url=https://revistamarieclaire.globo.com/Celebridades/noticia/2018/06/mulher-de-casemiro-jogador-da-selecao-celebra-4-anos-de-casamento.html |access-date=21 November 2026 |website=Revista Marie Claire |language=pt-br}}</ref><ref name="Caras2014-1" /> and have two children, a daughter and a son.<ref name="Mendez2026-1" />
+
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026<ref>{{cite web |title=Casemiro Stats |url=https://www.soccerway.com/player/casemiro/Ukeq3c0b/ |website=Soccerway |access-date=13 September 2026}}</ref>}}
+{{updated|match played 21 November 2026<ref>{{cite web |title=Casemiro Stats |url=https://www.soccerway.com/player/casemiro/Ukeq3c0b/ |website=Soccerway |access-date=13 September 2026}}</ref>}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -266,10 +269,10 @@ On 4 June 2024, it was announced that Casemiro would be investing in Spanish low
 |[[Inter Miami CF|Inter Miami]]
 |[[2026 Inter Miami CF season|2026]]<ref name="Soccerway"/>
 |[[Major League Soccer|MLS]]
-|18||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4{{efn|Three appearances in [[Leagues Cup]], one appearance and one goal in [[Campeones Cup]]}}||1||22||4
+|18||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||5{{efn|Three appearances in [[Leagues Cup]], one appearance and one goal in [[Campeones Cup]], one appearance in [[MLS Cup playoffs]]}}||1||23||4
 |-
 !colspan="3"|Career total
-!455!!52!!31!!3!!50!!5!!12!!4!!115!!11!!22!!2!!685!!77
+!455!!52!!31!!3!!50!!5!!12!!4!!115!!11!!23!!2!!686!!77
 |}
 {{notelist}}
 

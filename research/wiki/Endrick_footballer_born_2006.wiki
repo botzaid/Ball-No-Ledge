@@ -1,4 +1,4 @@
-<!-- Endrick | revision 2026-11-14T12:23:30Z -->
+<!-- Endrick | revision 2026-11-21T22:08:57Z -->
 {{Short description|Brazilian footballer (born 2006)}}
 {{Other uses}}
 {{Portuguese name|Moreira|de Sousa Pessoa}}
@@ -23,7 +23,7 @@
 | goals1 = 15<!--PER [[WP:WPFCONSENSUS]]: LEAGUE AND STATE LEAGUE GOALS-->
 | years2 = 2024–
 | clubs2 = [[Real Madrid CF|Real Madrid]]
-| caps2 = 27
+| caps2 = 28
 | goals2 = 1
 | years3 = 2026
 | clubs3 = → [[Olympique Lyonnais|Lyon]] (loan)
@@ -39,10 +39,10 @@
 | national_goals2 = 2
 | national_years3 = 2023–
 | national_team3 = [[Brazil national football team|Brazil]]
-| national_caps3 = 25
-| national_goals3 = 4
-| club_update = 22:03, 7 November 2026 (UTC)
-| national_team_update = 12:23, 14 November 2026 (UTC)
+| national_caps3 = 26
+| national_goals3 = 5
+| club_update = 22:08, 21 November 2026 (UTC)
+| national_team_update = 12:33, 17 November 2026 (UTC)
 }}
 '''Endrick Felipe Moreira de Sousa Pessoa''' (born 21 July 2006), known mononymously as '''Endrick''' ({{IPA|pt-BR|ˈẽ(j̃)dɾik(i)|lang}}),<ref>{{cite web |author=Forvo Team |title=Endrick pronunciation: How to pronounce Endrick in Portuguese |url=https://forvo.com/word/endrick/ |website=Forvo.com}}</ref> is a Brazilian professional [[association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[La Liga]] club [[Real Madrid CF|Real Madrid]] and the [[Brazil national football team|Brazil national team]].
 
@@ -110,7 +110,7 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 
 ==Career statistics==
 ===Club===
-{{updated|match played 7 November 2026}}<ref name="soccerway">{{Soccerway|new_id=endrick/bXHrpEJ4|id=endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
+{{updated|match played 21 November 2026}}<ref name="soccerway">{{Soccerway|new_id=endrick/bXHrpEJ4|id=endrick-felipe-moreira-de-sousa/831942|access-date=12 January 2026}}</ref>
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -152,10 +152,10 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |-
 |[[2026–27 Real Madrid CF season|2026–27]]
 |La Liga
-|4||0||colspan="2"|—||0||0||3{{efn|name=UCL}}||1||0||0||7||1
+|5||0||colspan="2"|—||0||0||3{{efn|name=UCL}}||1||0||0||8||1
 |-
 !colspan="2"|Total
-!27!!1!!colspan="2"|—!!7!!5!!13!!2!!0!!0!!47!!8
+!28!!1!!colspan="2"|—!!7!!5!!13!!2!!0!!0!!48!!8
 |-
 |[[Olympique Lyonnais|Lyon]] (loan)
 |[[2025–26 Olympique Lyonnais season|2025–26]]
@@ -163,12 +163,12 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |16||5||colspan="2"|—||3||2||2{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||21||8
 |-
 !colspan="3"|Career total
-!86!!20!!22!!4!!15!!7!!25!!6!!1!!0!!149!!35
+!87!!20!!22!!4!!15!!7!!25!!6!!1!!0!!150!!35
 |}
 {{notelist}}
 
 ===International===
-{{updated|match played 14 November 2026}}<ref>{{NFT player|92909|access-date=14 February 2025}}</ref>
+{{updated|match played 17 November 2026}}<ref>{{NFT player|92909|access-date=17 November 2026}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by national team and year
@@ -181,9 +181,9 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |-
 |2025||1||0
 |-
-|2026||11||1
+|2026||12||2
 |-
-!colspan="2"|Total!!25!!4
+!colspan="2"|Total!!26!!5
 |}
 
 :''Scores and results list Brazil's goal tally first, score column indicates score after each Endrick goal.''
@@ -192,13 +192,15 @@ A left-footed forward with a good shot, Endrick is considered one of Brazil's be
 |+ List of international goals scored by Endrick
 ! No. !! Date !! Venue !! Cap!! Opponent !! Score !! Result !! Competition
 |-
-| align="center"|1 || 23 March 2024 || [[Wembley Stadium]], [[London]], England || align="center"|3 || {{fb|ENG}} || align="center"| 1–0 || align="center"|1–0 || [[Friendly (association football)|Friendly]]
+| align="center"| 1 || 23 March 2024 || [[Wembley Stadium]], [[London]], England || align="center"|3 || {{fb|ENG}} || align="center"| 1–0 || align="center"| 1–0 || [[Friendly (association football)|Friendly]]
 |-
-| align="center"|2 || 26 March 2024 || [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]], Spain || align="center"|4 || {{fb|ESP}} || align="center"| 2–2 || align="center"|3–3 || [[Friendly (association football)|Friendly]]
+| align="center"| 2 || 26 March 2024 || [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]], Spain || align="center"| 4 || {{fb|ESP}} || align="center"| 2–2 || align="center"| 3–3 || Friendly
 |-
-| align="center"|3 || 8 June 2024 || [[Kyle Field]], [[College Station, Texas|College Station]], United States || align="center"|5 || {{fb|MEX}} || align="center"| 3–2 || align="center"|3–2 || [[Friendly (association football)|Friendly]]
+| align="center"| 3 || 8 June 2024 || [[Kyle Field]], [[College Station, Texas|College Station]], United States || align="center"| 5 || {{fb|MEX}} || align="center"| 3–2 || align="center"| 3–2 || Friendly
 |-
-| align="center"|4 || 6 June 2026 || [[Huntington Bank Field]], [[Cleveland]], United States || align="center"|17 || {{fb|EGY}} || align="center"| 2–1 || align="center"|2–1 || [[Friendly (association football)|Friendly]]
+| align="center"| 4 || 6 June 2026 || [[Huntington Bank Field]], [[Cleveland]], United States || align="center"| 17 || {{fb|EGY}} || align="center"| 2–1 || align="center"| 2–1 || Friendly
+|-
+| align="center"| 5 || 17 November 2026 || [[National Stadium, Singapore|National Stadium]], [[Kallang]], Singapore || align="center"| 26 || {{fb|SGP}} || align="center"| 4–0 || align="center"| 7–0 || Friendly
 |}
 
 ==Honours==

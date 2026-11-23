@@ -1,4 +1,4 @@
-<!-- 2003–04 Real Madrid CF season | revision 2026-10-05T08:47:21Z -->
+<!-- 2003–04 Real Madrid CF season | revision 2026-11-21T19:04:30Z -->
 {{Short description|Spanish football club season}}
 {{Use dmy dates|date=June 2021}}
 {{Infobox football club season
@@ -103,8 +103,7 @@ In spite of the arduous pre-season, the team got off to a good start. They won t
 
 ==Squad==
 {{football squad start}}
-{{football squad player|no=1|nat=Spain|pos=GK|name=[[Iker Casillas]]}}
-{{football squad player|no=2|nat=Spain|pos=DF|name=[[Míchel Salgado]]}}
+{{football squad player|no=1|nat=Spain|pos=GK|name=[[Iker Casillas]]}}{{football squad player|no=2|nat=Spain|pos=DF|name=[[Míchel Salgado]]}}
 {{football squad player|no=3|nat=Brazil|pos=DF|name=[[Roberto Carlos]]}}
 {{football squad player|no=5|nat=France|natvar=1974|pos=MF|name=[[Zinedine Zidane]]}}
 {{football squad player|no=6|nat=Spain|pos=DF|name=[[Iván Helguera]]}}
@@ -128,8 +127,7 @@ In spite of the arduous pre-season, the team got off to a good start. They won t
 {{football squad player|no=33|nat=Spain|pos=MF|name=[[Álvaro Mejía Pérez|Álvaro Mejía]]}}
 {{football squad player|no=34|nat=Spain|pos=DF|name=[[Juanfran (footballer, born 1985)|Juanfran]]}}
 {{football squad player|no=35|nat=Spain|pos=MF|name=[[José Manuel Jurado]]}}
-{{football squad player|no=36|nat=Spain|pos=FW|name=[[Lucas Ribamar]]}}
-{{football squad player|no=37|nat=Spain|pos=MF|name=[[Álex Pérez (footballer, born 1985)|Álex Pérez]]}}
+{{football squad player|nat=|pos=|name=}}{{football squad player|no=37|nat=Spain|pos=MF|name=[[Álex Pérez (footballer, born 1985)|Álex Pérez]]}}
 {{football squad player|no=38|nat=Spain|pos=DF|name=[[Enrique Corrales]]}}
 {{football squad player|no=39|nat=Spain|pos=DF|name=[[Álvaro Arbeloa]]}}
 {{football squad player|no=40|nat=Spain|pos=DF|name=[[Miguel Palencia]]}}
@@ -437,7 +435,7 @@ The team embarked on a summer tour in Asia, for 18 days, to cash in on the world
 |score      = 1–3
 |report     = 
 |team2      = [[Real Madrid CF|Real Madrid]]
-|goals1     = [[Edgar Pacheco|Edgar]] {{goal|78}}
+|goals1     = [[Edgar Pacheco (footballer, born 1977)|Edgar]] {{goal|78}}
 |goals2     = [[Ronaldo (Brazilian footballer)|Ronaldo]] {{goal|12}}<br />[[David Beckham|Beckham]] {{goal|71}}<br />[[Guti (Spanish footballer)|Guti]] {{goal|85}}
 |stadium    = [[La Rosaleda]]|location=[[Málaga]] 
 |attendance = 

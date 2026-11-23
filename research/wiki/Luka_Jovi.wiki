@@ -1,4 +1,4 @@
-<!-- Luka Jović | revision 2026-11-12T08:25:56Z -->
+<!-- Luka Jović | revision 2026-11-21T22:29:33Z -->
 {{Short description |Serbian footballer}}
 {{Distinguish|Jovo Lukić}}
 {{Use dmy dates|date=November 2022}}
@@ -53,7 +53,7 @@
 | goals9 = 8
 | years10 = 2025–
 | clubs10 = [[AEK Athens F.C.|AEK Athens]]
-| caps10 = 38
+| caps10 = 39
 | goals10 = 22
 | national_years1 = 2013–2014
 | national_team1 = [[Serbia national under-17 football team|Serbia U17]]
@@ -69,10 +69,10 @@
 | national_goals3 = 7
 | national_years4 = 2018–
 | national_team4 = [[Serbia national football team|Serbia]]
-| national_caps4 = 56
+| national_caps4 = 57
 | national_goals4 = 12
-| club_update = 8 November 2026
-| national_team_update = 4 October 2026
+| club_update = 21 November 2026
+| national_team_update = 16 November 2026
 }}
 
 '''Luka Jović''' ({{lang-sr-Cyrl|Лука Јовић}}; born 23 December 1997) is a Serbian professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[Super League Greece]] club [[AEK Athens F.C.|AEK Athens]] and the [[Serbia national football team|Serbia national team]].
@@ -154,7 +154,7 @@ Later in June, Jović was included in the [[2018 FIFA World Cup squads#Serbia|fi
 On 20 March 2019, Jović scored his debut goal for the national team in a friendly against [[Germany national football team|Germany]].<ref>{{cite web|url=https://www.bbc.com/sport/football/47644286|title=Germany 1 Serbia 1|date=20 March 2019|work=BBC Sport|access-date=28 March 2019|archive-date=2 April 2019|archive-url=https://web.archive.org/web/20190402222230/https://www.bbc.com/sport/football/47644286|url-status=live}}</ref>
 
 ====2022–24: Second FIFA World Cup and first Euro====
-In November 2022 he was selected in Serbia's squad for the [[2022 FIFA World Cup]] in Qatar.<ref>{{cite web |url=https://fss.rs/en/head-coach-dragan-stojkovic-announces-the-list-of-players-for-the-fifa-world-cup-2022-in-qatar/ |title=Head-coach Dragan Stojković announces the list of players for the FIFA World Cup 2022 in Qatar |publisher=[[Football Association of Serbia]] |date=11 November 2022 |access-date=11 November 2022 |archive-date=23 June 2023 |archive-url=https://web.archive.org/web/20230623001754/https://fss.rs/en/head-coach-dragan-stojkovic-announces-the-list-of-players-for-the-fifa-world-cup-2022-in-qatar/ |url-status=live }}</ref> He played in group stage matches against [[Cameroon national football team|Cameroon]]<ref>{{Cite news|title=World Cup 2022 - Cameroon 3-3 Serbia: Vincent Aboubakar and Eric Maxim Choupo-Moting goals complete stunning comeback|url=https://www.skysports.com/football/cameroon-vs-serbia/report/462988#:~:text=World%20Cup%202022%20%2D%20Cameroon%203,Moting%20goals%20complete%20stunning%20comeback&text=Cameroon%20kept%20alive%20their%20faint,with%20Serbia%20in%20Al%2DWakrah.|website=[[Sky Sports]]|date=28 November 2022|archive-date=30 November 2022|access-date=7 December 2022|archive-url=https://web.archive.org/web/20221130095043/https://www.skysports.com/football/cameroon-vs-serbia/report/462988#:~:text=World%20Cup%202022%20%2D%20Cameroon%203,Moting%20goals%20complete%20stunning%20comeback&text=Cameroon%20kept%20alive%20their%20faint,with%20Serbia%20in%20Al%2DWakrah.|url-status=live}}</ref> and [[Switzerland national football team|Switzerland]].<ref>{{cite news|title=Switzerland advance and Serbia go out as Freuler finish settles stormy contest|url=https://www.theguardian.com/football/2022/dec/02/serbia-switzerland-world-cup-group-g-match-report|newspaper=[[The Guardian]]|location=London|date=2 December 2022|access-date=7 December 2022|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207020716/https://www.theguardian.com/football/2022/dec/02/serbia-switzerland-world-cup-group-g-match-report|url-status=live}}</ref> Serbia finished fourth in the group.<ref>{{Cite news|first=Nicholas|last=Mendola|title=World Cup 2022 Group G: Brazil, Serbia, Cameroon, Switzerland schedule, fixtures, rankings|url=https://soccer.nbcsports.com/2022/12/02/world-cup-2022-group-g-brazil-serbia-cameroon-switzerland-rankings-table-standings/|newspaper=[[NBC Sports]]|location=Lusail|date=2 December 2022|access-date=7 December 2022|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207152152/https://soccer.nbcsports.com/2022/12/02/world-cup-2022-group-g-brazil-serbia-cameroon-switzerland-rankings-table-standings/|url-status=live}}</ref>
+In November 2022 he was selected in Serbia's squad for the [[2022 FIFA World Cup]] in Qatar.<ref>{{cite web |url=https://fss.rs/en/head-coach-dragan-stojkovic-announces-the-list-of-players-for-the-fifa-world-cup-2022-in-qatar/ |title=Head-coach Dragan Stojković announces the list of players for the FIFA World Cup 2022 in Qatar |publisher=[[Football Association of Serbia]] |date=11 November 2022 |access-date=11 November 2022 |archive-date=23 June 2023 |archive-url=https://web.archive.org/web/20230623001754/https://fss.rs/en/head-coach-dragan-stojkovic-announces-the-list-of-players-for-the-fifa-world-cup-2022-in-qatar/ |url-status=live }}</ref> He played in group stage matches against [[Cameroon national football team|Cameroon]]<ref>{{Cite news|title=World Cup 2022 - Cameroon 3-3 Serbia: Vincent Aboubakar and Eric Maxim Choupo-Moting goals complete stunning comeback|url=https://www.skysports.com/football/cameroon-vs-serbia/report/462988#:~:text=World%20Cup%202022%20%2D%20Cameroon%203,Moting%20goals%20complete%20stunning%20comeback&text=Cameroon%20kept%20alive%20their%20faint,with%20Serbia%20in%20Al%2DWakrah.|website=[[Sky Sports]]|date=28 November 2022|archive-date=30 November 2022|access-date=7 December 2022|archive-url=https://web.archive.org/web/20221130095043/https://www.skysports.com/football/cameroon-vs-serbia/report/462988#:~:text=World%20Cup%202022%20%2D%20Cameroon%203,Moting%20goals%20complete%20stunning%20comeback&text=Cameroon%20kept%20alive%20their%20faint,with%20Serbia%20in%20Al%2DWakrah.|url-status=live}}</ref> and [[Switzerland national football team|Switzerland]].<ref>{{cite news|title=Switzerland advance and Serbia go out as Freuler finish settles stormy contest|url=https://www.theguardian.com/football/2022/dec/02/serbia-switzerland-world-cup-group-g-match-report|newspaper=[[The Guardian]]|location=London|date=2 December 2022|access-date=7 December 2022|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207020716/https://www.theguardian.com/football/2022/dec/02/serbia-switzerland-world-cup-group-g-match-report|url-status=live}}</ref> Serbia finished fourth in the group.<ref>{{Cite news|first=Nicholas|last=Mendola|title=World Cup 2022 Group G: Brazil, Serbia, Cameroon, Switzerland schedule, fixtures, rankings|url=https://www.nbcsports.com/soccer/news/world-cup-2022-group-g-brazil-serbia-cameroon-switzerland-rankings-table-standings|newspaper=[[NBC Sports]]|location=Lusail|date=2 December 2022|access-date=7 December 2022|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207152152/https://soccer.nbcsports.com/2022/12/02/world-cup-2022-group-g-brazil-serbia-cameroon-switzerland-rankings-table-standings/|url-status=live}}</ref>
 
 Jović was part of the Serbia squad for [[UEFA Euro 2024]]. In the team's opening match of the tournament against [[England national football team|England]], he came on as a substitute for [[Saša Lukić]] in the 61st minute of the 1–0 loss.<ref>{{Cite web|url=https://www.bbc.com/sport/football/live/cz992dxd4xwt#Line-ups|title=Serbia 0-1 England LIVE: UEFA Euro 2024 - score, updates & reaction|website=BBC Sport|access-date=17 June 2024|archive-date=17 June 2024|archive-url=https://web.archive.org/web/20240617013156/https://www.bbc.com/sport/football/live/cz992dxd4xwt#Line-ups|url-status=live}}</ref> Jović appeared in the second match against [[Slovenia national football team|Slovenia]], where he scored a [[last-minute goal]] that tied the result at 1–1. He also appeared in the third match, against [[Denmark national football team|Denmark]]. Serbia finished fourth in the group.
 
@@ -165,7 +165,7 @@ On 25 February 2019, Jović became a father of a baby boy, David, with his forme
 
 ==Career statistics==
 ===Club===
-{{updated|match played 8 November 2026}}<ref>{{ForaDeJogo|access-date=3 January 2017}}</ref><ref name="Soccerway">{{Soccerway|access-date=15 March 2019}}</ref>
+{{updated|match played 21 November 2026}}<ref>{{ForaDeJogo|access-date=3 January 2017}}</ref><ref name="Soccerway">{{Soccerway|access-date=15 March 2019}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -268,18 +268,18 @@ On 25 February 2019, Jović became a father of a baby boy, David, with his forme
 |29||17||3||0||colspan="2"|—||11{{efn|Appearances in UEFA Conference League}}||4||colspan="2"|—||43||21
 |-
 |[[2026–27 AEK Athens F.C. season|2026–27]]
-|9||5||1||1||colspan="2"|—||6{{efn|name=UCL}}||1||1{{efn|Appearance in [[Greek Super Cup]]}}||1||17||8
+|10||5||1||1||colspan="2"|—||6{{efn|name=UCL}}||1||1{{efn|Appearance in [[Greek Super Cup]]}}||1||18||8
 |-
 !colspan="2"|Total
-!38||22||4||1||colspan="2"|—||17||5||1||1||60||29
+!39||22||4||1||colspan="2"|—||17||5||1||1||61||29
 |-
 !colspan="3"|Career total
-!277!!84!!26!!8!!1!!0!!63!!22!!4!!1!!371!!115
+!278!!84!!26!!8!!1!!0!!63!!22!!4!!1!!372!!115
 |}
 {{notelist}}
 
 ===International===
-{{updated|match played 4 October 2026}}<ref name="Soccerway" /><ref>{{NFT player|access-date=24 November 2018}}</ref>
+{{updated|match played 16 November 2026}}<ref name="Soccerway" /><ref>{{NFT player|access-date=24 November 2018}}</ref>
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by national team and year
@@ -302,9 +302,9 @@ On 25 February 2019, Jović became a father of a baby boy, David, with his forme
 |-
 |2025||8||0
 |-
-|2026||6||1
+|2026||7||1
 |-
-!colspan="2"|Total!!56!!12
+!colspan="2"|Total!!57!!12
 |}
 
 :''Serbia score listed first, score column indicates score after each Jović goal.''<ref>{{cite web|url=https://eu-football.info/_player.php?id=30341|title=Luka Jović stats|website=EU-football.info|access-date=25 February 2020|archive-date=8 October 2020|archive-url=https://web.archive.org/web/20201008085619/https://eu-football.info/_player.php?id=30341|url-status=live}}</ref>
